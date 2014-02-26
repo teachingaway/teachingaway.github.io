@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Example content
+title: Some Posts about Cupcakes and an Unrelated Image
+feature: DaubEnginePatent.png
+
 ---
 
 This blog post shows a few different types of content that's supported and styled with Hyde. Basic typography, images, and code are all supported.
