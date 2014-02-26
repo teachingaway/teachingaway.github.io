@@ -2,7 +2,7 @@
 layout: post
 title: Some Posts about Cupcakes and an Unrelated Image
 image:
-    feature: DaubEnginePatent.png
+    feature: DaubEnginePatent.jpg
 
 ---
 
