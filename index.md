@@ -3,6 +3,9 @@ layout: page
 title: A Nonsense Landing Page
 description: "n00b mangles a Beautiful Jekyll Theme."
 tags: [Jekyll, theme, themes, responsive, blog, minimalism]
+image:
+    feature: DaubEnginePatent.jpg
+
 ---
 
 ## A Header of Some Sort. 
