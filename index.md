@@ -25,3 +25,11 @@ I see you rolled your way into the semis. Dios mio, man. Seamus and me, we're go
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
 {% endfor %}
 </ul>
+
+
+## Page List
+<ul class="post-list">
+{% for page in site.pages limit:10 %} 
+  <li><article><a href="{{ site.url }}{{ page.url }}">{{ page.title }} <span class="entry-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
