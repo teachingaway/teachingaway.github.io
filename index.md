@@ -30,6 +30,10 @@ I see you rolled your way into the semis. Dios mio, man. Seamus and me, we're go
 ## Page List
 <ul class="post-list">
 {% for page in site.pages limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ page.url }}">{{ page.title }} <span class="entry-date"><time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+  <li>
+    <article>
+        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
+    </article>
+    </li>    
 {% endfor %}
 </ul>
