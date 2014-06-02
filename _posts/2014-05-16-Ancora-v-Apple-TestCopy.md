@@ -1,12 +1,12 @@
 ---
 layout: post
-title: Just Testing with Ancora Technology v. Apple
+title:  Testing with Ancora Technology Post
 image:
     feature: DaubEnginePatent.jpg
 
 ---
 
-Test: Ancora Technologies, Inc. v. Apple, Inc.
+## Test: Ancora Technologies, Inc. v. Apple, Inc.
 
 ANCORA TECHNOLOGIES, INC., Plaintiff-Appellant, v. APPLE,
 INC., Defendant-Cross Appellant.
