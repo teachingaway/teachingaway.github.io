@@ -45,6 +45,9 @@ timezone:    America/New_York
 future:      true
 pygments:    true
 markdown:    kramdown
+kramdown: 
+  
+
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
@@ -55,7 +58,12 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   use_coderay: false
-
+  
+  parse_block_html: false
+  parse_span_html: false
+  remove_block_html_tags: true
+  remove_span_html_tags: false
+  
   coderay:
     coderay_line_numbers: 
     coderay_line_numbers_start: 1
