@@ -5,7 +5,7 @@ title: "Test Page 123"
 modified: 2014-06-04 10:39
 tags: [stupid]
 image:
-  feature: 
+  feature: so-simple-sample-image-1.jpg
   credit: 
   creditlink: 
 share: 
