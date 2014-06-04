@@ -26,14 +26,3 @@ I see you rolled your way into the semis. Dios mio, man. Seamus and me, we're go
 {% endfor %}
 </ul>
 
-
-## Page List
-<ul class="post-list">
-{% for page in site.pages limit:10 %} 
-  <li>
-    <article>
-        <a href="{{ site.url }}{{ page.url }}">{{ page.title }}</a>
-    </article>
-    </li>    
-{% endfor %}
-</ul>
