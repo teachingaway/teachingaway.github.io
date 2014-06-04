@@ -9,6 +9,9 @@ image:
 
 ---
 
+## MPEP in Jekyll
+The [MPEP](_pages/index.html) in Jekyll. 
+
 ## A Header of Some Sort. 
 Lebowski ipsum what are you, some kind of sad-assed refugee from the fucking sixties? DO YOU SEE WHAT HAPPENS, LARRY? A MILLION BUCKS FROM FUCKING NEEDY LITTLE URBAN ACHIEVERS! YOU ARE SCUM, MAN! Wal, I lost m'chain of thought here. But—aw hell, I done innerduced him enough.  
 
