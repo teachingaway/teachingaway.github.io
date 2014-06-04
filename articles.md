@@ -17,13 +17,4 @@ image:
 </ul>
 
 
-## A List of Pages
-<ul class="post-list">
-{% for page in site.pages %} 
-  <li><article><a href="{{ site.url }}{{ page.url }}">
-  {{ page.title }} 
-  </a>
-  </article>
-  </li>
-{% endfor %}
-</ul>
+
