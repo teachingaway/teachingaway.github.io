@@ -9,16 +9,19 @@ image:
 
 ---
 
-## MPEP in Jekyll
-The [MPEP](_pages/index.html) in Jekyll. 
+## The [MPEP](_pages/index.html) in Jekyll. 
 
-Lebowski ipsum what are you, some kind of sad-assed refugee from the fucking sixties? DO YOU SEE WHAT HAPPENS, LARRY? A MILLION BUCKS FROM FUCKING NEEDY LITTLE URBAN ACHIEVERS! YOU ARE SCUM, MAN! Wal, I lost m'chain of thought here. But—aw hell, I done innerduced him enough.  
+For example, [Obviousness](_pages/s2141.html), [written description](_pages/s2163.html), and [patentable subject matter](_pages/s2106.html). 
 
-> There's no fucking reason—here's my point, Dude—there's no fucking reason. Stay out of Malibu, deadbeat! Not a bunch of fig-eaters with towels on their heads tryin' to find reverse on a Soviet tank.
+
 
 ### Subhead of More Lebowski filler
 
-I mean I had an M16, Jacko, not an Abrams fucking tank. Thankie… Just one thing, Dude. D'ya have to use s'many cuss words? We've got a man down, Dude. Donny was a good bowler, and a good man. He was… He was one of us. He was a man who loved the outdoors, and bowling, and as a surfer explored the beaches of southern California from Redondo to Calabassos. And he was an avid bowler. And a good friend. He died—he died as so many of his generation, before his time. In your wisdom you took him, Lord. As you took so many bright flowering young men, at Khe San and Lan Doc.
+I mean I had an M16, Jacko, not an Abrams fucking tank. Thankie… Just one thing, Dude. D'ya have to use s'many cuss words? We've got a man down, Dude. 
+
+> There's no fucking reason—here's my point, Dude—there's no fucking reason. Stay out of Malibu, deadbeat! Not a bunch of fig-eaters with towels on their heads tryin' to find reverse on a Soviet tank.
+
+Donny was a good bowler, and a good man. He was… He was one of us. He was a man who loved the outdoors, and bowling, and as a surfer explored the beaches of southern California from Redondo to Calabassos. And he was an avid bowler. And a good friend. He died—he died as so many of his generation, before his time. In your wisdom you took him, Lord. As you took so many bright flowering young men, at Khe San and Lan Doc.
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
