@@ -18,11 +18,11 @@ image:
 **Clients:**  We work for emerging technology ventures and public companies. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. 
 
 <figure class="half">
-	<img src="/images/client1.jpg">
-	<img src="/images/client2.jpg">
-	<img src="/images/client3.jpg">
-	<img src="/images/client4.jpg">
-	<img src="/images/client5.jpg">
+	<img src="/images/client1.png">
+	<img src="/images/client2.png">
+	<img src="/images/client3.png">
+	<img src="/images/client4.png">
+	<img src="/images/client5.png">
 	<figcaption>clients.</figcaption>
 </figure>
 
