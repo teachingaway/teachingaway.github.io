@@ -29,10 +29,12 @@ authors:
     name:           Eric Adler
     avatar:         EricAvatar.jpg
     email:          you@email.com
+    aboutpage:      ericadler
     twitter:        teachingaway 
   vermillion:
     name:           Zeke Vermillion
     avatar:         ZekeAvatar.jpg
+    aboutpage:      zekevermillion
     email:          you@email.com
     twitter:        teachingaway 
 
