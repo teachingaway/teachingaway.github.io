@@ -9,7 +9,10 @@ image:
 
 ---
 
-## We <a href="#securities">raise capital</a>, <a href="#ip">secure patents</a>, <a href="#corporate">structure deals</a> and <a href="#litigation">litigate disputes.
+## Our practice is focused on business and IP counseling. 
+
+We <a href="#securities">raise capital</a>, <a href="#corporate">structure deals</a> and <a href="#litigation">litigate disputes.
+We <a href="#ip">secure patents</a>, and trademarks in the US and internationally. 
 
 
 ## We work for emerging technology ventures and public companies.
