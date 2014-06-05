@@ -53,8 +53,8 @@ links:
     url: /services/
   - title: Articles
     url: /articles/
-  - title: Theme Setup
-    url: /theme-setup/
+  - title: Attorneys
+    url: /attorneys/
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
