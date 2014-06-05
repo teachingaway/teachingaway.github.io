@@ -11,7 +11,7 @@ image:
 ---
 
 
-## Eric Adler
+## Eric Adler 
 
 * Responsive templates. Looking good on mobile, tablet, and desktop.
 * Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
