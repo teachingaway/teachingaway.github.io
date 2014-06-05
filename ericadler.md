@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /about/
+permalink: /ericadler/
 title: About the Jekyll Theme
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
