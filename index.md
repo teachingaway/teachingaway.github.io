@@ -9,9 +9,13 @@ image:
 
 ---
 
-Our practice is focused on business and IP counseling. We work for emerging technology ventures and public companies to structure deals, raise capital and litigate disputes. 
-We secure patents, and trademarks in the US and abroad. 
+*Business Law*  We structure deals, raise capital and litigate disputes. 
 
+*Intellectual Property* We secure patents and trademarks in the US and abroad. 
+
+*Clients*  We work for emerging technology ventures and public companies.
+
+- - - 
 
 ## The [MPEP](_pages/index.html) in Jekyll. 
 
