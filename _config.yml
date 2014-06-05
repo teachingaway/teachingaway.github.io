@@ -23,6 +23,19 @@ owner:
   # For Google Authorship https://plus.google.com/authorship
   google_plus:    
 
+#attempting to add multiple blog authors - 6/5/2014
+Authors:
+  adler:
+    name:           Eric Adler
+    avatar:         EricAvatar.jpg
+    email:          you@email.com
+    twitter:        teachingaway 
+  vermillion:
+    name:           Zeke Vermillion
+    avatar:         ZekeAvatar.jpg
+    email:          you@email.com
+    twitter:        teachingaway 
+
 # Analytics and webmaster tools stuff goes here
 google_analytics:   
 google_verify:      

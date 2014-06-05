@@ -9,11 +9,11 @@ image:
 
 ---
 
-*Business Law*  We structure deals, raise capital and litigate disputes. 
+**Business Law:**  We structure deals, raise capital and litigate disputes. 
 
-*Intellectual Property* We secure patents and trademarks in the US and abroad. 
+**Intellectual Property:** We secure patents and trademarks in the US and abroad. 
 
-*Clients*  We work for emerging technology ventures and public companies.
+**Clients:**  We work for emerging technology ventures and public companies.
 
 - - - 
 
