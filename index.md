@@ -9,8 +9,7 @@ image:
 
 ---
 
-## Technology Lawyers
-We <a href="#securities">raise capital</a>, <a href="#ip">secure patents</a>, and <a href="#corporate">structure deals</a>. Innovative lawyers delivering practical advice.
+## We <a href="#securities">raise capital</a>, <a href="#ip">secure patents</a>, <a href="#corporate">structure deals</a> and <a href="#litigation">litigate disputes.
 
 
 ## We represent public companies, emerging enterprises, and creative professionals.
