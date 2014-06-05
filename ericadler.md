@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 permalink: /about/
 title: About the Jekyll Theme
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]

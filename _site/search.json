@@ -1,0 +1,67 @@
+[
+	
+		{
+		  "title"      : "Introducing Hyde",
+		  "category"   : "",
+		  "url"        : "http://teachingaway.github.io/introducing-hyde/",
+		  "date"       : "2013-12-28 00:00:00 -0500",
+		  "shortdate"  : "December 28, 2013"
+		} ,
+	
+		{
+		  "title"      : "Syntax Highlighting Post",
+		  "category"   : "articles",
+		  "url"        : "http://teachingaway.github.io/articles/code-highlighting-post/",
+		  "date"       : "2013-08-16 00:00:00 -0400",
+		  "shortdate"  : "August 16, 2013"
+		} ,
+	
+		{
+		  "title"      : "Post with Large Feature Image and Text",
+		  "category"   : "articles",
+		  "url"        : "http://teachingaway.github.io/articles/readability-feature-post/",
+		  "date"       : "2013-05-23 00:00:00 -0400",
+		  "shortdate"  : "May 23, 2013"
+		} ,
+	
+		{
+		  "title"      : "A Post with Images",
+		  "category"   : "articles",
+		  "url"        : "http://teachingaway.github.io/articles/sample-post-images/",
+		  "date"       : "2013-05-22 00:00:00 -0400",
+		  "shortdate"  : "May 22, 2013"
+		} ,
+	
+		{
+		  "title"      : "Testing Readability with a Bunch of Text",
+		  "category"   : "articles",
+		  "url"        : "http://teachingaway.github.io/articles/readability-post/",
+		  "date"       : "2012-05-22 00:00:00 -0400",
+		  "shortdate"  : "May 22, 2012"
+		} ,
+	
+		{
+		  "title"      : "Example content",
+		  "category"   : "",
+		  "url"        : "http://teachingaway.github.io/example-content/",
+		  "date"       : "2012-02-07 00:00:00 -0500",
+		  "shortdate"  : "February 07, 2012"
+		} ,
+	
+		{
+		  "title"      : "What&#39;s Jekyll?",
+		  "category"   : "",
+		  "url"        : "http://teachingaway.github.io/whats-jekyll/",
+		  "date"       : "2012-02-06 00:00:00 -0500",
+		  "shortdate"  : "February 06, 2012"
+		} ,
+	
+		{
+		  "title"      : "Sample Post",
+		  "category"   : "articles",
+		  "url"        : "http://teachingaway.github.io/articles/sample-post/",
+		  "date"       : "2011-03-10 00:00:00 -0500",
+		  "shortdate"  : "March 10, 2011"
+		} 
+	
+]

@@ -4,6 +4,7 @@ permalink: /about/
 title: About the Jekyll Theme
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
+author: vermillion
 image:
   feature: so-simple-sample-image-4.jpg
   credit: Michael Rose
