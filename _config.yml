@@ -2,7 +2,7 @@ title:            Teaching Away
 description:      A Jekyll blog template.
 logo:             site-logo.png
 disqus_shortname: teachingaway
-search:           true
+search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
 url:              http://teachingaway.github.io
 
@@ -47,8 +47,6 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: About
-    url: /about/
   - title: Services
     url: /services/
   - title: Articles
