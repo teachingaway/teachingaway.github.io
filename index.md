@@ -23,7 +23,7 @@ image:
 	<img src="/images/client3.png">
 	<img src="/images/client4.png">
 	<img src="/images/client5.png">
-	<figcaption>clients.</figcaption>
+	<img src="/images/client3.png">
 </figure>
 
 - - -  
