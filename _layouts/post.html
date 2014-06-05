@@ -35,7 +35,7 @@
         -->
         
         <!-- Multi-author version added by ELA -->
-        <img src="{{ author.url }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo">
+        <img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo">
          <span class="author vcard">By <span class="fn"><a href="{{ site.url }}/{{ author.aboutpage }}/" title="About {{ author.name }}">{{ author.name }}</a></span></span> 
         
         <span class="entry-date date published"><time datetime="{{ page.date | date_to_xmlschema }}"><i class="icon-calendar-empty"></i> {{ page.date | date: "%B %d, %Y" }}</time></span>
