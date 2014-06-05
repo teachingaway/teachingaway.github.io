@@ -3,10 +3,11 @@ layout: post
 title: "Supreme Court weighs in on Abusive Patent Litigation"
 modified: 2014-06-05 12:13:14 -0400
 tags: [patent litigation, patent trolls]
+author: adler
 image:
-  feature: 
-  credit: 
-  creditlink: 
+  feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
+  credit: Mark Fisher
+  creditlink: www.flickr.com/photos/fischerfotos/7432008582
 comments: 
 share: 
 ---
