@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: "services"
+title: "Business and IP Law Counseling"
 modified: 2014-06-04 20:33
 tags: [business, intellectual property]
 image:
@@ -31,15 +31,15 @@ We litigate IP disputes, secure patents, and counsel clients on trademark, copyr
 
 ### Patents: <em>Defending Research & Development</em>
 
-Our patent practice combines rigorous data analytics with deep patent law experience. We use modern, data-driven models to help clients develop robust, cost-effect patent portfolios. Patent data from <a href="https://judicialstats.com/index.php/patent-examiners">Judicial Stats</a> helps us craft patent applications that are more likely to sail through the Patent Office and return valuable patent rights. 
+Our patent practice combines rigorous data analytics with deep patent law experience.
 
-A carefully structured portfolio helps create lucrative licensing opportunities, venture capital strategies, and powerful tools for disposing with baseless lawsuits.
+A carefully structured portfolio can generate licensing deals, venture capital, and be a powerful tool for disposing with baseless lawsuits.
 
 ### Trademarks: <em>Brand Protection</em>
 
 From identity development, to trademark registration and enforcement, our attorneys work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct  direct clients toward unique and easily defensible identities.
 
-### Copyright: <em>Defending Creative Works</em><
+### Copyright: <em>Defending Creative Works</em>
 
 Copyright law helps creative professionals and software developers protect their art and code. We write <a href="http://www.copyrightcodex.com/">Copyright Codex</a>, a free treatise on copyright law that has been recognized by law schools like Standford and Duke. 
         
