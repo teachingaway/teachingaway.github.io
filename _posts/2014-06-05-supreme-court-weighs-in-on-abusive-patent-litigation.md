@@ -7,7 +7,7 @@ author: adler
 image:
   feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
   credit: Mark Fisher
-  creditlink: www.flickr.com/photos/fischerfotos/7432008582
+  creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
 comments: 
 share: 
 ---
@@ -25,8 +25,6 @@ In a patent lawsuit, a court can make the losing party pay the winner’s attorn
 
 ###The Supreme Court Decision
 The Supreme Court decided that “an ‘exceptional’ case is simply one that stands out from others with respect to the substantive strength of a party’s litigating position (considering both the governing law and the facts of the case) or the unreasonable manner in which the case was litigated. District courts may determine whether a case is ‘exceptional’ in the case-by-case exercise of their discretion, considering the totality of the circumstances.”
-
-<img src="/images/US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg" alt="US Supreme Court - Photo by Mark Fisher - www.flickr.com/photos/fischerfotos/7432008582" />
 
 Under the new standard, attorneys fees can be awarded against a plaintiff with an exceptionally <em>weak case</em>. This could apply to a number of recently filed patent troll lawsuits.
 
