@@ -12,7 +12,7 @@ image:
 ## We <a href="#securities">raise capital</a>, <a href="#ip">secure patents</a>, <a href="#corporate">structure deals</a> and <a href="#litigation">litigate disputes.
 
 
-## We represent public companies, emerging enterprises, and creative professionals.
+## We work for emerging technology ventures and public companies.
 
 <div class="section" id="services">	
     <div id="corporate" class="sub_section">
@@ -52,7 +52,7 @@ image:
 For example, [Obviousness](_pages/s2141.html), [written description](_pages/s2163.html), and [patentable subject matter](_pages/s2106.html). 
 
 
-
+## Blog
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
