@@ -48,12 +48,15 @@ bing_verify:
 # Links to include in top navigation
 # For external links add external: true
 links:
-  - title: Services
-    url: /services/
-  - title: Articles
-    url: /articles/
   - title: Attorneys
     url: /attorneys/
+  - title: Business Law
+    url: /Business-Law/
+  - title: Patent & Trademark
+    url: /Patent-and-Trademark-Law/
+  - title: Articles
+    url: /articles/
+
     external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
