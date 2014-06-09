@@ -53,11 +53,9 @@ links:
   - title: Business Law
     url: /Business-Law/
   - title: Patent & Trademark
-    url: /Patent-and-Trademark-Law/
+    url: /patent-and-trademark/
   - title: Articles
     url: /articles/
-
-    external: true
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
@@ -90,5 +88,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess", "_pages"]
+include: [".htaccess", "_pages", "MPEP"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]

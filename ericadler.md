@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /ericadler/
-title: About the Jekyll Theme
-tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
-modified: 2013-09-13
+title: Eric Adler
+tags: [patent, trademark]
+modified: 2014-06-13
 author: adler
 image:
   feature: so-simple-sample-image-4.jpg
@@ -12,22 +12,20 @@ image:
 ---
 
 
-## Eric Adler 
+Eric builds robust patent portfolios at the intersection of design and technology. He brings user experience and information architecture principals from the digital world into his legal work. Eric's IP expertise helps designers and developers enforce their rights, and he works with the BLIP clinic to provide free defense against patent trolls.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+Eric an advisor to Brooklyn Law School’s technology clinic (BLIP) and sits on the board of the NYC Legal Hackers.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on copyright law.
 
-[^1]: Example: *domain.com/category-name/post-title*
+**Admissions**
+
+New York
+
+Patent Bar
+
+**Education**
+
+JD, Brooklyn Law School
+
+BSME, Tufts University

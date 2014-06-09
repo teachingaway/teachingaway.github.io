@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /zekevermillion/
-title: About the Jekyll Theme
+title: Zeke Vermillion
 tags: [Jekyll, theme, simple, minimal, minimalism, responsive]
 modified: 2013-09-13
 author: vermillion
@@ -12,22 +12,16 @@ image:
 ---
 
 
-## Zeke Vermillion
+Zeke acts as a general corporate legal adviser to entrepreneurial companies and individuals. Recent engagements include capital-raising transactions, employee equity incentive grants, copyright and trademark licensing, business development partnerships, and small business acquisitions. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. He uses his broad experience and industry connections to solve clients' legal problems efficiently.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 9+ and all modern browsers.
-* Minimal embellishments and subtle animations. 
-* Readable typography to make your words shine.
-* Support for large images to call out your favorite posts.
-* Disqus comments if you choose to enable.
-* Simple and clear permalink structure[^1].
-* Tags for [Open Graph](https://developers.facebook.com/docs/opengraph/) and [Twitter Cards](https://dev.twitter.com/docs/cards) for a better social sharing experience.
-* Vanilla [custom 404 page]({{ site.url }}/404.html) to get you started.
-* Stylesheets for Pygments and Coderay [syntax highlighting](http://mmistakes.github.io/articles/so-simple-theme/code-highlighting-post/) to make your code examples look snazzy.
-* Simple search that overlays results based on post title.
-* [Grunt build script]({{ site.url }}/theme-setup/index.html#theme-development) for easier theme development.
-* [Sitemap](https://github.com/mmistakes/so-simple-theme/blob/master/sitemap.xml) for search engines
+**Admissions**
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+New York
 
-[^1]: Example: *domain.com/category-name/post-title*
+**Education**
+
+J.D., New York University Law School
+
+B.A., Columbia College, Columbia University
+
+
