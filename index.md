@@ -10,27 +10,17 @@ image:
 
 ---
 
-Experienced NYC lawyers using digital technology to provide efficient legal services. 
+*Experienced NYC lawyers using digital technology to provide efficient legal services.*
 
+**Business Law:** We structure deals, raise capital and run mergers and acquisitions. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
 
-## Business Law
+**Intellectual Property:** We secure patents and trademarks in the US and abroad. Our patent work includes cryptography, 3D printers, spacesuit components, and medical devices.
 
-We structure deals, raise capital and run mergers and acquisitions. Our lawyers work at the forefront of innovative debt and equity financing, including convertible debt with deferred pricing, crowd-sourced and P2P lending networks, standardized convertible preferred stock terms, and contractual profit-sharing rights. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
-
-
-## Intellectual Property
-
-We secure patents and trademarks in the US and abroad. Our patent work includes cryptography, 3D printers, spacesuit components, and medical devices.
-
-## Litigation
-
-We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, trademark appeals at the USPTO and litigation in federal court. 
+**Litigation:** We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, trademark appeals at the USPTO and litigation in federal court. 
 
 - - - 
 
-## Clients:
-
-We work for emerging technology ventures and public companies. 
+**Clients:** We work for emerging technology ventures and public companies. 
 
 <figure class="half">
 	<img src="/images/client1.png">
