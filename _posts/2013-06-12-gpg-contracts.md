@@ -2,7 +2,7 @@
 layout: post
 title: "GPG Contracts"
 modified: 2014-06-05 12:13:14 -0400
-tags: [patent litigation, patent trolls]
+tags: [cryptography, bitcoin]
 author: vermillion
 image:
   feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
