@@ -34,3 +34,7 @@ Copyright law helps creative professionals and software developers protect their
 We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We contain litigation costs through efficient discovery technology. 
 
 We have successfully handled disputes including trade secret claims, winning trademark appeals at the USPTO, and contract and copyright disputes in federal court.
+
+## The [MPEP](_pages/index.html) in Jekyll. 
+The Manual of Patent Examination Procedure guides US patent examiners in approving and rejecting patents. Its a huge book. A Jekyll-based website is a convient way to read it. 
+Some important sections are [Obviousness](MPEP/s2141.html), [written description](MPEP/s2163.html), and [patentable subject matter](MPEP/s2106.html).

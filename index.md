@@ -52,6 +52,4 @@ We work for emerging technology ventures and public companies.
 </ul>
 
 
-## The [MPEP](_pages/index.html) in Jekyll. 
 
-For example, [Obviousness](_pages/s2141.html), [written description](_pages/s2163.html), and [patentable subject matter](_pages/s2106.html).
