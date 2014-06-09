@@ -7,6 +7,7 @@ modified: 2014-06-04
 image:
     feature: NYC-Cityscape.jpg
 
+
 ---
 
 **Business Law:**  We structure deals, raise capital and litigate disputes. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.

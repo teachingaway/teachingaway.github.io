@@ -121,13 +121,19 @@ figcaption {
 	line-height: 1.3;
 	color: lighten(@text-color, 30);
 	.clearfix();
+	display:none; 
+	@media @small {
+	    display:none;
+	}
 	@media @medium {
+	    display:inherit;
 		max-width: 760px;
 		padding-right: 60px;
 		padding-left: 60px;
 	}
 	@media @large {
-		max-width: 960px;
+	    display:inherit;
+	    max-width: 960px;
 	}
 	a {
 		color: lighten(@text-color, 30);

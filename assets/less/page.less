@@ -3,7 +3,8 @@ body {
 	padding: 0;
 	width: 100%;
 	background-color: @white;
-	border-top: 5px solid @black;
+	// Remove top border of website
+	// border-top: 5px solid @black;
 	@media @medium {
 		.font-rem(20);
 	}
@@ -189,14 +190,18 @@ body {
 .entry-feature-image {
 	// original margin:
 	// margin: 20px 0 0;
-	margin: -75px 0 0;
+	// raised version: margin: -120px 0 0;
+	position:absolute;
+	top: 0;
+	z-index:-100;
 	width: 100%;
 
 	@media @medium {
-		margin-top: -75px;
+		// margin-top: -75px;
+		// margin-top: -175px;
 	}
 	@media @large {
-		margin-top: -145px;
+		// margin-top: -225px;
 	}
 }
 .entry-header {
@@ -218,6 +223,7 @@ body {
 	font-weight: 600;
 	a { color: @text-color; }
 }
+
 span + .entry-title {
 	margin-top: 0;
 }
@@ -228,6 +234,8 @@ span + .entry-title {
 	font-weight: 400;
 	line-height: 1;
 	letter-spacing: -3px;
+	// ela reducing margin-top. 
+	margin-top: 2rem;
 	a {
 		color: @black;
 		text-decoration: underline;
@@ -242,8 +250,9 @@ span + .entry-title {
 	}
 }
 .entry-wrapper {
-	margin: 0 auto 3em;
-	background-color: rgba(255, 255, 255, .8);
+	// margin: 0 auto 3em;
+	margin: 1em auto 3em;
+	background-color: rgba(255, 255, 255, .95);
 	max-width: 440px;
 	padding-right: 20px;
 	padding-left: 20px;
