@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /attorneys/
-title: Team
+title: Professionals
 tags: [attorneys]
 modified: 2014-06-05
 author: adler
@@ -12,7 +12,7 @@ image:
 ---
 
 
-## <a href = "/ericadler/">Eric Adler</a>
+# <a href = "/ericadler/">Eric Adler</a>
 
 Eric builds robust patent portfolios at the intersection of design and technology. He brings user experience and information architecture principals from the digital world into his legal work. Eric's IP expertise helps designers and developers enforce their rights, and he works with the BLIP clinic to provide free defense against patent trolls.
 
@@ -32,8 +32,9 @@ JD, Brooklyn Law School
 
 BSME, Tufts University
 
+- - - 
 
-## <a href = "/zekevermillion/">Zeke Vermillion</a>
+# <a href = "/zekevermillion/">Zeke Vermillion</a>
 
 Zeke acts as a general corporate legal adviser to entrepreneurial companies and individuals. Recent engagements include capital-raising transactions, employee equity incentive grants, copyright and trademark licensing, business development partnerships, and small business acquisitions. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. He uses his broad experience and industry connections to solve clients' legal problems efficiently.
 
@@ -44,10 +45,11 @@ New York
 **Education**
 
 J.D., New York University Law School
-
 B.A., Columbia College, Columbia University
 
-## Jerry Derevyanny
+- - - 
+
+# Jerry Derevyanny
 
 Jerry Derevyanny litigates cases that present challenging or novel issues at the boundary between technology and the law. He also counsels entrepreneurs and companies on strategies for minimizing litigation risk. As a first-generation American, Jerry knows first-hand the challenges of building a successful business from the ground up. He therefore takes a pragmatic, bottom-line-oriented approach to resolving disputes.
 
