@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /patent-and-trademark/
-title: "Business and IP Law Counseling"
+title: "Patent and Trademark Law"
 modified: 2014-06-04 20:33
 tags: [patent, trademark, intellectual property law]
 image:
