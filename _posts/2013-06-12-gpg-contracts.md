@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supreme Court weighs in on Abusive Patent Litigation"
+title: "GPG Contracts"
 modified: 2014-06-05 12:13:14 -0400
 tags: [patent litigation, patent trolls]
 author: vermillion
