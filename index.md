@@ -10,12 +10,12 @@ image:
 
 ---
 
-An established law firm using digital technology to provide efficient legal services. 
+Experienced NYC lawyers using digital technology to provide efficient legal services. 
 
 
 ## Business Law
 
-We structure deals and raise capital. We run mergers and acquisitions efficiently to close deals quickly without sacrificing risk control.  Our lawyers work at the forefront of innovative debt and equity financing, including convertible debt with deferred pricing, crowd-sourced and P2P lending networks, standardized convertible preferred stock terms, and contractual profit-sharing rights. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
+We structure deals, raise capital and run mergers and acquisitions. Our lawyers work at the forefront of innovative debt and equity financing, including convertible debt with deferred pricing, crowd-sourced and P2P lending networks, standardized convertible preferred stock terms, and contractual profit-sharing rights. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
 
 
 ## Intellectual Property
@@ -24,7 +24,7 @@ We secure patents and trademarks in the US and abroad. Our patent work includes 
 
 ## Litigation
 
-We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We have successfully handled trade secret disputes, won trademark appeals at the USPTO, and contract and copyright disputes in federal court. 
+We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, trademark appeals at the USPTO and litigation in federal court. 
 
 - - - 
 
