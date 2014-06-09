@@ -24,7 +24,8 @@ We secure patents and trademarks in the US and abroad. Our patent work includes 
 
 ## Litigation
 
-We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We have successfully handled trade secret disputes, won trademark appeals at the USPTO, and contract and copyright disputes in federal court.
+We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We have successfully handled trade secret disputes, won trademark appeals at the USPTO, and contract and copyright disputes in federal court. 
+
 - - - 
 
 ## Clients:
