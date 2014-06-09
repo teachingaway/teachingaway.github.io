@@ -15,7 +15,7 @@ share:
 
 
 Decentralized, cryptographically secured networks have only recently emerged from the obscurity of the deep web and Neal Stephenson novels. Everyone is excited about payment applications b/c of bitcoin’s early financial success, and the potential for similar technologies in the payments industry. But decentralized crypto networks have many implications in the way people transact on a fundamental, human level.
-<img style="float:right;" src="../Lock-GPG.square.png" width="202" height="202" />
+<img style="float:right;" src="../images/Lock-GPG.square.png" width="202" height="202" />
 For contracts governing P2P transactions, there is no trusted arbiter. There is no middleman to rescind a fraudulent charge. Cryptographically secured contracts are not readily susceptible to enforcement at the end of a gun.
 
 Reputation thus occupies its rightful place as the most valuable currency in the crypto-business world. Transactions take place on a more <a href="http://en.wikipedia.org/wiki/Voluntaryism" target="_blank">voluntary </a> basis. Parties honor commitments out of reputational interest, not out of fear that a court will force compliance or award damages. And parties have reason to think twice before using momentary positional advantage to negotiate one-sided terms. In a way, this represents a return to fundamentals of relationship-based deals.
