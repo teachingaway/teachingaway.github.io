@@ -35,6 +35,6 @@ We litigate complex contract and intellectual property disputes. We defend techn
 
 We have successfully handled disputes including trade secret claims, winning trademark appeals at the USPTO, and contract and copyright disputes in federal court.
 
-## The [MPEP](_pages/index.html) in Jekyll. 
+## The [MPEP](../MPEP/index.html) in Jekyll. 
 The Manual of Patent Examination Procedure guides US patent examiners in approving and rejecting patents. Its a huge book. A Jekyll-based website is a convient way to read it. 
-Some important sections are [Obviousness](MPEP/s2141.html), [written description](MPEP/s2163.html), and [patentable subject matter](MPEP/s2106.html).
+Some important sections are [Obviousness](../MPEP/s2141.html), [written description](../MPEP/s2163.html), and [patentable subject matter](../MPEP/s2106.html).
