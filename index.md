@@ -10,13 +10,26 @@ image:
 
 ---
 
-**Business Law:**  We structure deals, raise capital and litigate disputes. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+An established law firm using digital technology to provide efficient legal services. 
 
-**Intellectual Property:** We secure patents and trademarks in the US and abroad. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
 
+## Business Law
+
+We structure deals and raise capital. We run mergers and acquisitions efficiently to close deals quickly without sacrificing risk control.  Our lawyers work at the forefront of innovative debt and equity financing, including convertible debt with deferred pricing, crowd-sourced and P2P lending networks, standardized convertible preferred stock terms, and contractual profit-sharing rights. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
+
+
+## Intellectual Property
+
+We secure patents and trademarks in the US and abroad. Our patent work includes cryptography, 3D printers, spacesuit components, and medical devices.
+
+## Litigation
+
+We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We have successfully handled trade secret disputes, won trademark appeals at the USPTO, and contract and copyright disputes in federal court.
 - - - 
 
-**Clients:**  We work for emerging technology ventures and public companies. Vivamus sagittis lacus vel augue laoreet rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. 
+## Clients:
+
+We work for emerging technology ventures and public companies. 
 
 <figure class="half">
 	<img src="/images/client1.png">
