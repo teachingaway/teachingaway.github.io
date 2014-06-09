@@ -20,17 +20,15 @@ Eric an advisor to Brooklyn Law School’s technology clinic (BLIP) and sits on 
 
 Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on copyright law.
 
-**Admissions**
+*Admissions*
 
-New York
+* New York
+* Patent Bar
 
-Patent Bar
+*Education*
 
-**Education**
-
-JD, Brooklyn Law School
-
-BSME, Tufts University
+* JD, Brooklyn Law School
+* BSME, Tufts University
 
 - - - 
 
@@ -38,14 +36,14 @@ BSME, Tufts University
 
 Zeke acts as a general corporate legal adviser to entrepreneurial companies and individuals. Recent engagements include capital-raising transactions, employee equity incentive grants, copyright and trademark licensing, business development partnerships, and small business acquisitions. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. He uses his broad experience and industry connections to solve clients' legal problems efficiently.
 
-**Admissions**
+*Admissions*
 
-New York
+* New York
 
-**Education**
+*Education*
 
-J.D., New York University Law School
-B.A., Columbia College, Columbia University
+* J.D., New York University Law School
+* B.A., Columbia College, Columbia University
 
 - - - 
 
@@ -57,20 +55,15 @@ Prior to joining Adler Vermillion & Skocilich LLP, Jerry practiced complex comme
 
 While currently practicing out of the New York office, Jerry is originally from the Seattle area and is frequent visitor in the Seattle office. Jerry also speaks fluent Russian.
 
-**Admissions**
+*Admissions*
 
-New York State 
+* New York State 
+* Southern District of New York 
+* Washington State 
+* Western District of Washington
 
-Southern District of New York 
+*Education*
 
-Washington State 
-
-Western District of Washington
-
-
-**Education**
-
-J.D., Boston University
-
-B.A., University of Washington
+* J.D., Boston University
+* B.A., University of Washington
 
