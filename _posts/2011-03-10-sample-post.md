@@ -7,9 +7,9 @@ category: articles
 author: adler
 tags: [sample post]
 image:
-  feature: so-simple-sample-image-1.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: ny-court-flickr.com-kolargol-cc.jpg
+  credit: Zbyszek Zolkiewski
+  creditlink: https://www.flickr.com/kolargol
 comments: true
 share: true
 ---
