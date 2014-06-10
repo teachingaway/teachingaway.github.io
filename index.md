@@ -1,7 +1,7 @@
 ---
 layout: page
-title: NYC Technology Lawyers
-description: "Innovative lawyers delivering practical advice in Dumbo Brooklyn, and NYC."
+title: 
+description: "Innovative lawyers delivering practical advice | Brooklyn | NYC"
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
 image:
@@ -10,13 +10,19 @@ image:
 
 ---
 
-*Experienced NYC lawyers using digital technology to provide efficient legal services.*
+# Lawyers for Technology and Design Innovators.
 
-**Business Law:** We structure deals, raise capital and run mergers and acquisitions. We counsel clients on equity incentive plans that attract skilled employees in competitive fields. 
+We provide legal advice and representation to clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
 
-**Intellectual Property:** We secure patents and trademarks in the US and abroad. Our patent work includes cryptography, 3D printers, spacesuit components, and medical devices.
+Our professionals possess a combination of intellectual property and commercial expertise that is rare to find in a small firm. We look for engagements that leverage our full capabilities in service of our clients’ interests. Each client and engagement is unique.
 
-**Litigation:** We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, trademark appeals at the USPTO and litigation in federal court. 
+- - -  
+
+<ul class="post-list">
+{% for post in site.posts limit:5 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
 
 - - - 
 
@@ -30,16 +36,4 @@ image:
 	<img src="/images/client5.png">
 	<img src="/images/client3.png">
 </figure>
-
-- - -  
-
-
-## Blog
-<ul class="post-list">
-{% for post in site.posts limit:5 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
-
-
 

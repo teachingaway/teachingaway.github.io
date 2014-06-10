@@ -50,10 +50,8 @@ bing_verify:
 links:
   - title: Attorneys
     url: /attorneys/
-  - title: Business Law
-    url: /business-law/
-  - title: Patent & Trademark
-    url: /patent-and-trademark/
+  - title: Services
+    url: /services/
   - title: Articles
     url: /articles/
 
