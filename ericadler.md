@@ -6,9 +6,9 @@ tags: [patent, trademark]
 modified: 2014-06-13
 author: adler
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: engine-patent-fig-1.png
+  credit: 
+  creditlink: 
 ---
 
 
