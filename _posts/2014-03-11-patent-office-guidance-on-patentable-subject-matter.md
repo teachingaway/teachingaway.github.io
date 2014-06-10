@@ -54,6 +54,7 @@ After determining what applicant invented and establishing the broadest reasonab
 <img src="../images/patentable-subject-matter-flowchart.png" />
 
 <h3>1. Question 1: Is the claimed invention directed to one of the four statutory patent-eligible subject matter categories: process, machine, manufacture, or composition of matter? <sup>1</sup></h3>
+
 <p style="padding-left: 30px;">[footnote 1. A summary of the four statutory subject matter categories, as they have been interpreted by the courts, is provided in MPEP § 2106(I). As a reminder, claims to humans per se are not directed to a statutory subject matter category, pursuant to Section 33(a) of the America Invents Act.]</p>
 If no, the claim is not eligible for patent protection and should be rejected under 35 U.S.C. 101, for at least this reason. See MPEP § 706.03 for a description of the appropriate form paragraphs to use in rejecting the claim.
 
@@ -64,6 +65,7 @@ If no, the claim is patent-eligible, and the analysis is complete.
 If yes, or if it is unclear whether the claim recites or involves a judicial exception, proceed to Question 3.
 
 Judicial exceptions include abstract ideas, laws of nature/natural principles, natural phenomena, and natural products.<sup>2</sup>
+
 <p style="padding-left: 30px;">[footnote 2. As described in MPEP § 2106, in addition to the terms laws of nature, physical phenomena, and abstract ideas, judicial exceptions have been described using various other terms, including natural phenomena, products of nature, natural products, naturally occurring things, scientific principles, systems that depend on human intelligence alone, disembodied concepts, mental processes and disembodied mathematical algorithms and formulas, for example. The exceptions reflect the judicial view that these fundamental tools of scientific and technological work are not patentable.]</p>
 In particular, claimed subject matter that must be analyzed under Question 3 to determine whether it is a natural product includes, but is not limited to: chemicals derived from natural sources (e.g., antibiotics, fats, oils, petroleum derivatives, resins, toxins, etc.); foods (e.g., fruits, grains, meats and vegetables); metals and metallic compounds that exist in nature; minerals; natural materials (e.g., rocks, sands, soils); nucleic acids; organisms (e.g., bacteria, plants and multicellular animals); proteins and peptides; and other substances found in or derived from nature.
 
@@ -170,7 +172,9 @@ Claim 1. Purified amazonic acid.
 Claim 2. Purified 5-methyl amazonic acid.
 
 Claim 3. A method of treating colon cancer, comprising:
+
 <p style="padding-left: 30px;">administering a daily dose of purified amazonic acid to a patient suffering from colon cancer for a period of time from 10 days to 20 days,</p>
+
 <p style="padding-left: 30px;">wherein said daily dose comprises about 0.75 to about 1.25 teaspoons of amazonic acid.</p>
 <strong>Background</strong>: The Amazonian cherry tree is a naturally occurring tree that grows wild in the Amazon basin region of Brazil. The leaves of the Amazonian cherry tree contain a chemical that is useful in treating breast cancer, however, to be effective, a patient must eat 30 pounds of the leaves per day for at least four weeks. Many have tried and failed to isolate the cancer-fighting chemical from the leaves. Applicant has successfully purified the cancer-fighting chemical from the leaves and has named it amazonic acid. The purified amazonic acid is structurally identical to the amazonic acid in the leaves, but a patient only needs to eat one teaspoon of the purified acid to get the same effects as 30 pounds of the leaves. Applicant has discovered that amazonic acid is useful to treat colon cancer as well as breast cancer, and applicant has also created a derivative of amazonic acid in the laboratory (called 5-methyl amazonic acid), which is structurally different from amazonic acid and is functionally different, because it stimulates the growth of hair in addition to treating cancer.
 
@@ -299,17 +303,23 @@ The above-claimed inoculant was held to be ineligible subject matter in <em>Funk
 Discovery of the fact that certain strains of each species of these bacteria can be mixed without harmful effect to the properties of either is a discovery of their qualities of non-inhibition. It is no more than the discovery of some of the handiwork of nature and hence is not patentable. The aggregation of select strains of the several species into one product is an application of that newly-discovered natural principle. But however ingenious the discovery of that natural principle may have been, the application of it is hardly more than an advance in the packaging of the inoculants. Each of the species of root-nodule bacteria contained in the package infects the same group of leguminous plants which it always infected. No species acquires a different use. The combination of species produces no new bacteria, no change in the six species of bacteria, and no enlargement of the range of their utility. Each species has the same effect it always had. The bacteria perform in their natural way. Their use in combination does not improve in any way their natural functioning. They serve the ends nature originally provided and act quite independently of any effort of the patentee.
 
 Recently, the Supreme Court looked to this claim as an example of ineligible subject matter, stating that “the composition was not patent eligible because the patent holder did not alter the bacteria in any way.” <em>Myriad</em>, 133 S. Ct. at 2117.
-<div>
+
 <h3>E. Composition vs. Method Claims, Each Reciting Two Natural Products</h3>
-</div>
+
 Claim 1. A pair of primers, the first primer having the sequence of SEQ ID NO: 1 and the second primer having the sequence of SEQ ID NO: 2.
 
 Claim 2. A method of amplifying a target DNA sequence comprising:
+
 <p style="padding-left: 30px;">providing a reaction mixture comprising a double-stranded target DNA, the pair of primers of claim 1, wherein:</p>
+
 <p style="padding-left: 30px;">the first primer is complementary to a sequence on the first strand of the target DNA and the second primer is complementary to a sequence on the second strand of the target DNA, Taq polymerase, and a plurality of free nucleotides comprising adenine, thymine, cytosine and guanine;</p>
+
 <p style="padding-left: 30px;">heating the reaction mixture to a first predetermined temperature for a first predetermined time to separate the strands of the target DNA from each other;</p>
+
 <p style="padding-left: 30px;">cooling the reaction mixture to a second predetermined temperature for a second predetermined time under conditions to allow the first and second primers to hybridize with their complementary sequences on the first and second strands of the target DNA, and to allow the Taq polymerase to extend the primers; and</p>
+
 <p style="padding-left: 30px;">repeating steps (b) and (c) at least 20 times.</p>
+
 <strong>Analysis of Claim 1:</strong> The answers to Questions 1-2 in the above analysis are both “yes”, because the claim is to a composition of matter, and because the claim recites judicial exceptions, i.e., SEQ ID NOs: 1 and 2 are naturally occurring DNA sequences found on a human chromosome. The answer to Question 3 is “no”, because the claim as a whole does not recite something significantly different than the natural products, e.g., the claim does not include elements in addition to the judicial exceptions that add significantly more to the judicial exceptions, and also does not include features that demonstrate that the recited products are markedly different from what exists in nature.
 
 <strong>With respect to factors weighing toward eligibility:</strong>
@@ -355,14 +365,19 @@ Factor k) is not satisfied, because the heating and cooling steps involve direct
 Factor l) is not satisfied. The heating and cooling steps involve direct manipulation of the natural products and limit the claim scope to a particular use/application of the natural products (amplifying this particular target DNA).
 
 In sum, when the relevant factors are analyzed, they weigh toward significantly different. Accordingly, the claim qualifies as eligible subject matter.
-<div>
+
 <h3>F. Process Claim Involving A Natural Principle And Reciting Natural Products</h3>
-</div>
+
 Claim: A method for determining whether a human patient has degenerative disease X, comprising:
+
 <p style="padding-left: 30px;">obtaining a blood sample from a human patient;</p>
+
 <p style="padding-left: 30px;">determining whether misfolded protein ABC is present in the blood sample, wherein said determining is</p>
+
 <p style="padding-left: 60px;">performed by contacting the blood sample with antibody XYZ and detecting whether binding occurs between misfolded protein ABC and antibody XYZ using flow cytometry, wherein antibody XYZ binds to an epitope that is present on misfolded protein ABC but not on normal protein ABC; and</p>
+
 <p style="padding-left: 60px;">diagnosing the patient as having degenerative disease X if misfolded protein ABC was determined to be present in the blood sample.</p>
+
 <b>Analysis</b>: The answers to Questions 1-2 in the above analysis are both “yes”, because the claim is to a process, and because the claim recites judicial exceptions, e.g., the correlation between the presence of misfolded protein ABC in blood and degenerative disease X is a natural principle, and the blood and protein ABC are both natural products. A review of the specification indicates that antibody XYZ does not exist in nature, and is not purely conventional or routine in the art (it was newly created by the inventors).
 
 The answer to Question 3 is also “yes”, because the claim as a whole recites something significantly different than the natural principle, i.e., the claim includes elements in addition to the judicial exceptions (e.g., contacting the blood sample with antibody XYZ, and detecting binding using flow cytometry) that amount to a practical application of the natural principle.
@@ -396,12 +411,17 @@ In sum, when the relevant factors are analyzed, they weigh toward significantly 
 <h3>G. Process Claims Involving a Natural Principle</h3>
 </div>
 Claim 1. A method for treating a mood disorder in a human patient, the mood disorder associated with neuronal activity in the patient’s brain, comprising:
+
 <p style="padding-left: 30px;">exposing the patient to sunlight, wherein the exposure to sunlight alters the neuronal activity in the patient’s brain and mitigates the mood disorder.</p>
 Claim 2. A method for treating a mood disorder in a human patient, the mood disorder associated with neuronal activity in the patient’s brain, comprising:
+
 <p style="padding-left: 30px;">exposing the patient to a synthetic source of white light, wherein the exposure to white light alters the neuronal activity in the patient’s brain and mitigates the mood disorder.</p>
 Claim 3. A method for treating a mood disorder in a human patient, the mood disorder associated with neuronal activity in the patient’s brain, comprising:
+
 <p style="padding-left: 30px;">providing a light source that emits white light;</p>
+
 <p style="padding-left: 30px;">filtering the ultra-violet (UV) rays from the white light; and</p>
+
 <p style="padding-left: 30px;">positioning the patient adjacent to the light source at a distance between 30-60 cm for a predetermined period ranging from 30-60 minutes to expose photosensitive regions of the patient’s brain to the filtered white light, wherein the exposure to the filtered white light alters the neuronal activity in the patient’s brain and mitigates the mood disorder.</p>
 <strong>Background</strong>: It is a well-documented natural principle that white light affects a person’s mood. Exposure to white light changes neuronal activity in the brain, which changes a person’s mood. Sunlight is a natural source of white light. It is well-understood, purely conventional and routine in the art of treating mood disorders to expose a person to white light in order to alter their neuronal activity and mitigate mood disorders.
 
@@ -504,9 +524,9 @@ In sum, when the relevant factors are analyzed, they weigh toward significantly 
 <strong>Analysis</strong>: The answers to Questions 1-2 in the above analysis are both “yes”, because the claim is to a process, and because the claim recites judicial exceptions, e.g., the claimed comparing (the only step in the claim) is an abstract idea, and the recited “wild-type BRCA2 nucleotide sequence” is a natural product. Because the claim recites an abstract idea, Question 3 should be analyzed using only the existing guidance in MPEP § 2106(II). Note that MPEP § 2106(II) includes guidance about how the practical application of another judicial exception (such as a law of nature) affects the eligibility analysis of a claim that recites an abstract idea, e.g., in MPEP § 2106(II)(B)(1)(c). Thus, even though the claim recites both an abstract idea and a natural product, the analysis in MPEP § 2106(II) will control whether the claim qualifies as eligible subject matter.
 
 This particular claim (claim 1 of U.S. Patent No. 6,033,857) was held to be ineligible subject matter in <em>Association for Molecular Pathology v. Myriad Genetics, Inc</em>., 689 F.3d 1303, 1333-35 (Fed. Cir. 2012), aff’d in part and rev’d in part on other grounds, 569 U.S. __, 133 S. Ct. 2107, 2116 (2013), because the court held that the claimed comparing was an abstract mental process.
-<div>
+
 <h2>IV. Form Paragraph</h2>
-</div>
+
 Revised form paragraph 7.05.13 should be used when rejecting claims (machine, composition, manufacture, or process claims) that recite or involve a law of nature/natural principle, natural phenomenon, or natural product for lack of subject matter eligibility under 35 U.S.C. 101. This form paragraph must be preceded by form paragraphs 7.04 and 7.05.
 
 ¶ 7.05.13 Rejection, 35 U.S.C. 101, Non-Statutory (Law of Nature or Natural Phenomenon) [REVISED]
