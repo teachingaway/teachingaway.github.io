@@ -21,13 +21,13 @@ Eric practices patent and trademark law. He works with the Brooklyn Law school t
 New York State<br>
 Patent Bar
 </p>
-<p class="sixcols">
+<p class="sixcols clearfix">
 <em>Education</em> <br>
 BSME, Tufts University <br>
 JD, Brooklyn Law School  <br>
 </p>
 
---- 
+- - - 
 
 # &nbsp;
 
@@ -38,19 +38,19 @@ JD, Brooklyn Law School  <br>
 Zeke practices corporate law. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. 
 
 
-<p class="sixcols .first">
+<p class="sixcols first">
 <em>Admissions</em><br>
 New York State<br>
 </p>
 
 
-<p class="sixcols">
+<p class="sixcols clearfix">
 <em>Education</em> <br>
 B.A., Columbia College, Columbia University<br>
 J.D., New York University Law School<br>
 </p>
 
-
+- - - 
 
 # &nbsp;
 
@@ -68,7 +68,7 @@ Western District of Washington<br>
 </p>
 
 
-<p class="sixcols">
+<p class="sixcols clearfix">
 <em>Education</em> <br>
 B.A., University of Washington<br>
 J.D., Boston University<br>
