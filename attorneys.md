@@ -20,14 +20,14 @@ Eric practices patent and trademark law. He works with the Brooklyn Law school t
 <em>Admissions</em><br>
 New York State<br>
 Patent Bar
-</div>
+</p>
 <p class="sixcols">
 <em>Education</em> <br>
 BSME, Tufts University <br>
 JD, Brooklyn Law School  <br>
 </p>
 
-
+--- 
 
 # &nbsp;
 # <a href = "/zekevermillion/">Zeke Vermillion</a>
