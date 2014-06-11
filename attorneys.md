@@ -12,12 +12,12 @@ image:
 ---
 
 <div class='twocols'>
-<img src="/../images/ZekeAvatar.jpg>
+<img src="/../images/ZekeAvatar.jpg">
 <p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.</p>
 </div>
 
 <div class='twocols'>
-<img src="/../images/ZekeAvatar.jpg>
+<img src="/../images/ZekeAvatar.jpg">
 <p>
 Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
 
@@ -25,7 +25,7 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 </div>
 
 <div class='twocols'>
-<img src="/../images/ZekeAvatar.jpg>
+<img src="/../images/ZekeAvatar.jpg">
 <p>
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
 
