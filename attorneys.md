@@ -14,7 +14,7 @@ image:
 <div class='fourcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="avatar-photo">
-<strong>Eric</strong>
+<p><strong>Eric Adler</strong></p>
 </a>
 <p>Patent and trademark law. Admitted in New York and at the US Patent and Trademark Office.</p>
 </div>
@@ -22,7 +22,7 @@ image:
 <div class='fourcols'>
 <a href="/../zekevermillion">
 <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-<strong>Zeke</strong>
+<p><strong>Ezekiel Vermillion</strong></p>
 </a>
 <p>
 Business Law. Admitted in New York.
@@ -32,7 +32,7 @@ Business Law. Admitted in New York.
 <div class='fourcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="avatar-photo">
-<strong>Jerry</strong>
+<p><strong>Gerald Derevyanny</strong></p>
 </a>
 <p>
 Litigation. Admitted in New York and Washington.
@@ -50,7 +50,7 @@ Litigation. Admitted in New York and Washington.
 <div class='sixcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="avatar-photo">
-<strong>Eric Adler</strong>
+<p><strong>Eric Adler</strong></p>
 </a>
 <p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.</p>
 </div>
@@ -58,7 +58,7 @@ Litigation. Admitted in New York and Washington.
 <div class='sixcols'>
 <a href="/../zekevermillion">
 <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-<strong>Ezekiel Vermillion</strong>
+<p><strong>Ezekiel Vermillion</strong></p>
 </a>
 <p>
 Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
@@ -68,7 +68,7 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 <div class='sixcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="avatar-photo">
-<strong>Gerald Derevyanny</strong>
+<p><strong>Gerald Derevyanny</strong></p>
 </a>
 <p>
 Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
@@ -77,21 +77,3 @@ Jerry litigates cases that present challenging or novel issues at the boundary b
 
 </div>
 
-- - - 
-
-# <a href = "/ericadler/">Eric Adler</a>
-
-Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
-
-
-- - - 
-
-# <a href = "/zekevermillion/">Ezekiel Vermillion</a>
-
-Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
-
-- - - 
-
-# Jerry Derevyanny
-
-Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
