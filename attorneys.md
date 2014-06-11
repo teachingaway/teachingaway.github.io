@@ -16,15 +16,18 @@ image:
 
 Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, and sits on the board of the NYC Legal Hackers. Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
 
-*Admissions*
+<p class="sixcols">
+<strong>Admissions</strong><br>
+New York State<br>
+Patent Bar <br>
+</p>
 
-* New York
-* Patent Bar
+<p class="sixcols">
+<strong>Education</strong> <br>
+BSME, Tufts University <br>
+JD, Brooklyn Law School  <br>
+</p>
 
-*Education*
-
-* JD, Brooklyn Law School
-* BSME, Tufts University
 
 - - - 
 
@@ -32,14 +35,18 @@ Eric practices patent and trademark law. He works with the Brooklyn Law school t
 
 Zeke practices corporate law. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. 
 
-*Admissions*
+<p class="sixcols">
+<strong>Admissions</strong><br>
+New York State<br>
+</p>
 
-* New York
+<p class="sixcols">
+<strong>Education</strong> <br>
+B.A., Columbia College, Columbia University<br>
+J.D., New York University Law School<br>
+</p>
 
-*Education*
 
-* J.D., New York University Law School
-* B.A., Columbia College, Columbia University
 
 - - - 
 
@@ -47,15 +54,15 @@ Zeke practices corporate law. Zeke was previously at White & Case, where he work
 
 Jerry Derevyanny litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP.
 
-*Admissions*
+<p class="sixcols">
+<strong>Admissions</strong><br>
+New York State<br>
+Washington State<br>
+Western District of Washington<br>
+</p>
 
-* New York State 
-* Southern District of New York 
-* Washington State 
-* Western District of Washington
-
-*Education*
-
-* J.D., Boston University
-* B.A., University of Washington
-
+<p class="sixcols">
+<strong>Education</strong> <br>
+B.A., University of Washington<br>
+J.D., Boston University<br>
+</p>

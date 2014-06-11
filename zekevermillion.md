@@ -14,14 +14,13 @@ image:
 
 Zeke acts as a general corporate legal adviser to entrepreneurial companies and individuals. Recent engagements include capital-raising transactions, employee equity incentive grants, copyright and trademark licensing, business development partnerships, and small business acquisitions. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. He uses his broad experience and industry connections to solve clients' legal problems efficiently.
 
-**Admissions**
+<p class="sixcols">
+<strong>Admissions</strong><br>
+New York State<br>
+</p>
 
-New York
-
-**Education**
-
-J.D., New York University Law School
-
-B.A., Columbia College, Columbia University
-
-
+<p class="sixcols">
+<strong>Education</strong> <br>
+B.A., Columbia College, Columbia University<br>
+J.D., New York University Law School<br>
+</p>
