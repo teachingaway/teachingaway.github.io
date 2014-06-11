@@ -29,7 +29,7 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 </p>
 </div>
 
-<div class='fourcols'>
+<div class='fourcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="author-photo">
 <h3>Jerry</h3>
