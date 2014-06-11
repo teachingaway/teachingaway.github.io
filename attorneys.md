@@ -14,62 +14,17 @@ image:
 
 # <a href = "/ericadler/">Eric Adler</a>
 
-Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, and sits on the board of the NYC Legal Hackers. Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
+Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
 
-<p class="sixcols first">
-<em>Admissions</em><br>
-New York State<br>
-Patent Bar
-</p>
-<p class="sixcols clearfix">
-<em>Education</em> <br>
-BSME, Tufts University <br>
-JD, Brooklyn Law School  <br>
-</p>
 
 - - - 
 
-# &nbsp;
+# <a href = "/zekevermillion/">Ezekiel Vermillion</a>
 
-
-# <a href = "/zekevermillion/">Zeke Vermillion</a>
-
-
-Zeke practices corporate law. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. 
-
-
-<p class="sixcols first">
-<em>Admissions</em><br>
-New York State<br>
-</p>
-
-
-<p class="sixcols clearfix">
-<em>Education</em> <br>
-B.A., Columbia College, Columbia University<br>
-J.D., New York University Law School<br>
-</p>
+Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
 
 - - - 
-
-# &nbsp;
-
 
 # Jerry Derevyanny
 
-Jerry Derevyanny litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP.
-
-
-<p class="sixcols first">
-<em>Admissions</em><br>
-New York State<br>
-Washington State<br>
-Western District of Washington<br>
-</p>
-
-
-<p class="sixcols clearfix">
-<em>Education</em> <br>
-B.A., University of Washington<br>
-J.D., Boston University<br>
-</p>
+Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
