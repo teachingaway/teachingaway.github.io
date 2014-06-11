@@ -18,15 +18,15 @@ Prior to joining Adler Vermillion & Skocilich LLP, Jerry practiced complex comme
 
 While currently practicing out of the New York office, Jerry is originally from the Seattle area and is frequent visitor in the Seattle office. Jerry also speaks fluent Russian.
 
-<p class="sixcols">
+<div class="sixcols">
 <strong>Admissions</strong><br>
 New York State<br>
 Washington State<br>
 Western District of Washington<br>
-</p>
+</div>
 
-<p class="sixcols">
+<div class="sixcols">
 <strong>Education</strong> <br>
 B.A., University of Washington<br>
 J.D., Boston University<br>
-</p>
+</div>

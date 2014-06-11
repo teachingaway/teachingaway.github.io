@@ -22,14 +22,14 @@ Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on co
 
 - - - 
 
-<p class="sixcols">
+<div class="sixcols">
 <p><strong>Admissions</strong></p>
 <p>New York </p>
 <p>Patent Bar </p>
-</p>
+</div>
 
-<p class="sixcols">
+<div class="sixcols">
 <p><strong>Education</strong> <br></p>
 <p>BSME, Tufts University</p>
 <p>JD, Brooklyn Law School </p> 
-</p>
+</div>
