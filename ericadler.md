@@ -21,7 +21,14 @@ Eric an advisor to Brooklyn Law School’s technology clinic (BLIP) and sits on 
 Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on copyright law.
 
 - - - 
+<p class="sixcols">
+<strong>Admissions</strong><br>
+New York <br>
+Patent Bar <br>
+</p>
 
-| *Admissions* &nbsp; &nbsp; &nbsp; &nbsp; | *Education* | 
-|  New York | JD, Brooklyn Law School | 
-| Patent Bar | BSME, Tufts University | 
+<p class="sixcols">
+<strong>Education</strong> <br>
+BSME, Tufts University <br>
+JD, Brooklyn Law School  <br>
+</p>

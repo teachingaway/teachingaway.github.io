@@ -2,7 +2,7 @@
 // Common Values would be 12, 16 or 24
 @width: 100%;
 @def_grid: 12;
-@margin: 0;
+@margin: 6%;
 
 .container(){
   margin:0 auto;
@@ -13,10 +13,12 @@
 // on total number of columns and width
 // number of columns being displayed.
 // Removes 20px for margins
-.grid(@grid:@def_grid,@cols:'',@float:left,@display:inline){
+.grid(@grid:@def_grid, @cols:'', @float:left, @display:inline){
   display:@display;
   float:@float;
   width:(100%/@grid * @cols) - (@margin * 2);
+  margin-left: @margin;
+  margin-right: @margin;
 }  
 
 // Allows for padding before element
