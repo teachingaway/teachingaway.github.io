@@ -6,9 +6,10 @@ tags: [patent, trademark]
 modified: 2014-06-13
 author: adler
 image:
-  feature: engine-patent-fig-1.png
+  feature: NYC-Cityscape.jpg
   credit: 
-  creditlink: 
+  creditlink:
+
 ---
 
 

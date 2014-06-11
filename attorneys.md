@@ -6,9 +6,7 @@ tags: [attorneys]
 modified: 2014-06-05
 author: adler
 image:
-  feature: so-simple-sample-image-4.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+    feature: NYC-Cityscape.jpg
 ---
 
 <div class='fourcols'>

@@ -6,7 +6,7 @@ tags: [litigation]
 modified: 2014-06-13
 author: adler
 image:
-  feature: so-simple-sample-image-4.jpg
+  feature: NYC-Cityscape.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---
