@@ -9,7 +9,7 @@ image:
     feature: NYC-Cityscape.jpg
 ---
 
-<div style="clear:both">
+<div class="attorney">
 
 <div class='fourcols'>
 <a href="/../ericadler">
@@ -43,9 +43,8 @@ Litigation. Admitted in New York and Washington.
 
 ---
 
----
 
-<div style="clear:both">
+<div class="attorney">
  
 <div class='sixcols'>
 <a href="/../ericadler">
