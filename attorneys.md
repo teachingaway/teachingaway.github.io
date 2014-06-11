@@ -17,52 +17,51 @@ image:
 Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, and sits on the board of the NYC Legal Hackers. Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
 
 <p class="sixcols">
-<strong>Admissions</strong><br>
+<em>Admissions</em><br>
 New York State<br>
 Patent Bar <br>
 </p>
 
-<p class="sixcols">
-<strong>Education</strong> <br>
+<p class="sixcols first">
+<em>Education</em> <br>
 BSME, Tufts University <br>
 JD, Brooklyn Law School  <br>
 </p>
 
-
+<hr>
 - - - 
 
 # <a href = "/zekevermillion/">Zeke Vermillion</a>
 
 Zeke practices corporate law. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. 
 
-<p class="sixcols">
-<strong>Admissions</strong><br>
+<p class="sixcols first">
+<em>Admissions</em><br>
 New York State<br>
 </p>
 
 <p class="sixcols">
-<strong>Education</strong> <br>
+<em>Education</em> <br>
 B.A., Columbia College, Columbia University<br>
 J.D., New York University Law School<br>
 </p>
 
-
-
+<hr>
 - - - 
 
 # Jerry Derevyanny
 
 Jerry Derevyanny litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP.
 
-<p class="sixcols">
-<strong>Admissions</strong><br>
+<p class="sixcols first">
+<em>Admissions</em><br>
 New York State<br>
 Washington State<br>
 Western District of Washington<br>
 </p>
 
 <p class="sixcols">
-<strong>Education</strong> <br>
+<em>Education</em> <br>
 B.A., University of Washington<br>
 J.D., Boston University<br>
 </p>
