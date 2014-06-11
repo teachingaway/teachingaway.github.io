@@ -10,6 +10,7 @@ image:
 ---
 
 <div>
+
 <div class='fourcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="author-photo">
@@ -25,7 +26,6 @@ image:
 </a>
 <p>
 Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
-
 </p>
 </div>
 
@@ -38,12 +38,15 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
 </p>
 </div>
+
 </div>
----
 
 ---
 
-<div> 
+---
+
+<div>
+ 
 <div class='sixcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="author-photo">
@@ -59,11 +62,10 @@ Gerald Derevyanny. Jerry litigates cases that present challenging or novel issue
 </a>
 <p>
 Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
-
 </p>
 </div>
 
-<div class='sixcols'>
+<div class='sixcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="author-photo">
 <h3>Jerry</h3>
@@ -72,8 +74,10 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
 </p>
 </div>
+
 </div>
 
+- - - 
 
 # <a href = "/ericadler/">Eric Adler</a>
 
