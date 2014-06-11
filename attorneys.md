@@ -30,14 +30,19 @@ JD, Brooklyn Law School  <br>
 --- 
 
 # &nbsp;
+
+
 # <a href = "/zekevermillion/">Zeke Vermillion</a>
 
+
 Zeke practices corporate law. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. 
+
 
 <p class="sixcols .first">
 <em>Admissions</em><br>
 New York State<br>
 </p>
+
 
 <p class="sixcols">
 <em>Education</em> <br>
@@ -46,10 +51,14 @@ J.D., New York University Law School<br>
 </p>
 
 
+
 # &nbsp;
+
+
 # Jerry Derevyanny
 
 Jerry Derevyanny litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP.
+
 
 <p class="sixcols first">
 <em>Admissions</em><br>
@@ -57,6 +66,7 @@ New York State<br>
 Washington State<br>
 Western District of Washington<br>
 </p>
+
 
 <p class="sixcols">
 <em>Education</em> <br>
