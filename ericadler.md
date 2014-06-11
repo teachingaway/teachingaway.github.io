@@ -33,3 +33,17 @@ Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on co
 <p>BSME, Tufts University</p>
 <p>JD, Brooklyn Law School </p> 
 </div>
+
+- - - 
+
+<div class="sixcols">
+<p><strong>Admissions</strong></p>
+<p>New York </p>
+<p>Patent Bar </p>
+</div>
+
+<div class="sixcols last">
+<p><strong>Education</strong> <br></p>
+<p>BSME, Tufts University</p>
+<p>JD, Brooklyn Law School </p> 
+</div>
