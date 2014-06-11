@@ -14,11 +14,13 @@
 // number of columns being displayed.
 // Removes 20px for margins
 .grid(@grid:@def_grid, @cols:'', @float:left, @display:inline){
-  display:@display;
-  float:@float;
-  width:(100%/@grid * @cols) - (@margin * 2);
-  margin-left: @margin;
-  margin-right: @margin;
+  @media @medium {
+    display:@display;
+    float:@float;
+    width:(100%/@grid * @cols) - (@margin * 2);
+    margin-left: @margin;
+    margin-right: @margin;
+  }
 }  
 
 // Allows for padding before element
