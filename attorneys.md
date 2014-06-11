@@ -9,6 +9,7 @@ image:
     feature: NYC-Cityscape.jpg
 ---
 
+<div>
 <div class='fourcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="author-photo">
@@ -35,15 +36,14 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 </a>
 <p>
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
-
 </p>
 </div>
-
+</div>
 ---
 
 ---
 
-
+<div> 
 <div class='sixcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="author-photo">
@@ -70,8 +70,8 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 </a>
 <p>
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
-
 </p>
+</div>
 </div>
 
 
