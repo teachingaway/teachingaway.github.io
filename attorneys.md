@@ -14,7 +14,7 @@ image:
 <div class='fourcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="avatar-photo">
-<h3>Eric</h3>
+<strong>Eric</strong>
 </a>
 <p>Patent and trademark law. Admitted in New York and at the US Patent and Trademark Office.</p>
 </div>
@@ -22,7 +22,7 @@ image:
 <div class='fourcols'>
 <a href="/../zekevermillion">
 <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-<h3>Zeke</h3>
+<strong>Zeke</strong>
 </a>
 <p>
 Business Law. Admitted in New York.
@@ -32,7 +32,7 @@ Business Law. Admitted in New York.
 <div class='fourcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="avatar-photo">
-<h3>Jerry</h3>
+<strong>Jerry</strong>
 </a>
 <p>
 Litigation. Admitted in New York and Washington.
@@ -50,7 +50,7 @@ Litigation. Admitted in New York and Washington.
 <div class='sixcols'>
 <a href="/../ericadler">
 <img src="/../images/EricAvatar.jpg" class="avatar-photo">
-<h3>Eric Adler</h3>
+<strong>Eric Adler</strong>
 </a>
 <p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.</p>
 </div>
@@ -58,7 +58,7 @@ Litigation. Admitted in New York and Washington.
 <div class='sixcols'>
 <a href="/../zekevermillion">
 <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-<h3>Ezekiel Vermillion</h3>
+<strong>Ezekiel Vermillion</strong>
 </a>
 <p>
 Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
@@ -68,7 +68,7 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 <div class='sixcols clearfix last'>
 <a href="/../jerryderevyanny">
 <img src="/../images/JerryAvatar.jpg" class="avatar-photo">
-<h3>Gerald Derevyanny</h3>
+<strong>Gerald Derevyanny</strong>
 </a>
 <p>
 Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
