@@ -16,19 +16,31 @@ image:
 
 Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, and sits on the board of the NYC Legal Hackers. Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
 
-<p class="sixcols first">
-<em>Admissions</em><br>
-New York State<br>
-Patent Bar <br>
-</p>
+<span class="sixcols first">
+
+<em>Admissions</em>
+
+<br>
+
+* New York State
+* Patent Bar
+
+</span>
+
 
 <p class="sixcols">
+
 <em>Education</em> <br>
+
 BSME, Tufts University <br>
+
 JD, Brooklyn Law School  <br>
+
 </p>
 
+
 <hr />
+
 
 - - - 
 
@@ -50,8 +62,6 @@ J.D., New York University Law School<br>
 <hr />
 
 - - - 
-
-= = = = 
 
 
 # Jerry Derevyanny
