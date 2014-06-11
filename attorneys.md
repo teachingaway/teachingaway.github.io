@@ -27,8 +27,8 @@ Zeke is a deal lawyer with a background in M&A and project finance. He is also a
 </div>
 
 <div class='fourcols'>
+<img src="/../images/JerryAvatar.jpg" class="author-photo">
 <h3>Jerry</h3>
-<img src="/../images/ZekeAvatar.jpg" class="author-photo">
 <p>
 Gerald Derevyanny. Jerry litigates cases that present challenging or novel issues at the boundary between technology and the law. Before joining the firm, Jerry practiced complex commercial litigation at Kaye Scholer LLP. Admitted in New York and Washington.
 
