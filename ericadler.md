@@ -28,7 +28,7 @@ Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on co
 <p>Patent Bar </p>
 </div>
 
-<div class="sixcols">
+<div class="sixcols last">
 <p><strong>Education</strong> <br></p>
 <p>BSME, Tufts University</p>
 <p>JD, Brooklyn Law School </p> 
