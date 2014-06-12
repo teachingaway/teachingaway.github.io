@@ -13,7 +13,7 @@ image:
 
 
 
-<h1>Lawyers for Technology and Design Innovators.</h1>
+<h3>Lawyers for Technology and Design Innovators.</h3>
 
 We provide legal advice and representation to clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
 
