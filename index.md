@@ -11,11 +11,11 @@ image:
 ---
 
 
-<h2 class='entry-title'> INTELLECTUAL PROPERTY AND COMMERCIAL LAW FOR TECHNOLOGY AND DESIGN INNOVATORS</h2>
+<h1 class='page-title'> INTELLECTUAL PROPERTY AND COMMERCIAL LAW FOR TECHNOLOGY AND DESIGN INNOVATORS</h1>
 
 - - - 
 
-<h2 class='entry-title'>  Intellectual Property and Commercial Law for Technology and Design Innovators </h2>
+<h1 class='page-header'>  Intellectual Property and Commercial Law for Technology and Design Innovators </h1>
 
 - - - 
 
