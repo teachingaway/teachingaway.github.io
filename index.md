@@ -11,15 +11,13 @@ image:
 ---
 
 
-<h1 class='page-title'> INTELLECTUAL PROPERTY AND COMMERCIAL LAW FOR TECHNOLOGY AND DESIGN INNOVATORS</h1>
+
+
+<h1 >  Intellectual Property and Commercial Law for Technology and Design Innovators </h1>
 
 - - - 
 
-<h1 class='page-header'>  Intellectual Property and Commercial Law for Technology and Design Innovators </h1>
-
-- - - 
-
-**Clients:** We work for emerging technology ventures and public companies. 
+**Clients:** We work for technology ventures and public companies. 
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
