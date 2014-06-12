@@ -11,21 +11,21 @@ image:
 ---
 
 
-### Intellectual Property and Commercial Lawyers 
+### Intellectual Property and Commercial Law 
 
-### Working for Technology and Design Innovators
+### for Technology and Design Innovators
 
 - - - 
 
 **Clients:** We work for emerging technology ventures and public companies. 
 
 <figure class="half">
-	<img src="/images/client1.png">
-	<img src="/images/client2.png">
-	<img src="/images/client3.png">
-	<img src="/images/client4.png">
-	<img src="/images/client5.png">
-	<img src="/images/client3.png">
+	<img src="/images/clients/simple-logo.png">
+	<img src="/images/clients/red-antler-logo.png">
+	<img src="/images/clients/objective-subject-logo.png">
+	<img src="/images/clients/outlier-logo.png">
+	<img src="/images/clients/digital-dumbo-logo.png">
+	<img src="/images/clients/final-frontier-logo.png">
 </figure>
 
 - - - 
