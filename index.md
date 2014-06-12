@@ -15,7 +15,7 @@ image:
 
 <h1 >  Intellectual Property and Commercial Law for Technology and Design Innovators </h1>
 
-<p class='big-text'>We provide legal advice and representation to clients who want to make a mark on the world. Our clients are entrepreneurs competing with entrenched incumbents. We understand the challenge from direct experience. To help, we offer a combination of intellectual property and commercial law expertise that is rarely found in a responsive small law firm.</p>
+<p class='big-text'>We represent clients who want to make a mark on the world. Our clients are entrepreneurs competing with entrenched incumbents. We understand the challenge from direct experience. To help, we offer a combination of intellectual property and commercial law expertise that is rarely found in a responsive small law firm.</p>
 
 - - - 
 
