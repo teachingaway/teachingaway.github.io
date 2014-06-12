@@ -19,7 +19,7 @@ image:
 
 **Clients:** We work for emerging technology ventures and public companies. 
 
-<figure class="half">
+<figure class="third">
 	<img src="/images/clients/simple-logo.png">
 	<img src="/images/clients/red-antler-logo.png">
 	<img src="/images/clients/objective-subject-logo.png">
