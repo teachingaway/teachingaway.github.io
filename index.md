@@ -10,6 +10,35 @@ image:
 
 ---
 
+
+## Intellectual Property and Commercial Lawyers 
+
+## Working for Technology and Design Innovators
+
+- - - 
+
+**Clients:** We work for emerging technology ventures and public companies. 
+
+<figure class="half">
+	<img src="/images/client1.png">
+	<img src="/images/client2.png">
+	<img src="/images/client3.png">
+	<img src="/images/client4.png">
+	<img src="/images/client5.png">
+	<img src="/images/client3.png">
+</figure>
+
+- - - 
+
+<ul class="post-list">
+{% for post in site.posts limit:5 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
+
+
+- - - 
+
 # Lawyers for Technology and Design Innovators.
 
 We provide legal advice and representation to clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
