@@ -21,6 +21,8 @@ Our professionals possess a combination of intellectual property and commercial 
 
 - - - 
 
+Blog
+
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
   <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
@@ -28,6 +30,8 @@ Our professionals possess a combination of intellectual property and commercial 
 </ul>
 
 - - - 
+
+Representative Clients
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
