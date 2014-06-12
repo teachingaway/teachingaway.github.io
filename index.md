@@ -19,7 +19,7 @@ image:
 
 - - - 
 
-**Clients:** We work for technology ventures and public companies. 
+<h2>We work for technology ventures and public companies. <h2>
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
