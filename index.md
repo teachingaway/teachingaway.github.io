@@ -11,9 +11,7 @@ image:
 ---
 
 
-### Intellectual Property and Commercial Law 
-
-### for Technology and Design Innovators
+## Intellectual Property and Commercial Law for Technology and Design Innovators
 
 - - - 
 
