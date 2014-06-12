@@ -18,12 +18,12 @@ image:
 **Clients:** We work for emerging technology ventures and public companies. 
 
 <figure class="third">
-	<img src="/images/clients/simple-logo.png">
-	<img src="/images/clients/red-antler-logo.png">
-	<img src="/images/clients/objective-subject-logo.png">
-	<img src="/images/clients/outlier-logo.png">
-	<img src="/images/clients/digital-dumbo-logo.png">
-	<img src="/images/clients/final-frontier-logo.png">
+	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
+	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
+	<a href='http://objectivesubject.com'><img src="/images/clients/objective-subject-logo.png"></a>
+	<a href='http://outlier.cc'><img src="/images/clients/outlier-logo.png"></a>
+	<a href='http://digitaldumbo.com'><img src="/images/clients/digital-dumbo-logo.png"></a>
+	<a href='http://http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
 </figure>
 
 - - - 
