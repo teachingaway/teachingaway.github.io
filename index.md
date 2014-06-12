@@ -21,7 +21,7 @@ Our professionals possess a combination of intellectual property and commercial 
 
 - - - 
 
-Blog
+**Blog**
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
@@ -31,7 +31,7 @@ Blog
 
 - - - 
 
-Representative Clients
+**Representative Clients**
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
