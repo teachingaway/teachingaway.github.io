@@ -33,7 +33,7 @@ image:
 	<a href='http://objectivesubject.com'><img src="/images/clients/objective-subject-logo.png"></a>
 	<a href='http://outlier.cc'><img src="/images/clients/outlier-logo.png"></a>
 	<a href='http://digitaldumbo.com'><img src="/images/clients/digital-dumbo-logo.png"></a>
-	<a href='http://http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
+	<a href='http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
 </figure>
 
 - - - 
