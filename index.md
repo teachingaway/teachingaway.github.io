@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adler & Vermillion, LLP
+title: Adler Vermillion, LLP
 description: "Lawyers for Technology and Design Innovators."
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
