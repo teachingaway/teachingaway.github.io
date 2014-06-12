@@ -13,13 +13,19 @@ image:
 
 
 
-<h1 >  Intellectual Property and Commercial Law for Technology and Design Innovators </h1>
+<h1 >  Intellectual Property and Commercial Law for Technology and Design Innovators.</h1>
 
 <p class='big-text'>We represent entrepreneurs making a mark on the world. We understand the challenges, and help by offering a combination of intellectual property and commercial law expertise rarely found in a responsive small law firm.</p>
 
 - - - 
 
-<h1>We work for technology ventures and public companies. </h1>
+<ul class="post-list">
+{% for post in site.posts limit:5 %} 
+  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+{% endfor %}
+</ul>
+
+- - - 
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
@@ -29,15 +35,6 @@ image:
 	<a href='http://digitaldumbo.com'><img src="/images/clients/digital-dumbo-logo.png"></a>
 	<a href='http://http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
 </figure>
-
-- - - 
-<h1>Notes from the blog</h1>
-<ul class="post-list">
-{% for post in site.posts limit:5 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
-{% endfor %}
-</ul>
-
 
 - - - 
 
