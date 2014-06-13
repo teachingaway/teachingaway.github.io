@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Dependable Cofounders"
+title: "Law Firm as Startup"
 modified: 2014-06-05 12:13:14 -0400
 tags: [startups]
 author: vermillion
