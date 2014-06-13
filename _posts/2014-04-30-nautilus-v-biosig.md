@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nautilus v. Biosig"
-description: "A ton of text to test readability."
+description: "patent indefiniteness at the Supreme Court."
 category: articles
 tags: [patent, supreme court]
 author: adler

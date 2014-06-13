@@ -1,0 +1,25 @@
+---
+layout: post
+title: "Cofounder Collaboration"
+modified: 2014-06-05 12:13:14 -0400
+tags: [docracy, startups]
+author: vermillion
+image:
+  feature: default-image.jpg
+  credit: 
+  creditlink: 
+comments: true
+share: true
+---
+
+I’m writing this post to introduce a couple new forms I have posted on Docracy: a pre-incorporation <a href="http://www.docracy.com/6348/founders-agreement-template" target="_blank">founders’ collaboration agreement</a> template, and a <a href="http://www.docracy.com/6354/cofounder-terms-exhibit-a-to-founders-agreement-" target="_blank">cofounders’ term sheet</a> to be used by entrepreneurs collaborating on speculative, early-stage, and unfunded projects. Although I always have to caveat that this is not legal advice, and you should consult a lawyer... these are intended for lay people. Initial collaborators (not even founders yet) on projects that could become a real company, to implement with very limited legal advice and budget. These documents can be used together, so that founders collaborating on a project have a binding pre-incorporation agreement in place early-on, and a handshake understanding as to how they will fit into a more structured company after funding or other milestones.
+
+I field a lot of inquiries from early-stage entrepreneurs in search of basic legal advice. What type of entity to form, how to structure relationships with early cofounders and investors. If I allow myself to lapse into Rain Man mode and describe all the fascinating overlap of corporate, securities, tax, and contract law, we quickly find ourselves in a morass. Most of the software-oriented types are bootstrapping, more or less, and do not have the budget to implement the structures they have read about on AVC and Venturehacks. Not only that, but the time and energy invested in negotiating a hypothetical VC deal with cofounders before there is an immediate need takes away from the real task – figuring out how to build and ship a minimally viable product. Technically we should address the issues, but as a practical business matter there is not the time or money for it.
+
+For these types of startups, I have recently come to the conclusion that they should do one of two things. If the founders are childhood friends and have each other’s complete trust, they should agree on a handshake to do the right thing and remain friends no matter what. Then ignore the corporate formalities, and focus on product. If the founders are not so close, they should write down the essential terms of their collaboration in a partnership agreement. The partnership agreement would give all founders an equal say in managing the pre-incorporation business. They could attach a non-binding term sheet that would show how they want the company to look after they gain traction in the market / raise money from outside investors. If a majority or unanimous approval of initial founders is required to raise outside money, then the term sheet will be an effective guide to cofounder arrangements even though not enforceable. At the same time, the partnership agreement should allow partners to leave easily, and for a majority to kick out a partner who is not meshing, no questions asked. The goal is a simple and low-friction structure that will last a year or two while things get started, and will not be a hassle to replace or terminate, depending on how things go.
+
+In most jurisdictions, working together with other people in an unincorporated association makes you a general partnership. That is, each partner has full joint-and-several liability for the debts and other contractual obligations of the partnership. This is true whether or not you have signed a partnership agreement. Most lawyers will tell you to avoid being a general partnership at all cost. However, in some circumstances it can be a workable arrangement. The most prestigious law firm in the world today, Wachtell Lipton Rosen &amp; Katz, is still a general partnership, by the way. No doubt they are insured to the hilt, however, so their partners will enjoy the shield of insurance if not that of the corporate veil.
+
+Startup advice often focuses on what can go wrong. Founder sob stories of getting pushed out of their own companies. Early employees who are screwed out of stock options. Stockholders diluted down to nothing by multi-class stock issues. Innovative companies sued out of existence by worthless, bottom-feeding patent trolls. These are all real concerns, but often the cost of addressing them is to focus an early collaboration on potential counter-party risks and hypothetical legal issues rather than developing their own product. Clearly that is a mistake.
+
+That said, if you have already built your MVP, have significant customer commitments and revenue, are in talks with outside investors, if you want to borrow money, or are operating in a highly-regulated industry--don't be a general partnership. We will try to get you up and running with a more standard business structure providing for limited liability, and the founder vesting and other terms that you would expect.
