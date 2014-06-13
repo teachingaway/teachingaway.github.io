@@ -15,13 +15,13 @@ image:
 
 <h3>Lawyers for Technology and Design Innovators.</h3>
 
-We provide legal advice and representation to clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
+We represent clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
 
-Our professionals possess a combination of intellectual property and commercial expertise that is rare to find in a small firm. We look for engagements that leverage our full capabilities in service of our clients’ interests. Each client and engagement is unique.
+Our professionals possess a combination of intellectual property and commercial expertise that is rarely found in small law firms. We look for engagements that leverage our full capabilities in service of our clients’ interests. Each client and engagement is unique.
 
 - - - 
 
-<h3>Blog</h3>
+Blog
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
@@ -31,7 +31,7 @@ Our professionals possess a combination of intellectual property and commercial 
 
 - - - 
 
-<h3>Representative Clients<h3>
+Clients
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>

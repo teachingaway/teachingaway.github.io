@@ -19,7 +19,7 @@ Eric's IP expertise helps designers and developers enforce their rights.
 
 Eric an advisor to Brooklyn Law School’s technology clinic (BLIP) and sits on the board of the NYC Legal Hackers.
 
-Eric rides bikes, plays banjo, and builds copyright codex, a free treatise on copyright law.
+Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
 
 - - - 
 
