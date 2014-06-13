@@ -6,7 +6,7 @@ tags: [litigation]
 modified: 2014-06-13
 author: adler
 image:
-  feature: NYC-Cityscape.jpg
+  feature: default-image.jpg
   credit: Michael Rose
   creditlink: http://mademistakes.com
 ---

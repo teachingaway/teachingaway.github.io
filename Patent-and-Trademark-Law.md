@@ -5,7 +5,7 @@ title: "Patent and Trademark Law"
 modified: 2014-06-04 20:33
 tags: [patent, trademark, intellectual property law]
 image:
-  feature: NYC-Cityscape.jpg 
+  feature: default-image.jpg 
   credit: 
   creditlink: 
 share: 

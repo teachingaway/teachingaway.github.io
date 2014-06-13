@@ -5,7 +5,7 @@ description: "Lawyers for Technology and Design Innovators."
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
 image:
-    feature: NYC-Cityscape.jpg
+    feature: default-image.jpg
 
 
 ---

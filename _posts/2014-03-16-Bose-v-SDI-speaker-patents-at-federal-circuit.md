@@ -11,38 +11,39 @@ comments: true
 share: true
 ---
 
-The "tile" interface in Windows 8 was so <a href="http://www.theverge.com/2014/1/30/5362156/windows-8-1-update-1-boot-to-desktop-by-default" target="_blank">poorly received</a> that Microsoft is <a href="http://arstechnica.com/information-technology/2014/03/windows-8-1-update-1-more-interface-concessions-that-still-wont-make-people-happy/" target="_blank">backpedaling</a> away from it. But intellectual property for user interface ("UI") elements is so important that Microsoft is continuing to defend a patent lawsuit over its unpopular UI. The lawsuit is <em>Sufcast v. Microsoft</em> in the District of Maine. <a href="http://www.surfcast.com/" target="_blank">Surfcast</a>, as Ars Technica <a href="http://arstechnica.com/tech-policy/2012/10/patent-troll-claims-it-invented-the-windows-8-and-windows-phone-tiles/" target="_blank">notes</a>, is an entity that owns a few patents and its sole business appears to be asserting these patents against Microsoft. Last week (March 2014), Microsoft suffered a setback when Judge Woodcock issued a <a href="http://scholar.google.com/scholar_case?case=2655377192649191314" target="_blank">claim-construction order</a> that went mostly in Surfcast's favor.
 
-This case is interesting because "tiles" are the UI metaphor at the heart of Windows Phone OS, and to a degree, Windows 8. To protect its investment in UI design, Microsoft has been filing hundreds of design and utility patents on its tile and related aspects of its UI. Here's an example of a Microsoft patent that came up in the Surfcast case:
+I've been tempted to buy a Pioneer A4 since Wirecutter named it the <a title="Best Airplay Speaker" href="http://thewirecutter.com/reviews/the-best-airplay-speaker/" target="_blank">best airplay speaker</a>. Last week, I broke down and bought one. It was easy to set up and has  decent sound for $150. The A4 seems to be living up to the hype.
 
-<img src="/../images/microsoft-tiles-patent.jpg" />
+Oddly, despite the positive reviews, Pioneer recently stopped making the A4, and there's no replacement. Why kill off a well-received product? I'm wondering if Bose's active patent assertion in the iPhone/dock/airplay market is somehow related. 
 
-Surfcast, of course, claims to be the true inventor of UI tiles. Here's an image from Surfcast's patent, originally filed in 2000:
+<img class=" wp-image-572 alignright" alt="bose v. ihome patents" src="/../images/bose-v.-ihome-patents-hand.jpg" />
 
-<img alt="Sufcast Patent - Tiles" src="/../images/Sufcast-Patent-Tiles3.jpg" />
+Bose is currently suing Memorex and SDI, alleging that 144 models of their speaker systems infringe <a title="Bose Patent" href="https://www.google.com/patents/US20130158693" target="_blank">Bose patent no. 7,277,765</a>. The Bose patent, filed in 2000, is essentially for a type of speaker system that connects to a digital media player. SDI makes the popular "iHome" line of speakers, which seem to be cheaper versions of various Bose speakers. iHome is getting good reviews (I almost bought SDI's iHome "<a title="iHome iW1" href="http://www.amazon.com/iHome-iW1-AirPlay-Wireless-Rechargeable/dp/B005XTBWQY/r" target="_blank">iW1</a>" speaker instead of the Pioneer).
+
+The case is not going well for Bose. In 2012, Bose lost on a major claim construction issue, and the Federal Circuit just affirmed (March 2014). Bose claimed that 144 speaker systems from Memorex and SDI were infringing its '765 patent. This '765 patent claims something about connecting a media device to a speaker system.
+
+I couldn't figure out exactly what the innovation was in the Bose ’765 patent, but for this case, it doesn't matter. Bose lost on claim construction.
+
+The relevant claims all included an "interface" element. Bose wanted "interface" to just mean "connection", while the defendants wanted "interface" to mean a "connection with a digital to analog converter." This definition was a big deal because only 1 out of the 144 accused speakers had a digital-audio-converter. If the patent required a digital-audio-converter, then 143 of the products are not infringing, based on this fact alone.
+
+Judge Clevenger ruled for the defendants, finding that Bose's claim was limited to speaker systems <em>with</em> a digital-audio-converter. Clevenger relied on 2 of the standard claim construction rules:
+
+<strong>Prosecution History</strong>. During prosecution, Bose amended the language of its original claim 1 from "connection" to "interface." The Court wasn't excited about Bose's argument that "interface" should still be defined as "connection."
+
+<strong>The Specification</strong>. "A reading of the specification further shows that, as used within the asserted patent, 'connection' refers to physical linkages while 'interface' is reserved for linkages that perform data conversion. As properly pointed out in the Appellees’ brief, 'interface' is used in the specification only with reference to the 'embodiment in which a computer is outputting a digital signal to a speaker requiring an analog signal.'”
+
+A handful of Bose claims survived this Federal Circuit appeal, but I expect Bose will quickly settle the case. This narrowing claim construction will follow Bose to future cases, if it decides to assert the same patent against other speaker systems. But I suspect Bose has a hefty arsenal of related patents it can draw from if it needs to.
+
+Does this mean that the Pioneer A4 will come back on the market? I kinda doubt it. But it would be nice to see more high-quality Airplay speakers.
+
+I don't to knock Bose. I like a lot of their speakers, and I listen to most of my music on Bose QuietComfort15 headphones. But sometimes I worry that Bose products come with a steep markup to cover their marketing and legal budget.
+
+<img alt="The nifty connector for the Bose Quietcomfort 15 headphones. I like this feature. " src="/../images/Bose-Headphone-Patent.jpg" />
 
 &nbsp;
 
-Judge Woodcock is presiding over the case, and he seems to understand the importance of UI design as part of the big picture:
+&nbsp;
 
-<blockquote>one of skill in the art would read the patent not only for the trees but also for the forest... This invention is, at its heart, a human interface concept that is meant to replace the icon-based paradigm with a tile-based paradigm.</blockquote>
+Top Image: <a href="http://www.amazon.com/Bose-SoundDock-30-Pin-iPhone-Speaker/dp/B001DLTDQC/" target="_blank">Bose SoundDock</a> (top-left), Unrelated Bose Patent (top-middle), <a title="iW1 Speaker" href="http://www.amazon.com/gp/product/B005XTBWQY" target="_blank">SDI iHome iW1</a> (top-right). I'm not sure why everyone likes to show a disembodied hand in their images.
 
-Where are we in the case? In a patent lawsuit, claims are defined (as a matter of law) in a separate claim construction hearing called a "<a href="http://scholar.google.com/scholar_case?case=5582995013670943601" target="_blank">Markman</a> Hearing." The March 2014 decision in this case was a claim constructing order.
-
-At a claim construction hearing, the defendant can choose from two strategies. First, it can argue for very broad definitions of the claim terms. If the claims are broadly defined, its easier to invalidate them with prior art. But there's also a danger. If the judge grants the broad definition, but the defendant can't invalidate the patent with prior art, the defendant will almost certainly be found infringing on the broadly defined (and valid) claim.
-
-The plaintiff, on the other hand, needs to walk the Markman tightrope. It needs a claim construction that is broad enough to catch the defendant, but narrow enough to avoid all the prior art.
-
-In this <em>Surfcast</em> case, Microsoft argued for a broad definition of the claim terms. If the judge agreed with the broad definition, I'm sure Microsoft had rock-solid prior art lined up to invalidate Surfcast's patent.  However, Judge Woodcock disagreed with Microsoft's proposed definition of "tiles", finding it overly broad.
-
-<blockquote>the Court does not accept Microsoft’s proposed construction: “An area of a display which presents content from an information source.” This is a much broader definition of “tile” than appears in the patent. The whole point of a “tile” in the invention is to combine features of “windows” and “icons” in a way that balances the advantages of each while discarding some features not desirable in the new “tile” interface paradigm.</blockquote>
-
-After a detailed and well-organized claim construction analysis, Judge Woodcock essentially adopts Surfcast's narrower definition of "tiles",
-
-<blockquote>the Court concludes that within the ‘403 Patent, a “tile” is “a graphical representation of an associated information source capable of displaying refreshed content, the graphical representation being persistent and selectable to provide access to underlying information of the associated information source.”</blockquote>
-
-Surfcast's '403 patent doesn't seem to be as weak as the usual patent troll fare, and this claim construction ruling certainly doesn't hurt its case. In the year 2000, I don't really know what the state of the art was for UI design, or whether "tiles" were already known. Was it obvious back then? Maybe it was an innovation?
-
-What does this mean for Microsoft? Probably not much. I assume the narrower definition saves Surfcast from invalidity at the hands of Microsoft's prior art references. Microsoft might appeal up to the Federal Circuit, where the claims will be construed again <em>de novo</em> (a standard of review recently confirmed in <a href="http://www.cafc.uscourts.gov/images/stories/opinions-orders/12-1014.Opinion.2-18-2014.1.PDF" target="_blank"><em>Lighting Ballast v. Philips</em></a>).
-
-All we can really say at this point is that technology companies are starting to understand the business value of good UI design, and the need to protect UI intellectual property.
+Bottom Image: Patent for the nifty headphone connector on the Bose Quietcomfort 15 headphones.

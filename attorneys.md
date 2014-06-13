@@ -6,7 +6,7 @@ tags: [attorneys]
 modified: 2014-06-05
 author: adler
 image:
-    feature: NYC-Cityscape.jpg
+    feature: default-image.jpg
 ---
 
 

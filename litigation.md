@@ -5,7 +5,7 @@ title: "Litigation"
 modified: 2014-06-04 20:33
 tags: [litigation, intellectual property, commercial disputes]
 image:
-  feature: NYC-Cityscape.jpg 
+  feature: default-image.jpg 
   credit: 
   creditlink: 
 share: 

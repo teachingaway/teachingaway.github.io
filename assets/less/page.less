@@ -294,6 +294,13 @@ span + .entry-title {
 	text-transform: uppercase;
 	.font-rem(14);
 	a { color: @text-color; }
+	
+	opacity:0.5;
+	transition: opacity 0.3s ease;
+	&:hover {
+	    opacity:0.9;
+	    }
+	
 	@media @large {
 		float: left;
 		width: 150px;
@@ -403,6 +410,7 @@ span + .entry-title {
 	a > span {
 		float: right;
 	}
+
 	.entry-date {
 		.font-rem(14);
 		text-transform: uppercase;

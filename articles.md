@@ -4,9 +4,9 @@ permalink: /articles/
 title: Articles
 description: "An archive of posts sorted by date."
 image:
-  feature: so-simple-sample-image-2.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  feature: default-image.jpg
+  credit: 
+  creditlink: 
 ---
 
 
