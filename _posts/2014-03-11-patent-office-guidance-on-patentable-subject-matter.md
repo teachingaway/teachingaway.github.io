@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Patent Office on Patentable Subject Matter"
-modified: 2014-06-05 12:13:14 -0400
 tags: [patent, patentable subject matter]
 author: adler
 image:

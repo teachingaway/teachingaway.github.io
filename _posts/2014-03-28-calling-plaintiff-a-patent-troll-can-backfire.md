@@ -1,13 +1,12 @@
 ---
 layout: post
-title: "Calling Plaintiff a 'Patent Troll' Can Backfire"
-modified: 2014-06-05 12:13:14 -0400
+title: "Calling Plaintiff a 'Patent Troll' Can Backfire" 
 tags: [patent litigation, patent trolls]
 author: adler
 image:
   feature: default-image.jpg
-  credit: 
-  creditlink: 
+  credit:
+  creditlink:
 comments: true
 share: true
 ---

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "GPG Contracts"
-modified: 2014-06-05 12:13:14 -0400
+title: "GPG Contracts" 
 tags: [cryptography, bitcoin]
 author: vermillion
 image:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cofounder Collaboration"
-modified: 2014-06-05 12:13:14 -0400
 tags: [docracy, startups]
 author: vermillion
 image:

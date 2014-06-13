@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Dependable Cofounders"
-modified: 2014-06-05 12:13:14 -0400
 tags: [startups]
 author: vermillion
 image:

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Octane v. Icon: Supreme Court on Abusive Patent Litigation"
-modified: 2014-06-05 12:13:14 -0400
 tags: [patent litigation, patent trolls]
 author: adler
 image:

@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Facebook Buys Oculus and its Patents"
-modified: 2014-06-05 12:13:14 -0400
+title: "Facebook Buys Oculus and its Patents" 
 tags: [oculus, patent portfolio]
 author: adler
 image:

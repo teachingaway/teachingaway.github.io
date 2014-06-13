@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Law Firm as Startup"
-modified: 2014-06-05 12:13:14 -0400
+title: "Law Firm as Startup" 
 tags: [startups]
 author: vermillion
 image:

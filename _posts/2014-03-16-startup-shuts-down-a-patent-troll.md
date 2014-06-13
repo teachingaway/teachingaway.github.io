@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Startup Shuts Down a Patent Troll"
-modified: 2014-06-05 12:13:14 -0400
 tags: [patent troll, startups, litigation]
 author: adler
 image:

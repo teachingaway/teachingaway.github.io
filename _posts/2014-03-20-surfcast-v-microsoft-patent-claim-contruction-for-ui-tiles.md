@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Bose v. SDI - Speaker Patents at the Federal Circuit"
-modified: 2014-06-05 12:13:14 -0400
+title: "Surfcast v. Microsoft: Patent Claim Construction for UI Tiles" 
 tags: [patent, speakers, claim construction]
 author: adler
 image:

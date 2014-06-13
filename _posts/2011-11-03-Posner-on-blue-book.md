@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Posner: A Grim Capitalist Logic Thus Drives the Malignant Growth of The Bluebook"
-modified: 2014-06-05 12:13:14 -0400
 tags: [blue book, legal citation, posner]
 author: adler
 image:
