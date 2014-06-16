@@ -5,8 +5,8 @@ title: Jerry Derevyanny
 tags: [litigation]
 modified: 2014-06-13
 author: derevyanny
-school-undergrad: University of Washington
-school-law: Boston University
+school-undergrad: B.A., University of Washington
+school-law: J.D., Boston University
 admission1: New York State
 admission2: Southern District of NY
 admission3: Eastern District of NY

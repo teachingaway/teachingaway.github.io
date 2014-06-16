@@ -5,8 +5,8 @@ title: Eric Adler
 tags: [patent, trademark]
 modified: 2014-06-13
 author: adler
-school-undergrad: Tufts University
-school-law: Brooklyn Law School
+school-undergrad: B.S.M.E., Tufts University
+school-law: J.D., Brooklyn Law School
 admission1: New York
 admission2: US Patent & Trademark Office
 admission3: 

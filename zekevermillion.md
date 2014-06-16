@@ -4,8 +4,8 @@ permalink: /zekevermillion/
 title: Zeke Vermillion
 modified: 2013-09-13
 author: vermillion
-school-undergrad: Columbia University
-school-law: New York University
+school-undergrad: B.A., Columbia University
+school-law: J.D., New York University
 admission1: New York
 admission2: 
 admission3: 
