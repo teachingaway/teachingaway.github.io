@@ -328,10 +328,12 @@ span + .entry-title {
 	.permalink {display:none;}
 	
 	/*ela - putting each social share button on own line. */
-	.social-share-facebook, .social-share-twitter, .social-share-googleplus {
-	    clear:both;
-	    display:block;
-	}
+	@media @large{
+    	.social-share-facebook, .social-share-twitter, .social-share-googleplus {
+	        clear:both;
+	        display:block;
+	    }
+    }
 }
 
 /* avatar photos for blog posts. */
