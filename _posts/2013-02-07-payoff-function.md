@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Good Business Lawyers Improve their Client's Payoff Function"
+title: "Good Business Lawyers Improve Client's Payoff Function"
 tags: [corporate law]
 author: vermillion
 image:
