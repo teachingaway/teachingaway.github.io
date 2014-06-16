@@ -13,13 +13,9 @@ image:
 ---
 
 
-Eric builds robust patent portfolios at the intersection of design and technology. He brings user experience and information architecture principals from the digital world into his legal work. 
+Eric builds robust patent portfolios at the intersection of design and technology. He brings principals of user experience and information architecture from the digital world into his legal work. 
 
-Eric's IP expertise helps designers and developers enforce their rights.
-
-Eric an advisor to Brooklyn Law School’s technology clinic (BLIP) and sits on the board of the NYC Legal Hackers.
-
-Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, a free treatise on copyright law.
+Eric an advisor to <a href="http://www.blipclinic.org/">Brooklyn Law School’s technology clinic (BLIP)</a>, sits on the board of the <a href="http://legalhackers.org/">NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
 
 - - - 
 
@@ -35,16 +31,3 @@ Eric rides bikes, plays banjo, and builds <a href='http://www.copyrightcodex.com
 <p>JD, Brooklyn Law School </p> 
 </div>
 
-- - - 
-
-<div class="sixcols">
-<p><strong>Admissions</strong></p>
-<p>New York </p>
-<p>Patent Bar </p>
-</div>
-
-<div class="sixcols last">
-<p><strong>Education</strong> <br></p>
-<p>BSME, Tufts University</p>
-<p>JD, Brooklyn Law School </p> 
-</div>
