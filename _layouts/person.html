@@ -28,46 +28,53 @@
         <!-- Multi-author version added by ELA  -->
         <img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo">
         
-        <hr>
-        <span class="social-share-linkedin">
-            <a href="http://linkedin.com/{{ author.linkedin }}" title="{{ author.name}} on LinkedIn" target="_blank">
-            <i class="icon-linkedin"></i> LinkedIn</a>
-        </span>
-        <span class="social-share-twitter">
-            <a href="http://twitter.com/{{ author.twitter }}" title="{{ author.name}} on Twitter" target="_blank">
-            <i class="icon-twitter icon-2x"></i>Twitter</a>
-        </span>
-        <!-- /.social-share -->
-        
-        <hr>
-        <span class="admissions">
-            <strong>Admitted:</strong>
-        </span>  
-        <span class="admissions">
-            {{ page.admission1 }}
-        </span>
-        
-        {% if page.admission2 %}
-        <span class="admissions">
-            {{ page.admission2 }}
-        </span>
-        {% endif %}
+        <div class = "connect">
+            <span class="connect meta-header">
+                Connect:
+            </span> 
+            <span class="social-share-linkedin">
+                <a href="http://linkedin.com/{{ author.linkedin }}" title="{{ author.name}} on LinkedIn" target="_blank">
+                <i class="icon-linkedin"></i> LinkedIn</a>
+            </span>
+            <span class="social-share-twitter">
+                <a href="http://twitter.com/{{ author.twitter }}" title="{{ author.name}} on Twitter" target="_blank">
+                <i class="icon-twitter icon-2x"></i>Twitter</a>
+            </span>
+        </div>  <!-- /.connect -->
 
-        {% if page.admission3 %}
-        <span class="admissions">
-            {{ page.admission3 }}
-        </span>
-        {% endif %}
-        <hr>        
-        <span class="education">
-            <strong>Education:</strong>
-        </span>
-        <span class="education">
-            {{ page.school-undergrad }}
-        </span>
-        <span class="education">
-            {{ page.school-law }}
-        </span>  
+        <div class = "admissions">        
+            <span class="admissions meta-header">
+                Admissions:
+            </span>  
+            <span class="admissions">
+                {{ page.admission1 }}
+            </span>
+        
+            {% if page.admission2 %}
+            <span class="admissions">
+                {{ page.admission2 }}
+            </span>
+            {% endif %}
+
+            {% if page.admission3 %}
+            <span class="admissions">
+                {{ page.admission3 }}
+            </span>
+            {% endif %}
+        </div> <!-- /.admissions -->      
+        
+        <div class = "education">
+            <span class="education meta-header">
+            Education:
+            </span>
+            <span class="education">
+                {{ page.school-undergrad }}
+            </span>
+            <span class="education">
+                {{ page.school-law }}
+            </span>  
+         </div>  <!-- /.education -->
+        
       </footer>
       
       <div class="entry-content blog-post">
