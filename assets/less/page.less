@@ -195,9 +195,10 @@ body {
 	border-bottom: 1px solid fade(@black,10);
 }
 .entry-feature-image {
-	// original margin:
+	/* original margin:
 	// margin: 20px 0 0;
-	// raised version: margin: -120px 0 0;
+	// raised version: margin: -120px 0 0; 
+	*/
 	position:absolute;
 	top: 22px;
 	z-index:-100;
@@ -322,6 +323,13 @@ span + .entry-title {
 		@media @medium{
 		    display:inline-block;
 		}
+	}
+	/*ela removing the "permalink" link. */
+	.icon-link {display:none;}
+	
+	/*ela - putting each social share button on own line. */
+	.social-share-facebook, .social-share-twitter, .social-share-googleplus {
+	    clear:left;
 	}
 }
 
