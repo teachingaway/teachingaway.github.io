@@ -30,13 +30,30 @@ authors:
     avatar:         EricAvatar.jpg
     email:          eric@adlervermillion.com
     aboutpage:      ericadler
-    twitter:        teachingaway 
+    twitter:        teachingaway
+    linkedin:       'in/ericladler'
   vermillion:
     name:           Zeke Vermillion
     avatar:         ZekeAvatar.jpg
     aboutpage:      zekevermillion
     email:          zeke@adlervermillion.com
     twitter:        zmillion 
+    linkedin:       'pub/zeke-vermillion/1/259/858'
+  derevyanny: 
+    name:           Jerry Derevyanny
+    avatar:         JerryAvatar.jpg
+    aboutpage:      jerryderevyanny
+    email:          jerry@adlervermillion.com
+    twitter:        
+    linkedin:       pub/gerald-derevyanny/8/969/a70
+  skocilich: 
+    name:           Joe Skocilich
+    avatar:         JoeAvatar.jpg
+    aboutpage:      
+    email:          
+    twitter:         
+    linkedin:
+
 
 # Analytics and webmaster tools stuff goes here
 google_analytics:   

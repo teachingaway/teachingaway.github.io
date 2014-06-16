@@ -1,10 +1,17 @@
 ---
-layout: page
+layout: person
 permalink: /ericadler/
 title: Eric Adler
 tags: [patent, trademark]
 modified: 2014-06-13
 author: adler
+school-undergrad: Tufts University
+school-law: Brooklyn Law School
+admission1: New York
+admission2: US Patent & Trademark Office
+admission3: 
+admission4:
+admission5: 
 image:
   feature: default-image.jpg
   credit: 

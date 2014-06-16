@@ -1,14 +1,21 @@
 ---
-layout: page
+layout: person
 permalink: /jerryderevyanny/
 title: Jerry Derevyanny
 tags: [litigation]
 modified: 2014-06-13
-author: adler
+author: derevyanny
+school-undergrad: University of Washington
+school-law: Boston University
+admission1: New York State
+admission2: Southern District of NY
+admission3: Eastern District of NY
+admission4: Washington State
+admission5: Western District of WA
 image:
   feature: default-image.jpg
-  credit: Michael Rose
-  creditlink: http://mademistakes.com
+  credit: 
+  creditlink: 
 ---
 
 
@@ -18,6 +25,7 @@ Prior to joining Adler Vermillion & Skocilich LLP, Jerry practiced complex comme
 
 While currently practicing out of the New York office, Jerry is originally from the Seattle area and is frequent visitor in the Seattle office. Jerry also speaks fluent Russian.
 
+<!-- 
 <div class="sixcols">
 <strong>Admissions</strong><br>
 New York State<br>
@@ -30,3 +38,4 @@ Western District of Washington<br>
 B.A., University of Washington<br>
 J.D., Boston University<br>
 </div>
+ -->

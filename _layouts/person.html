@@ -1,0 +1,88 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+{% include head.html %}
+</head>
+
+<body id="person">
+
+{% include navigation.html %}
+
+<div id="main" role="main">
+
+  <!-- add multiple authors ~ELA-->
+  {% assign author = site.authors[page.author] %}  
+      
+  <article class="entry">
+    {% if page.image.feature %}<img src="{{ site.url }}/images/{{ page.image.feature }}" class="entry-feature-image" alt="{{ page.title }}" {% if site.logo == null %}style="margin-top:0;"{% endif %}>{% if page.image.credit %}<p class="image-credit">Photo Credit: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a>{% endif %}{% endif %}
+     
+    <div class="entry-wrapper">
+      <header class="entry-header">
+        <h1 class="entry-title">{% if page.headline %}{{ page.headline }}{% else %}{{ page.title }}</h1>{% endif %}
+      </header>
+      
+      <footer class="entry-meta">
+        <!-- Multi-author version added by ELA  -->
+        <img src="{{ site.url }}/images/{{ author.avatar }}" alt="{{ author.name }} photo" class="author-photo">
+        
+        <span class="social-share-linkedin">
+            <a href="http://linkedin.com/{{ author.linkedin }}" title="{{ author.name}} on LinkedIn" target="_blank">
+            <i class="icon-linkedin"></i> LinkedIn</a>
+        </span>
+        <span class="social-share-twitter">
+            <a href="http://twitter.com/{{ author.twitter }}" title="{{ author.name}} on Twitter" target="_blank">
+            <i class="icon-twitter icon-2x"></i>Twitter</a>
+        </span>
+        <!-- /.social-share -->
+        
+        <hr>
+        <span class="admissions">
+            <strong>Admitted:</strong>
+        </span>  
+        <span class="admissions">
+            {{ page.admission1 }}
+        </span>
+        
+        {% if page.admission2 %}
+        <span class="admissions">
+            {{ page.admission2 }}
+        </span>
+        {% endif %}
+
+        {% if page.admission3 %}
+        <span class="admissions">
+            {{ page.admission3 }}
+        </span>
+        {% endif %}
+        <hr>        
+        <span class="education">
+            <strong>Education:</strong>
+        </span>
+        <span class="education">
+            {{ page.school-undergrad }}
+        </span>
+        <span class="education">
+            {{ page.school-law }}
+        </span>  
+      </footer>
+      
+      <div class="entry-content blog-post">
+        {{ content }}
+      </div><!-- /.entry-content -->
+    </div><!-- /.entry-wrapper -->
+  </article>
+</div><!-- /#main -->
+
+<div class="footer-wrapper">
+  <footer role="contentinfo">
+    {% include footer.html %}
+  </footer>
+</div><!-- /.footer-wrapper -->
+
+{% include scripts.html %}          
+
+</body>
+</html>
