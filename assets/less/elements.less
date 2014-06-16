@@ -63,33 +63,23 @@ figure {
   }
   
   &.third {
+    figcaption {clear: left;}  
     img {
-      width: 180px;
+      width: 120px;
       float: left;
-      margin-right: 30px;
-      }  
-    @media @large {
-      img {
-        width: 180px;
-        float: left;
-        *margin-right: 30px;
-      }  
-      figcaption {
-        clear: left;
-      }  
-    }
-    /*
-    @media @small {
-      img {
+      margin-right: 25px;
+      
+      @media @medium {
         width: 150px;
-        float: left;
-        margin-right: 10px;
+        margin-right: 30px;
       }
-      figcaption {
-        clear: left;
+            
+      @media @large {
+        width: 180px;
+        margin-right: 33px;
       }
+
     }
-    */
   }
 }
 
