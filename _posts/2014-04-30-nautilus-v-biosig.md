@@ -27,7 +27,7 @@ tl;dr? Here's Mark Lemley's tweet summary of the oral argument:
 
 Transcript below. <a href="http://www.supremecourt.gov/oral_arguments/argument_transcripts/13-369_4oc4.pdf">Official version here</a>.
 
-<img  src="/../images/BioSig-patent.jpg" />
+<img  class="big-image" src="/../images/BioSig-patent.jpg" />
 
 Monday, April 28, 2014
 
