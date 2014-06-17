@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /patent-and-trademark/
-title: "Patent and Trademark Law"
+permalink: /patent-basics/
+title: "Patent law basics"
 modified: 2014-06-04 20:33
 tags: [patent, trademark, intellectual property law]
 image:

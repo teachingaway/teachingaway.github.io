@@ -14,16 +14,15 @@ share: true
 ---
 
 
-## In the Matter of Certain Digital Models. 
-
-
 Can a CAD file infringe a patent? Can transferring a CAD file from Pakistan into the US trigger <a href="http://www.law.cornell.edu/uscode/text/19/1337" target="_blank">19 U.S.C. § 1337</a>’s prohibition on importation of “articles” that infringe a US patent? These are types of questions starting to arise at the intersection of patents and 3D printing. <!--more-->
 
-<img class="alignnone size-full wp-image-724" src="/../images/Incrementally-Moving-Teeth-Patent.png" alt="3D Printing Patent for Teeth Alignment" />
-
-The International Trade Commission addressed these questions today in an opinion titled “In the Matter of Certain Digital Models.” (337-TA-833).
+The International Trade Commission addressed these questions today in an opinion titled *“In the Matter of Certain Digital Models.”* (337-TA-833).
 
 The certain digital models were dental models. Specifically, Align Technology, Inc. has patented a type of invisible braces fabricated by 3D printing. Align accused ClearConnect Operating, LLC, of infringement by scanning teeth in the US, sending the CAD files to Pakistan for processing, and transmitting the finished CAD files back to the US where they were printed.
+
+<img class="big-image" src="/../images/Incrementally-Moving-Teeth-Patent.png" alt="3D Printing Patent for Teeth Alignment" />
+
+
 
 The patent owner, Align, contends that ClearConnect was infringing just by having the CAD files transferred into the US. The ITC agreed,
 
