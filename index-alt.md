@@ -12,7 +12,7 @@ image:
 ---
 
 
-<h2 class="entry-title">Lawyers for Technology and Design Innovators.</h2>
+<h1 class="entry-title">Lawyers for Technology and Design Innovators.</h1>
 
 <p class='big-text'>We practice intellectual property and business law at a level rarely found in a small firm. We help raise capital, structure deals, and secure patents and trademarks.</p>
 
