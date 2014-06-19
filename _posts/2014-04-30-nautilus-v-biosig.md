@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Nautilus v. Biosig"
+title: "Nautilus v. Biosig: Indefinite Patent Claims"
 description: "patent indefiniteness at the Supreme Court."
 category: articles
 tags: [patent, supreme court]
