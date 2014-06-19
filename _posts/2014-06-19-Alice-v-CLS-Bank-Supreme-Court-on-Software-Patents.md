@@ -12,19 +12,13 @@ share: true
 ---
 
 
-<p class="big-text">.</p>
-
-<h3>The Case</h3>
+<p class="big-text"></p>
 
 
 
-### The Patent Statute
+### The Supreme Court Decision
 
-
-
-###The Supreme Court Decision
-
-USTICE THOMAS delivered the opinion of the Court.
+JUSTICE THOMAS delivered the opinion of the Court.
 The patents at issue in this case disclose a computerimplemented scheme for mitigating “settlement risk” (i.e., the risk that only one party to a financial transaction will pay what it owes) by using a third-party intermediary. The question presented is whether these claims are patent eligible under 35 U. S. C. §101, or are instead drawn to a patent-ineligible abstract idea. We hold that the claims at issue are drawn to the abstract idea of intermediated settlement, and that merely requiring generic computer implementation fails to transform that abstract idea into a patent-eligible invention. We therefore affirm the judgment of the United States Court of Appeals for the Federal Circuit.
 
 ## I 
