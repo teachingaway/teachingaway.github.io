@@ -11,7 +11,9 @@ image:
 
 ## Modern Legal Services for Innovative Clients
 
-Software and Technology Startups
+We represent clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
+
+**Software and Technology Startups**
 
 <figure class="third">
     <a href='http://mitro.co'><img src="/images/clients/mitro-logo.png"></a>
@@ -24,7 +26,7 @@ Software and Technology Startups
 
 - - - 
 
-Design, Branding and Fashion
+**Design, Branding and Fashion**
 
 <figure class="third">
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
@@ -39,7 +41,7 @@ Design, Branding and Fashion
 - - - 
 
 
-Industrial, Architectural, Aerospace
+**Industrial, Architectural, Aerospace**
 
 <figure class="third">
 	<a href='http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
@@ -52,7 +54,8 @@ Industrial, Architectural, Aerospace
 - - - 
 
 
-Financial Technology and Consulting
+**Financial Technology and Consulting**
+
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
 	<a href='http://www.corregroup.com/'><img src="/images/clients/corre-group-logo.png"></a>
