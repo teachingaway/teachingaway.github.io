@@ -12,9 +12,9 @@ share: true
 ---
 
 
-<p class="big-text">Software that simply implements basic business transactions cannot be patented. The Supreme Court confirmed this basic principle in today's Alice v. CLS Bank ruling. However the Court did not make any sweeping changes to the patent system.</p> 
+<p class="big-text">Software that simply implements basic business transactions cannot be patented. The Supreme Court confirmed this basic principle in today's *Alice v. CLS Bank* ruling. However the Court did not make any sweeping changes to the patent system.</p> 
 
-While the Supreme Court invalidated CLS Bank's particular software patent, it acknowledged that **software can be patented.**  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
+While the Supreme Court invalidated CLS Bank's particular software patent, it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
 
 Some early thoughts from around the internet: 
 
