@@ -58,7 +58,7 @@ Accordingly, in applying the §101 exception, we must distinguish between patent
 
 ## III
 
-In Mayo Collaborative Services v. Prometheus Laboratories, Inc., 566 U. S. \___ (2012), we set forth a framework for distinguishing patents that claim laws of nature, natural phenomena, and abstract ideas from those that claim patent-eligible applications of those concepts. First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts. Id., at \___ (slip op., at 8). If so, we then ask, “[w]hat else is there in the claims before us?” Id., at \___ (slip op., at 9). To answer that question, we consider the elements of each claim both individually and “as an ordered combination” to determine whether the additional elements “transform the nature of the claim” into a patent-eligible application. Id., at \___ (slip op., at 10, 9). We have described step two of this analysis as a search for an “‘inventive concept’”—i.e., an element or combination of elements that is “sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the [ineligible concept] itself.” Id., at \___ (slip op., at 3).3
+In Mayo Collaborative Services v. Prometheus Laboratories, Inc., 566 U. S. \___ (2012), we set forth a framework for distinguishing patents that claim laws of nature, natural phenomena, and abstract ideas from those that claim patent-eligible applications of those concepts. First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts. Id., at \___ (slip op., at 8). If so, we then ask, “[w]hat else is there in the claims before us?” Id., at \___ (slip op., at 9). To answer that question, we consider the elements of each claim both individually and “as an ordered combination” to determine whether the additional elements “transform the nature of the claim” into a patent-eligible application. Id., at \___ (slip op., at 10, 9). We have described step two of this analysis as a search for an “‘inventive concept’”—i.e., an element or combination of elements that is “sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the [ineligible concept] itself.” Id., at \___ (slip op., at 3). [^3]
 
 ### A
 
@@ -123,8 +123,9 @@ It is so ordered.
 
 
 
+#Concurrence 
 
-# JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG and JUSTICE BREYER join, concurring.
+### JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG and JUSTICE BREYER join, concurring.
 
 I adhere to the view that any “claim that merely describes a method of doing business does not qualify as a ‘process’ under §101.” Bilski v. Kappos, 561 U. S. 593, 614 (2010) (Stevens, J., concurring in judgment); see also In re Bilski, 545 F. 3d 943, 972 (CA Fed. 2008) (Dyk, J., concurring) (“There is no suggestion in any of th[e] early [English] consideration of process patents that processes for organizing human activity were or ever had been patentable”). As in Bilski, however, I further believe that the method claims at issue are drawn to an abstract idea. Cf. 561 U. S., at 619 (opinion of Stevens, J.). I therefore join the opinion of the Court.
 
