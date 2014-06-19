@@ -16,13 +16,13 @@ share: true
 
 While the Supreme Court invalidated CLS Bank's particular software patent, it acknowledged that **software can be patented.**  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
 
-- - - 
+Some early thoughts from around the internet: 
 
-[Adam Liptak for the NY Times](http://www.nytimes.com/2014/06/20/technology/supreme-court-rules-against-alice-corp-in-patent-case.html) with a fairly neutral take on the opinion. 
+* [Adam Liptak for the NY Times](http://www.nytimes.com/2014/06/20/technology/supreme-court-rules-against-alice-corp-in-patent-case.html) with a fairly neutral take on the opinion. 
 
-[Joe Mullen for Ars Technica](http://arstechnica.com/tech-policy/2014/06/supreme-court-smashes-do-it-on-a-computer-patents-in-9-0-opinion/) gives the anti-software patent view. 
+* [Joe Mullen for Ars Technica](http://arstechnica.com/tech-policy/2014/06/supreme-court-smashes-do-it-on-a-computer-patents-in-9-0-opinion/) gives the anti-software patent view. 
 
-[Gene Quinn for IP Watchdog](http://www.ipwatchdog.com/2014/06/19/scotus-rules-alice-software-claims-patent-ineligible/) with his usual pro-software patent view. 
+* [Gene Quinn for IP Watchdog](http://www.ipwatchdog.com/2014/06/19/scotus-rules-alice-software-claims-patent-ineligible/) with his usual pro-software patent view. 
 
 - - - 
 
