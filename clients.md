@@ -64,10 +64,12 @@ We represent clients who want to make a mark on the world. Our clients are entre
 
 
 
-/*
+<!---
+
 <figure class="third">
 	<a href='http://www.truland.com/'><img src="/images/clients/truland-logo.png"></a>
 	<a href='http://www.solidoodle.com/'><img src="/images/clients/solidoodle-logo.png"></a>
 
 </figure>
-*/
+
+-->
