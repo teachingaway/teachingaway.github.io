@@ -12,7 +12,7 @@ share: true
 ---
 
 
-<p class="big-text"></p>
+<p class="big-text">Software that simply implements basic business transactions cannot be patented. The Supreme Court confirmed this basic principle in today's Alice v. CLS Bank ruling. However the Court did not make any sweeping changes to the patent system. It did not invalidat eall software patents, it just invalidated CLS Bank's software patent on intermediated financial transactions.</p>
 
 
 
