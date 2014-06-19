@@ -10,12 +10,7 @@ hr {
 }
 
 .google-maps {
-    -webkit-filter: grayscale(100%);
-       -moz-filter: grayscale(99%);
-        -ms-filter: grayscale(100%);
-         -o-filter: grayscale(100%);
-            filter: grayscale(99%);
-
+    .desaturate(100%);
     width:100%; 
     height:300px;
     @media @large {
@@ -51,10 +46,12 @@ figure {
       -moz-transition-duration: 0.25s;
       -o-transition-duration: 0.25s;
       .opacity(0.7);
+      .desaturate(100%);
       &:hover {
-        .translate(0, -5px);
-        .box-shadow(0 0 10px fade(@black, 20));
+        .translate(0, -3px);
+        /* .box-shadow(0 0 10px fade(@black, 20)); */
         .opacity(1);
+        .desaturate(0%);
       }
     }
   }

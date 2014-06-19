@@ -1,0 +1,53 @@
+---
+layout: post
+title: "Brevity is the soul of wit, not of law, Washington State crowdfunding"
+tags: [crowdfunding]
+author: skocilich
+image:
+  feature: default-image.jpg
+  credit: 
+  creditlink: 
+comments: true
+share: true
+---
+
+<p class="big-text">One should heed the adage of not letting the perfect be the enemy of the good, but one should not rely on this wisdom to let “meh, good enough” stand in place of the hard work it takes to get something right. I fear the latter is where we are with investment (or equity) crowdfunding at the state level.</p>
+
+After the disappointment of trying to craft a workable federal investment crowdfunding exemption, a number of commentators <a href="http://www.startuplawblog.com/2012/07/25/washington-state-needs-its-own-crowdfunding-law/#more-3902">advocated</a> looking to the states to save crowdfunding. And, while I still have some hope that federal crowdfunding will work, I am not opposed to state-level crowdfunding. The spirit of crowdfunding is inherently local and community based. The state crowdfunding push has started to bear fruit and a number of <a href="http://www.startuplawblog.com/2012/07/25/washington-state-needs-its-own-crowdfunding-law/#more-3902">states</a> have created some form of a securities crowdfunding exemption, including Kansas, Georgia, Wisconsin, Michigan, and now my home state of Washington.
+
+On March 28, 2014, HB 2023 or the “<a href="http://apps.leg.wa.gov/documents/billdocs/2013-14/Pdf/Bills/Session%20Laws/House/2023-S.SL.pdf">Washington jobs act of 2014</a>” was officially signed into law. At only about 130 total lines of substantive text, the Washington law is short; it has that going for it, which is nice. In the end though, it is another missed opportunity to get investment crowdfunding right. Reward-based crowdfunding (e.g. Kickstarter) is a great model of how investment crowdfunding could work, but instead of putting in the hard work to mirror that system, the Washington law leaves it almost entirely up to the state securities regulator to decide how crowdfunding will work.
+
+<em>Disclosure: I was on a Securities Law Committee task force that reviewed and provided unsolicited (and unwelcome by some) comments on HB 2023 to the WA Senate. I don’t agree with everything in the <a href="http://www.scribd.com/doc/210594522/Crowdfunding-Letter-Final-26-Feb-2014#page=1">final letter</a> and think it leaves some important things out, but the changes would have been an improvement to the law. In the end, only a couple minor items the task force suggested made it into law.</em>
+
+<h3>Crowdfunding, how does it work?</h3>
+The big deal (securities law-wise) of crowdfunding is the ability to publicly solicit non-accredited investors to invest in your company without having to register the securities with the SEC or individual state regulators. Right now you can publicly solicit accredited investors and you can raise money from non-accredited investors privately, but if you want to take money from those less wealthy folks the securities laws require that you provide them with a whole bunch of detailed disclosure information. You can in theory use Reg, D, Rule 504, which doesn't have any specific disclosure requirements, but then you can’t engage in public solicitation and your offering remains subject to the whims of state securities regulators.
+
+<em>Securities law history: Before 1999, Rule 504 actually did allow public solicitation, but the SEC <a href="https://www.sec.gov/rules/final/33-7644.txt">changed the rules</a>, in part because of fraud that the internet was helping make possible.</em>
+
+Investment crowdfunding essentially allows a public offering to be conducted under an exemption, rather than a registration. One of the problems with the federal crowdfunding law is that, in reality, it creates a micro-IPO registration regime that imposes ongoing compliance costs way too high for small businesses (although it is worth noting that certain <a style="line-height: 1.5em;" href="http://www.seedinvest.com/blog/crowdsourcing-title-iii-crowdfunding-cost-model/">cost estimates</a> in circulation are wildly over-inflated).
+
+At the state level, there is already a securities law that looks kind of like crowdfunding called the <a href="http://www.dfi.wa.gov/sd/scor.htm">Small Company Offering Registration (SCOR)</a>. You may not have heard of SCOR because it really isn't used that often. SCOR offerings are <em>exempt</em> at the federal level, but <em>registered</em>  at the state level (go federalism!). As a state registered offering, public solicitation is allowed and you can raise money from non-accredited investors. Although SCOR is billed as lightweight and easy to use, in practice, it is clunky and outdated: there are too many detailed (and pointless) disclosure requirements, too much process, and  after a company spend months and thousands of dollars getting its SCOR offering approved by state regulators it still has no good established way to reach out to investors in the community.
+
+The <a href="http://www.dfi.wa.gov/sd/default.htm">Securities Division</a> of the Washington State Department of Financial Institutions has yet to propose any rules on how to conduct a Washington crowdfunding offering, but I predict that the end result result is going to end up looking somewhat similar to a SCOR offering, although probably at least a little more easy and useful. While nominally an exemption, the new Washington crowdfunding law is going to work like a mini-registration, the same place the federal law ended up at. How did this happen?
+
+## You can’t avoid legal complexity with brevity
+
+I think the intent behind the drafting of HB 2023 was simplicity, in reaction to the ugly complexity of federal crowdfunding in Title III of the <a href="http://www.gpo.gov/fdsys/pkg/BILLS-112hr3606enr/pdf/BILLS-112hr3606enr.pdf">JOBS Act</a>. Unfortunately, legal simplicity can’t be obtained on the cheap simply by keeping the statutory text of a law short. Crafting for elegance and simplicity of function sometimes takes a lot of words, taking into account the rules that state regulators are likely to adopt in response and how they will enforce the law.
+
+For example, in order to qualify for the Washington crowdfunding exemption, the issuer must file the offering with the Washington State Securities Division as well as “provide the Securities Division with any other reasonably requested information.” I expect the Securities Division to develop a list of, or guidelines on, the disclosure items that must be included in the crowdfunding offering materials, something like for a SCOR offering or how the Securities Divisions treats exempt Rule 504 offering. For Rule 504 offerings, while there are no explicit disclosure requirements, the division provides this <a href="http://www.dfi.wa.gov/sd/disclosure.htm">handy guideline</a> of what it considers “material” information that must be disclosed and recommends that issuers use <a href="http://www.nasaa.org/industry-resources/corporation-finance/scor-overview/scor-forms/">SCOR Form U-7</a>.
+
+The Securities Division is already estimating that companies will go through 2-3 rounds of comments and revisions to their offering materials before they authorize the offering to go forward.  I have no doubt the Securities Division will be prompt and helpful in getting companies through the process, but I don’t think that this is what anybody is expecting and it will be a significant amount of upfront tedious work.
+
+## We need portals (not ports?)
+
+I think <a href="https://vcexperts.com/buzz_articles/1482?utm_source=The+VC+Expert%27s+Buzz&amp;utm_campaign=6699d11098-VC_Experts_Newsletter03_11_2014&amp;utm_medium=email&amp;utm_term=0_ee0d1cc528-6699d11098-289590925">reasonable people</a> can disagree on the importance of the role of intermediaries (i.e. funding portals) in crowdfunding. I, however, believe that funding portals are integral to the entire concept and should be mandated. A portal gives would-be investors a place to review companies, ask public questions, get public answers, and discuss with other investors. A portal can help a company draft disclosure, manage the offering process, and screen out scammers, the hopelessly naive, and/or the ill-prepared before they waste any money. A public offering needs to be conducted in the open, publicly. The new law allows the benefit of public solicitation without being truly open to public scrutiny.
+
+On the flip side, without a portal, companies will have to rely on their own networks and resources to launch and sell a crowdfunding offering--presumably mostly through social media. Crowdfunding should be more than just another securities law exemption, crowdfunding should be the start of new community-based capital markets by the creation of a new trusted market participant--the crowdfunding portal. Without a respected capital marketplace, companies are going to struggle to find enough investors, as <a style="line-height: 1.5em;" href="http://online.wsj.com/news/articles/SB10001424052702303722104579237862928397316">has been the case</a> in the states where similar type crowdfunding laws are already in place.
+
+What the Washington law offers in the way of portals is just weird. The law calls for either “port districts” or something called a “local associate development organizations” to act as crowdfunding portals. What is a local associate development organization? Nobody knows or cares. The law does allow the Securities Division to adopt rules authorizing other entities to act as portals, but by not creating a new regulatory structure for portals to operate in, any portals that tries to set up shop are going to severely restricted in what they can do. The biggest concern is that portals be able to actually make money by charging commissions and engaging in other actions that otherwise might run afoul of broker-dealer and investment adviser regulations.
+
+## Concluding happy thoughts
+
+Small business capital formation needs reform. Non-investment reward crowdfunding (e.g. Kickstarter) is serving as a small outlet on the desire of small businesses to raise money from the community and of the community to support small businesses. This is not a permanent solution and will eventually fade. The idea and structure, however, should be carried-over to investment crowdfunding where it can serve as the foundation of a viable community-based capital marketplace.
+
+I hate to be all naysaying pessimism though, so I will end on a positive note: shortcomings aside, I think the new law will open up new opportunities for small businesses to raise money and it is surely better than doing nothing at all.

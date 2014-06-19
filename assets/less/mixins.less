@@ -80,6 +80,15 @@ white-space: nowrap; }
 // GRADIENTS
 // --------------------------------------------------
 
+/*ela - desaturate mades something grayscale. use 100% for full desaturate. */
+.desaturate(@Value) {
+    -webkit-filter: grayscale(@Value);
+       -moz-filter: grayscale(@Value);
+        -ms-filter: grayscale(@Value);
+         -o-filter: grayscale(@Value);
+            filter: grayscale(@Value);
+}
+
 .horizontal(@startColor : @white, @endColor : @lightergrey) {
 background-color: @endColor;
 background-image  : -webkit-gradient(linear, 0 0, 100% 0, from(@startColor), to(@endColor)); // Safari 4+, Chrome 2+

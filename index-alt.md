@@ -16,17 +16,19 @@ image:
 
 <p class='big-text'>Experienced intellectual property and business lawyers serving leading technology clients, from venture-backed startups to national brands. </p>
 
-Adler Vermillion is a law firm steeped in digital technology. Our professionals possess a combination of intellectual property and commercial expertise rarely found in a small law firm.  We help raise capital, structure deals, and secure patents and trademarks. 
+Adler Vermillion is a law firm steeped in digital technology. We provide a combination of IP and commercial expertise rarely found in a small law firm.  We help raise capital, structure deals, and secure patents and trademarks. 
 
-We provide modern legal services to innovative clients. 
+We provide modern legal services to innovative [clients](/clients). 
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
 	<a href='http://objectivesubject.com'><img src="/images/clients/objective-subject-logo.png"></a>
+	
 	<a href='http://outlier.cc'><img src="/images/clients/outlier-logo.png"></a>
 	<a href='http://mitro.co'><img src="/images/clients/mitro-logo.png"></a>
 	<a href='http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
+	
 </figure>
 
 - - - 
