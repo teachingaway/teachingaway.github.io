@@ -11,9 +11,9 @@ image:
 ---
 
 
-<h2>Lawyers for Technology and Design Innovators.</h2>
+<h2 class="entry-title">Lawyers for Technology and Design Innovators.</h2>
 
-<p class='big-text'>We represent clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.</p>
+<p>We represent clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.</p>
 
 Our professionals possess a combination of intellectual property and commercial expertise that is rarely found in small law firms. We look for engagements that leverage our full capabilities in service of our clients’ interests. Each client and engagement is unique.
 

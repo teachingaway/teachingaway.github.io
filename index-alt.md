@@ -18,7 +18,7 @@ image:
 
 Adler Vermillion is a law firm steeped in digital technology. We provide a combination of IP and commercial expertise rarely found in a small law firm.  We help raise capital, structure deals, and secure patents and trademarks. 
 
-We provide modern legal services to innovative [clients](/clients). 
+We provide modern legal services to [innovative clients](/clients). 
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
