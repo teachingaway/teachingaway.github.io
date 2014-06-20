@@ -17,7 +17,7 @@ share: true
 
 While the Supreme Court invalidated CLS Bank's particular software patent, it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
 
-<img class="big-image"  src="/../images/Alice-v-CLS-diagram.png">
+<img src="/../images/Alice-v-CLS-diagram.png">
 
 Some early thoughts from around the internet: 
 
