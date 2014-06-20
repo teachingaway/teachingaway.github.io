@@ -230,8 +230,15 @@ blockquote {
 // Footnotes
 // --------------------------------------------------
 .footnotes {
-	.font(18);
+	.font(16);
 	font-family: @base-font;
+}
+
+@media @medium {
+    .footnotes {
+	    .font(18);
+	    font-family: @base-font;
+    }
 }
 
 // Code

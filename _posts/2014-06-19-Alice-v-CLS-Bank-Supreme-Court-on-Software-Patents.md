@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Supreme Court on Software Patents."
-summary: "In Alice v. CLS Bank, the Supreme Court invalidated a patent on software for intermediated business transactions, finding that it was a mere abstract idea. But the Court doesn't provide a clear test for 'abstractness.' " 
+summary: "In Alice v. CLS Bank, the Supreme Court invalidates a software patent for intermediated settlement, finding that it was a mere abstract idea. " 
 tags: [patent litigation, software patents]
 author: adler
 image:
@@ -13,13 +13,27 @@ share: true
 ---
 
 
-<p class="big-text">Software that simply implements basic business transactions cannot be patented. The Supreme Court confirmed this basic principle in today's Alice v. CLS Bank ruling. However the Court did not make any sweeping changes to the patent system.</p> 
+<p class="big-text">Basic business transactions are abstract ideas that cannot be patented, even if implemented in software. The Supreme Court confirmed this principle in today's <em>Alice v. CLS Bank</em> ruling. However the Court did not invalidate all software patents, and it did not provide clear guidance for distinguishing between software that merely implements an abstract idea and patent-eligible software.</p> 
 
 The Supreme Court invalidated CLS Bank's particular software patent, but it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
 
-The software patent for intermediated business transactions was invalid because it was a mere "abstract idea." Unfortunately, the unanimous decision did not provide much guidance on when an idea is too abstract to sustain a software patent.
+The software patent for intermediated business transactions was invalid because it was a mere "abstract idea." The patent was 
+
+> drawn to the concept of intermediated settlement, i.e., the use of a third party to mitigate settlement risk. Like the risk hedging in *Bilski*, the concept of intermediated settlement is “‘a fundamental economic practice long prevalent in our system of commerce.’”
 
 <img src="/../images/Alice-v-CLS-diagram.png">
+
+## A Framework for Software Patents? 
+
+So we now know that software for risk hedging is an abstract idea (*Bilski*) and software for intermediated settlement is an abstract idea (*Alice v. CLS Bank*). But what about other software? When is it too abstract to support a patent? The decision doesn't provide much guidance: 
+
+> We need not labor to delimit the precise contours of the ‘abstract ideas’ category in this case.
+
+We do know to apply the Mayo two-part test. "First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts." (i.e., abstract ideas, law of nature, etc.) If so, we ask if there is anything else in the claim that raises it from an abstract idea to a patent-eligible invention? "To answer that question, we consider the elements of each claim both individually and 'as an ordered combination' to determine whether the additional elements 'transform the nature of the claim' into a patent-eligible application. This second step is the "search for an inventive concept.” That is, "an element or combination of elements that is sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the ineligible concept itself.”
+
+So we have a framework for asking the question. But Alice doesn't provide the more important element: the guidance for answering the question. 
+
+- - - 
 
 Some early thoughts from around the internet: 
 
@@ -31,14 +45,17 @@ Some early thoughts from around the internet:
 
 - - - 
 
-### The Supreme Court Decision
+## The Supreme Court Decision
+
+[headings in brackets added by editor]
 
 JUSTICE THOMAS delivered the opinion of the Court.
+
 The patents at issue in this case disclose a computerimplemented scheme for mitigating “settlement risk” (i.e., the risk that only one party to a financial transaction will pay what it owes) by using a third-party intermediary. The question presented is whether these claims are patent eligible under 35 U. S. C. §101, or are instead drawn to a patent-ineligible abstract idea. We hold that the claims at issue are drawn to the abstract idea of intermediated settlement, and that merely requiring generic computer implementation fails to transform that abstract idea into a patent-eligible invention. We therefore affirm the judgment of the United States Court of Appeals for the Federal Circuit.
 
-## I 
+## I [Introduction]
 
-### A
+### A [Petitioner Alice Corp's Patents]
 
 Petitioner Alice Corporation is the assignee of several patents that disclose schemes to manage certain forms of financial risk.[^1] According to the specification largely shared by the patents, the invention “enabl[es] the management of risk relating to specified, yet unknown, future events.” App. 248. The specification further explains that the “invention relates to methods and apparatus, including electrical computers and data processing systems applied to financial matters and risk management.” Id., at 243.
 
@@ -46,7 +63,7 @@ The claims at issue relate to a computerized scheme for mitigating “settlement
 
 In sum, the patents in suit claim (1) the foregoing method for exchanging obligations (the method claims), (2) a computer system configured to carry out the method for exchanging obligations (the system claims), and (3) a computer-readable medium containing program code for performing the method of exchanging obligations (the media claims). All of the claims are implemented using a computer; the system and media claims expressly recite a computer, and the parties have stipulated that the method claims require a computer as well.
 
-### B
+### B [Trial History]
 
 Respondents CLS Bank International and CLS Services Ltd. (together, CLS Bank) operate a global network that facilitates currency transactions. In 2007, CLS Bank filed suit against petitioner, seeking a declaratory judgment that the claims at issue are invalid, unenforceable, or not infringed. Petitioner counterclaimed, alleging infringement. Following this Court’s decision in Bilski v. Kappos, 561 U. S. 593 (2010), the parties filed cross-motions for summary judgment on whether the asserted claims are eligible for patent protection under 35 U. S. C. §101. The District Court held that all of the claims are patent ineligible because they are directed to the abstract idea of “employing a neutral intermediary to facilitate simultaneous exchange of obligations in order to minimize risk.” 768 F. Supp. 2d 221, 252 (DC 2011).
 
@@ -57,7 +74,7 @@ Chief Judge Rader concurred in part and dissented in part. In a part of the opin
 
 We granted certiorari, 571 U. S. \___ (2013), and now affirm.
 
-## II
+## II [The Law of Patent Eligible Subject Matter]
 
 Section 101 of the Patent Act defines the subject matter eligible for patent protection. It provides:
 
@@ -71,11 +88,11 @@ At the same time, we tread carefully in construing this exclusionary principle l
 
 Accordingly, in applying the §101 exception, we must distinguish between patents that claim the “‘buildin[g] block[s]’” of human ingenuity and those that integrate the building blocks into something more, Mayo, 566 U. S., at \___ (slip op., at 20), thereby “transform[ing]” them into a patent-eligible invention, id., at \___ (slip op., at 3). The former “would risk disproportionately tying up the use of the underlying” ideas, id., at \___ (slip op., at 4), and are therefore ineligible for patent protection. The latter pose no comparable risk of pre-emption, and therefore remain eligible for the monopoly granted under our patent laws.
 
-## III
+## III [Testing for Patent Eligible Subject Matter]
 
 In Mayo Collaborative Services v. Prometheus Laboratories, Inc., 566 U. S. \___ (2012), we set forth a framework for distinguishing patents that claim laws of nature, natural phenomena, and abstract ideas from those that claim patent-eligible applications of those concepts. First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts. Id., at \___ (slip op., at 8). If so, we then ask, “[w]hat else is there in the claims before us?” Id., at \___ (slip op., at 9). To answer that question, we consider the elements of each claim both individually and “as an ordered combination” to determine whether the additional elements “transform the nature of the claim” into a patent-eligible application. Id., at \___ (slip op., at 10, 9). We have described step two of this analysis as a search for an “‘inventive concept’”—i.e., an element or combination of elements that is “sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the [ineligible concept] itself.” Id., at \___ (slip op., at 3). [^3]
 
-### A
+### A [Is the Claim Directed to an Abstract Idea? ]
 
 We must first determine whether the claims at issue are directed to a patent-ineligible concept. We conclude that they are: These claims are drawn to the abstract idea of intermediated settlement.
 The “abstract ideas” category embodies “the longstanding rule that ‘[a]n idea of itself is not patentable.’” Benson, supra, at 67 (quoting Rubber-Tip Pencil Co. v. Howard, 20 Wall. 498, 507 (1874)); see also Le Roy, supra, at 175 (“A principle, in the abstract, is a fundamental truth; an original cause; a motive; these cannot be patented, as no one can claim in either of them an exclusive right ”). In Benson, for example, this Court rejected as ineligible patent claims involving an algorithm for converting binarycoded decimal numerals into pure binary form, holding that the claimed patent was “in practical effect . . . a patent on the algorithm itself.” 409 U. S., at 71–72. And in Parker v. Flook, 437 U. S. 584, 594–595 (1978), we held that a mathematical formula for computing “alarm limits” in a catalytic conversion process was also a patentineligible abstract idea.
@@ -94,11 +111,11 @@ Bilski belies petitioner’s assertion. The concept of risk hedging we identifie
 
 In any event, we need not labor to delimit the precise contours of the “abstract ideas” category in this case. It is enough to recognize that there is no meaningful distinction between the concept of risk hedging in Bilski and the concept of intermediated settlement at issue here. Both are squarely within the realm of “abstract ideas” as we have used that term.
 
-### B
+### B [Does the Claim Add an "Inventive Concept" to the Abstract Idea?]
 
 Because the claims at issue are directed to the abstract idea of intermediated settlement, we turn to the second step in Mayo’s framework. We conclude that the method claims, which merely require generic computer implementation, fail to transform that abstract idea into a patenteligible invention.
 
-#### 1
+#### 1 [Adding a Generic Computer Cannot Transform an Abstract Idea into a Patent-Eligible Invention.]
 
 At Mayo step two, we must examine the elements of the claim to determine whether it contains an “‘inventive concept’” sufficient to “transform” the claimed abstract idea into a patent-eligible application. 566 U. S., at \___, \___ (slip op., at 3, 11). A claim that recites an abstract idea must include “additional features” to ensure “that the [claim] is more than a drafting effort designed to monopolize the [abstract idea].” Id., at \___ (slip op., at 8–9). Mayo made clear that transformation into a patent-eligible application requires “more than simply stat[ing] the [abstract idea] while adding the words ‘apply it.’” Id., at \___ (slip op., at 3).
 
@@ -114,7 +131,7 @@ These cases demonstrate that the mere recitation of a generic computer cannot tr
 
 The fact that a computer “necessarily exist[s] in the physical, rather than purely conceptual, realm,” Brief for Petitioner 39, is beside the point. There is no dispute that a computer is a tangible system (in §101 terms, a “machine”), or that many computer-implemented claims are formally addressed to patent-eligible subject matter. But if that were the end of the §101 inquiry, an applicant could claim any principle of the physical or social sciences by reciting a computer system configured to implement the relevant concept. Such a result would make the determination of patent eligibility “depend simply on the draftsman’s art,” Flook, supra, at 593, thereby eviscerating the rule that “‘[l]aws of nature, natural phenomena, and abstract ideas are not patentable,’ ” Myriad, 569 U. S., at \___ (slip op., at 11).
 
-#### 2
+#### 2 [Do the Claims Add Anything Beyond "Do It On A Computer"?]
 
 The representative method claim in this case recites the following steps: (1) “creating” shadow records for each counterparty to a transaction; (2) “obtaining” start-of-day balances based on the parties’ real-world accounts at exchange institutions; (3) “adjusting” the shadow records as transactions are entered, allowing only those transactions for which the parties have sufficient resources; and (4) issuing irrevocable end-of-day instructions to the exchange institutions to carry out the permitted transactions. See n.2, supra. Petitioner principally contends that the claims are patent eligible because these steps “require a substantial and meaningful role for the computer.” Brief for Petitioner 48. As stipulated, the claimed method requires the use of a computer to create electronic records, track multiple transactions, and issue simultaneous instructions; in other words, “[t]he computer is itself the intermediary.” Ibid. (emphasis deleted).
 In light of the foregoing, see supra, at 11–14, the relevant question is whether the claims here do more than simply instruct the practitioner to implement the abstract idea of intermediated settlement on a generic computer. They do not.
@@ -123,7 +140,7 @@ Taking the claim elements separately, the function performed by the computer at 
 
 Considered “as an ordered combination,” the computer components of petitioner’s method “ad[d] nothing . . . that is not already present when the steps are considered separately.” Id., at \___ (slip op., at 10). Viewed as a whole, petitioner’s method claims simply recite the concept of intermediated settlement as performed by a generic computer. See 717 F. 3d, at 1286 (Lourie, J., concurring) (noting that the representative method claim “lacks any express language to define the computer’s participation”). The method claims do not, for example, purport to improve the functioning of the computer itself. See ibid. (“There is no specific or limiting recitation of . . . improved computer technology . . . ”); Brief for United States as Amicus Curiae 28–30. Nor do they effect an improvement in any other technology or technical field. See, e.g., Diehr, 450 U. S., at 177–178. Instead, the claims at issue amount to “nothing significantly more” than an instruction to apply the abstract idea of intermediated settlement using some unspecified, generic computer. Mayo, 566 U. S., at \___ (slip op., at 10). Under our precedents, that is not “enough” to transform an abstract idea into a patent-eligible invention. Id., at \___ (slip op., at 8).
 
-## C
+## C [If the Method Claim is Invalid, so is the Related System Claim.]
 
 Petitioner’s claims to a computer system and a computerreadable medium fail for substantially the same reasons. Petitioner conceded below that its media claims rise or fall with its method claims. En Banc Response Brief for Defendant-Appellant in No. 11–1301 (CA Fed.) p. 50, n. 3. As to its system claims, petitioner emphasizes that those claims recite “specific hardware” configured to perform “specific computerized functions.” Brief for Petitioner 53. But what petitioner characterizes as specific hardware—a “data processing system” with a “communications controller” and “data storage unit,” for example, see App. 954, 958, 1257—is purely functional and generic. Nearly every computer will include a “communications controller” and “data storage unit” capable of performing the basic calculation, storage, and transmission functions required by the method claims. See 717 F. 3d, at 1290 (Lourie, J., concurring). As a result, none of the hardware recited by the system claims “offers a meaningful limitation beyond generally linking ‘the use of the [method] to a particular technological environment,’ that is, implementation via computers.” Id., at 1291 (quoting Bilski, 561 U. S., at 610–611).
 

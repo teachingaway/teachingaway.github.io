@@ -303,6 +303,20 @@ span + .entry-title {
 	    opacity:0.9;
 	    }
 	
+	/*ela adding padding to meta elements in small and medium view (but not large view) */
+	span { 
+            padding-left:.5em;
+        }
+	span:first-child{ 
+            padding-left:inherit;
+        }
+    @media @large {
+	    span { 
+            padding-left:inherit;
+        }        
+    }
+    
+    
 	@media @large {
 		text-transform: uppercase;
 		float: left;
