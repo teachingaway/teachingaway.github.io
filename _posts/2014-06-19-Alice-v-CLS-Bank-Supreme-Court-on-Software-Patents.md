@@ -2,7 +2,7 @@
 layout: post
 title: "The Supreme Court on Software Patents."
 summary: "In Alice v. CLS Bank, the Supreme Court invalidated a patent on software for intermediated business transactions, finding that it was a mere abstract idea. But the Court doesn't provide a clear test for 'abstractness.' " 
-tags: [patent litigation, patent trolls]
+tags: [patent litigation, software patents]
 author: adler
 image:
   feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
@@ -15,7 +15,9 @@ share: true
 
 <p class="big-text">Software that simply implements basic business transactions cannot be patented. The Supreme Court confirmed this basic principle in today's Alice v. CLS Bank ruling. However the Court did not make any sweeping changes to the patent system.</p> 
 
-While the Supreme Court invalidated CLS Bank's particular software patent, it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
+The Supreme Court invalidated CLS Bank's particular software patent, but it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
+
+The software patent for intermediated business transactions was invalid because it was a mere "abstract idea." Unfortunately, the unanimous decision did not provide much guidance on when an idea is too abstract to sustain a software patent.
 
 <img src="/../images/Alice-v-CLS-diagram.png">
 
