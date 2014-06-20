@@ -13,11 +13,11 @@ image:
 
 <h1 class="entry-title">Lawyers for Technology and Design Innovators</h1>
 
-<p class='big-text'>Experienced lawyers serving leading technology clients, from venture-backed startups to national brands.</p>
+<p class='big-text'>Experienced IP and Business lawyers serving leading technology clients, from venture-backed startups to national brands.</p>
 
 Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial expertise rarely found in a small law firm.  We raise capital, structure deals, secure patents and register trademarks.
 
-We provide modern legal services to [innovative clients](/clients).
+We provide modern legal services to [dynamic clients](/clients).
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>

@@ -21,7 +21,7 @@ The software patent for intermediated business transactions was invalid because 
 
 > drawn to the concept of intermediated settlement, i.e., the use of a third party to mitigate settlement risk. Like the risk hedging in *Bilski*, the concept of intermediated settlement is “‘a fundamental economic practice long prevalent in our system of commerce.’”
 
-<img src="/../images/Alice-v-CLS-diagram.png">
+<img src="/../images/Alice-v-CLS-fig1.png">
 
 ## A Framework for Software Patents? 
 
@@ -32,6 +32,8 @@ So we now know that software for risk hedging is an abstract idea (*Bilski*) and
 We do know to apply the Mayo two-part test. "First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts." (i.e., abstract ideas, law of nature, etc.) If so, we ask if there is anything else in the claim that raises it from an abstract idea to a patent-eligible invention? "To answer that question, we consider the elements of each claim both individually and 'as an ordered combination' to determine whether the additional elements 'transform the nature of the claim' into a patent-eligible application. This second step is the "search for an inventive concept.” That is, "an element or combination of elements that is sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the ineligible concept itself.”
 
 So we have a framework for asking the question. But Alice doesn't provide the more important element: the guidance for answering the question. 
+
+<img src="/../images/Alice-v-CLS-fig2.png">
 
 - - - 
 
