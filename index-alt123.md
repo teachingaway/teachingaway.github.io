@@ -1,6 +1,7 @@
 ---
 layout: page
 title: 
+permalink: /test/
 description: "Lawyers for Technology and Design Innovators."
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
@@ -21,9 +22,23 @@ Our professionals possess a combination of intellectual property and commercial 
 
 Blog
 
+
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+  <li>
+    <article>
+        <a href="{{ site.url }}{{ post.url }}">
+            <span class="post-list-title">
+                {{ post.title }} 
+            </span>
+            <span class="entry-date">
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                </time>
+            </span>
+        </a>
+    </article>
+</li>
 {% endfor %}
 </ul>
 

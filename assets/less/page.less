@@ -457,15 +457,32 @@ span + .entry-title {
 		border-bottom: 1px solid fade(@black,10);
 		.clearfix();
 	}
+	/*
 	a > span {
 		float: right;
 	}
+	*/
+	.entry-date {float:right;}
+	
+	/*added this .post-list-title style to make long titles wrap better before the dates. ELA */
+	@media @medium {
+	    .post-list-title {
+	        display: inline-block;
+	        max-width: 75%;
+	        }  
+	}
+    /*added the following .post-list-summary style. ELA*/
+    .post-list-summary {
+        float: left;
+    }
+    
+	/* not sure why the font-size is smaller here. 
 	a {
 	    .font-rem(18);
 	}
-
+    */
 	.entry-date {
-		.font-rem(14);
+		.font-rem(16);
 		padding-top: 3px; // this horiz-aligns the date to the title. ela. 
 		text-transform: uppercase;
 		display: none;

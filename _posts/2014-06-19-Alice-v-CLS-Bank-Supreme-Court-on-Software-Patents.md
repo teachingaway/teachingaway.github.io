@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Alice v. CLS Bank: Supreme Court on Software Patents"
+title: "Alice v. CLS Bank"
+summary: "Supreme Court on software patents. Some initial takes from around the web and the full text of the decision." 
 tags: [patent litigation, patent trolls]
 author: adler
 image:
