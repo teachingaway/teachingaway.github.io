@@ -474,6 +474,10 @@ span + .entry-title {
     /*added the following .post-list-summary style. ELA*/
     .post-list-summary {
         float: left;
+        color: lighten(@text-color, 40%);
+        @media @medium{
+            max-width: 75%;
+        }
     }
     
 	/* not sure why the font-size is smaller here. 
