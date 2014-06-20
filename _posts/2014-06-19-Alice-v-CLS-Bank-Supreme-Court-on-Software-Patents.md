@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Alice v. CLS Bank: the Supreme Court on Software Patents."
-summary: "A patent on software for intermediated business transactions is invalidated as a mere abstract idea. But the Court doesn't provide a clear test for when software is too abstract to merit a patent." 
+title: "Alice v. CLS Bank: Supreme Court on Software Patents."
+summary: "A patent on software for intermediated business transactions is invalidated as a mere abstract idea. But the Court doesn't provide a clear test for 'abstractness.' " 
 tags: [patent litigation, patent trolls]
 author: adler
 image:
