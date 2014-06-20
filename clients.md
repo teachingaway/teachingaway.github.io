@@ -13,6 +13,8 @@ image:
 
 We represent clients who want to make a mark on the world. Our clients are entrepreneurs who work under conditions of uncertainty, and in competition with incumbents that are structurally opposed to change. We understand the challenge from direct experience.
 
+- - - 
+
 **Software and Technology Startups**
 
 <figure class="third">
