@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Supreme Court on Software Patents."
-summary: "In Alice v. CLS Bank, the Supreme Court invalidates a software patent for intermediated settlement, finding that it was a mere abstract idea. " 
+summary: "In Alice v. CLS Bank, the Supreme Court invalidates a software patent as a mere abstract idea. But what guidance does it provide for future software patents?" 
 tags: [patent litigation, software patents]
 author: adler
 image:
