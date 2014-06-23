@@ -13,31 +13,56 @@ share: true
 ---
 
 
-<p class="big-text">Basic business transactions are abstract ideas that cannot be patented, even if implemented in software. The Supreme Court confirmed this principle in today's <em>Alice v. CLS Bank</em> ruling. However the Court did not invalidate all software patents, and it did not provide clear guidance for distinguishing between software that merely implements an abstract idea and patent-eligible software.</p> 
+<p class="big-text">Basic business transactions are abstract ideas that cannot be patented, even if implemented in software. The Supreme Court confirmed this principle in today's <em>Alice v. CLS Bank</em> ruling. However, the Court did not invalidate all software patents, and it did not provide clear guidance for distinguishing between software that merely implements an abstract idea and patent-eligible software.</p> 
 
 The Supreme Court invalidated CLS Bank's particular software patent, but it acknowledged that *software can be patented.*  "There is no dispute...  many computer-implemented claims are formally addressed to patent-eligible subject matter." 
 
-The software patent for intermediated business transactions was invalid because it was a mere "abstract idea." The patent was 
+CLS Bank's patent for intermediated business transactions was invalid because it was a mere "abstract idea." The patent was for: 
 
-> drawn to the concept of intermediated settlement, i.e., the use of a third party to mitigate settlement risk. Like the risk hedging in *Bilski*, the concept of intermediated settlement is “‘a fundamental economic practice long prevalent in our system of commerce.’”
+> the use of a third party to mitigate settlement risk. Like the risk hedging in *Bilski*, the concept of intermediated settlement is “‘a fundamental economic practice long prevalent in our system of commerce.’”
 
 <img src="/../images/Alice-v-CLS-fig1.png">
 
 ## A Framework for Software Patents? 
 
-So we now know that software for risk hedging is an abstract idea (*Bilski*) and software for intermediated settlement is an abstract idea (*Alice v. CLS Bank*). But what about other software? When is it too abstract to support a patent? The decision doesn't provide much guidance: 
+So we now know that software for risk hedging is an abstract idea (*Bilski*) and software for intermediated settlement is an abstract idea (*Alice v. CLS Bank*). Professor Merges [points out](http://www.scotusblog.com/2014/06/symposium-go-ask-alice-what-can-you-patent-after-alice-v-cls-bank/) that,  
+
+> The fundamental flaw inherent in these claims is quite apparent:  they are too broad, they cover well-known practices, and they do so in a comprehensive way.  
+
+But what about other software? When is it too abstract to support a patent? The *Alice* decision doesn't provide much guidance: 
 
 > We need not labor to delimit the precise contours of the ‘abstract ideas’ category in this case.
 
+
 We do know to apply the Mayo two-part test. "First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts." (i.e., abstract ideas, law of nature, etc.) If so, we ask if there is anything else in the claim that raises it from an abstract idea to a patent-eligible invention? "To answer that question, we consider the elements of each claim both individually and 'as an ordered combination' to determine whether the additional elements 'transform the nature of the claim' into a patent-eligible application. This second step is the "search for an inventive concept.” That is, "an element or combination of elements that is sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the ineligible concept itself.”
 
-So we have a framework for asking the question. But Alice doesn't provide the more important element: the guidance for answering the question. 
+So we have a framework for asking the question. But *Alice* doesn't provide the more important element: the guidance for answering the question. 
 
 <img src="/../images/Alice-v-CLS-fig2.png">
 
+What we get from the Court is simply that, 
+
+> the claims at issue amount to “nothing significantly more” than an instruction to apply the abstract idea of intermediated settlement using some unspecified, generic computer. Under our precedents, that is not *“enough”* to transform an abstract idea into a patent-eligible invention.
+
+## Conclusion: the War Will Go On
+
+*Alice* killed *a* software patent, but it didn't kill off *all* software patents. *Alice* provided a framework for analysis, and a lodestar patent, but didn't provide much further guidance for applying the framework to future cases. 
+
+Professor Duffy concludes, tongue-in-cheek, by quoting from the 1965 movie *The Battle of the Bulge*, 
+
+> The German panzer colonel believes he has broken through the Allied lines, and exalts: “We have done it!”  His attendant asks, “We have won the war?” The colonel: “no.”  Attendant: “You mean we have lost?”  Again, the colonel replies, “no.”  The confused attendant asks, “What is happening?” The happy answer from the colonel:  “The best thing possible is happening – [the war will go on!”](http://youtu.be/tjXjGYqYW5o?t=25s)
+
+And so the software patent war will go on (not the best thing possible). 
+
+I've pasted some links below, followed by the full text of the Supreme Court decision. 
+
 - - - 
 
-Some early thoughts from around the internet: 
+## Link Roundup: 
+
+* Prof. Robert Merges, ["Go ask Alice — what can you patent after Alice v. CLS Bank?"](http://www.scotusblog.com/2014/06/symposium-go-ask-alice-what-can-you-patent-after-alice-v-cls-bank/).
+
+* Prof. John Duffy, [The uncertain expansion of judge-made exceptions to patentability](http://www.scotusblog.com/2014/06/opinion-analysis-the-uncertain-expansion-of-judge-made-exceptions-to-patentability)
 
 * [Adam Liptak for the NY Times](http://www.nytimes.com/2014/06/20/technology/supreme-court-rules-against-alice-corp-in-patent-case.html) with a fairly neutral take on the opinion. 
 
