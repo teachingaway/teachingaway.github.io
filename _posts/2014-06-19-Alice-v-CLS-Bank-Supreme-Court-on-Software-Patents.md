@@ -36,13 +36,11 @@ But what about other software? When is it too abstract to support a patent? The 
 
 We do know to apply the Mayo two-part test. "First, we determine whether the claims at issue are directed to one of those patent-ineligible concepts." (i.e., abstract ideas, law of nature, etc.) If so, we ask if there is anything else in the claim that raises it from an abstract idea to a patent-eligible invention? "To answer that question, we consider the elements of each claim both individually and 'as an ordered combination' to determine whether the additional elements 'transform the nature of the claim' into a patent-eligible application. This second step is the "search for an inventive concept.” That is, "an element or combination of elements that is sufficient to ensure that the patent in practice amounts to significantly more than a patent upon the ineligible concept itself.”
 
-So we have a framework for asking the question. But *Alice* doesn't provide the more important element: the guidance for answering the question. 
-
-<img src="/../images/Alice-v-CLS-fig2.png">
-
-What we get from the Court is simply that, 
+So we have a framework for asking the question. But *Alice* doesn't provide the more important element: the guidance for answering the question.  What we get from the Court is simply that, 
 
 > the claims at issue amount to “nothing significantly more” than an instruction to apply the abstract idea of intermediated settlement using some unspecified, generic computer. Under our precedents, that is not *“enough”* to transform an abstract idea into a patent-eligible invention.
+
+<img src="/../images/Alice-v-CLS-fig2.png">
 
 ## Conclusion: the War Will Go On
 
@@ -50,7 +48,7 @@ What we get from the Court is simply that,
 
 Professor Duffy concludes, tongue-in-cheek, by quoting from the 1965 movie *The Battle of the Bulge*, 
 
-> The German panzer colonel believes he has broken through the Allied lines, and exalts: “We have done it!”  His attendant asks, “We have won the war?” The colonel: “no.”  Attendant: “You mean we have lost?”  Again, the colonel replies, “no.”  The confused attendant asks, “What is happening?” The happy answer from the colonel:  “The best thing possible is happening – [the war will go on!”](http://youtu.be/tjXjGYqYW5o?t=25s)
+> The German panzer colonel exalts: 'We have done it!'  His attendant asks, 'We have won the war?' The colonel: 'no.'  Attendant: 'You mean we have lost?'  Again, the colonel replies, 'no.'  The confused attendant asks, 'What is happening?' The happy answer from the colonel:  'The best thing possible is happening – [the war will go on](http://youtu.be/tjXjGYqYW5o?t=25s)!'
 
 And so the software patent war will go on (not the best thing possible). 
 
