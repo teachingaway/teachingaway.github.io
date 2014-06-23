@@ -185,7 +185,9 @@ body {
 // --------------------------------------------------
 #main {
 	.clearfix();
-	margin-top:20px; /* ela adding this to balance space above and below circle logo*/
+	@media @medium {
+	    margin-top:20px; /* ela adding this to balance space above and below circle logo*/
+	    }
 }
 .entry,
 .hentry {
@@ -247,11 +249,11 @@ span + .entry-title {
 	/* font-family: @alt-font; */
 	font-family: @base-font; 
 	font-style: italic;
-	.font-rem(36);
+	.font-rem(30);
 	line-height: 1;
 	/* font-weight: 400; */
 	/*  ela reducing margin-top. */
-	margin-top: 2rem;
+	margin-top: 1rem;
 	letter-spacing: -1px;
 	a {
 		color: @black;
