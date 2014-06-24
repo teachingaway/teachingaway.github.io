@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Nautilus v. Biosig: Indefinite Patent Claims"
-description: "patent indefiniteness at the Supreme Court."
+title: "The Supreme Court on Indefinite Patent Claims"
+summary: "<em>Nautilus v. Biosig</em> makes it easier to invalide patent claims for being too broad and non-specific."
 category: articles
 tags: [patent, supreme court]
 author: adler

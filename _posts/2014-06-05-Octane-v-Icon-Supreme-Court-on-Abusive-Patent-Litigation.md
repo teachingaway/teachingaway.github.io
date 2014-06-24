@@ -1,6 +1,8 @@
 ---
 layout: post
-title: "Octane v. Icon: Supreme Court on Abusive Patent Litigation"
+title: "The Supreme Court on Abusive Patent Litigation"
+summary: "<em>Octane v. Icon</em> makes it easier for judges to punish plaintiffs that file outrageous patent lawsuits. Will this deter patent trolls?" 
+
 tags: [patent litigation, patent trolls]
 author: adler
 image:
@@ -14,7 +16,7 @@ share: true
 
 <p class="big-text">It is now easier to make the losing party pay attorneys fees in patent litigation. In yesterday's <em>Octane v. Icon</em> decision (572 U. S. _ (2014)), the Supreme Court replaced the rigid fee shifting requirements of <em><a href="http://scholar.google.com/scholar_case?case=7993347734568669524" target="_blank">Brooks Furniture v. Dutailer</a></em> with a flexible "totality of the circumstances" standard.</p>
 
-<h3>The Case</h3>
+### The Case
 
 Icon, a exercise equipment company, sued Octane, a smaller competitor, for patent infringement. Octane won, but only after spending $1.3 million in legal fees.  Octane asked the trial judge to order Icon to reimburse it for the expense. The trial judge denied the request, applying the strict <em>Brooks Furniture</em> standard. The Federal Circuit affirmed. But the Supreme Court, in a 9-0 decision, overturned the two lower courts.
 <img class="big-image" src="/images/icon-patent.jpg" alt="patent at issue in Octane v. Icon supreme court case" />
@@ -31,21 +33,28 @@ Under the new standard, attorneys fees can be awarded against a plaintiff with a
 Attorneys fees could also be awarded against a party using <em>unreasonable</em> litigation tactics. Patent trolls that file tens or hundreds of lawsuits without pre-filing due diligence may acting unreasonably.
 <h3>The Old Fee Shifting Standard was too Rigid</h3>
 The Court criticized the old fee-shifting standard. Under the old standard, a case was only “exceptional” (and therefore worthy of fee shifting) if there was “litigation-related misconduct of an independently sanctionable magnitude” or “the litigation was both ‘brought in subjective bad faith’ and ‘objectively baseless.’ This formulation superimposes an inflexible framework onto statutory text that is inherently flexible.” (internal citation omitted).
-<h3>Patent Troll Litigation</h3>
+
+### Patent Troll Litigation
+
 Neither <a href="https://www.iconfitness.com/" target="_blank">Icon</a> nor <a href="https://www.octanefitness.com/" target="_blank">Octane</a> are patent trolls. Both of them make exercise equipment. But this decision should make patent trolls hesitate before filing lawsuits, especially the shotgun type of lawsuit that's filed against tens or hundreds of defendants without pre-filing due diligence.
 
-However, I suspect we will soon discover that most patent trolls are judgment proof. Even if a court orders a troll to pay a few million dollars in attorney's fees, the troll might just declare bankruptcy, and pay nothing. But at least it will lose its patents.
+However, I suspect we will soon discover that most patent trolls are judgment proof. They are generally shell companies. Even if a court orders one to pay, it might simply declare bankruptcy. 
 
 <i>Octane v. Icon</i> doesn’t solve the patent troll problem, but its one more step in the right direction.
 
 <hr />
+
 ### Links 
 
-<a href="http://www.nytimes.com/2014/04/30/business/two-rulings-may-curb-lawsuits-over-patents.html" target="_blank">NY Times Article</a>
+* Background: [Make patent Trolls Pay in Court](http://www.nytimes.com/2013/06/05/opinion/make-patent-trolls-pay-in-court.html), NY Times Op Ed by Chief Judge Randall Rader, Prof Colleen Chien and David Hricik. June 4, 2013. 
 
-<a href="http://www.scotusblog.com/case-files/cases/octane-fitness-v-icon-health-and-fitness/" target="_blank">SCOTUS Blog</a>
+* <a href="http://www.nytimes.com/2014/04/30/business/two-rulings-may-curb-lawsuits-over-patents.html" target="_blank">Two Rulings May Curb Lawsuits Over Patents</a>, NY Times. April 29, 2014. 
 
-<a href="http://patentlyo.com/patent/2014/04/discretion-attorney-litigation.html" target="_blank">PatentlyO</a>
+* <a href="http://www.scotusblog.com/case-files/cases/octane-fitness-v-icon-health-and-fitness/" target="_blank">SCOTUS Blog</a> collects the briefs and filings. 
+
+* [SCOTUS Blog](http://www.scotusblog.com/2014/04/opinion-recap-justices-want-federal-circuit-out-of-loop-on-fee-disputes-in-patent-cases/)'s Recap of the Decision.
+ 
+* Prof. Dennis Crouch's analysis of the decision on <a href="http://patentlyo.com/patent/2014/04/discretion-attorney-litigation.html" target="_blank">PatentlyO</a>. 
 
 <hr />
 

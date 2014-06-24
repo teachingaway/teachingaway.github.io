@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Supreme Court on Software Patents."
-summary: "In Alice v. CLS Bank, the Supreme Court invalidates a software patent as a mere abstract idea. But what guidance does it provide for future software patents?" 
+summary: "<em>Alice v. CLS Bank</em> may make it easier to invalidate software patents. Patents on 'abstract ideas' are invalid. But when is software just an abstract idea?" 
 tags: [patent litigation, software patents]
 author: adler
 image:
@@ -44,15 +44,15 @@ So we have a framework for asking the question. But *Alice* doesn't provide the 
 
 ## Conclusion: the War Will Go On
 
-*Alice* killed *a* software patent, but it didn't kill off *all* software patents. *Alice* provided a framework for analysis, and a lodestar patent, but didn't provide much further guidance for applying the framework to future cases. 
+*Alice* killed *a* software patent, but it didn't kill off *all* software patents. It provides a framework for analysis, and it provides a lodestar patent for comparison, but it didn't give much guidance for applying the framework in future cases. 
 
-Professor Duffy concludes, tongue-in-cheek, by quoting from the 1965 movie *The Battle of the Bulge*, 
+Professor John Duffy's analysis of the case concludes, tongue-in-cheek, by quoting from the 1965 movie *The Battle of the Bulge*, 
 
 > The German panzer colonel exalts: 'We have done it!'  His attendant asks, 'We have won the war?' The colonel: 'no.'  Attendant: 'You mean we have lost?'  Again, the colonel replies, 'no.'  The confused attendant asks, 'What is happening?' The happy answer from the colonel:  'The best thing possible is happening – [the war will go on](http://youtu.be/tjXjGYqYW5o?t=25s)!'
 
 And so the software patent war will go on (not the best thing possible). 
 
-I've pasted some links below, followed by the full text of the Supreme Court decision. 
+Below, I've pasted some links followed by the full text of the Supreme Court decision. 
 
 - - - 
 
