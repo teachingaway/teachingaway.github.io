@@ -6,7 +6,9 @@ tags: [attorneys]
 modified: 2014-06-05
 author: adler
 image:
-    feature: default-image.jpg
+  feature: /wide/default-image.png
+  credit: company folders
+  creditlink: 
 ---
 
 

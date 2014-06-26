@@ -3,8 +3,8 @@ layout: page
 permalink: /litigation/
 title: "Litigation"
 image:
-  feature: default-image.jpg 
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 ---
 

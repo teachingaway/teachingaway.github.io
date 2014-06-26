@@ -5,8 +5,8 @@ title: "Patent law basics"
 modified: 2014-06-04 20:33
 tags: [patent, trademark, intellectual property law]
 image:
-  feature: default-image.jpg 
-  credit: 
+  feature: /wide/default-image.png
+  credit: company folders 
   creditlink: 
 share: 
 ---

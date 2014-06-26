@@ -6,9 +6,8 @@ description: "Lawyers for Technology and Design Innovators"
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
 image:
-    feature: /wide/NYC-Skyline-Drawing.png
-
-
+    feature: /wide/default-image.png
+    credit: company folders
 
 ---
 

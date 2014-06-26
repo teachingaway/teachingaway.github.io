@@ -13,9 +13,9 @@ admission3: Eastern District of NY
 admission4: Washington State
 admission5: Western District of WA
 image:
-  feature: default-image.jpg
-  credit: 
-  creditlink: 
+  feature: /wide/default-image.png
+  credit: company folders
+  creditlink:  
 ---
 
 

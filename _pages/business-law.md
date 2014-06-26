@@ -5,8 +5,8 @@ title: "Business Law"
 modified: 2014-06-09 17:08
 tags: [mergers and acquisitions, venture capital, equity incentives]
 image:
-  feature: 
-  credit: 
+  feature: /wide/default-image.png
+  credit: company folders
   creditlink: 
 share: 
 ---

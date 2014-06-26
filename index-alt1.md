@@ -19,7 +19,7 @@ image:
 
 Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial expertise rarely found in a small law firm.  We raise capital, structure deals, secure patents and register trademarks.
 
-Our relationships in the legal, technology and venture capital communities help connect clients to investors and engineers. For certain early stage companies, we offer deferred fee arrangements.    
+Our relationships in the venture capital and technology communities help connect clients to useful resources. For certain early stage companies, we offer deferred fee arrangements.   
 
 - - - 
 

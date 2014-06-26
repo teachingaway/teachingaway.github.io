@@ -13,9 +13,9 @@ admission3:
 admission4:
 admission5: 
 image:
-  feature: default-image.jpg
-  credit: 
-  creditlink:
+  feature: /wide/default-image.png
+  credit: company folders
+  creditlink: 
 
 ---
 

@@ -4,7 +4,7 @@ permalink: /articles/
 title: Articles
 description: "An archive of posts sorted by date."
 image:
-  feature: default-image.jpg
+  feature: /wide/default-image.png
   credit: 
   creditlink: 
 ---

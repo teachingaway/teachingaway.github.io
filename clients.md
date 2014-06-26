@@ -3,8 +3,8 @@ layout: page
 permalink: /clients/
 title: ""
 image:
-  feature: default-image.jpg 
-  credit: 
+  feature: /wide/default-image.png
+  credit: company folders
   creditlink: 
 ---
 
