@@ -1,3 +1,13 @@
+/* Contents 
+1 Body
+2 Top Navigation
+3 Masthead
+4 Main
+
+*/
+
+
+
 body {
 	margin: 0;
 	padding: 0;
@@ -15,7 +25,7 @@ body {
 }
 
 
-// Top Navigation
+// 2 Top Navigation
 // --------------------------------------------------
 .navigation-wrapper {
 	text-align: center;
@@ -25,7 +35,10 @@ body {
 		vertical-align: top;
 		/* original margin :
 		/ margin: 0 0 50px; */
-		margin: 0 0 20px;
+		
+		/* ELA First Margin (for spacing between menu and centered circle logo
+		margin: 0 0 20px; */
+		margin: 0 0 0px;
 		padding: 4px 20px;
 		background-color: @black;
 		.rounded(0 0 10px 10px);
@@ -101,15 +114,17 @@ body {
 // Masthead
 // --------------------------------------------------
 .masthead {
-	// lowering margin-top for mobile-view
-	// margin-top: 40px;
+/* 
+	margin-top: 40px;
+	ELA lowering margin-top for mobile-view:
+ */
 	margin-top: 10px;
 	.clearfix();
 	@media @medium {
 		margin-top: 0;
 	}
 	.wrap {
-		text-align: center;
+		/* text-align: center; */
 		max-width: 27.5em;
 		padding-right: 20px;
 		padding-left: 20px;
@@ -138,16 +153,19 @@ body {
 	    /* original border:
 	    border: 4px solid @white;*/
 	    .rounded(100px);
+		
 		@media @medium {
 			width: 150px;
 			height: 150px;
 			.rounded(150px);
 		}
+		
 		@media @large {
 			width: 200px;
 			height: 200px;
 			.rounded(200px);
 		}
+		
 	}
 }
 .site-title {
@@ -249,17 +267,19 @@ span + .entry-title {
 	/* font-family: @alt-font; */
 	font-family: @base-font; 
 	font-style: italic;
-	.font-rem(30);
+	.font-rem(26);
 	line-height: 1;
 	/* font-weight: 400; */
 	/*  ela reducing margin-top. */
 	margin-top: 1rem;
 	letter-spacing: -1px;
+	text-align: left;
 	a {
 		color: @black;
 		text-decoration: underline;
 	}
 	@media @medium {
+	    text-align: center;
 		max-width: 640px;
 		.font-rem(48);
 		letter-spacing: -2px;
@@ -271,6 +291,7 @@ span + .entry-title {
 		letter-spacing: -3px;
 	}
 }
+
 .entry-wrapper {
 	// margin: 0 auto 3em;
 	margin: .25em auto 1em;
@@ -412,6 +433,11 @@ span + .entry-title {
 
 }
 
+
+
+/* Entry Content 
+------------------*/
+
 .entry-content {
 	max-width: 640px;
 	width: 100%;
@@ -436,19 +462,23 @@ span + .entry-title {
 		border-bottom-width: 0;
 	}
 }
+
 // Disqus Comments
 #disqus_thread {
 	margin-top: 2em;
 }
+
 // Pagination
 .pagination {
 	text-align: center;
 }
+
 // Page layout
 #home,
 #page {
 	.entry-title {
-		text-align: center;
+		/* text-align: center; 
+		ELS moved text-aline to .entry-title above */
 		max-width: 100%;
 	}
 	.entry-content {
@@ -457,6 +487,8 @@ span + .entry-title {
 		}
 	}
 }
+
+
 // Post index layout
 .post-list {
 	margin: 0;
@@ -506,6 +538,8 @@ span + .entry-title {
 		}
 	}
 }
+
+
 // Tag index
 .tag-box {
 	list-style: none;

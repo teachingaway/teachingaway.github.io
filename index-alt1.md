@@ -1,12 +1,12 @@
 ---
 layout: page
 title: 
-permalink: /alt/
+permalink: /alt1/
 description: "Lawyers for Technology and Design Innovators"
 tags: [lawyers, patents, trademarks, MPEP]
 modified: 2014-06-04
 image:
-    feature: /texture/white_texture.png
+    feature: /wide/computer-hardware-free-stock-vector-set-motherboard.pngIndexed.png
 
 
 
@@ -19,9 +19,11 @@ image:
 
 Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial expertise rarely found in a small law firm.  We raise capital, structure deals, secure patents and register trademarks.
 
+Our relationships in the legal, technology and venture capital communities help connect clients to investors and engineers. For certain early stage companies, we offer deferred fee arrangements.    
+
 - - - 
 
-We provide modern legal services to [dynamic clients](/clients).
+**We provide modern legal services to [dynamic clients](/clients).**
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
@@ -35,8 +37,6 @@ We provide modern legal services to [dynamic clients](/clients).
 </figure>
 
 - - - 
-
-Blog
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
@@ -59,7 +59,5 @@ Blog
 </li>
 {% endfor %}
 </ul>
-- - - 
-Located in Dumbo, Brooklyn's digital district. 
 
-<iframe class="google-maps" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3024.6791757542383!2d-73.99045970000006!3d40.70306290000001!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25a313e4fd337%3A0xc024c97fc54f6963!2s45+Main+St!5e0!3m2!1sen!2sus!4v1402924084152"  frameborder="0" style="border:0"></iframe>
+- - - 
