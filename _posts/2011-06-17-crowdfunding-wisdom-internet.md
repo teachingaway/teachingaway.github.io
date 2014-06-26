@@ -4,7 +4,7 @@ title: "Crowdfunding and the Wisdom of the Internet"
 tags: [crowdfunding]
 author: skocilich
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true

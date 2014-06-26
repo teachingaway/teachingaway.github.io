@@ -4,7 +4,7 @@ title: "Crowdfunding Update: Constructive Criticism of the Senate JOBS Act"
 tags: [crowdfunding]
 author: skocilich
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true

@@ -4,7 +4,7 @@ title: "Brevity is the soul of wit, not of law, Washington State crowdfunding"
 tags: [crowdfunding]
 author: skocilich
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true

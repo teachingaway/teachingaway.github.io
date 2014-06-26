@@ -4,7 +4,7 @@ title: "Facebook Buys Oculus and its Patents"
 tags: [oculus, patent portfolio]
 author: adler
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true

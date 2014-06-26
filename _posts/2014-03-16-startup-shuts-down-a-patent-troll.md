@@ -4,7 +4,7 @@ title: "Startup Shuts Down a Patent Troll"
 tags: [patent troll, startups, litigation]
 author: adler
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true

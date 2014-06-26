@@ -4,7 +4,7 @@ title: "Cofounder Collaboration"
 tags: [docracy, startups]
 author: vermillion
 image:
-  feature: default-image.png
+  feature: /wide/default-image.png
   credit: Company Folders
   creditlink: 
 comments: true
