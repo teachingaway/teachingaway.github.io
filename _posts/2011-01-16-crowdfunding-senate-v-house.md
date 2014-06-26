@@ -4,8 +4,8 @@ title: "Crowdfunding: Senate v. House (Advantage Senate)"
 tags: [crowdfunding]
 author: skocilich
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

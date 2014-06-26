@@ -4,8 +4,8 @@ title: "Bose v. SDI - Speaker Patents at the Federal Circuit"
 tags: [patent, claim construction, user interface]
 author: adler
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

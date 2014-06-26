@@ -4,8 +4,8 @@ title: "Posner: A Grim Capitalist Logic Drives the Bluebook"
 tags: [blue book, legal citation, posner]
 author: adler
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

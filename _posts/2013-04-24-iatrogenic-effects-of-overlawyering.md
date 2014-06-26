@@ -4,8 +4,8 @@ title: "The iatrogenic effects of overlawyering"
 tags: [docracy, startups]
 author: vermillion
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

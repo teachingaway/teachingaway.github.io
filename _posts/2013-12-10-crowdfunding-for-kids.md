@@ -4,8 +4,8 @@ title: "Silly lawyer, crowdfunding is for kids"
 tags: [crowdfunding]
 author: skocilich
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

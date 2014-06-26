@@ -4,8 +4,8 @@ title: "Surfcast v. Microsoft: User Interface Patents"
 tags: [patent, speakers, claim construction]
 author: adler
 image:
-  feature: default-image.jpg
-  credit: 
+  feature: default-image.png
+  credit: Company Folders
   creditlink: 
 comments: true
 share: true

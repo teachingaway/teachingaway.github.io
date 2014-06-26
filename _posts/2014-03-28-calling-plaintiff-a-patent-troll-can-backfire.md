@@ -4,8 +4,8 @@ title: "Calling Plaintiff a 'Patent Troll' Can Backfire"
 tags: [patent litigation, patent trolls]
 author: adler
 image:
-  feature: default-image.jpg
-  credit:
+  feature: default-image.png
+  credit: Company Folders
   creditlink:
 comments: true
 share: true
