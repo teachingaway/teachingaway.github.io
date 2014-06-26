@@ -168,6 +168,23 @@ body {
 		
 	}
 }
+
+/* ELA Added this style to bump the title and description up to the same line as the circle logo */
+.title-and-description-wrapper{
+    display: inline-block; 
+    margin-left: .25em; 
+    max-width: 150px;
+    @media @medium{
+        margin-top: 2em;
+        margin-left: 2em;
+        max-width: 600px;
+        }
+    @media @large{
+        margin-top: 3em;
+        margin-left: 4em;
+        }
+}
+
 .site-title {
 	margin-bottom: 0;
 	-webkit-animation-duration: 1s;
@@ -180,6 +197,17 @@ body {
     animation-delay: .75s;	
 	a { color: @black; }
 }
+
+/* ELA added h1.site-style to size the title to fit to the right of the cirle logo */
+h1.site-title {
+	display: none;
+	.font-rem(20);
+	@media @medium {
+	    display: inline; 
+	    .font-rem(38);	        
+	}
+}
+
 .site-description {
 	margin-top: 0;
 	font-family: @alt-font;
@@ -193,7 +221,7 @@ body {
     -webkit-animation-delay: 1s;
     -moz-animation-delay: 1s;
     -o-animation-delay: 1s;
-    animation-delay: 1s;
+    animation-delay: 1s;	
 	@media @medium {
 		.font-rem(20);
 	}
