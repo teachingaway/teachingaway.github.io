@@ -2,11 +2,11 @@
 layout: page
 title: 
 permalink: /location/
-description: "Lawyers for Technology and Design Innovators"
+description: "IP and Business Lawyers in Brooklyn, NY"
 image:
-    feature: /wide/NYC-Skyline-Drawing.png
-
-
+  feature: /wide/default-image.png
+  credit: Company Folders
+  creditlink: 
 
 ---
 

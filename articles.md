@@ -5,7 +5,7 @@ title: Articles
 description: "An archive of posts sorted by date."
 image:
   feature: /wide/default-image.png
-  credit: 
+  credit: Company Folders
   creditlink: 
 ---
 
