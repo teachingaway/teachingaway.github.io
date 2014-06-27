@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Judge Posner Reviews the Bluebook"
-summary: "and concludes, 'A grim capitalist logic thus drives the malignant growth of The Bluebook.' "
+summary: " 'A grim capitalist logic thus drives the malignant growth of The Bluebook.' "
 tags: [blue book, legal citation, posner]
 author: adler
 image:
