@@ -5,8 +5,8 @@ title: ""
 modified: 2014-06-04 20:33
 tags: [litigation, patent, trademark, intellectual property law]
 image:
-  feature: default-image.png 
-  credit: 
+  feature: /wide/default-image.png
+  credit: Company Folders
   creditlink: 
 share: 
 ---

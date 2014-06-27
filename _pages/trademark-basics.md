@@ -5,9 +5,9 @@ title: "Trademark Fundamentals"
 modified: 2014-06-04 20:33
 tags: [trademark, intellectual property law]
 image:
-  feature: default-image.jpg 
-  credit: 
-  creditlink: 
+  feature: /wide/default-image.png
+  credit: Company Folders
+  creditlink:  
 share: 
 ---
 
