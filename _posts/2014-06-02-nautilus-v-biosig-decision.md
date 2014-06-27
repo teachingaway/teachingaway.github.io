@@ -13,27 +13,22 @@ comments: true
 share: true
 ---
 
-Patents grant rights to an invention, and these rights are defined in the patent's "Claims." The "claims" define what's in and what's out. The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They might look like this: 
+<p class="big-text">In _Nautilus v. Biosig_, the Supreme Court raised the minimum level of "clarity and precision" required in patents. </p>
 
+Patents grant rights to an invention, and these rights are defined in the patent's "Claims."  The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They define what's in and what's out.
 
-<code>
-
+In theory, the claims are supposed to notify competitors about what technology requires a license and what doesn't. If its in the claim, buy a license. If its not in any patent claims, its public domain. In practice, its not so easy. Claims are difficult to read and understand, and their meaning is often ambiguous. 
 
     1. A multi-modal crowdfunding platform, comprising: 
-      a plurality of contextual back-links 
-      a prime number factorization engine, 
-      an API for gamified disruption-as-a-service, and
-      a peer-to-peer network for salting hashed rainbow tables. 
+       a plurality of contextual back-links 
+       a prime number factorization engine, 
+       an API for disruption-as-a-service, and
+       a peer-to-peer network for salting rainbow tables. 
 
-    2. The crowdfunding platform of claim 1, further comprising, 
-      a robust user experience for A/B testing curated moonshots. 
+    2. The platform of claim 1, further comprising, 
+       a robust experience for A/B testing curated moonshots. 
 
-
-In theory, the claims are supposed to notify competitors about what technology requires a license and what doesn't. If its in the claim, buy a license. If its not in any patent claims, its public domain. 
-
-In practice, its not so easy. Claims are difficult to read and understand, and their meaning is often ambiguous. Its not supposed to be this way. 
-
-The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention is "indefinite" and therefore invalid.  
+Its not supposed to be this way. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention is "indefinite" and therefore invalid.  
 
 <img  class="big-image" src="/../images/BioSig-patent.jpg" />
 
