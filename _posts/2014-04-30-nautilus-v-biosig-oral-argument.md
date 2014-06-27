@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Nautilus v. Biosig: Oral Arguments"
-summary: "The Supreme Court hears arguments about how specific patent claims need to be to define an invention."
+summary: "The Supreme Court hears arguments about the level of clarity and precision required in patent claims."
 category: articles
 tags: [patent, supreme court]
 author: adler
@@ -19,15 +19,23 @@ The patent involves exercise machines that measure heart rate.  Nautilus sells 
 
 "...a first live electrode and a first common electrode mounted on said first half in <strong>spaced relationship</strong> with each other..."
 
+- - - 
+
 tl;dr? Here's Mark Lemley's tweet summary of the oral argument:
 
 <blockquote class="twitter-tweet" lang="en"><a href="https://twitter.com/Rachael_IP">@Rachael_IP</a> Insolubly ambiguous is going down, but likely to be replaced with something like the Chevron "zone of reasonableness" test.
 
 — Mark Lemley (@marklemley) <a href="https://twitter.com/marklemley/statuses/460838607792521217">April 28, 2014</a></blockquote>
 
+[ed. note: on June 2, 2014, the Supreme Court raised the standard to "Reasonable Certainty"]
+
+- - - 
+
 Transcript below. <a href="http://www.supremecourt.gov/oral_arguments/argument_transcripts/13-369_4oc4.pdf">Official version here</a>.
 
 <img  class="big-image" src="/../images/BioSig-patent.jpg" />
+
+- - - 
 
 Monday, April 28, 2014
 

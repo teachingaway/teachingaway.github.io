@@ -17,7 +17,7 @@ share: true
 
 Patents grant rights to an invention, and these rights are defined in the patent's "Claims."  The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They define what's in and what's out.
 
-In theory, the claims are supposed to notify competitors about what technology requires a license and what doesn't. If its in the claim, buy a license. If its not in any patent claims, its public domain. In practice, its not so easy. Claims are difficult to read and understand, and their meaning is often ambiguous. 
+In theory, the claims are supposed to notify competitors about what technology requires a license and what doesn't. If its in the claim, buy a license. If its not in any patent claims, its public domain. In practice, its not so easy. Claims are difficult to read and understand, and their meaning is often ambiguous. They might look like this: 
 
     1. A multi-modal crowdfunding platform, comprising: 
        a plurality of contextual back-links 
@@ -27,6 +27,32 @@ In theory, the claims are supposed to notify competitors about what technology r
 
     2. The platform of claim 1, further comprising, 
        a robust experience for A/B testing curated moonshots. 
+
+Here's the [actual claim](https://www.google.com/patents/US5337753) at issue in this case: 
+
+    1. A heart rate monitor for use by a user 
+    in association with exercise apparatus and/or 
+	  exercise procedures, comprising;
+
+      an elongate member;
+
+      electronic circuitry including a difference 
+      amplifier having a first input terminal of a 
+      first polarity and a second input terminal  
+      of a second polarity opposite to said first polarity;
+
+      said elongate member comprising a first half 
+      and a second half;
+ 
+      a first live electrode and a first common 
+      electrode mounted on said first half in  
+      **spaced relationship** with each other;
+
+      a second live electrode and a second common 
+      electrode mounted on said second half in  
+      spaced relationship with each other;
+ 
+      [and so on for 350 more words]
 
 Its not supposed to be this way. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention is "indefinite" and therefore invalid.  
 
@@ -124,7 +150,7 @@ The parties differ, however, in their articulations of just how much imprecision
 
 Section 112, we have said, entails a "delicate balance." _Festo_, 535 U. S., at 731. On the one hand, the definiteness requirement must take into account the inherent limitations of language. See ibid. Some modicum of uncertainty, the Court has recognized, is the "price of ensuring the appropriate incentives for innovation." Id., at 732. One must bear in mind, moreover, that patents are "not addressed to lawyers, or even to the public generally," but rather to those skilled in the relevant art. _Carnegie Steel Co. v. Cambria Iron Co_., 185 U. S. 403, 437 (1902) (also stating that "any description which is sufficient to apprise [steel manufacturers] in the language of the art of the definite feature of the invention, and to serve as a warning to others of what the patent claims as a monopoly, is sufficiently definite to sustain the patent").[^5]
 
-At the same time, a patent must be precise enough to afford clear notice of what is claimed, thereby "'appris[ing] the public of what is still open to them.'" Markman, 517 U. S., at 373 (quoting McClain v. Ortmayer, 141 U. S. 419, 424 (1891)).[^6] Otherwise there would be "[a] zone of uncertainty which enterprise and experimentation may enter only at the risk of infringement claims." _United Carbon Co. v. Binney & Smith Co_., 317 U. S. 228, 236 (1942). And absent a meaningful definiteness check, we are told, patent applicants face powerful incentives to inject ambiguity into their claims. See Brief for Petitioner 30-32 (citing patent treatises and drafting guides). See also Federal Trade Commission, The Evolving IP Marketplace: Aligning Patent Notice and Remedies With Competition 85 (2011) (quoting testimony that patent system fosters "an incentive to be as vague and ambiguous as you can with your claims" and "defer clarity at all costs").[^7] Eliminating that temptation is in order, and "the patent drafter is in the best position to resolve the ambiguity in... patent claims." _Halliburton Energy Servs., Inc. v. M-I LLC_, 514 F. 3d 1244, 1255 (CA Fed. 2008). See also _Hormone Research Foundation, Inc. v. Genentech, Inc_., 904 F. 2d 1558, 1563 (CA Fed. 1990) ("It is a well-established axiom in patent law that a patentee is free to be his or her own lexicographer... .").
+At the same time, a patent must be precise enough to afford clear notice of what is claimed, thereby "'appris[ing] the public of what is still open to them.'" Markman, 517 U. S., at 373 (quoting McClain v. Ortmayer, 141 U. S. 419, 424 (1891)).[^6] Otherwise there would be "[a] zone of uncertainty which enterprise and experimentation may enter only at the risk of infringement claims." _United Carbon Co. v. Binney & Smith Co_., 317 U. S. 228, 236 (1942). And absent a meaningful definiteness check, we are told, patent applicants face powerful incentives to inject ambiguity into their claims. See Brief for Petitioner 30-32 (citing patent treatises and drafting guides). See also Federal Trade Commission, [The Evolving IP Marketplace: Aligning Patent Notice and Remedies With Competition](http://www.ftc.gov/sites/default/files/documents/reports/evolving-ip-marketplace-aligning-patent-notice-and-remedies-competition-report-federal-trade/110307patentreport.pdf) 85 (2011) (quoting testimony that patent system fosters "an incentive to be as vague and ambiguous as you can with your claims" and "defer clarity at all costs").[^7] Eliminating that temptation is in order, and "the patent drafter is in the best position to resolve the ambiguity in... patent claims." _Halliburton Energy Servs., Inc. v. M-I LLC_, 514 F. 3d 1244, 1255 (CA Fed. 2008). See also _Hormone Research Foundation, Inc. v. Genentech, Inc_., 904 F. 2d 1558, 1563 (CA Fed. 1990) ("It is a well-established axiom in patent law that a patentee is free to be his or her own lexicographer... .").
 
 To determine the proper office of the definiteness command, therefore, we must reconcile concerns that tug in opposite directions. Cognizant of the competing concerns, we read §112, ¶2 to require that a patent's claims, viewed in light of the specification and prosecution history, inform those skilled in the art about the scope of the invention with reasonable certainty. The definiteness requirement, so understood, mandates clarity, while recognizing that absolute precision is unattainable. The standard we adopt accords with opinions of this Court stating that "the certainty which the law requires in patents is not greater than is reasonable, having regard to their subject-matter." Minerals Separation, Ltd. v. Hyde, 242 U. S. 261, 270 (1916). See also United Carbon, 317 U. S., at 236 ("claims must be reasonably clear-cut"); Markman, 517 U. S., at 389 (claim construction calls for "the necessarily sophisticated analysis of the whole document," and may turn on evaluations of expert testimony).
 
@@ -160,7 +186,7 @@ APPENDIX
 
 [^6]: See also United Carbon Co. v. Binney & Smith Co., 317 U. S. 228, 236 (1942) ("The statutory requirement of particularity and distinctness in claims is met only when they clearly distinguish what is claimed from what went before in the art and clearly circumscribe what is foreclosed from future enterprise."); General Elec. Co. v. Wabash Appliance Corp., 304 U. S. 364, 369 (1938) ("The limits of a patent must be known for the protection of the patentee, the encouragement of the inventive genius of others and the assurance that the subject of the patent will be dedicated ultimately to the public.").
 
-[^7]: Online at http: www.//ftc.gov/sites/default/files/documents/reports/evolving-ip-marketplace-aligning-patent-notice-and-remediescompetition-report-federal-trade/110307 patentreport.pdf (as visited May 30, 2014, and available in Clerk of Court's case file).
+[^7]: Online at [http://www.ftc.gov/sites/default/files/documents/reports/evolving-ip-marketplace-aligning-patent-notice-and-remediescompetition-report-federal-trade/110307/patentreport.pdf](http://www.ftc.gov/sites/default/files/documents/reports/evolving-ip-marketplace-aligning-patent-notice-and-remedies-competition-report-federal-trade/110307patentreport.pdf) (as visited May 30, 2014, and available in Clerk of Court's case file).
 
 [^8]: See, e.g., Every Penny Counts, Inc. v. Wells Fargo Bank, N. A., ___ F. Supp. 2d ___, ___, 2014 WL 869092, *4 (MD Fla., Mar. 5, 2014) (finding that "the account," as used in claim, "lacks definiteness," because it might mean several different things and "no informed and confident choice is available among the contending definitions," but that "the extent of the indefiniteness... falls far short of the 'insoluble ambiguity' required to invalidate the claim").
 
