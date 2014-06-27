@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Posner: A Grim Capitalist Logic Drives the Bluebook"
+title: "Judge Posner Reviews the Bluebook"
+summary: "and concludes, 'A grim capitalist logic thus drives the malignant growth of The Bluebook.' "
 tags: [blue book, legal citation, posner]
 author: adler
 image:
@@ -11,7 +12,7 @@ comments: true
 share: true
 ---
 
-Judge Posner renews his disgust with the Bluebook in this <a title="Bluebook Blues" href="http://www.yalelawjournal.org/images/pdfs/940.pdf">recent Yale Law Review article.</a> The 12 pages of prose and sarcasm neatly eviscerate a cherished legal institution:
+Judge Posner renews his disgust with the Bluebook in this <a title="Bluebook Blues" href="http://www.yalelawjournal.org/review/the-bluebook-blues">recent Yale Law Review article.</a> The 12 pages of prose and sarcasm neatly eviscerate the widely loathed legal institution:
 
 <blockquote>The Bluebook is elaborate but not purposive. Form is prescribed for the sake of form, not of function. The vacuity and tendentiousness of so much legal reasoning are concealed by the awesome scrupulousness with which a set of intricate rules governing the form of citations is observed.</blockquote>
 
