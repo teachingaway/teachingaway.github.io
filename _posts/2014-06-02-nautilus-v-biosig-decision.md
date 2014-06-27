@@ -6,14 +6,14 @@ category: articles
 tags: [patent, supreme court]
 author: adler
 image:
-  feature: CourtEqualJustice--cc-Matt-Wade
+  feature: /wide/CourtEqualJustice--cc-Matt-Wade.jpg
   credit: Matt Wade
   creditlink: http://en.wikipedia.org/wiki/User:UpstateNYer
 comments: true
 share: true
 ---
 
-<p class="big-text">In _Nautilus v. Biosig_, the Supreme Court raised the minimum level of "clarity and precision" required in patents. </p>
+<p class="big-text">In <em>Nautilus v. Biosig</em>, the Supreme Court raised the minimum level of clarity and precision required in patent language.</p>
 
 Patents grant rights to an invention, and these rights are defined in the patent's "Claims."  The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They define what's in and what's out.
 
@@ -28,35 +28,35 @@ In theory, the claims are supposed to notify competitors about what technology r
     2. The platform of claim 1, further comprising, 
        a robust experience for A/B testing curated moonshots. 
 
-Here's the [actual claim](https://www.google.com/patents/US5337753) at issue in this case: 
+<img  class="big-image" src="/../images/BioSig-patent.jpg" />
+
+Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in this case: 
 
     1. A heart rate monitor for use by a user 
-    in association with exercise apparatus and/or 
-	  exercise procedures, comprising;
+       in association with exercise apparatus
+       and/or exercise procedures, comprising;
 
-      an elongate member;
+       an elongate member;
 
-      electronic circuitry including a difference 
-      amplifier having a first input terminal of a 
-      first polarity and a second input terminal  
-      of a second polarity opposite to said first polarity;
-
-      said elongate member comprising a first half 
-      and a second half;
+       electronic circuitry including a difference 
+       amplifier having a first input terminal of a 
+       first polarity and a second input terminal  
+       of a second polarity opposite to said first polarity;
  
-      a first live electrode and a first common 
-      electrode mounted on said first half in  
-      **spaced relationship** with each other;
+       said elongate member comprising a first half 
+       and a second half;
+  
+       a first live electrode and a first common 
+       electrode mounted on said first half in  
+       **SPACED RELATIONSHIP** with each other;
 
-      a second live electrode and a second common 
-      electrode mounted on said second half in  
-      spaced relationship with each other;
- 
-      [and so on for 350 more words]
+       a second live electrode and a second common 
+       electrode mounted on said second half in  
+       spaced relationship with each other;
+       [and so on for 350 more words]
 
-Its not supposed to be this way. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention is "indefinite" and therefore invalid.  
+Its not supposed to be this complicated. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention should be "indefinite" and therefore invalid.  
 
-<img  class="big-image" src="/../images/BioSig-patent.jpg" />
 
 
 ## Old Standard: Claim Can be Ambiguous, But Not "Insolubly Ambiguous." 
