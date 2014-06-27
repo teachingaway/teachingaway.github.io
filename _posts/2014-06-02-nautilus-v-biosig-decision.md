@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Supreme Court: Patent Claims Must Define Invention with Reasonable Certainty"
+title: "Supreme Court: Patents Must Define Invention with Reasonable Certainty"
 summary: "<em>Nautilus v. Biosig</em> makes it easier to invalide patent claims for being too broad and non-specific."
 category: articles
 tags: [patent, supreme court]
@@ -75,9 +75,9 @@ The Supreme Court raised the standard: patent claims must now describe the inven
 
 The Supreme Court acknowledged that the Patent Statute demands a minimum level of "clarity and precision", and this minimum level is "reasonable certainty."  
 
-## Litigation Details
+## Affect on Patent Litigation Procedure
 
-In patent litigation, the "indefiniteness" analysis is generally conducted at a "claim construction" hearing. This is a hearing in front of a judge, not a jury. But whenever a legal standard uses the word "reasonable", its secret language that the standard must be applied by a jury (if there is a jury). Since the new standard is "reasonable certainty", we may see the indefiniteness analysis move away from the "claim construction" hearing (before a judge) and into the trial (before a jury). 
+In patent litigation, the "indefiniteness" analysis is generally conducted at a "claim construction" hearing. This is a hearing in front of a judge, not a jury. But when a legal standard uses the word "reasonable", it generally means the standard must be applied by the jury (if there is a jury). Since the new standard for clarity in patent claims is "reasonable certainty", we may see the indefiniteness analysis move away from the "claim construction" hearing (before a judge) and into the trial (before a jury). 
 
 - - - 
 
