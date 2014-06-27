@@ -6,9 +6,9 @@ category: articles
 tags: [patent, supreme court]
 author: adler
 image:
-  feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
-  credit: Mark Fisher
-  creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
+  feature: CourtEqualJustice--cc-Matt-Wade
+  credit: Matt Wade
+  creditlink: http://en.wikipedia.org/wiki/User:UpstateNYer
 comments: true
 share: true
 ---
