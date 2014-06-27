@@ -16,9 +16,9 @@ image:
 
 <p class='big-text'>Experienced IP and Business lawyers serving leading technology clients, from venture-backed startups to national brands.</p>
 
-Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial expertise rarely found in a small law firm.  We raise capital, structure deals, secure patents and register trademarks.
+Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial law expertise rarely found in a small firm.  We raise capital, structure deals, secure patents and register trademarks.
 
-Our relationships in the venture capital and technology communities help connect clients to useful resources. For certain early stage companies, we offer deferred fee arrangements.   
+Our relationships in the venture capital and technology communities help connect clients to valuable resources. For certain early stage companies, we offer deferred fee arrangements.   
 
 - - - 
 
