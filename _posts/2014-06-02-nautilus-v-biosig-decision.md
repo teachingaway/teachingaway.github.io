@@ -28,7 +28,7 @@ In theory, the claims are supposed to notify competitors about what technology r
     2. The platform of claim 1, further comprising, 
        a robust experience for A/B testing curated moonshots. 
 
-<img  class="big-image" src="/../images/BioSig-patent.jpg" />
+<img src="/../images/BioSig-patent.jpg" />
 
 Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in this case: 
 
