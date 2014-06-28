@@ -17,7 +17,7 @@ share: true
 
 Patents grant rights to an invention, and these rights are defined in the patent's "Claims."  The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They define what's in and what's out.
 
-In theory, the claims are supposed to notify competitors about what technology requires a license and what doesn't. If its in the claim, buy a license. If its not in any patent claims, its public domain. In practice, its not so easy. Claims are difficult to read and understand, and their meaning is often ambiguous. They might look like this: 
+_In theory_, patent claims are supposed to notify competitors about what technology requires a license and what's public domain. If its described in a claim, its patented, and you need a license. If the technology is not described in any patent claims, its public domain. _In practice_, patent claims are difficult to read and understand, and their meaning is often ambiguous. They might look like this: 
 
     1. A multi-modal crowdfunding platform, comprising: 
        a plurality of contextual back-links 
@@ -27,10 +27,9 @@ In theory, the claims are supposed to notify competitors about what technology r
 
     2. The platform of claim 1, further comprising, 
        a robust experience for A/B testing curated moonshots. 
+       
 
-<img src="/../images/BioSig-patent.jpg" />
-
-Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in this case: 
+Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in Nautilus v. Biosig: 
 
     1. A heart rate monitor for use by a user 
        in association with exercise apparatus
@@ -57,7 +56,7 @@ Here's the [actual patent claim](https://www.google.com/patents/US5337753) at is
 
 Its not supposed to be this complicated. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention should be "indefinite" and therefore invalid.  
 
-
+<img src="/../images/BioSig-patent.jpg" />
 
 ## Old Standard: Claim Can be Ambiguous, But Not "Insolubly Ambiguous." 
 
