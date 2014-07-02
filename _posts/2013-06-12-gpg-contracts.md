@@ -4,7 +4,7 @@ title: "GPG Contracts"
 tags: [cryptography, bitcoin]
 author: vermillion
 image:
-  feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
+  feature: /wide/US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
   credit: Mark Fisher
   creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
 comments: 

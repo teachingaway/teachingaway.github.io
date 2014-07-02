@@ -4,7 +4,7 @@ title: "Good Business Lawyers Improve Client's Payoff Function"
 tags: [corporate law]
 author: vermillion
 image:
-  feature: US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
+  feature: /wide/US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
   credit: Mark Fisher
   creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
 comments: 
