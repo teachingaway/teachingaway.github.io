@@ -14,17 +14,19 @@ share: true
 
 The US Patent and Trademark Office issued the following [preliminary guidance for patent examiners](http://www.uspto.gov/patents/announce/alice_pec_25jun2014.pdf) in light of the Supreme Court's recent decision in _Alice v. CLS Bank_. 
 
-Patent Examiners are to follow a two-part test. First, determine whether the claim is directed to an "abstract idea." Abstract ideas are among the basic tools of scientific progress, and granting a patent on the basic tools will tend to impede scientific progress. 
+Patent Examiners are to follow a two-part test. _First_, determine whether the claim is directed to an "abstract idea." Abstract ideas are among the basic tools of scientific progress, and granting a patent on the basic tools will tend to impede scientific progress. Such patents are to be discourages. _Second_, if the patent claims are directed to an abstract idea, patent examiners will attempt to determine if the claims describe something **significantly more** than just the abstract idea itself. 
 
-While certain applications of abstract ideas are still patent-eligible, merely implementing the abstract idea on a computer is not. Some examples of patentable abstract ideas, including patentable software, include: 
+## Software Patent Applications 
+Some software will be considered a mere "abstract idea" and ineligible for patents. Other software will remain patentable. Software will be patentable if it amounts to **"significantly more"** than just an abstract idea. The memo puts "significantly more" in bold, so perhaps that means they plan to create a serious standard. Some examples of patentable , including patentable software, include: 
 
 * Software that improves another technology or technical field, 
 * Software that improves the functioning of the computer itself, 
 * Software patent claims that include meaningful limitations beyond generally linking the use of an abstract idea to a particular technological environment.
 
+## Memo Suggests that Fewer Software Patents Will Issue.  
 This USPTO Memo does not suggest a sea change in software patent examination procedure after Alice v. CLS. Instead, it suggests that software will be incrementally more difficult to patent, and that the Patent Office will work harder to reject patent applications on abstract software patents. 
  
-Gene Quinn offers his [pro-software patent view](http://www.ipwatchdog.com/2014/06/25/uspto-guidance-software-still-patentable/id=50178/).  
+Gene Quinn offers his [pro-software patent view](http://www.ipwatchdog.com/2014/06/25/uspto-guidance-software-still-patentable/id=50178/) of the Memo. 
 
 - - - 
 
@@ -64,8 +66,8 @@ Following _Alice Corp_., now analyze all claims (product and process) having an 
 As emphasized in _Alice Corp_., abstract ideas are excluded from eligibility based on a concern that monopolization of the basic tools of scientific and technological work might impede innovation more than it would promote it. At the same time, the courts have tread carefully in construing this exclusion because, at some level, all inventions embody, use, reflect, rest upon or apply abstract ideas and the other exceptions. Thus, an invention is not rendered ineligible simply because it involves an abstract concept. In fact, inventions that integrate the building blocks of human ingenuity into something more by applying the abstract idea in a meaningful way are eligible.
 Examples of abstract ideas referenced in Alice Corp. include:
 
-* Fundamental economic practices [^1]
-* Certain methods of organizing human activities [^2]
+* Fundamental economic practices,[^1]
+* Certain methods of organizing human activities,[^2]
 * "[A]n idea of itself"[^3], and,
 * Mathematical relationships/formulas. [^4]
 
@@ -79,13 +81,13 @@ If an abstract idea is present in the claim, determine whether any element, or c
 
 Limitations referenced in _Alice Corp_. that may be enough to qualify as "significantly more" **when recited in a claim with an abstract idea include**, as non-limiting or non-exclusive examples:
 
-* Improvements to another technology or technical fields[^5]
-* Improvements to the functioning of the computer itself[^6]
+* Improvements to another technology or technical fields,[^5]
+* Improvements to the functioning of the computer itself,[^6]
 * Meaningful limitations beyond generally linking the use of an abstract idea to a particular technological environment.[^7]
 
 Limitations referenced in _Alice Corp_. that are **not** enough to qualify as "significantly more" **when recited in a claim with an abstract idea** include, as non-limiting or non-exclusive examples:
 
-* Adding the words "apply it" (or an equivalent) with an abstract idea, or mere instructions to implement an abstract idea on a computers [^8]
+* Adding the words "apply it" (or an equivalent) with an abstract idea, or mere instructions to implement an abstract idea on a computers,[^8]
 * Requiring no more than a generic computer to perform generic computer functions that are well-understood, routine and conventional activities previously known to the
 industry.[^9]
 
