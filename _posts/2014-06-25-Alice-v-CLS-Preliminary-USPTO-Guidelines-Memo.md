@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "New Guidance on Software Patents ."
@@ -78,10 +77,16 @@ If there are no meaningful limitations in the claim that transform the exception
 After conducting the two-part analysis, proceed with examination of the claim, regardless of whether a rejection under § 101 has been made, to determine patentability in accordance with the other requirements of 35 U.S.c. § 101 (utility and double patenting), non-statutory double patenting, and §§ 112, 102, and 103.
 
 [^1]: Alice Corp., slip op. at 7·9: e.g., intermediated settlement, i.e., the use of a third party intermediary to mitigate settlement risk.
-[^2]: Id, slip op. at 10: e.g., a series of steps instructing how to hedge risk (citing Bilski v. Kappas, 561 U.S. 593, 599 (2010)).[^3]: Id., slip op. at 7-8: e.g., a principle, an original cause, a motive (citing _Gottschalk v. Benson_, 409 US. 63, 67 (1972) and _LeRoy v. Tatham_, 14 How. 156, 175 (1853)).
+[^2]: Id, slip op. at 10: e.g., a series of steps instructing how to hedge risk (citing Bilski v. Kappas, 561 U.S. 593, 599 (2010)).
+[^3]: Id., slip op. at 7-8: e.g., a principle, an original cause, a motive (citing _Gottschalk v. Benson_, 409 US. 63, 67 (1972) and _LeRoy v. Tatham_, 14 How. 156, 175 (1853)).
 [^4]: Id., slip op. at 8: e.g., a mathematical formula for computing alarm limits in a catalytic conversion process (_Parker v. Flook_. 437 U.S. 584, 594-595 (1978)), or a formula for converting binary-coded decimal numerals into pure binary form (Benson. 409 U.S. at 71-72).
+
 [^5]: Id., slip op. at 15: e.g., a mathematical formula applied in a specific rubber molding process (citing _Diamond v. Diehr_,4S0U.S. 175,177-178(1981)).
+
 [^6]: Id., slip op. at 15.
+
 [^7]: Id., slip op. at 16: noting that none of the hardware recited "offers a meaningful limitation beyond generally linking 'the use of the [method] to a particular technological environment,' that is, implementation via computers" (citing Bilski. 561 U.S. at 610, 611).
+
 [^8]: Id, slip op. at 12, 13: e.g., simply implementing a mathematical principle on a physical machine, namely a computer (citing _Mayo_. slip op., al 16).
+
 [^9]: Id. , slip op. at 15: e.g., using a computer to obtain data, adjust account balances, and issue automated instructions.
