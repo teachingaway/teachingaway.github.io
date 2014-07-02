@@ -12,21 +12,29 @@ comments: true
 share: true
 ---
 
-The US Patent and Trademark Office issued the following [preliminary guidance for patent examiners](http://www.uspto.gov/patents/announce/alice_pec_25jun2014.pdf) in light of the Supreme Court's recent decision in _Alice v. CLS Bank_. 
+The US Patent and Trademark Office issued [preliminary guidance for patent examiners](http://www.uspto.gov/patents/announce/alice_pec_25jun2014.pdf) in light of the Supreme Court's recent decision in _Alice v. CLS Bank_. The June 25, 2014 memo is copies in full below. 
 
-Patent Examiners are to follow a two-part test. _First_, determine whether the claim is directed to an "abstract idea." Abstract ideas are among the basic tools of scientific progress, and granting a patent on the basic tools will tend to impede scientific progress. Such patents are to be discourages. _Second_, if the patent claims are directed to an abstract idea, patent examiners will attempt to determine if the claims describe something **significantly more** than just the abstract idea itself. 
+In short, it instructs Patent Examiners to follow a two-part test. 
+1. Determine whether the claim is directed to an "abstract idea." Abstract ideas are among the basic tools of scientific progress, and granting a patent on the basic tools will tend to impede scientific progress. Such claims must meet a higher standard. 
+2. If the patent claims are directed to an abstract idea, patent examiners should determine if the claims describe something *significantly more* than just the abstract idea itself. 
 
 ## Software Patent Applications 
-Some software will be considered a mere "abstract idea" and ineligible for patents. Other software will remain patentable. Software will be patentable if it amounts to **"significantly more"** than just an abstract idea. The memo puts "significantly more" in bold, so perhaps that means they plan to create a serious standard. Some examples of patentable , including patentable software, include: 
+Some software will be considered a mere "abstract idea" and ineligible for patents. Other software will remain patentable. Software will be patentable if it amounts to *"significantly more"* than just an abstract idea. 
+
+Some examples of software claims that will remain patentable include: 
 
 * Software that improves another technology or technical field, 
 * Software that improves the functioning of the computer itself, 
 * Software patent claims that include meaningful limitations beyond generally linking the use of an abstract idea to a particular technological environment.
 
-## Memo Suggests that Fewer Software Patents Will Issue.  
-This USPTO Memo does not suggest a sea change in software patent examination procedure after Alice v. CLS. Instead, it suggests that software will be incrementally more difficult to patent, and that the Patent Office will work harder to reject patent applications on abstract software patents. 
+## Memo Suggests an Incremental Change: Slightly Fewer Software Patents Will Issue.  
+
+This USPTO Memo does not signal a sea change in software patent examination procedure. In fact, the memo explicitly states that there is no categorical change in the applicable patent law: 
+
+> Notably, Alice Corp. neither creates a per se excluded category of subject matter, such as software or business methods, nor imposes any special requirements for eligibility of software or business methods.
+
+But the memo emphasizes that claims to software inventions must do "significantly more" than just implement an abstract idea on a computer. This suggests that software will be incrementally more difficult to patent, and that the Patent Office will work somewhat harder to reject abstract software claims. 
  
-Gene Quinn offers his [pro-software patent view](http://www.ipwatchdog.com/2014/06/25/uspto-guidance-software-still-patentable/id=50178/) of the Memo. 
 
 - - - 
 
