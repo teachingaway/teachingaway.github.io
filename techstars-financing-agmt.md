@@ -169,8 +169,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <p>Email:</p>
 </div>
 <div class="sixcols">
-<p>ACCEPTED:</p>
-<p>NEWCO, INC.</p>
+<p>ACCEPTED: NEWCO, INC.</p>
 <p>By:</p>
 <p>Name: [President/CEO Name]</p>
 <p>Title: President</p>
@@ -178,11 +177,11 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <p>Telephone: [Telephone]</p>
 <p>Fax: [Fax]</p>
 <p>Email: [Email]</p>
-<p>EXHIBIT A</p>
-<p>CHARTER</p>
-<p>EXHIBIT B</p>
-<p>SCHEDULE OF EXCEPTIONS</p>
 </div>
+
+<p>EXHIBIT A: CHARTER</p>
+<p>EXHIBIT B: SCHEDULE OF EXCEPTIONS</p>
+
 </div>
 
 
