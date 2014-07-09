@@ -37,15 +37,14 @@ comment {
 </style>
 
 
-Some thoughts and explanation of the Techstars standard angel financing agreement. 
-
+Some thoughts and explanation of the Techstars standard "Angel Financing Agreement."
+ 
 - - - 
 
 <div class="contract">
-<p>Techstars Angel Financing Agreement</p>
-<p>NEWCO, INC.</p>
-<p>SERIES AA PREFERRED STOCK SUBSCRIPTION AGREEMENT</p>
-<p>THIS SERIES AA PREFERRED STOCK SUBSCRIPTION AGREEMENT (this “Agreement”) is made as of the 4th day of November, 2010, by and between NEWCO, INC., a Delaware corporation (the “Company”), and [purchaser] (“Purchaser”).</p>
+
+<h2>NewCo, Inc. Series AA Preferred Stock Subscription Agreement</h2>
+<p>This Series AA Preferred Stock Subscription Agreement (this “Agreement”) is made as of the 4th day of November, 2010, by and between NEWCO, INC., a Delaware corporation (the “Company”), and [purchaser] (“Purchaser”).</p>
 <p><strong>RECITALS</strong></p>
 <p>WHEREAS, the Company has authorized the sale and issuance of up to an aggregate of 333,333 shares of its Series AA Preferred Stock (the “Series AA Preferred”);</p>
 <p>WHEREAS, the Series AA Preferred has the rights, preferences, privileges and restrictions set forth in the Amended and Restated Certificate of Incorporation of the Company, in the form attached hereto as Exhibit A (the “Charter”);</p>
