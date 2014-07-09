@@ -127,16 +127,18 @@ blockquote.twitter-tweet a[href^="https://twitter.com"] {
         position: relative;
     }
     ol li:before {
-        content: counters(item, ".")".";
+        content: counters(item, "." );
         counter-increment: item;
         position: absolute;
         margin-right: 100%;
-        right: 10px; /* space between number and text */
+        right: 25px; /* space between number and text */
+        color: lighten(@text-color, 50); 
     }
     comment {
         padding:.5em .5em .5em .5em;
         margin: .5em -.5em 2em -.5em;
         background-color:#eaeaea;
+        .rounded(5px);
         display:block;
         font-family: @alt-font;
         }

@@ -13,28 +13,6 @@ comments: true
 share: true
 ---
 
-<style>
-ol {
-    counter-reset: item;  
-}
-ol li {
-    display: block;
-    position: relative;
-}
-ol li:before {
-    content: counters(item, ".")".";
-    counter-increment: item;
-    position: absolute;
-    margin-right: 100%;
-    right: 10px; /* space between number and text */
-}
-comment {
-    padding:.5em .5em .5em .5em;
-    margin: .5em -.5em 2em -.5em;
-    background-color:#eaeaea;
-    display:block;
-    }
-</style>
 
 
 Some thoughts and explanation of the Techstars standard "Angel Financing Agreement."
@@ -43,7 +21,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 
 <div class="contract">
 
-<h2>NewCo, Inc. Series AA Preferred Stock Subscription Agreement</h2>
+<h3>NewCo, Inc. Series AA Preferred Stock Subscription Agreement</h3>
 <p>This Series AA Preferred Stock Subscription Agreement (this “Agreement”) is made as of the 4th day of November, 2010, by and between NEWCO, INC., a Delaware corporation (the “Company”), and [purchaser] (“Purchaser”).</p>
 <p><strong>RECITALS</strong></p>
 <p>WHEREAS, the Company has authorized the sale and issuance of up to an aggregate of 333,333 shares of its Series AA Preferred Stock (the “Series AA Preferred”);</p>
@@ -68,7 +46,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <li>Promptly following the Closing Date, the Company shall deliver to Purchaser a certificate registered in Purchaser’s name representing the Shares.</li>
 </ol>
 </li>
-<li><strong>Representations and Warranties of Purchaser.</strong> Purchaser hereby represents and warrants to the Company as follows:
+<li><a ref name="purchaser-warranties"><strong>Representations and Warranties of Purchaser.</strong></a> Purchaser hereby represents and warrants to the Company as follows:
 <comment>The VC's representations boil down to this: The VC promises that she is a sophisticated investment expert and understands that this type of investment is a huge risk.</comment>
 <ol>
 <li>Purchaser has all necessary power and authority to execute and deliver this Agreement and to carry out its provisions. All action on Purchaser’s part required for the lawful execution and delivery of this Agreement has been taken. Upon its execution and delivery, this Agreement will be a valid and binding obligation of Purchaser, enforceable in accordance with its terms, except (a) as limited by applicable bankruptcy, insolvency, reorganization, moratorium or other laws of general application affecting enforcement of creditors’ rights, and (b) as limited by general principles of equity that restrict the availability of equitable remedies.</li>
@@ -95,7 +73,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 </li>
 </ol>
 </li>
-<li><strong>Representations and Warranties of the Company.</strong> The Company hereby represents and warrants to and agrees with Purchaser that except as set forth on the Schedule of Exceptions attached hereto as Exhibit B, each of the following statements is true and correct on the date hereof and, if this subscription is accepted by the Company in whole or in part, will be true and correct on the Closing Date:
+<li><a ref name="company-warranties"><strong>Representations and Warranties of the Company.</strong></a> The Company hereby represents and warrants to and agrees with Purchaser that except as set forth on the Schedule of Exceptions attached hereto as Exhibit B, each of the following statements is true and correct on the date hereof and, if this subscription is accepted by the Company in whole or in part, will be true and correct on the Closing Date:
 <ol>
 <li><strong>Organization, Good Standing and Qualification.</strong> The Company is a corporation duly organized, validly existing and in good standing under the laws of the State of Delaware. The Company has all requisite corporate power and authority to own and operate its properties and assets, to execute and deliver this Agreement, to issue and sell the Shares and the Conversion Shares and to carry out the provisions of this Agreement and the Charter.</li>
 <li><strong>Capitalization; Voting Rights</strong>. The authorized capital stock of the Company, immediately prior to the Initial Closing Date, will consist of [1,500,000] shares of Common Stock, par value $0.001 per share (“Common Stock”), [1,000,000] shares of which will be issued and outstanding, and [1,000,000] shares of Preferred Stock, par value $0.001 per share (“Preferred Stock”), [333,333] shares of which will be designated Series A Preferred Stock, none of which will be issued and outstanding. As of the date hereof, there are no outstanding options, warrants, or other rights for the purchase or acquisition from the Company of shares of Common Stock. The rights, preferences, privileges and restrictions of the Shares are as set forth in the Charter. The Conversion Shares have been duly and validly reserved for issuance. When issued in compliance with the provisions of this Agreement and the Charter, the Shares and the Conversion Shares will be validly issued, fully paid and non-assessable, and will be free of any liens or encumbrances, other than any right of first refusal set forth in the Company’s Bylaws; provided, however, that the Shares may be subject to restrictions on transfer under state and/or federal securities laws as set forth herein or as otherwise required by such laws at the time a transfer is proposed. Except as set forth on the Schedule of Exceptions attached hereto as Exhibit B, other than pursuant to the Subscription Agreements and as described herein, there are no other outstanding shares of stock of the Company or rights to purchase shares of stock of the Company or other agreements or understandings to purchase equity securities of the Company.</li>
@@ -106,7 +84,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <li><strong>Offering Valid</strong>. Assuming the accuracy of Purchaser’s representations and warranties contained herein, the offer, sale and issuance of the Shares and the Conversion Shares will be exempt from the registration requirements of the Securities Act, and will have been registered or qualified (or will be exempt from registration and qualification) under the registration, permit or qualification requirements of all applicable state securities laws. Neither the Company nor any agent on its behalf has solicited or will solicit any offers to sell or has offered to sell or will offer to sell all or any part of the Shares to any person or persons so as to bring the sale of the Shares by the Company within the registration provisions of the Securities Act or any state securities laws.</li>
 </ol>
 </li>
-<li><strong>Covenants of the Company</strong>.
+<li><a ref name="company-covenants"><strong>Covenants of the Company</strong></a>.
 <ol>
 <li><strong>Basic Financial Information and Reporting</strong>.
 <ol>
@@ -139,7 +117,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <li><strong>Termination of Covenants</strong>. The rights established by this Section 4 shall terminate upon the earliest of (i) the closing of a Qualified IPO, as defined in the Charter, (ii) an Acquisition or Asset Transfer, each as defined in the Charter, or (iii) the closing of additional equity investments other than pursuant to the Subscription Agreements resulting in aggregate total proceeds to the Company of more than $750,000 (a “Qualified Financing”).</li>
 </ol>
 </li>
-<li><strong>Restrictions on Transfer</strong>.
+<li><a ref name="transfer-restrictions"><strong>Restrictions on Transfer</strong></a>.
 <ol>
 <li>Purchaser hereby agrees not to make any disposition of all or any portion of the Shares or the Conversion Shares unless and until:
 <ol>
