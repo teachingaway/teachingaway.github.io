@@ -116,6 +116,31 @@ blockquote.twitter-tweet a[href^="https://twitter.com"] {
   /* font-size: 12px; */
 }
 
+/* -----------------------------------
+-----   Contract Numbering   ---------
+-------------------------------------- */
+
+.contract {
+    ol { counter-reset: item; }
+    ol li {
+        display: block;
+        position: relative;
+    }
+    ol li:before {
+        content: counters(item, ".")".";
+        counter-increment: item;
+        position: absolute;
+        margin-right: 100%;
+        right: 10px; /* space between number and text */
+    }
+    comment {
+        padding:.5em .5em .5em .5em;
+        margin: .5em -.5em 2em -.5em;
+        background-color:#eaeaea;
+        display:block;
+        font-family: @alt-font;
+        }
+}
 
 
 // MPEP CFR and USC quotes
