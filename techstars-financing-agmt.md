@@ -156,8 +156,9 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 </ol>
 </li>
 </ol>
-<p>[Remainder of This Page Intentionally Left Blank]</p>
+<h3>Signatures</h3>
 <p>IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the day and year first above written.</p>
+<div class="4cols">
 <p>PURCHASER:</p>
 <p>By:</p>
 <p>Name:</p>
@@ -166,6 +167,8 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <p>Telephone</p>
 <p>Fax:</p>
 <p>Email:</p>
+</div>
+<div class="4cols">
 <p>ACCEPTED:</p>
 <p>NEWCO, INC.</p>
 <p>By:</p>
@@ -179,7 +182,7 @@ Some thoughts and explanation of the Techstars standard "Angel Financing Agreeme
 <p>CHARTER</p>
 <p>EXHIBIT B</p>
 <p>SCHEDULE OF EXCEPTIONS</p>
-
+</div>
 </div>
 
 
