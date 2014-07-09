@@ -8,7 +8,6 @@ image:
   feature: /wide/default-image.png
   credit: Company Folders
   creditlink:  
-share: 
 ---
 
 
