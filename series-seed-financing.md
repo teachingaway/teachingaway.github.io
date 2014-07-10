@@ -27,6 +27,7 @@ Some thoughts and explanation of the Series Seed v3.2 standard financing agreeme
     <li><strong>Purchase and Sale of Series Seed Preferred Stock.</strong>
         <ol>
             <li><strong>Sale and Issuance of Series Seed Preferred Stock.</strong>
+            <comment>Look at the attached schedule 1 to find the price of the shares. Also, the companies new org docs are in Exhibit C. </comment>
                 <ol>
                     <li>The Company shall adopt and file the Company’s restated organizational documents, as applicable (e.g. certificate of incorporation), in substantially the form of Exhibit C attached to this Agreement (as the same may be amended, restated, supplemented or otherwise modified from time to time) (the “Restated Charter”) with the Secretary of State of the State of Incorporation on or before the Initial Closing.</li>
                     <li>Subject to the terms and conditions of this Agreement, each investor listed as a “Purchaser” on Schedule 1 (each, a “Purchaser”) shall purchase at the applicable Closing and the Company agrees to sell and issue to each Purchaser at such Closing that number of shares of Series Seed Preferred Stock of the Company (“Series Seed Preferred Stock”) set forth opposite such Purchaser’s name on Schedule 1, at a purchase price per share equal to the Purchase Price.</li>
