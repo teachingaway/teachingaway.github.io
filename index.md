@@ -27,7 +27,7 @@ We provide modern legal services to [dynamic clients](/clients).
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
-	<a href='http://objectivesubject.com'><img src="/images/clients/objective-subject-logo.png"></a>
+	<a href='http://solidoodle.com'><img src="/images/clients/solidoodle-logo.png"></a>
 	
 	<a href='http://outlier.cc'><img src="/images/clients/outlier-logo.png"></a>
 	<a href='http://mitro.co'><img src="/images/clients/mitro-logo.png"></a>
