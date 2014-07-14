@@ -18,11 +18,16 @@ share: true
 There's lots of *good news* in the battle against patent trolls and frivolous patent litigation. The Supreme Court is weighing in on the fight in a big way, Elon Musk set an example by open sourcing all of Tesla's patents, and Google's Eric Shulman has an interesting new "License on Transfer" project. In the *bad news* category, Congress failed to pass anti-troll legislation. And in *news of the weird*, the Chief Judge of the Federal Circuit resigned after a minor scandal. 
 
 ## The Good: Supreme Court Weighs in Against Trolls with 5 Unanimous Decisions. 
-The Supreme Court rarely hears patent cases. So its a big deal that the Court issued 5 unanimous patent decisions this summer. Although none of the decisions directly involved patent trolls, the Supreme Court ruled against patent holders in each case. All of the decisions should hurt patent trolls. Here's a short plain-language summary of each. 
+The Supreme Court [rarely](http://writtendescription.blogspot.com/p/patents-scotus.html) hears patent cases. So its a big deal that the Court issued 5 unanimous patent decisions this summer. Although none of the decisions directly involved patent trolls, the Supreme Court ruled against patent holders in each case. All of the decisions should hurt patent trolls. Here's a short plain-language summary of each. 
 
 ### No Patent for "Doing it on a Computer" 
   
 *Alice v. CLS Bank* says that taking an idea and "doing it on a computer" is not an invention and can't be patented. In this case, the Supreme Court found that taking the "abstract idea" of intermediated settlement and "doing it on a computer" was not an invention worthy of a patent. This decision should make it easier to invalidate a number of old software patents being used by trolls. [EFF's Take.](https://www.eff.org/deeplinks/2014/06/bad-day-bad-patents-supreme-court-unanimously-strikes-down-abstract-software)
+
+@juliapowles summarizes Alice v. CLS in comic form. Excelsior! 
+
+<a href="http://patentlyo.com/patent/2014/06/alice-in-patent-land.html"><img src="/images/Alice-in-patent-land-Julia-Powles.jpg"></a>
+
 
 ### No Overly Vague Patents
 *Nautilus v. Biosig* says that overly vague patents are invalid. In the legalese, patent claims are "invalid" for "indefiniteness" if they fail to describe the invention with "reasonable certainty." Again this should make it easier to invalidate a number of notoriously vague software patents. 
