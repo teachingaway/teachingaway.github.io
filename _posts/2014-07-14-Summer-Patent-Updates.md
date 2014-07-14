@@ -72,15 +72,15 @@ The Federal Circuit is the court that hears appeals from every patent lawsuit in
 
 Randall Ray Rader, the Chief Judge of the Federal Circuit, [resigned](http://blogs.wsj.com/law/2014/06/13/judge-rader-author-of-controversial-email-to-lawyer-to-resign-from-bench/?KEYWORDS=%22federal+circuit%22/) in June after an email surfaced that raised questions about his impartiality. Rader had emailed a lawyer who argued Federal Circuit patent cases, and called this lawyer's work “IMPRESSIVE in every way” and signed off, *“Your friend for life, R.R.R.”*  Its easy to suspect Judge Rader's impartiality. 
 
-[Judge Richard Kopf](http://herculesandtheumpire.com/2014/05/28/kopf-to-judge-rader-go-easy-on-yourself/), as usual, provides the best commentary. Kopf has some sympathy for Rader, but calls the email "overly effusive" and "plainly improper."  (Kopf has also recently suggested the Supreme Court should ["STFU"](http://herculesandtheumpire.com/2014/07/05/remembering-alexander-bickels-passive-virtues-and-the-hobby-lobby-cases/), re: *Hobby Lobby*.)
+[Judge Richard Kopf](http://herculesandtheumpire.com/2014/05/28/kopf-to-judge-rader-go-easy-on-yourself/), offers excellent commentary. Kopf has some sympathy, but calls Rader's email "overly effusive" and "plainly improper."  (Kopf has also recently suggested the Supreme Court should ["STFU"](http://herculesandtheumpire.com/2014/07/05/remembering-alexander-bickels-passive-virtues-and-the-hobby-lobby-cases/), re: *Hobby Lobby*.)
 
-*Does Rader's resignation help the fight against patent trolls?* Probably. Judge Rader was intelligent, but his rulings tended to favor broad software patents. We're still waiting to see who will replace Rader. Hopefully Obama will appoint someone willing take a stand against overly broad software patents and frivolous litigation. 
+**Does Rader's resignation help the fight against patent trolls?** Probably. Judge Rader was intelligent, but his rulings tended to favor broad software patents. We're still waiting to see who will replace Rader. Hopefully Obama will appoint someone willing take a stand against overly broad software patents and frivolous litigation. 
 
-
+- - - 
 
 <img class="big-image"  src="/images/tesla-car-patent.png">
 
-# Bonus: More Good 
+# Bonus: More Good Patent News
 
 ### [Tesla Open Sources its Patents](http://www.teslamotors.com/blog/all-our-patent-are-belong-you).
 
