@@ -24,9 +24,9 @@ The Supreme Court [rarely](http://writtendescription.blogspot.com/p/patents-scot
   
 *Alice v. CLS Bank* says that taking an idea and "doing it on a computer" is not an invention and can't be patented. In this case, the Supreme Court found that taking the "abstract idea" of intermediated settlement and "doing it on a computer" was not an invention worthy of a patent. This decision should make it easier to invalidate a number of old software patents being used by trolls. [EFF's Take.](https://www.eff.org/deeplinks/2014/06/bad-day-bad-patents-supreme-court-unanimously-strikes-down-abstract-software)
 
-@juliapowles summarizes Alice v. CLS in comic form. Excelsior! 
+<a href="https://twitter.com/juliapowles">@juliapowles</a> summarizes Alice v. CLS in comic form. Excelsior! 
 
-<a href="http://patentlyo.com/patent/2014/06/alice-in-patent-land.html"><img src="/images/Alice-in-patent-land-Julia-Powles.jpg"></a>
+<a href="http://lawcomics.tumblr.com/post/90288947321/law-comics-1-alice-in-patentland-by-julia-powles"><img src="/images/Alice-in-patent-land-Julia-Powles.jpg"></a>
 
 
 ### No Overly Vague Patents
