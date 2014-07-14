@@ -90,13 +90,13 @@ On June 12, 2014, Tesla make the announcement under the headline "all our patent
 
 ### [License on Transfer](http://www.lotnet.com/) 
 
-This is complicated, but its worth understanding. I heard Google's Eric Schulman talk about his License on Transfer ideas while we were [working on the Defensive Patent License](http://www.defensivepatentlicense.com/content/dpl-team/#working-group). They are important ideas, and Newegg, Canon, Dropbox, SAP, and Asana have joined Google to create the initial "license on transfer" group. 
+This is complicated, but its worth understanding. I heard Google's Eric Schulman talk about his [License on Transfer](http://www.lotnet.com/index.cfm) ideas while we were [working on the Defensive Patent License](http://www.defensivepatentlicense.com/content/dpl-team/#working-group). They are important ideas, and Newegg, Canon, Dropbox, SAP, and Asana have joined Google to create the initial "license on transfer" group. 
 
 *Goal*: De-weaponize patents before patent trolls can acquire them. 
 
 *Background*: Patent trolls tend to buy up patents from struggling technology companies, and then use these patents as the basis for frivolous litigation. 
 
-*License on Transfer*:  Anyone with patents can join the group (small fee applies). When someone n the License on Transfer group sells a patent, they automatically grant a license the patent to everyone else in the group. This means that if Dropbox sells patent '789 to a patent troll, everyone in the License on Transfer group will be immune from that troll's lawsuits, because they have will all have a free license to use patent '789. Pretty sweet deal. Of course, the troll that bought patent '789 can still use it to sue any company thats not part of the License on Transfer group. 
+*License on Transfer*:  Anyone with patents can join the group (small fee applies). When someone n the License on Transfer group sells a patent, they automatically grant a license the patent to everyone else in the group. This means that if Dropbox sells patent '789 to a patent troll, everyone in the License on Transfer group will be immune from that troll's lawsuits, because they have will all have a free license to use patent '789. Pretty sweet deal. Of course, the troll that bought patent '789 can still use it to sue any company thats not part of the License on Transfer group. Also, License on Transfer does not stop patent trolls from asserting patents they already own. 
 
 *License on Transfer Link Roundup:*
 
