@@ -25,6 +25,7 @@ We represent clients who want to make a mark on the world. Our clients are entre
     <a href='http://www.popuparchive.com/'><img src="/images/clients/popup-logo.png"></a>
     <a href='http://www.flocabulary.com/'><img src="/images/clients/flocabulary-logo.png"></a>
     <a href='http://www.solidoodle.com'><img src="/images/clients/solidoodle-logo.png"></a>
+    <a href='http://www.heartbeat.com'><img src="/images/clients/heartbeat-logo.png"></a>
     
 </figure>
 
