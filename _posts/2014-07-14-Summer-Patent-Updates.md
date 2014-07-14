@@ -15,7 +15,7 @@ share: true
 
 
 
-There's lots of *good news* in the battle against patent trolls and frivolous patent litigation. The Supreme Court is weighing in on the fight in a big way, Elon Musk open sourced all of Tesla's patents, and Google's Eric Shulman has an interesting new "License on Transfer" project. In the *bad news* category, Congress failed to pass anti-troll legislation. And in *news of the weird*, the Chief Judge of the Federal Circuit resigned after a minor scandal. 
+There's lots of *good news* in the battle against patent trolls and frivolous patent litigation. The Supreme Court is weighing in on the fight in a big way, Elon Musk set an example by open sourcing all of Tesla's patents, and Google's Eric Shulman has an interesting new "License on Transfer" project. In the *bad news* category, Congress failed to pass anti-troll legislation. And in *news of the weird*, the Chief Judge of the Federal Circuit resigned after a minor scandal. 
 
 ## The Good: Supreme Court Weighs in Against Trolls with 5 Unanimous Decisions. 
 The Supreme Court rarely hears patent cases. So its a big deal that the Court issued 5 unanimous patent decisions this summer. Although none of the decisions directly involved patent trolls, the Supreme Court ruled against patent holders in each case. All of the decisions should hurt patent trolls. Here's a short plain-language summary of each. 
@@ -65,13 +65,14 @@ Randall Ray Rader, the Chief Judge of the Federal Circuit, [resigned](http://blo
 
 # Bonus: More Good 
 
-## [Tesla Open Sources its Patents](http://www.teslamotors.com/blog/all-our-patent-are-belong-you).
+### [Tesla Open Sources its Patents](http://www.teslamotors.com/blog/all-our-patent-are-belong-you).
 
 Tesla and Elon Musk are granting [free licenses](http://www.teslamotors.com/blog/all-our-patent-are-belong-you) to anyone who wants to use Tesla's patented technology.
-On June 12, 2014, Tesla make the announcement under the headline "all our patents are belong to you."  This is pretty cool.  
+On June 12, 2014, Tesla make the announcement under the headline "all our patents are belong to you."  This is pretty cool, and sets an interesting example for other innovators in the technology industry. 
 - [Ars Technica](http://arstechnica.com/tech-policy/2014/06/tesla-will-use-patents-to-subvert-patent-systemtesla-frees-patents-wont-initiate-patent-lawsuits-against-anyone/)
 
-## [License on Transfer](http://www.lotnet.com/). 
+### [License on Transfer](http://www.lotnet.com/) 
+
 This is complicated, but its worth understanding. I had the pleasure of hearing Google's Eric Schulman talk about his License on Transfer ideas in detail while we were [working on the Defensive Patent License](http://www.defensivepatentlicense.com/content/dpl-team/#working-group). 
  Newegg, Canon, Dropbox, SAP, and Asana have joined Google to create the initial "license on transfer" group. 
 
@@ -94,3 +95,5 @@ This is complicated, but its worth understanding. I had the pleasure of hearing 
 [Planet Money - Case Against Patents](http://www.npr.org/blogs/money/2014/07/09/329895088/episode-551-the-case-against-patents). 
 
 > On today's show...  we talk to two guys who say we should get rid of patents altogether. If someone has an idea, anyone else is free to steal it. 
+
+Thats the major patent news from the summer so far. Let me know if I've made any errors. 
