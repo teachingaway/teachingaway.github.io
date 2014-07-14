@@ -92,8 +92,12 @@ This is complicated, but its worth understanding. I had the pleasure of hearing 
 
 ## Planet Money Podcasts
 
-[Planet Money - Case Against Patents](http://www.npr.org/blogs/money/2014/07/09/329895088/episode-551-the-case-against-patents). 
+The July 9, 2014 Planet Money podcast was about  [the Case Against Patents](http://www.npr.org/blogs/money/2014/07/09/329895088/episode-551-the-case-against-patents). 
 
 > On today's show...  we talk to two guys who say we should get rid of patents altogether. If someone has an idea, anyone else is free to steal it. 
 
+- - - 
+
 Thats the major patent news from the summer so far. Let me know if I've made any errors. I tried to write about the Supreme Court cases for a non-lawyers, so I'm glossing over a lot of nuance to get to the gist of each case. 
+
+- - - 
