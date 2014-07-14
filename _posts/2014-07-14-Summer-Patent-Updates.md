@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Patent Troll Recap: Good, Bad, and Ugly."
-summary: "The Supreme Court did some good, congress failed to act, and the Chief Judge of the Federal Circuit Resigns." 
+summary: "The Supreme Court did some good; Congress failed to act; and the Chief Judge of the Federal Circuit Resigns." 
 tags: [patent trolls, software patents, supreme court]
 author: adler
 image:
