@@ -4,8 +4,8 @@ permalink: /office-hours/
 title: ""
 tags: []
 image:
-  feature: /wide/default-image.png
-  credit: Company Folders
+  feature: /wide/dumbo-at-night-shutterstock.jpg
+  credit: shutterstock
   creditlink: 
 share: 
 ---
@@ -13,14 +13,7 @@ share:
 
 ## Lawyer Office Hours in Dumbo Brooklyn
 
-Come talk startup and technology law in an informal setting. Ask about anything from raising money, to contract fine print, to trademarks and patent trolls. 
-
-* Can I copyright a Tweetstorm? 
-* How many stock options for a full-stack innovation sherpa? 
-* Can I shred this demand letter? 
-* Does my Doge Coin platform need a money-transmitter license? 
-
-We'll try to answer. In any event, we're off the clock.
+Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. We'll discuss informally and off the clock.
 
 - - - 
 
