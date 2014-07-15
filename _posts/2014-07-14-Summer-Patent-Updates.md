@@ -24,7 +24,7 @@ The Supreme Court [rarely](http://writtendescription.blogspot.com/p/patents-scot
   
 *Alice v. CLS Bank* says that taking an idea and "doing it on a computer" is not an invention and can't be patented. In this case, the Supreme Court found that taking the "abstract idea" of intermediated settlement and "doing it on a computer" was not an invention worthy of a patent. This decision should make it easier to invalidate a number of old software patents being used by trolls. [EFF's Take.](https://www.eff.org/deeplinks/2014/06/bad-day-bad-patents-supreme-court-unanimously-strikes-down-abstract-software)
 
-<a href="https://twitter.com/juliapowles">@juliapowles</a> summarizes <em>Alice v. CLS</em> in comic form. Excelsior! 
+<a href="https://twitter.com/juliapowles">@juliapowles</a> summarizes <em>Alice v. CLS</em> in comic form! 
 
 <a href="http://lawcomics.tumblr.com/post/90288947321/law-comics-1-alice-in-patentland-by-julia-powles"><img src="/images/Alice-in-patent-land-Julia-Powles.jpg"></a>
 
@@ -56,7 +56,10 @@ Thats 5 cases, and 5 wins for defendants in frivolous patent lawsuits.
 
 - - - 
 
-## The Bad: Patent Reform Dies in Senate
+## The Bad
+
+### Patent Reform Dies in Senate
+
 Anti-patent troll legislation [stalled](http://www.patentprogress.org/2014/05/21/senator-leahy-takes-patent-reform-agenda/) in May. While Obama-supported patent reform passed the House, it [died in the senate judicial committee](http://www.nytimes.com/2014/05/22/business/legislation-to-protect-against-patent-trolls-is-shelved.html). According to the NY Times, 
 
 > "heavy lobbying by pharmaceutical and biotechnology companies, universities and trial lawyers prevented the bill from advancing."
@@ -64,6 +67,16 @@ Anti-patent troll legislation [stalled](http://www.patentprogress.org/2014/05/21
 The proposed law would have required patent trolls (generally shell companies) to identify their true owners. This is useful because the true owners are frequently hedge funds that would prefer not to be associated with patent trolls. 
 
 As always, check out [Patent Progress](http://www.patentprogress.org/) for the latest on patent troll legislation. 
+
+### More Patent Litigation, And More $$$ For Patent Trolls
+
+According to a recent PWC study, there were 6,500 patent lawsuits filed in 2013. About 2/3 of these patent cases were filed by trolls ("Non-Practicing Entities", as the report politely calls them). 
+
+<a href="http://www.pwc.com/en_US/us/forensic-services/publications/assets/2014-patent-litigation-study.pdf"><img src="/images/pwc-patent-lawsuits-chart.png"></a>
+
+Sadly, patent trolls are winning more money at trial, while companies that actually make things are winning less. 
+
+<a href="http://www.pwc.com/en_US/us/forensic-services/publications/assets/2014-patent-litigation-study.pdf"><img src="/images/pwc-patent-troll-awards.png"></a>
 
 - - - 
 
