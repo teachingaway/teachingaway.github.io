@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Summer Patent Troll Recap"
-summary: "No action from Congress, but the Supreme Court decides 5 big cases. What does it mean for tech startups?" 
+summary: "The Supreme Court decides 5 big patent cases. What does it mean for tech startups?" 
 tags: [patent trolls, software patents, supreme court]
 author: adler
 image:

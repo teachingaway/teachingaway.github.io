@@ -14,19 +14,15 @@ share:
 
 ## <a href='/business-law/'>Business Law</a>
 
-We structure deals, raise capital and run mergers and acquisitions. We counsel clients on equity incentive plans that attract skilled employees in competitive fields.
+We structure deals, raise capital and run mergers and acquisitions. For startups, we help with formation, raising capital and exits. We help develop equity incentive plans that attract skilled employees in competitive fields.
 
 ## <a href='/patent-basics/'>Intellectual Property</a> 
 
-We secure patents and trademarks in the US and abroad. 
+We secure <a href='/patent-basics/'>patents</a> and <a href='/trademark-basics/'>trademarks</a> in the US and abroad. 
 
-### <a href='/patent-basics/'>Patents</a> 
+<strong><a href='/patent-basics/'>Patents</a></strong> - Our patent work includes cryptography, 3D printers, mobile health, and spacesuit components. We also help secure *design patents* for products and user interface designs. 
 
-Our patent work includes cryptography, 3D printers, spacesuit components, and medical devices.
-
-### <a href='/trademark-basics/'>Trademarks</a> 
-
-We help select powerful brands that engage customers, online and off. We register trademarks in the United States and abroad, and help manage and enforce trademark portfolios. 
+<strong><a href='/trademark-basics/'>Trademarks</a></strong> - We help select powerful brands that engage customers, online and off. We register trademarks in the United States and abroad, and help manage and enforce trademark portfolios. 
 
 ## <a href='/litigation/'>Litigation</a> 
 
