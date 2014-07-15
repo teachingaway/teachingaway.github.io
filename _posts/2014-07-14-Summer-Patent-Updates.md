@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Summer Patent Troll Recap: Good, Bad, and Ugly."
-summary: "The Supreme Court did some good; Congress failed to act; and the Chief Judge of the Federal Circuit Resigns." 
+title: "Summer Patent Troll Recap"
+summary: "No action from Congress, but the Supreme Court decides 5 big cases. What does it mean for tech startups?" 
 tags: [patent trolls, software patents, supreme court]
 author: adler
 image:
@@ -68,7 +68,7 @@ The proposed law would have required patent trolls (generally shell companies) t
 
 As always, check out [Patent Progress](http://www.patentprogress.org/) for the latest on patent troll legislation. 
 
-### More Patent Litigation, And More $$$ For Patent Trolls
+### More Patent Litigation, and More $$$ for Patent Trolls
 
 According to a recent PWC study, there were 6,500 patent lawsuits filed in 2013. About 2/3 of these patent cases were filed by trolls ("Non-Practicing Entities", as the report politely calls them). 
 
@@ -77,6 +77,8 @@ According to a recent PWC study, there were 6,500 patent lawsuits filed in 2013.
 Sadly, patent trolls are winning more money at trial, while companies that actually make things are winning less. 
 
 <a href="http://www.pwc.com/en_US/us/forensic-services/publications/assets/2014-patent-litigation-study.pdf"><img src="/images/pwc-patent-troll-awards.png"></a>
+
+Perhaps the most important statistic in the report is that patent trolls only win 26% of cases. Keep this figure in mind if you're ever negotiating a settlement. 
 
 - - - 
 
