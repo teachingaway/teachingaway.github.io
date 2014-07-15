@@ -22,7 +22,7 @@ Our relationships in the venture capital and technology communities help connect
 
 - - - 
 
-We provide modern legal services to [dynamic clients](/clients).
+We provide modern legal services to <a href="/clients">dynamic clients</a>.
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
@@ -37,7 +37,7 @@ We provide modern legal services to [dynamic clients](/clients).
 
 - - - 
 
-Blog
+<div class="hang-left"><a href="/articles">Blog</a></div>
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
