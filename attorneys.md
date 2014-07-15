@@ -28,7 +28,7 @@ image:
 <p><strong>Ezekiel Vermillion</strong></p>
 </a>
 <p>
-Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
+Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such as distributed autonomous companies. Admitted in New York.
 </p>
 </div>
 
