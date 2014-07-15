@@ -13,8 +13,7 @@ share:
 
 ## Lawyer Office Hours in Dumbo Brooklyn
 
-
-Come talk startup and technology law in an informal setting. Ask us anything from raising capital to contracts to trademarks and patent trolls. 
+Come talk startup and technology law in an informal setting. Ask about anything from raising money, to contract fine print, to trademarks and patent trolls. 
 
 * Can I copyright a Tweetstorm? 
 * How many stock options for a full-stack innovation sherpa? 
