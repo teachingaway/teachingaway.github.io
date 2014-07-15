@@ -28,11 +28,7 @@ We'll try to answer. In any event, we're off the clock.
 
 **When:** Fridays between 4-6pm. 
 
-**RSVP:** to either eric-at-adlervermillion.com or @teachingaway. 
-
-- - - 
-
-**Big Disclaimer:** You may receive a glass of bourbon, but you will not receive "legal advice." Chatting at office hours does not make Adler Vermillion, LLP your lawyer. Do not tell us your confidential information. 
+**RSVP:** to eric-at-adlervermillion.com or @teachingaway required. 
 
 - - - 
 
@@ -42,17 +38,20 @@ We'll try to answer. In any event, we're off the clock.
         <img src="/../images/EricAvatar.jpg" class="avatar-photo">
         <p><strong>Eric Adler</strong></p>
         </a>
-        <p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>. Admitted in New York and the <a href="http://www.uspto.gov/">USPTO</a>.</p>
+        <p>Eric is a patent and trademark lawyer. He works with the <a href="http://www.blipclinic.org/">BLIP clinic</a> to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>.</p> 
     </div>
 
-    <div class='sixcols'>
-        <a href="/../zekevermillion">
-        <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-        <p><strong>Ezekiel Vermillion</strong></p>
-        </a>
-        <p>Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
-        </p>
-    </div>
+<div class='sixcols' style="margin-bottom:3em;">
+<a href="/../zekevermillion">
+<img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
+<p><strong>Ezekiel Vermillion</strong></p>
+</a>
+<p>Zeke is a deal lawyer and cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies.</p> 
 </div>
+</div>
+
+- - - 
+
+**Disclaimer: Chatting at office hours does not make Adler Vermillion, LLP your lawyer. Do not tell us your confidential information.**
 
 - - - 
