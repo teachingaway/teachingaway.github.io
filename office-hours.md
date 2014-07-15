@@ -52,6 +52,6 @@ We'll try to answer. In any event, we're off the clock.
 
 - - - 
 
-**Disclaimer: Chatting at office hours does not make Adler Vermillion, LLP your lawyer. Do not tell us your confidential information.**
+**Disclaimer: Chatting at office hours does not make you a client of Adler Vermillion LLP. Do not tell us your confidential information. Informal chats are not legal advice.**
 
 - - - 
