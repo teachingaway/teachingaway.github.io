@@ -15,13 +15,11 @@ share:
 
 Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. We'll discuss informally and off the clock.
 
-- - - 
-
 **Where:** 45 Main St. #500. 
 
 **When:** Fridays between 4-6pm. 
 
-**RSVP:** to eric-at-adlervermillion.com or @teachingaway required. 
+**RSVP:** to eric-at-adlervermillion.com or @teachingaway
 
 - - - 
 
