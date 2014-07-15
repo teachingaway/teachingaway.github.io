@@ -46,7 +46,7 @@ We'll try to answer. In any event, we're off the clock.
 <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
 <p><strong>Ezekiel Vermillion</strong></p>
 </a>
-<p>Zeke is a deal lawyer and cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies.</p> 
+<p>Zeke is a deal lawyer and crypto-currency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies.</p> 
 </div>
 </div>
 
