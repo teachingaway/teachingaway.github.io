@@ -18,8 +18,7 @@ Come talk startup and technology law in an informal setting. Ask about anything 
 * Can I copyright a Tweetstorm? 
 * How many stock options for a full-stack innovation sherpa? 
 * Can I shred this demand letter? 
-* Does my Doge Coin platform require a money-transmitter license? 
-* Should I raise a party round? 
+* Does my Doge Coin platform need a money-transmitter license? 
 
 We'll try to answer. In any event, we're off the clock.
 
