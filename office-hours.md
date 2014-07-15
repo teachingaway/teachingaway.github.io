@@ -11,14 +11,15 @@ share:
 ---
 
 
-## Dumbo Office Hours 
+## Lawyer Office Hours in Dumbo Brooklyn
 
 
-Talk startup and technology law in an informal setting. Ask us anything from raising capital to contracts to trademarks and patent trolls. 
+Come talk startup and technology law in an informal setting. Ask us anything from raising capital to contracts to trademarks and patent trolls. 
 
 * Can I copyright a Tweetstorm? 
 * How many stock options for a full-stack innovation sherpa? 
 * Can I shred this demand letter? 
+* Does my Doge Coin platform require a money-transmitter license? 
 * Should I raise a party round? 
 
 We'll try to answer. In any event, we're off the clock.
@@ -33,7 +34,7 @@ We'll try to answer. In any event, we're off the clock.
 
 - - - 
 
-**Big Disclaimer:** You may receive a glass of bourbon, but you will not receive "legal advice." Hanging out in our office does not make Adler Vermillion, LLP your lawyer. Do not tell us your confidential information. 
+**Big Disclaimer:** You may receive a glass of bourbon, but you will not receive "legal advice." Chatting at office hours does not make Adler Vermillion, LLP your lawyer. Do not tell us your confidential information. 
 
 - - - 
 
