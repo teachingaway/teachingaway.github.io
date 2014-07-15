@@ -19,7 +19,7 @@ image:
 <img src="/../images/EricAvatar.jpg" class="avatar-photo">
 <p><strong>Eric Adler</strong></p>
 </a>
-<p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>. Admitted in New York and the <a href="http://www.uspto.gov/">USPTO</a>.</p>
+<p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>. Admitted in New York and the <a href="http://www.uspto.gov/">USPTO</a>.</p>
 </div>
 
 <div class='sixcols'>

@@ -29,7 +29,7 @@ We'll try to answer. In any event, we're off the clock.
 
 **When:** Fridays between 4-6pm. 
 
-**RSVP:** either email me at eric-at-adlervermillion.com, or tweet @teachingaway. 
+**RSVP:** to either eric-at-adlervermillion.com or @teachingaway. 
 
 - - - 
 
@@ -37,25 +37,23 @@ We'll try to answer. In any event, we're off the clock.
 
 - - - 
 
-<div class="attorney">
- 
-<div class='sixcols'>
-<a href="/../ericadler">
-<img src="/../images/EricAvatar.jpg" class="avatar-photo">
-<p><strong>Eric Adler</strong></p>
-</a>
-<p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers.</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>. Admitted in New York and the <a href="http://www.uspto.gov/">USPTO</a>.</p>
-</div>
+<div class="attorney"> 
+    <div class='sixcols'>
+        <a href="/../ericadler">
+        <img src="/../images/EricAvatar.jpg" class="avatar-photo">
+        <p><strong>Eric Adler</strong></p>
+        </a>
+        <p>Eric practices patent and trademark law. He works with the Brooklyn Law school technology clinic to provide free defense against patent trolls, sits on the board of the <a href='http://legalhackers.org/'>NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>. Admitted in New York and the <a href="http://www.uspto.gov/">USPTO</a>.</p>
+    </div>
 
-<div class='sixcols'>
-<a href="/../zekevermillion">
-<img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
-<p><strong>Ezekiel Vermillion</strong></p>
-</a>
-<p>
-Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
-</p>
+    <div class='sixcols'>
+        <a href="/../zekevermillion">
+        <img src="/../images/ZekeAvatar.jpg" class="avatar-photo">
+        <p><strong>Ezekiel Vermillion</strong></p>
+        </a>
+        <p>Zeke is a deal lawyer with a background in M&A and project finance. He is also a cryptocurrency enthusiast with a deep interest in alternative forms of business such distributed autonomous companies. Admitted in New York.
+        </p>
+    </div>
 </div>
-
 
 - - - 
