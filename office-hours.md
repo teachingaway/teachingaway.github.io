@@ -15,8 +15,9 @@ share:
 
 Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. Discussions are informal and off-the-clock.
 
-- Whats the difference between ® and ™? 
-- Are patent filings important before a beta launch? 
+
+- Whats a "provisional patent"? Is it important before a beta launch? 
+- Whats the difference between ® and ™ after a brand? 
 - How does a liquidation preference work? 
 - When is a convertible note a good idea? 
 
