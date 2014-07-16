@@ -13,7 +13,14 @@ share:
 
 ## Lawyer Office Hours in Dumbo Brooklyn
 
-Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. We'll discuss informally and off the clock.
+Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. Discussions are informal and off-the-clock.
+
+- Whats the difference between ® and ™? 
+- Are patent filings important before a beta launch? 
+- How does a liquidation preference work? 
+- When is a convertible note a good idea? 
+
+- - - 
 
 **Where:** 45 Main St. #500. 
 
