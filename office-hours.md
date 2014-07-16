@@ -2,7 +2,7 @@
 layout: page
 permalink: /office-hours/
 title: "Lawyer Office Hours in Dumbo Brooklyn"
-summary: "Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls."
+summary: "Come chat about startup and tech law. Fridays from 4-6."
 tags: []
 image:
   feature: /wide/dumbo-at-night-shutterstock.jpg
