@@ -26,8 +26,7 @@ Come chat about startup and technology law topics from raising money, to contrac
 
 **When:** Fridays, 4-6 pm
 
-**RSVP:** to eric-at-adlervermillion.com or @teachingaway
-(or else we might not have time to meet with you)
+**RSVP:** to eric-at-adlervermillion.com or @teachingaway, required.
 
 - - - 
 
