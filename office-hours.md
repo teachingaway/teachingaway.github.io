@@ -22,11 +22,12 @@ Come chat about startup and technology law topics from raising money, to contrac
 
 - - - 
 
-**Where:** 45 Main St. #500. 
+**Where:** [45 Main St. #500](http://adlervermillion.com/location/)
 
-**When:** Fridays between 4-6pm. 
+**When:** Fridays, 4-6 pm
 
 **RSVP:** to eric-at-adlervermillion.com or @teachingaway
+(or else we might not have time to meet with you)
 
 - - - 
 
