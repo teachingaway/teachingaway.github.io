@@ -133,20 +133,14 @@ Company: [StarupCo, Inc., a Delaware Corporation]. Startupco, Inc., together wit
 
 As a condition of my becoming employed (or my employment being continued) by StartupCo, I agree to the following:
 
-**1. Relationship**
-
-This Confidential Information and Invention Assignment Agreement (this “Agreement”) applies to my employment relationship with the Company.  
-
+**1. Relationship.** This Confidential Information and Invention Assignment Agreement (this “Agreement”) applies to my employment relationship with the Company.  
 
 1.1. Future Relationships. If my employment ends, and the Company hires me again (either as employee or consultant) within 1 year of the termination date, this Agreement will also apply to later employment or consulting relationship.  
-
 
 1.2. Any employment or consulting relationship (whether commenced before, upon or after the date of this Agreement) is referred to as the “Relationship.”  
 
 
-**2. Duties**
-
-I will perform the work the Company designates for me, as well as any other work within the scope of the Relationship and not contrary to the Company’s instructions.  
+**2. Duties.** I will perform the work the Company designates for me, as well as any other work within the scope of the Relationship and not contrary to the Company’s instructions.  
 
 
 2.1. Entire Business Efforts. During the Relationship, I will devote my entire best business efforts to the interests of the Company and will not engage in other employment or in any activities detrimental to the Company’s interests.  
