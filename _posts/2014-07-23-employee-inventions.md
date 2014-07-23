@@ -28,6 +28,7 @@ First, double-check your employment agreement and the company's employment polic
 2. If you're not confident the company will give permission, perhaps its better not to tip them off about your side-project. However, working in secret runs the risk of a future ownership battle, where the rules of the arena are complicated, and a well-funded company will have the upper hand.  
 3. Never work on your side-project during work hours, never use a work computer, never rely on company code, servers or technology. 
 4. A side-project that directly competes with your employer or that siphons off customers is more likely to start a lawsuit, and you're more likely to lose it. If you're not stealing customers away from your old company, there's a good chance they don't care about your new project. 
+5. Review any non-compete clause. In California, you can probably ignore it. In New York, its probably enforceable, but only in a limited fashion. 
 
 - - - 
 
@@ -36,7 +37,7 @@ Now lets dig into the law. The default ownership rules for patents and copyright
 
 ## Patent Law
 
-> The law on patent ownership is unacceptably complex and creates excessive uncertainty. ~Prof. Donald Chisum.
+> _The law on patent ownership is unacceptably complex and creates excessive uncertainty_. -Prof. Donald Chisum.
 
 The general rule is that inventors own their own inventions. "The presumptive owner of the property right in a patentable invention is the single human inventor" [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). This rule is different from the rest of employment law, where a company generally owns the results of its employee's work. "No one would claim that an autoworker who builds a car while working in a factory owns that car. But, as noted, patent law has always been different: We have rejected the idea that mere employment is sufficient to vest title to an employee's invention in the employer." [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). 
 
@@ -49,7 +50,7 @@ Employees own their own inventions unless: (a) they signed a contract transferri
 **Shop Right.** Even if the company is not the owner of an employee invention, the company may have a "shop right." That is, the company may have an automatic no-cost license to use the employee invention. Again, founders should never rely on vague "shop rights" when they can easily have employee's sign a written IP assignment agreement. 
 
 
-### California and Washington State Law 
+### California and Washington State Law on Employee Inventions
 
 San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
 
@@ -65,24 +66,27 @@ There are two exceptions. A contract assigning inventions to the company is enfo
 
 Finally, companies need to tell their new employees about the law. A copy of [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) should be attached to all employment agreements.  
 
+- - - 
+
 ## Copyright Law
 Copyright ownership is controlled by federal law, so the rules are the same in every state. The default copyright rules are similar to the default patent rules. By default, authors own the copyright to all of their creative works, including any code they write. But as always, there are exceptions. 
 
 A company owns the copyright to "works made for hire." This includes (a) any work made by an employee "within the scope of her employment" and (b) the work of an independent contractor if the company gets an express written assignment. 
 
-"Work for hire" is defined in 17 USC §101 to include (a) works "prepared by an employee within the scope of his or her employment", and (b) if there is a written "work for hire" agreement, certain works prepared by independent contractors will be "work made for hire." The details aren't as important as remembering to always get a written IP assignment agreement when hiring an employee or independent contractor. Federal law requires all copyright assignments to be in writing. 17 USC §204. 
+"Work for hire" is defined in 17 USC § 101. For an _employee_, any work created "within the scope of his or her employment" is work for hire and owned by the company. For an independent contractor, certain types of creative works are "work for hire" if there a written "work for hire" agreement. Other types of works created by independent contractors (including code) can never be "work for hire." For these types of work, there should be a separate copyright assignment clause. There is a subtle difference between proper "work for hire" and plain copyright assignment. But understanding the difference is much less important than remembering to get a written IP assignment agreement when hiring an employee or independent contractor. Federal law requires all copyright assignments to be in writing. 17 USC §204. 
 
+- - - 
 
 ## Non-Compete Agreements
 
-In California, non-compete agreements are generally unenforceable. 
 
-In New York, non-competes are allowed, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? In practice, it means you end up in front of a Judge in the New York State Commercial Division on very short notice (the legal filing will be called a "Temporary Restraining Order" and may be followed by a "Preliminary Injunction" hearing). If you took secrets from your old company and used them to compete against the company, you're probably in trouble. The leading NY case is [BDO Seidman v. Hirshberg, 712 NE 2d 1220 (N.Y. 1999).](http://scholar.google.com/scholar_case?case=9875117510352576316) 
+Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0), even in technology startups. In California, non-compete agreements are generally unenforceable. In New York, the rules are more complicated.  
+
+New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? In practice, it means you end up in front of a Judge in the New York State Commercial Division on very short notice (the legal filing will be called a "Temporary Restraining Order" and may be followed by a "Preliminary Injunction" hearing). If you took secrets from your old company and used them to compete against the company, you're probably in trouble. The leading NY case is [BDO Seidman v. Hirshberg, 712 NE 2d 1220 (N.Y. 1999).](http://scholar.google.com/scholar_case?case=9875117510352576316) 
 
 But your former employer can't stop you from using your general skills and knowledge, even to compete with your old company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [American Broadcasting Companies v. Wolf, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). "Important, too, are the 'powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." Id.
 
 
-Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0). 
 
 ## Trade Secrets
 
