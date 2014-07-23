@@ -31,43 +31,39 @@ First, double-check your employment agreement and the company's employment polic
 
 - - - 
 
-# Intellectual Property Rules
-
-The default ownership rules for patents and copyrights are different. Without a specific IP assignment clause, employees own the patents on their own inventions. But a company will own the copyright to its employee's creative works (including employee software code), as long as the work was done "within the scope" of employment. The details are discussed below. 
+Now lets dig into the law. The default ownership rules for patents and copyrights are different. Without a specific IP assignment clause, employees own the patents on their own inventions. But a company will own the copyright to its employee's creative works (including software code), as long as the work was done "within the scope" of employment. 
 
 
 ## Patent Law
 
-"The law on patent ownership is unacceptably complex and creates excessive uncertainty." Prof. Donald Chisum.
+> The law on patent ownership is unacceptably complex and creates excessive uncertainty. ~Prof. Donald Chisum.
 
-The general rule is that inventors own their own inventions. "The presumptive owner of the property right in a patentable invention is the single human inventor" [Stanford v. Roche, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622)(citing Chisum on Patents). 
+The general rule is that inventors own their own inventions. "The presumptive owner of the property right in a patentable invention is the single human inventor" [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). This rule is different from the rest of employment law, where a company generally owns the results of its employee's work. "No one would claim that an autoworker who builds a car while working in a factory owns that car. But, as noted, patent law has always been different: We have rejected the idea that mere employment is sufficient to vest title to an employee's invention in the employer." [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). 
 
-This rule is different from the rest of employment law, where a company generally owns the results of its employee's work. "No one would claim that an autoworker who builds a car while working in a factory owns that car. But, as noted, patent law has always been different: We have rejected the idea that mere employment is sufficient to vest title to an employee's invention in the employer." [Stanford v. Roche, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). 
-
-Employees own their own inventions unless: (a) they signed a contract transferring inventions to the company, (b) they were expressly hired to "invent" solutions to company problems, or (c) they are an officer or director with "fiduciary duty" to the company. 
+Employees own their own inventions unless: (a) they signed a contract transferring inventions to the company, (b) they were expressly hired to "invent" solutions to company problems, or (c) they are an officer or director with "fiduciary duty" to the company. As the Federal Circuit put it: 
 
 > “The general rule is that an individual owns the patent rights to the subject matter of which he is an inventor, even though he conceived it or reduced it to practice in the course of his employment. There are two exceptions to this rule: first, an employer owns an employee’s invention if the employee is a party to an express contract to that effect; second, where an employee is hired to invent something or solve a particular problem, the property of the invention related to this effort may belong to the employer. Both exceptions are firmly grounded in the principles of contract law that allow parties to freely structure their transactions and obtain the benefit of any bargains reached.” [_Banks v. Unisys Corp_., 228 F.3d 1357, 1359 (Fed. Cir. 2000)](http://scholar.google.com/scholar_case?case=9217281422671286444). 
 
-**Shop Right.** In addition, even if the company is not the owner of the employee's invention, the company may have a "shop right." That is, the company may have an automatic free license to use their employee's invention. 
+**Hired to Invent.** Even without a contract, a company will own an employees patents if the employee was "hired to invent." The exact standard here is difficult to pin down. "Hired to invent" requires something more than merely being hired to "make improvements." Likewise, a fancy job title like "Chief Engineer" does not necessarily mean an employee was "hired to invent."  If you're a founder, never assume that any of your employee's were "hired to invent" anything. Instead, have them sign a written IP assignment agreement. 
 
-**Hired to Invent.** Even without a contract, a company will own an employees patents if the employee was "hired to invent." This means more than merely hired to "make improvements." Likewise, a fancy job title like "Chief Engineer" does not necessarily mean an employee was "hired to invent."  
+**Shop Right.** Even if the company is not the owner of an employee invention, the company may have a "shop right." That is, the company may have an automatic no-cost license to use the employee invention. Again, founders should never rely on vague "shop rights" when they can easily have employee's sign a written IP assignment agreement. 
+
 
 ### California and Washington State Law 
 
-San Francisco and Seattle startups: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over. [Same in Washington State.](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140). 
+San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
 
-In CA and WA, regardless of what an employment contract says, employees will retain ownership of their inventions under certain circumstances. First, companies need to tell their new employees about the law. A copy should be attached to all employment agreements.  
+In CA and WA, regardless of what an employment contract says, employees will retain ownership of their inventions under certain circumstances. 
 
 1. If the invention is made entirely on employee's own time, the employee owns it. 
 2. If the invention is made without using any of the company's equipment or technology, the employee owns it. 
 
-Exceptions. There are two exceptions. A contract assigning inventions to the company will be enforceable if: 
+There are two exceptions. A contract assigning inventions to the company is enforceable if: 
 
 1. The invention relates to the company's business or anticipated R&D, or 
-
 2. the invention results from work performed by the employee "as an employee" of the company.
 
-
+Finally, companies need to tell their new employees about the law. A copy of [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) should be attached to all employment agreements.  
 
 ## Copyright Law
 Copyright ownership is controlled by federal law, so the rules are the same in every state. The default copyright rules are similar to the default patent rules. By default, authors own the copyright to all of their creative works, including any code they write. But as always, there are exceptions. 
