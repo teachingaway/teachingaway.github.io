@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Side Hustle: Who Owns Employee Inventions?"
+title: "Side Hustle: Who Owns Employee Innovations?"
 summary: "Untangling the patent, copyright and noncompete rules that flummox founders and perplex employees." 
-tags: [patent, copyright, employment]
+tags: [patent, copyright, non-compete, employment]
 author: adler
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
@@ -94,7 +94,8 @@ But a company can't stop former employees from using their general skills and kn
 
 - - - 
 
-## Side Projects Encourage Innovative Startup Culture
+## Side Projects Encourage Innovation
+
 Startups should have a side-project policy. Whether allowed or prohibited, there should be written agreement that clearly identifies who owns what technology. 
 
 Founders may want to encourage employees to work on side projects. There are a number of reasons: 
