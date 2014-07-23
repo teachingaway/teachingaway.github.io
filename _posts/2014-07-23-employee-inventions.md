@@ -22,7 +22,7 @@ The contract doesn't need to be draconian, it just needs to spell out the detail
 
 
 ### Takeaway for Employees: 
-If you don't have an employment contract with an IP assignment provision, you might own your side project's IP. Double-check the companies employment policies. There may be enforceable IP assignment agreements in employment policies as well as in signed employment contracts. 
+First, double-check your employment agreement and the company's employment policies. There may be enforceable IP assignment agreements in either. If there isn't an applicable IP assignment provision, (a) you probably own the patents to your inventions, and (b) if the project is unrelated to your employer's business, you probably also own the copyright to your side-projects code.
 
 1. Ideally, discuss your side-project with your company, and get their approval in writing. This is the only sure-fire method of owning your own side-project IP. 
 2. If you're not confident the company will give permission, perhaps its better not to tip them off about your side-project. However, working in secret runs the risk of a future ownership battle, where the rules of the arena are complicated, and a well-funded company will have the upper hand.  
@@ -46,7 +46,7 @@ This rule is different from the rest of employment law, where a company generall
 
 Employees own their own inventions unless: (a) they signed a contract transferring inventions to the company, (b) they were expressly hired to "invent" solutions to company problems, or (c) they are an officer or director with "fiduciary duty" to the company. 
 
-> “The general rule is that an individual owns the patent rights to the subject matter of which he is an inventor, even though he conceived it or reduced it to practice in the course of his employment. There are two exceptions to this rule: first, an employer owns an employee’s invention if the employee is a party to an express contract to that effect; second, where an employee is hired to invent something or solve a particular problem, the property of the invention related to this effort may belong to the employer. Both exceptions are firmly grounded in the principles of contract law that allow parties to freely structure their transactions and obtain the benefit of any bargains reached.” [Banks v. Unisys Corp., 228 F.3d 1357, 1359, 56 USPQ2d 1222, 1224 (Fed. Cir. 2000)](http://scholar.google.com/scholar_case?case=9217281422671286444). 
+> “The general rule is that an individual owns the patent rights to the subject matter of which he is an inventor, even though he conceived it or reduced it to practice in the course of his employment. There are two exceptions to this rule: first, an employer owns an employee’s invention if the employee is a party to an express contract to that effect; second, where an employee is hired to invent something or solve a particular problem, the property of the invention related to this effort may belong to the employer. Both exceptions are firmly grounded in the principles of contract law that allow parties to freely structure their transactions and obtain the benefit of any bargains reached.” [_Banks v. Unisys Corp_., 228 F.3d 1357, 1359 (Fed. Cir. 2000)](http://scholar.google.com/scholar_case?case=9217281422671286444). 
 
 **Shop Right.** In addition, even if the company is not the owner of the employee's invention, the company may have a "shop right." That is, the company may have an automatic free license to use their employee's invention. 
 
