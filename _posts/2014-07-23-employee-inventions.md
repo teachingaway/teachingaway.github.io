@@ -12,20 +12,16 @@ comments: true
 share: true
 ---
 
-When does a company own the rights to its employee's code or inventions?  When can an employee spin off a side project without messy entanglements from her former company? These can be complicated questions, but a written invention assignment contract drastically simplifies the question. Without a written contract, the answers are buried in a mess of ambiguous state and federal laws.
+When does a company own the rights to its employee's code or inventions?  When can an employee spin off a side project without messy entanglements from her former company? These can be complicated questions. If there's a written invention assignment contract, it will generally be enforceable and  drastically simplify the answers. Without a written contract, the answers are buried in a mess of ambiguous state and federal laws.
 
-Side Project: Unrelated to Company? 
-- In CA and WA, employees own their own patents and inventions. 
-- In other states, Companies can ask their employees to assign all inventions over to the company, as long as the details are spelled out in the employment agreement. 
+### Takeaway for Founders
 
-Side Project: In the Company's Line of Business? 
-Here's where things get complicated. Lets say you work at a ?? and your invention relates to ??. 
-
-## Takeaway for Founders
 Have all your employees sign a contract with a IP assignment agreement. Special rules apply in California and Washington State. 
 
+The contract doesn't need to be draconian, it just needs to spell out the details. Encouraging employees to work on creative side projects can be great for innovation. 
 
-## Takeaway for Employees: 
+
+### Takeaway for Employees: 
 If you don't have an employment contract with an IP assignment provision, you might own your side project's IP. Double-check the companies employment policies. There may be enforceable IP assignment agreements in employment policies as well as in signed employment contracts. 
 
 1. Ideally, discuss your side-project with your company, and get their approval in writing. This is the only sure-fire method of owning your own side-project IP. 
