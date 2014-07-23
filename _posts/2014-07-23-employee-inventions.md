@@ -29,14 +29,14 @@ First, double-check your employment agreement and the company's employment polic
 3. Never work on your side-project during work hours, never use a work computer, never rely on company code, servers or technology. 
 4. A side-project that directly competes with your employer or that siphons off customers is more likely to start a lawsuit, and you're more likely to lose it. If you're not stealing customers away from your old company, there's a good chance they don't care about your new project. 
 
-
+- - - 
 
 # Intellectual Property Rules
 
 The default ownership rules for patents and copyrights are different. Without a specific IP assignment clause, employees own the patents on their own inventions. But a company will own the copyright to its employee's creative works (including employee software code), as long as the work was done "within the scope" of employment. The details are discussed below. 
 
 
-## Patents
+## Patent Law
 
 "The law on patent ownership is unacceptably complex and creates excessive uncertainty." Prof. Donald Chisum.
 
@@ -68,22 +68,8 @@ Exceptions. There are two exceptions. A contract assigning inventions to the com
 2. the invention results from work performed by the employee "as an employee" of the company.
 
 
-**California Labor Code § 2870**
 
-> **§ 2870.** (a) Any provision in an employment agreement which provides that an employee shall assign, or offer to assign, any of his or her rights in an invention to his or her employer shall not apply to an invention that the employee developed entirely on his or her own time without using the employer's equipment, supplies, facilities, or trade secret information except for those inventions that either:
-
-> (1) Relate at the time of conception or reduction to practice of the invention to the employer's business, or actual or demonstrably anticipated research or development of the employer; or 
-
-> (2) Result from any work performed by the employee for the employer.
-
-> (b) To the extent a provision in an employment agreement purports to require an employee to assign an invention otherwise excluded from being required to be assigned under subdivision (a), the provision is against the public policy of this state and is unenforceable.
-
-> **§ 2871.** No employer shall require a provision made void and unenforceable by Section 2870 as a condition of employment or continued employment. Nothing in this article shall be construed to forbid or restrict the right of an employer to provide in contracts of employment for disclosure, provided that any such disclosures be received in confidence, of all of the employee's inventions made solely or jointly with others during the term of his or her employment, a review process by the employer to determine such issues as may arise, and for full title to certain patents and inventions to be in the United States, as required by contracts between the employer and the United States or any of its agencies.
-
-> **§ 2872.** If an employment agreement... contains a provision requiring the employee to assign or offer to assign any of his or her rights in any invention to his or her employer, the employer must also, at the time the agreement is made, provide a written notification to the employee that the agreement does not apply to an invention which qualifies fully under the provisions of Section 2870. In any suit or action arising thereunder, the burden of proof shall be on the employee claiming the benefits of its provisions.
-
-
-# Copyright Law
+## Copyright Law
 Copyright ownership is controlled by federal law, so the rules are the same in every state. The default copyright rules are similar to the default patent rules. By default, authors own the copyright to all of their creative works, including any code they write. But as always, there are exceptions. 
 
 A company owns the copyright to "works made for hire." This includes (a) any work made by an employee "within the scope of her employment" and (b) the work of an independent contractor if the company gets an express written assignment. 
