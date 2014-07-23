@@ -113,11 +113,8 @@ Gmail famously came from Google's 20% time to tinker policy. And while Google qu
 
 Github's [best practices for leaving your company](https://help.github.com/articles/best-practices-for-leaving-your-company).
 
-{% highlight %}
-
     $ rm -rf work_directory 
 
-{% endhighlight %}
 
 - - - 
 
