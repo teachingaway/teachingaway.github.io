@@ -20,6 +20,10 @@ Have all your employees sign a contract with a IP assignment agreement. Special 
 
 The contract doesn't need to be draconian, it just needs to spell out the details. Encouraging employees to work on creative side projects can be great for innovation. 
 
+Review all of your co-founders IP agreements with previous companies. Learn from [Paul Graham's mistakes](http://www.paulgraham.com/start.html),
+
+> As we were in the middle of getting bought, we discovered that one of our people had, early on, been bound by an agreement that said all his ideas belonged to the giant company that was paying for him to go to grad school. In theory, that could have meant someone else owned big chunks of our software. So the acquisition came to a screeching halt while we tried to sort this out. The problem was, since we'd been about to be acquired, we'd allowed ourselves to run low on cash. Now we needed to raise more to keep going. But it's hard to raise money with an IP cloud over your head, because investors can't judge how serious it is.
+
 
 ### Takeaway for Employees: 
 First, double-check your employment agreement and the company's employment policies. There may be enforceable IP assignment agreements in either. If there isn't an applicable IP assignment provision, (a) you probably own the patents to your inventions, and (b) if the project is unrelated to your employer's business, you probably also own the copyright to your side-projects code.
@@ -84,52 +88,29 @@ Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06
 
 New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? In practice, it means you end up in front of a Judge in the New York State Commercial Division on very short notice (the legal filing will be called a "Temporary Restraining Order" and may be followed by a "Preliminary Injunction" hearing). If you took secrets from your old company and used them to compete against the company, you're probably in trouble. The leading NY case is [BDO Seidman v. Hirshberg, 712 NE 2d 1220 (N.Y. 1999).](http://scholar.google.com/scholar_case?case=9875117510352576316) 
 
-But your former employer can't stop you from using your general skills and knowledge, even to compete with your old company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [American Broadcasting Companies v. Wolf, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). "Important, too, are the 'powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." Id.
+But your former employer can't stop you from using your general skills and knowledge, even to compete with your old company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [_American Broadcasting Companies v. Wolf_, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). There are also "powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." _Id_. 
 
+- - - 
 
+## Side Projects Encourage Innovative Startup Culture
+Startups should have a side-project policy. Whether allowed or prohibited, the rules should be written out clearly, and in plain language. 
 
-## Trade Secrets
+As founders, you may want to encourage your employees to work on side projects. Intelligent and creative people will have side projects anyway, so they might as well be out in the open. 
 
+Generous side-project policies can attract top engineering talent. Side-projects encourage creativity and experimentation. They add variety to an employee's routine and can reduce burnout, while simultaneously improving employee skills (all at no cost to the company!). Side projects can also improve your employee's network, which might help you hire new developers. 
 
+Gmail famously came from Google's 20% time to tinker policy. And while Google quietly terminated 20% time last year, other companies have picked up the torch. Check out [LinkedIn's Incubator](http://www.wired.com/2012/12/llinkedin-20-percent-time/), [Apple's BlueSky](http://www.businessinsider.com/apple-tries-20-time-2012-11), and [Microsoft's Garage](http://www.microsoft.com/en-us/news/stories/garage/index.html)
 
-
-
-
-
-
-
-## Founders: Check you previous IP agreements
-
-http://www.paulgraham.com/start.html
-
-> As we were in the middle of getting bought, we discovered that one of our people had, early on, been bound by an agreement that said all his ideas belonged to the giant company that was paying for him to go to grad school. In theory, that could have meant someone else owned big chunks of our software. So the acquisition came to a screeching halt while we tried to sort this out. The problem was, since we'd been about to be acquired, we'd allowed ourselves to run low on cash. Now we needed to raise more to keep going. But it's hard to raise money with an IP cloud over your head, because investors can't judge how serious it is.
-
-
-
-
-## Side-Hustle Culture
-Startups should have a side-project policy. Whether side-projects are allowed or prohibited, the rules should be written out clearly, and in plain language. 
-
-As founders, you may want to encourage your employees to work on side projects. Smart employees will work on side projects anyway, so it might as well be out in the open. When you know about your employee's side-projects, you may have an opportunity to get in on the ground floor of a promising investment. 
-
-Also, generous side-project policies can help attract top engineers. Side-projects encourage creativity and experimentation. They add variety to an employee's routine and can reduce burnout, while simultaneously improving skills (all at no cost to the company). Side projects can also improve your employee's network, which might help your company hire new developers. 
-
-Gmail was famously developed out of Google's famous "20% time" policy. And while Google quietly terminated 20% time to tinker  last year, many other companies continue to offer similar perks: [LinkedIn's Incubator](http://www.wired.com/2012/12/llinkedin-20-percent-time/), [Apple's BlueSky](http://www.businessinsider.com/apple-tries-20-time-2012-11), and [Microsoft's Garage](http://www.microsoft.com/en-us/news/stories/garage/index.html)
+- - - 
 
 ### Links
 
 Github's [best practices for leaving your company](https://help.github.com/articles/best-practices-for-leaving-your-company).
 
-
-$ rm -rf work_directory 
-
-
+    $ rm -rf work_directory 
 
 [Why GitHub Hacks on Side Projects](http://zachholman.com/posts/why-github-hacks-on-side-projects/) 
 
-## Danger of Employee Side-Hustle
-
-You don't want employees stealing your technology or customers or competing at night. 
 
 
 
