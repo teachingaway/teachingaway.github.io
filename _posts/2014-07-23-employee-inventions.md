@@ -14,7 +14,7 @@ share: true
 
 When can an employee spin up a side project without messy legal entanglements? When does a company own the rights to its employee's code? When these questions come up, we first look for contracts. Was there an invention assignment agreement? If not, we run into a mess of state and federal default rules.
 
-The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant <a href="#patent-law">patent</a>, <a href="/#copyright-law">copyright</a> and <a href="/#non-compete-agreements-law">non-compete</a> law. Finally, there's a <a href="/#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
+The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant <a href="#patent-law">patent</a>, <a href="#copyright-law">copyright</a> and <a href="#non-compete-agreements-law">non-compete</a> law. Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
 
 ### Takeaway for Founders
 
