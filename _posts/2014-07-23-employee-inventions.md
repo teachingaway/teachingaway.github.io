@@ -135,11 +135,15 @@ As a condition of my becoming employed (or my employment being continued) by Sta
 
 1.	**Relationship**.  This Confidential Information and Invention Assignment Agreement (this “Agreement”) applies to my employment relationship with the Company.  
 
+
 1.1. Future Relationships. If my employment ends, and the Company hires me again (either as employee or consultant) within 1 year of the termination date, this Agreement will also apply to later employment or consulting relationship.  
+
 
 1.2. Any employment or consulting relationship (whether commenced before, upon or after the date of this Agreement) is referred to as the “Relationship.”  
 
+
 2.	**Duties**.  I will perform the work the Company designates for me, as well as any other work within the scope of the Relationship and not contrary to the Company’s instructions.  
+
 
 2.1. Entire Business Efforts. During the Relationship, I will devote my entire best business efforts to the interests of the Company and will not engage in other employment or in any activities detrimental to the Company’s interests.  
 
@@ -160,7 +164,9 @@ As a condition of my becoming employed (or my employment being continued) by Sta
 4.	**Ownership of Inventions**.
 
 4.1. Existing Personal Inventions.  All Inventions (as defined below) that I have invented or own any interest in, and that relate in any way to any of the Company’s actual or proposed businesses, products, services, or research and development are listed in Exhibit A. These inventions are not assigned to the Company. 
+
 If no such list is attached, I represent that there are no Inventions, and to the extent such Inventions do exist and are not listed on Exhibit A, I hereby forever waive any and all rights or claims of ownership to such Inventions.  
+
 4.2. Incorporation of Personal Inventions.  If I use or incorporate any personal Invention into a Company product, I will automatically give the Company permission to use the personal Invention. Specifically, I hereby irrevocably grant to the Company a nonexclusive, fully paid-up, royalty-free, assumable, perpetual, worldwide license, with right to transfer and to sublicense, to practice and exploit such Invention and to make, have made, copy, modify, make derivative works of, use, sell, import, and otherwise distribute such Invention under all applicable intellectual property laws without restriction of any kind. I will promptly inform the Company in writing before incorporating any personal Invention into a Company Product. 
 4.3. Inventions Defined.  “Inventions” means discoveries, developments, concepts, designs, ideas, know how, improvements, inventions, trade secrets and/or original works of authorship, whether or not patentable, copyrightable or otherwise legally protectable.  I understand this includes any new product, machine, article of manufacture, biological material, method, procedure, process, technique, use, equipment, device, apparatus, system, compound, formulation, composition of matter, design or configuration of any kind, or any improvement thereon.   “Company Inventions” means any and all Inventions that I may solely or jointly author, discover, develop, conceive, or reduce to practice during the period of the Relationship.
 4.4.	Assignment of Company Inventions.  The Company will own Company Inventions. I hereby assign to the Company, or its designee, all my rights throughout the world in all Company Inventions and all patent, copyright, trademark, trade secret and other intellectual property rights in them.  I further acknowledge that all Company Inventions that are made by me (solely or jointly with others) within the scope of and during the period of the Relationship are “works made for hire” and are compensated by my salary.  Assignment of Company Inventions includes all rights of attribution, paternity, integrity, modification, disclosure and withdrawal, and any other rights throughout the world (including “moral rights,” “artist’s rights,” “droit moral,” or the like (collectively, “Moral Rights”).  To the extent that Moral Rights cannot be assigned under applicable law, I hereby waive and agree not to enforce any and all Moral Rights, including any limitation on subsequent modification, to the extent permitted under applicable law.
