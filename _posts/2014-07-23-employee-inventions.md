@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Side Hustle: Who Owns Employee Inventions?"
-summary: "When an employee builds a side project, who owns the code?" 
+summary: "We untangle some of the patent, copyright and noncompete law that can flummox founders and perplex employees." 
 tags: [patent, copyright, employment]
 author: adler
 image:
