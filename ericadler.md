@@ -22,7 +22,9 @@ image:
 
 Eric builds robust patent portfolios at the intersection of design and technology. He brings principals of user experience and information architecture from the digital world into his legal work. 
 
-Eric an advisor to <a href="http://www.blipclinic.org/">Brooklyn Law School’s technology clinic (BLIP)</a>, sits on the board of the <a href="http://legalhackers.org/">NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
+Eric is an advisor to <a href="http://www.blipclinic.org/">Brooklyn Law School’s technology clinic (BLIP)</a>, sits on the board of the <a href="http://legalhackers.org/">NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
+
+He writes <a href="https://medium.com/@teachingaway">good news about patent trolls</a> over at Medium. 
 
 
 <!-- 
