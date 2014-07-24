@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "3D Printing Patents at the ITC"
-description: "In the Matter of Certain Digital Models: 3D Printing Patents at the ITC."
+summary: "In the Matter of Certain Digital Models: 3D Printing Patents at the ITC."
 category: articles
 tags: [patent, supreme court]
 author: adler

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Alice v. CLS Bank Oral Arguments"
-description: "Software patents at the Supreme Court."
+summary: "Software patents at the Supreme Court."
 category: articles
 tags: [patent, supreme court, software patents]
 author: adler
