@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Side Hustle: Who Owns Employee Innovations?"
-summary: "Untangling the patent, copyright and noncompete rules that flummox founders and perplex employees." 
+title: "Who Owns Employee Innovations?"
+summary: "Untangling the patent, copyright and noncompete rules governing employee side projects." 
 tags: [patent, copyright, non-compete, employment]
 author: adler
 image:
@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-When can an employee spin up a side project without messy legal entanglements? When does a company own the rights to its employee's code? When these questions come up, we first look for contracts. Was there an invention assignment agreement? If not, we run into a mess of state and federal default rules.
+When can an employee spin up a side project without messy legal entanglements? When does a company own its employee's code? When these questions come up, we first look for contracts. If there was an invention assignment agreement, it will answer most of the questions.  If nothing was signed, we run into a mess of state and federal default rules.
 
 The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant <a href="#patent-law">patent</a>, <a href="#copyright-law">copyright</a> and <a href="#non-compete-agreements-law">non-compete</a> law. Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
 
