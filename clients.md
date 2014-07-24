@@ -31,7 +31,7 @@ We represent clients who want to make a mark on the world. Our clients are entre
 
 - - - 
 
-**Design, Branding and Fashion**
+**Design, Media and Fashion**
 
 <figure class="third">
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
@@ -40,6 +40,7 @@ We represent clients who want to make a mark on the world. Our clients are entre
     <a href='http://www.digitaldumbo.com/'><img src="/images/clients/digital-dumbo-logo.png"></a>
 	<a href='http://www.redhookcrit.com/'><img src="/images/clients/redhook-crit-logo.png"></a>
 	<a href='http://www.samuji.com/'><img src="/images/clients/samuji-logo.png"></a>
+	<a href='http://www.mediaredefined.com/'><img src="/images/clients/redef-logo.png"></a>
 </figure>
 
 

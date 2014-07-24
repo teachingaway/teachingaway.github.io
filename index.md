@@ -29,7 +29,7 @@ We provide modern legal services to <a href="/clients">dynamic clients</a>.
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
 	<a href='http://solidoodle.com'><img src="/images/clients/solidoodle-logo.png"></a>
 	
-	<a href='http://outlier.cc'><img src="/images/clients/outlier-logo.png"></a>
+	<a href='http://www.mediaredefined.com/'><img src="/images/clients/redef-logo.png"></a>
 	<a href='http://mitro.co'><img src="/images/clients/mitro-logo.png"></a>
 	<a href='http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
 	
