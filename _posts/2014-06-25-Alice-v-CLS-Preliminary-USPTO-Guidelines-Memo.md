@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "USPTO Issues New Guidance on Software Patents."
-summary: "In light of <em>Alice v. CLS Bank</em>, the Patent Office just issued preliminary instructions to patent examiners for reviewing software patent applications." 
+summary: "The Patent Office issues new guidelines for reviewing software patent applications in light of <em>Alice v. CLS Bank</em>." 
 tags: [patent prosecution, software patents]
 author: adler
 image:
