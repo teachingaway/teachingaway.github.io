@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Patent Office on Patentable Subject Matter"
-description: "The USPTO issues new examination guidelines for determining whether a software patent claims patent-eligible subject matter."
+summary: "The USPTO issues new examination guidelines for determining whether a software patent claims patent-eligible subject matter."
 tags: [patent, patentable subject matter]
 author: adler
 image:

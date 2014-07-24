@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Facebook Buys Oculus and its Patents" 
+summary: "Oculus Rift has lots of cool patents and design patents."
 tags: [oculus, patent portfolio]
 author: adler
 image:

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Startup Shuts Down a Patent Troll"
-description: "FindTheBest.com takes a stand and slays a troll."
+summary: "FindTheBest.com takes a stand and slays a troll."
 tags: [patent troll, startups, litigation]
 author: adler
 image:
