@@ -15,10 +15,13 @@ share:
 Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. Discussions are informal and off-the-clock.
 
 
-- Whats a "provisional patent"? Is it important before a beta launch? 
-- Whats the difference between ® and ™ after a brand? 
+- What's a "provisional patent"? Is it important before a beta launch? 
+- What's the difference between ® and ™ after a brand? 
 - How does a liquidation preference work? 
 - When is a convertible note a good idea? 
+
+We've been having a great time at these office hours, and learning a lot from the people who drop in. We'll try to write blog posts about common questions, like <a href="employee-inventions/">"when does a company own its employee's inventions?"</a>
+
 
 - - - 
 

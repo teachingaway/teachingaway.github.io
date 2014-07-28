@@ -12,9 +12,11 @@ comments: true
 share: true
 ---
 
-When can an employee spin up a side project without messy legal entanglements? When does a company own its employee's code? When these questions come up, we first look for contracts. If there was an invention assignment agreement, it will answer most of the questions.  If nothing was signed, we run into a mess of state and federal default rules.
+<p class="big-text">When can an employee spin up a side project without messy legal entanglements? When does a company own its employee's code?</p> 
 
-The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant <a href="#patent-law">patent</a>, <a href="#copyright-law">copyright</a> and <a href="#non-compete-agreements-law">non-compete</a> law. Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
+These questions come up all the time. To answer them, we first look for contracts. If there was an invention assignment agreement, it will probably have our answers.  If nothing was signed, we run into a mess of state and federal default rules.
+
+The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant:  <a href="#patent-law">1. patent</a>, <a href="#copyright-law">2. copyright</a> and <a href="#non-compete-agreements-law">3. non-compete</a> law. Finally, there's a <a href="#example-invention-assignment-agreement">4. sample IP assignment agreement</a>.  
 
 ### Takeaway for Founders
 
@@ -61,15 +63,15 @@ The general rule is that inventors own their own inventions. "The presumptive ow
 
 San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
 
-In CA and WA, regardless of what an employment contract says, employees will retain ownership of their inventions under certain circumstances. 
+In CA and WA, regardless of what an employment contract says, employees will own their inventions if: 
 
-1. If the invention is made entirely on employee's own time, the employee owns it. 
-2. If the invention is made without using any of the company's equipment or technology, the employee owns it. 
+- the invention is made entirely on employee's own time, and, 
+- the invention is made without using any of the company's equipment or technology. 
 
-There are two exceptions. A contract assigning inventions to the company is enforceable if: 
+There are two exceptions. A contract assigning inventions to the company is enforceable (i.e., the company owns the technology) if: 
 
-1. The invention relates to the company's business or anticipated R&D, or 
-2. the invention results from work performed by the employee "as an employee" of the company.
+- The invention relates to the company's business or anticipated R&D, or 
+- the invention results from work performed by the employee "as an employee" of the company.
 
 Finally, companies need to tell their new employees about the law. A copy of [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) should be attached to all employment agreements.  
 
@@ -121,14 +123,14 @@ Github's [best practices for leaving your company](https://help.github.com/artic
 
 ## Example Invention Assignment Agreement. 
 
-Here's an example Invention Assignment agreement. Its based off an Orrick doc, but I've trimmed some legalese and tried to eliminate unnecessary confusion. 
+Here's an example Invention Assignment agreement (followed by Exhibits A and B). The example contract is based off an Orrick doc, but I've trimmed some legalese and tried to eliminate unnecessary confusion. 
 
 
-[Company Name] Confidential Information and Invention Assignment Agreement. 
+**Startup Co. Confidential Information and Invention Assignment Agreement.**
 
-Employee Name:____________________ 
+Employee Name: 
 
-Effective Date:__________ 
+Effective Date:  
 
 Company: [StarupCo, Inc., a Delaware Corporation]. Startupco, Inc., together with its current or future subsidiaries, affiliates, successors or assigns are collectively, the “Company.”
 
@@ -201,7 +203,11 @@ In order to assist in the determination of which inventions qualify for such exc
 
 **10. Representations and Covenants**. I represent and warrant as follows: 
 
-10.1. No Conflicts.  I represent that my performance of all the terms of this Agreement will not breach any agreement I have entered into with any third party, including any agreement to keep proprietary information confidential.  I will not induce the Company to use any inventions, confidential or non-public proprietary information, or material belonging to any previous client, employer or any other party.  I acknowledge and agree that I have listed on Exhibit A all agreements (e.g., non-competition agreements, non-solicitation of customers agreements, non-solicitation of employees agreements, confidentiality agreements, inventions agreements, etc.), if any, with any current or former client, employer, or other entity, that may restrict my ability to accept employment with the Company or otherwise restrict my ability to perform my duties for the Company. 
+10.1. No Conflicts.  I represent that my performance of all the terms of this Agreement will not breach any agreement I have entered into with any third party, including any agreement to keep proprietary information confidential.  
+
+10.2. I will not induce the Company to use any inventions, confidential or non-public proprietary information, or material belonging to any previous client, employer or any other party.  
+
+10.3. I acknowledge and agree that I have listed on Exhibit A all agreements (e.g., non-competition agreements, non-solicitation of customers agreements, non-solicitation of employees agreements, confidentiality agreements, inventions agreements, etc.), if any, with any current or former client, employer, or other entity, that may restrict my ability to accept employment with the Company or otherwise restrict my ability to perform my duties for the Company. 
  
 **11. Electronic Delivery**.  This Agreement does not imply a right to participate in any equity incentive plans. However, if I do participate in such plans, I hereby consent to receive any documents related to the plan by electronic means.
 
