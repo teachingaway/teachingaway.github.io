@@ -16,7 +16,12 @@ share: true
 
 These questions come up all the time. To answer them, we first look for contracts. If there was an invention assignment agreement, it will probably have our answers.  If nothing was signed, we run into a mess of state and federal default rules.
 
-The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant:  <a href="#patent-law">1. patent</a>, <a href="#copyright-law">2. copyright</a> and <a href="#non-compete-agreements-law">3. non-compete</a> law. Finally, there's a <a href="#example-invention-assignment-agreement">4. sample IP assignment agreement</a>.  
+The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant law: 
+1. <a href="#patent-law">Patent Law</a>, 
+2. <a href="#copyright-law">Copyright Law</a>, and 
+3. <a href="#non-compete-agreements-law">Non-Compete Law</a>. 
+
+Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
 
 ### Takeaway for Founders
 
