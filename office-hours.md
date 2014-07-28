@@ -20,7 +20,7 @@ Come chat about startup and technology law topics from raising money, to contrac
 - How does a liquidation preference work? 
 - When is a convertible note a good idea? 
 
-Amazing people have been showing up, and we learn as much from them as they do from us. We'll try to blog answers to common questions, like <a href="employee-inventions/">"when does a company own its employee's inventions?"</a>
+Amazing people have been showing up, and we learn as much from them as they do from us. We'll try to blog answers to common questions, like <a href="/employee-inventions/">"when does a company own its employee's inventions?"</a>
 
 
 - - - 
