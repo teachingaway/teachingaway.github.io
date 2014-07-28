@@ -26,6 +26,8 @@ The post has 3 parts. First, some quick takeaways for founders and employees. Th
 
 Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
 
+- - - 
+
 ### Takeaway for Founders
 
 Have all employees sign an IP assignment agreement that spells out the details of who owns what technology. It doesn't need to be draconian. In fact, you may want to incentivize employees to develop side projects. 
