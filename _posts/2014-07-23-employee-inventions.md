@@ -18,11 +18,11 @@ These questions come up all the time. To answer them, we first look for contract
 
 The post has 3 parts. First, some quick takeaways for founders and employees. Then we dig into the details of the relevant law: 
 
-1. <a href="#patent-law">Patent Law</a>, 
+- <a href="#patent-law">Patent Law</a>, 
 
-2. <a href="#copyright-law">Copyright Law</a>, and 
+- <a href="#copyright-law">Copyright Law</a>, and 
 
-3. <a href="#non-compete-agreements-law">Non-Compete Law</a>. 
+- <a href="#non-compete-agreements-law">Non-Compete Law</a>. 
 
 Finally, there's a <a href="#example-invention-assignment-agreement">sample IP assignment agreement</a>.  
 
