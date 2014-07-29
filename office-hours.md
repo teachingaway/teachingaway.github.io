@@ -12,15 +12,14 @@ share:
 ---
 
 
-Come chat about startup and technology law topics from raising money, to contract fine print, to trademarks and patent trolls. Discussions are informal and off-the-clock.
-
+Come chat about startup and technology law. We offer free 30 minute slots on topics from raising money, to contract fine print, to trademarks and patent trolls. 
 
 - What's a "provisional patent"? Is it important before a beta launch? 
 - What's the difference between ® and ™ after a brand? 
 - How does a liquidation preference work? 
 - When is a convertible note a good idea? 
 
-Amazing people have been showing up, and we learn as much from them as they do from us. We'll try to blog answers to common questions, like <a href="/employee-inventions/">"when does a company own its employee's inventions?"</a>
+These sessions end up teaching us a lot about neighborhood tech startups and about the law. We'll try to blog answers to the more common questions, like <a href="/employee-inventions/">"when does a company own its employee's inventions?"</a>
 
 
 - - - 
