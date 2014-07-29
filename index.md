@@ -41,6 +41,7 @@ We provide modern legal services to <a href="/clients">dynamic clients</a>.
 
 <ul class="post-list">
 {% for post in site.posts limit:5 %} 
+{% if post.includeinbloglist != "no" %}
   <li>
     <article>
         <a href="{{ site.url }}{{ post.url }}">
@@ -58,6 +59,7 @@ We provide modern legal services to <a href="/clients">dynamic clients</a>.
         </span>
     </article>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 

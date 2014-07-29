@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /series-seed-3.2-doc/
+layout: post
+includeinbloglist: "no"
 title: "Series Seed v3.2 Financing Agreement"
 summary: "Series Seed angel financing agreement explained."
 tags: [venture capital, vc, angel, law]

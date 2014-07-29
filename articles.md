@@ -11,6 +11,7 @@ image:
 
 <ul class="post-list">
 {% for post in site.posts limit:25 %} 
+{% if post.includeinbloglist != "no" %}
   <li>
     <article>
         <a href="{{ site.url }}{{ post.url }}">
@@ -28,6 +29,7 @@ image:
         </span>
     </article>
 </li>
+{% endif %}
 {% endfor %}
 </ul>
 

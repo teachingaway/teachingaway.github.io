@@ -1,6 +1,6 @@
 ---
-layout: page
-permalink: /techstars-angel-doc/
+layout: post
+includeinbloglist: "no"
 title: "Techstars Financing Agreement"
 summary: "Techstars angel financing term sheet explained."
 tags: [venture capital, vc, angel, law]
