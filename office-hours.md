@@ -14,13 +14,12 @@ share:
 
 Come chat about startup and technology law. Sign up for a free 30 minute slot to talk about topics from raising money, to contracts, to trademarks and patent trolls. 
 
-- Was I supposed to file an 83(b) election?
-- What's a "provisional patent"? Is it important before a beta launch?
+- Should I file a "provisional patent" before my beta launch?
 - <a href="/employee-inventions/">When does a company own its employee's inventions?</a>
+- Was I supposed to file an 83(b) election?
 - What's the difference between ® and TM? 
 - How does a liquidation preference work?  
 
-These sessions have quickly become the highlight of our week, so send an email and sign up.
 
 - - - 
 
