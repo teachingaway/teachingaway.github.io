@@ -18,7 +18,7 @@ Come chat about startup and technology law. Sign up for a free 30 minute slot to
 - What's the difference between ® and ™ after a brand? 
 - How does a liquidation preference work? 
 - When is a convertible note a good idea? 
-- <a href="/employee-inventions/">when does a company own its employee's inventions?</a>
+- <a href="/employee-inventions/">When does a company own its employee's inventions?</a>
 
 These sessions have quickly become the highlight of our week. We learn a lot, and sometimes even provide useful information. 
 
