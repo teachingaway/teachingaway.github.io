@@ -14,13 +14,13 @@ share:
 
 Come chat about startup and technology law. Sign up for a free 30 minute slot to talk about topics from raising money, to contracts, to trademarks and patent trolls. 
 
-- What's a "provisional patent"? Is it important before a beta launch? 
-- What's the difference between ® and ™ after a brand? 
-- How does a liquidation preference work? 
-- When is a convertible note a good idea? 
+- Was I supposed to file an 83(b) election?
+- What's a "provisional patent"? Is it important before a beta launch?
 - <a href="/employee-inventions/">When does a company own its employee's inventions?</a>
+- What's the difference between ® and TM? 
+- How does a liquidation preference work?  
 
-These sessions have quickly become the highlight of our week. We learn a lot, and sometimes even provide useful information. 
+These sessions have quickly become the highlight of our week, so send an email and sign up.
 
 - - - 
 
