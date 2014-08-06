@@ -26,7 +26,7 @@ _In theory_, patent claims are supposed to notify competitors about what technol
        a peer-to-peer network for salting rainbow tables. 
 
     2. The platform of claim 1, further comprising, 
-       a robust experience for A/B testing curated moonshots. 
+       robust A/B testing for curated moonshots. 
        
 
 Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in Nautilus v. Biosig: 
