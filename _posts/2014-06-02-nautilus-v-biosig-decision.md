@@ -29,7 +29,7 @@ _In theory_, patent claims are supposed to notify competitors about what technol
        robust A/B testing for curated moonshots. 
        
 
-Here's the [actual patent claim](https://www.google.com/patents/US5337753) at issue in Nautilus v. Biosig: 
+It doesn't make much sense, does it? The [actual patent claim](https://www.google.com/patents/US5337753) at issue in _Nautilus v. Biosig_ is only slightly better: 
 
     1. A heart rate monitor for use by a user 
        in association with exercise apparatus
