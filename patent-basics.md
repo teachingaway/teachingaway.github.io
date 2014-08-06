@@ -49,11 +49,11 @@ Some important sections are [Obviousness](../MPEP/s2141.html), [written descript
 
 ### Estimated Costs With Provisional Patent Application
 
-<img src="https://docs.google.com/a/adlervermillion.com/spreadsheet/oimg?key=0AiQditI0jFUidF9Lanl4V3RBLWx6U2FRSnBuSkdQREE&oid=4&zx=s7gzzbarj3ac" />
+<img class="big-image" src="https://docs.google.com/a/adlervermillion.com/spreadsheet/oimg?key=0AiQditI0jFUidF9Lanl4V3RBLWx6U2FRSnBuSkdQREE&oid=4&zx=s7gzzbarj3ac" />
 
 
 
 ### Estimated Costs WITHOUT Provisional Application
 
-<img src="https://docs.google.com/a/adlervermillion.com/spreadsheet/oimg?key=0AmQG1hnDXKgPdHNPcTRGNDhVcWpoSlV1dWhocjd1SGc&oid=4&zx=uqkmgxjc355o" />
+<img class="big-image" src="https://docs.google.com/a/adlervermillion.com/spreadsheet/oimg?key=0AmQG1hnDXKgPdHNPcTRGNDhVcWpoSlV1dWhocjd1SGc&oid=4&zx=uqkmgxjc355o" />
 

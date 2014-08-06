@@ -14,7 +14,10 @@ share: true
 ---
 
 
-Here's an example Invention Assignment agreement. The example contract is based off an Orrick doc, but I've trimmed some legalese and tried to eliminate unnecessary confusion. 
+Here's an example Invention Assignment agreement. It protects a company's rights in the technology its employees build at work.  Does it favor the company or the employee? I'd call it a balanced document for California, but employee-friendly in New York.
+
+The example contract is based off an Orrick doc, but I've trimmed some legalese and tried to eliminate unnecessary confusion. 
+
 
 - - - 
 
