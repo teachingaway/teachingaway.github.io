@@ -36,7 +36,7 @@ Most of our trademark applications are approved and registered without any addit
 
 ### International Trademark Applications
 
-The "Madrid Protocol" provides a fairly efficient mechanism for international trademark registrations. There are three main steps. First, we file a single international trademark application in the US Trademark Office. This application includes a list of foreign countries where we are looking for trademark protection, as well as a fee for each country. Second, The US Trademark Office forwards the application to the International Bureau (“IB”) of the World Intellectual Property Organization for review.  Third, if approved, the IB forwards the application to the trademark offices of every country listed in the original application. The process takes about 18 months from application to registration. 
+**Application Process.** The "Madrid Protocol" provides a fairly efficient mechanism for international trademark registrations. There are three main steps. First, we file a single international trademark application in the US Trademark Office. This application includes a list of foreign countries where we are looking for trademark protection, as well as a fee for each country. Second, The US Trademark Office forwards the application to the International Bureau (“IB”) of the World Intellectual Property Organization for review.  Third, if approved, the IB forwards the application to the trademark offices of every country listed in the original application. The process takes about 18 months from application to registration. 
 
 **Cost.** The cost varies, but generally comes to around $3,000 in legal fees, plus filings fees (which vary by country). For example, the fee for filing in the EU, China, Japan and Mexico is about $3,000 (making the total fee around $6,000). 
 
@@ -45,7 +45,7 @@ The "Madrid Protocol" provides a fairly efficient mechanism for international tr
 **Trademark Office Fees.** There are fees at each stage. The International Bureau charges a $650 fee; and each country’s trademark office charges a fee of around $300. 
 
 
-| Country | Cost | Notes |
+| Country | Cost |  |
 |:--------|:-------|:--------|
 | International App   | 650   | For three classes |
 | EU   | 1,100   | For three classes |
@@ -57,7 +57,7 @@ The "Madrid Protocol" provides a fairly efficient mechanism for international tr
 | Canada |  N/A  |    |
 | Brazil |  N/A  |    |
 
-*International fees are paid in Swiss Francs, but exchange rate to USD is about 1:1. 
+International fees are paid in Swiss Francs, but exchange rate to USD is about 1:1. 
 
 
 - - - 
