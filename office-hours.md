@@ -25,7 +25,7 @@ Come chat about startup and technology law. Sign up for a free 30 minute slot to
 
 **When:** Fridays, 4-6 pm
 
-**RSVP:** to eric-at-adlervermillion.com or <a href="https://twitter.com/TeachingAway">@teachingaway</a>, required.
+**RSVP:** Sign up for a slot with <a href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Google Calendar</a>.
 
 - - - 
 
