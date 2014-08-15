@@ -10,6 +10,10 @@ image:
   creditlink: 
 ---
 
+
+
+My law students did great work last semester, winning a case against a patent troll for a connected-car startup. 
+
 ### We hit the top of Hacker News
 
 ![](/images/law-students-patent-troll-hacker-news.png)
@@ -22,7 +26,6 @@ image:
 
 
 
-<!-- 
 Paul Graham
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Law Students Fend Off a Patent Troll: <a href="http://t.co/lcu795YfsS">http://t.co/lcu795YfsS</a></p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/statuses/499944411447316481">August 14, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
@@ -47,4 +50,3 @@ EFF
 David Pashman (GC at Meetup)
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Law students from <a href="https://twitter.com/BLIPClinic">@BLIPClinic</a> fend off a patent troll - well done! <a href="http://t.co/Bg1Yu8gpgJ">http://t.co/Bg1Yu8gpgJ</a></p>&mdash; David Pashman (@davidpashman) <a href="https://twitter.com/davidpashman/statuses/499526548832391168">August 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
- -->
