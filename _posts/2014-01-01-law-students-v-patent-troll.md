@@ -17,7 +17,7 @@ My law students did great work last semester, winning a case against a patent tr
 
 ![](/images/law-students-patent-troll-hacker-news.png)
 
-<!-- 
+<!-- Twitter Timeline
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/TeachingAway/timelines/500350882337529856" data-widget-id="500352683132198913">BLIP v. Patent Troll</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
  -->
@@ -40,5 +40,7 @@ My law students did great work last semester, winning a case against a patent tr
 <blockquote class="twitter-tweet" lang="en"><p>Brooklyn Law Clinic students scare away patent trolls <a href="http://t.co/Tf9x7Ssi0N">http://t.co/Tf9x7Ssi0N</a> <a href="http://t.co/Fzy0eYHL7D">pic.twitter.com/Fzy0eYHL7D</a></p>&mdash; Cory Doctorow (@doctorow) <a href="https://twitter.com/doctorow/statuses/499586795886350336">August 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<!-- David Pashman Tweet:
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Law students from <a href="https://twitter.com/BLIPClinic">@BLIPClinic</a> fend off a patent troll - well done! <a href="http://t.co/Bg1Yu8gpgJ">http://t.co/Bg1Yu8gpgJ</a></p>&mdash; David Pashman (@davidpashman) <a href="https://twitter.com/davidpashman/statuses/499526548832391168">August 13, 2014</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+ -->
