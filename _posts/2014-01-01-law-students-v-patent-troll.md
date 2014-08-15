@@ -13,7 +13,7 @@ image:
 
 
 
-My law students did great work last semester, winning a case against a patent troll for a connected-car startup. We hit the top of Hacker News and got lots of big tweets. 
+My law students did great work last semester, [winning a case against a patent troll](https://medium.com/patents-technology-law/law-students-fend-off-a-patent-troll-2b8a708277fc) for a connected-car startup. We hit the top of Hacker News and got lots of big tweets. 
 
 ![](/images/law-students-patent-troll-hacker-news.png)
 
