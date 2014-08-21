@@ -77,11 +77,13 @@ future:      true
 highlighter: true
 markdown:    kramdown
 kramdown: 
-  
-
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+
+# Eric attempting to change relative permalinks to see if I can get pages generated in subfolders. 
+# relative_permalinks: false
+
 
 kramdown:
   auto_ids: true
@@ -102,5 +104,5 @@ kramdown:
     coderay_bold_every: 10
     coderay_css: class
 
-include: [".htaccess", "_pages", "MPEP", "pages"]
+include: [".htaccess", "_pages", "mpep", "pages"]
 exclude: ["lib", "config.rb", "Gemfile", "Capfile", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", 'pixelmator_files', 'drafts']
