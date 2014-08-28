@@ -21,9 +21,7 @@ This doesn't make sense. Database schema changes are annoying, sure. Its the typ
 
 Public.Resource.org has [offered](https://law.resource.org/pacer/ca2.uscourts.gov.20140827.pdf) to digitize and serve these lost court cases. I wrote to Judge Katzmann, Chief Judge of the Second Circuit, encouraging him to accept Public.Resource's offer (letter copied below). 
 
-- - - 
-
-<img src="/images/pacer-records-deleted.png">
+<!-- <img src="/images/pacer-records-deleted.png"> -->
 
 - - - 
 
@@ -55,16 +53,10 @@ Eric Adler
 
 - - - 
 
-## Link Roundup:
+### Link Roundup:
 
-[Public.Resource.org ](https://law.resource.org/pacer/ca2.uscourts.gov.20140827.pdf) has offered to scrub the personal information from these documents and host them for free. Courts would be foolish not to accept this offer. 
+*Ars Technica* - [US courts trash a decade’s worth of online documents, shrug it off](http://arstechnica.com/tech-policy/2014/08/us-courts-trash-a-decades-worth-of-documents-shrug-it-off)
 
+*Washington Post* - [Why PACER removed access to case archives of five courts](http://www.washingtonpost.com/blogs/the-switch/wp/2014/08/26/why-pacer-removed-access-to-case-archives-of-five-courts/)
 
-Ars Technica - [US courts trash a decade’s worth of online documents, shrug it off](http://arstechnica.com/tech-policy/2014/08/us-courts-trash-a-decades-worth-of-documents-shrug-it-off)
-
-Washington Post - [Why PACER removed access to case archives of five courts](http://www.washingtonpost.com/blogs/the-switch/wp/2014/08/26/why-pacer-removed-access-to-case-archives-of-five-courts/)
-
-GigaOm - [Why the federal court record system PACER is so broken, and how to fix it](https://gigaom.com/2014/08/27/why-the-federal-court-record-system-pacer-is-so-broken-and-how-to-fix-it/)
-
-[Decade of Court Cases Quietly Wiped from Online Database](http://www.commondreams.org/news/2014/08/28/decade-court-cases-quietly-wiped-online-database)
-
+*GigaOm* - [Why the federal court record system PACER is so broken, and how to fix it](https://gigaom.com/2014/08/27/why-the-federal-court-record-system-pacer-is-so-broken-and-how-to-fix-it/)
