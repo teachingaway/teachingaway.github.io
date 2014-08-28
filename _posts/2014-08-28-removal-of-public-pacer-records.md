@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-PACER, the public archive of court filings and decisions, recently deleted thousands of documents. Their excuse is that the old records use a different database schema.  
+PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. Their excuse is that the old records use a different database schema.  
 
 > As a result of these architectural changes, the locally developed legacy case management systems in the five courts listed below are now incompatible with PACER; therefore, the judiciary is no longer able to provide electronic access to the closed cases on those systems.
 
