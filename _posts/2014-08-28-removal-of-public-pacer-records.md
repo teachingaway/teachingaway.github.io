@@ -13,11 +13,11 @@ comments: true
 share: true
 ---
 
-PACER, the public archive of court filings and decisions,  recently deleted thousands of documents. Their explanation makes little sense: 
+PACER, the public archive of court filings and decisions, recently deleted thousands of documents. Their excuse is that the old records use a different database schema.  
 
 > As a result of these architectural changes, the locally developed legacy case management systems in the five courts listed below are now incompatible with PACER; therefore, the judiciary is no longer able to provide electronic access to the closed cases on those systems.
 
-Yes, database schema changes are annoying. Its the type of work that wastes an afternoon or two. But its not the type of insurmountable challenge that justifies the deletion of thousands of public court documents.  
+This doesn't makes sense. Database schema changes are annoying. Its the type of work that might wastes an afternoon or two. But its not the type of insurmountable challenge that justifies the deleting thousands of public court documents.  
 
 
 <img src="/images/pacer-records-deleted.png">
@@ -27,12 +27,16 @@ I sent the following letter to Judge Katzmann, encouraging him to accept Public.
 
 - - - 
 
-Honorable Robert A. Katzmann, Chief Judge
-United States Court of Appeals for the Second Circuit 
-Thurgood Marshall U.S. Courthouse
-40 Foley Square
-New York, NY 10007
+<p>Honorable Robert A. Katzmann, Chief Judge<br>
+United States Court of Appeals for the Second Circuit <br>
+Thurgood Marshall U.S. Courthouse<br>
+40 Foley Square<br>
+New York, NY 10007</p>
+
+
 Re: Removal of Public Records from PACER
+
+
 Chief Judge Katzmann:
 
 PACER recently removed public access to records of Second Circuit cases filed before January 1, 2010. This is a step backwards. These records include the briefs and motions of some of the finest lawyers in the country. The Second Circuit should proudly display these documents online, not allow them to be hidden in a dusty records room. 
