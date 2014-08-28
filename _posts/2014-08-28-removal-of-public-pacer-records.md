@@ -13,19 +13,17 @@ comments: true
 share: true
 ---
 
-PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. PACER's excuse is that these records use a legacy database schema that is incompatible with the new database architecture.  
+PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. PACER's excuse is that these records use a legacy database schema that is incompatible with the new database architecture:   
 
 > As a result of these architectural changes, the locally developed legacy case management systems in the five courts listed below are now incompatible with PACER; therefore, the judiciary is no longer able to provide electronic access to the closed cases on those systems.
 
 This doesn't make sense. Database schema changes are annoying, sure. Its the type of work that might waste an afternoon or two. But its not the type of insurmountable challenge that justifies deleting thousands of public court documents.  
 
-Public.Resource.org has [offered](https://law.resource.org/pacer/ca2.uscourts.gov.20140827.pdf) to digitize and serve these lost court cases. I sent a letter (below) to Judge Katzmann, Chief Judge of the Second Circuit, encouraging him to accept Public.Resource's offer. 
+Public.Resource.org has [offered](https://law.resource.org/pacer/ca2.uscourts.gov.20140827.pdf) to digitize and serve these lost court cases. I wrote to Judge Katzmann, Chief Judge of the Second Circuit, encouraging him to accept Public.Resource's offer (letter copied below). 
 
+- - - 
 
 <img src="/images/pacer-records-deleted.png">
-
-
-
 
 - - - 
 
