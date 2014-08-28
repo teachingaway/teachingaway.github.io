@@ -11,11 +11,18 @@ image:
 share: 
 ---
 
+Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A design patent is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "provisional" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
+
+
 ## Utility Patent
 
+A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. 
 
 ## Provisional Patents
 
+A provisional patent application is a temporary patent application that nails down a filing date at the Patent Office. If an inventor files a full utility patent application within 1 year after the provisional, the later full application will be treated as though it was filed on the date of the earlier provisional application. 
+
+There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
 
 ## Design Patents
 
@@ -27,7 +34,7 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 - - -
 
 ## The [MPEP](../MPEP/index.html) in Jekyll. 
-The Manual of Patent Examination Procedure guides US patent examiners in approving and rejecting patent applications. Its a huge book, and a Jekyll-based website is a convenient way to read it. (I think Github's switch to Jekyll 2.2 broke my MPEP pages. They're just rendering as unstyled text. Sorry.)
+The Manual of Patent Examination Procedure is the guide US patent examiners use to review patent applications. Its a huge book, and since I prefer reading it online. we copied the 2014 version into a Jekyll-based website.
 
 Some important sections are [Obviousness](../MPEP/s2141.html), [written description](../MPEP/s2163.html), and [patentable subject matter](../MPEP/s2106.html).
 

@@ -4,7 +4,7 @@ logo:             site-logo.png
 disqus_shortname: adlervermillion
 search:           false
 # Change url to your domain. Leave localhost server or blank when working locally.
-url:               http://adlervermillion.com              
+url:     #          http://adlervermillion.com              
 
 # Owner/author information
 owner:
@@ -80,9 +80,6 @@ kramdown:
 
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
-
-# Eric attempting to change relative permalinks to see if I can get pages generated in subfolders. 
-# relative_permalinks: false
 
 
 kramdown:
