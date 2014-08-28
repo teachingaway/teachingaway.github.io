@@ -1,8 +1,8 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Second Circuit Removes Thousands of Records from PACER"
-summary: "A public letter to Chief Judge Katzmann."
+title: "PACER Deletes Thousands of Public Court Records"
+summary: "A public letter to Chief Judge Katzmann encouraging the 2nd Circuit to preserve public access."
 tags: [PACER]
 author: adler
 image:
@@ -34,7 +34,7 @@ Thurgood Marshall U.S. Courthouse<br>
 New York, NY 10007</p>
 
 
-Re: Removal of Public Records from PACER
+**Re: Removal of Public Records from PACER**
 
 
 Chief Judge Katzmann:
