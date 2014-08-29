@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. PACER's excuse is that these records use a legacy database schema that is incompatible with the new database architecture:   
+PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. PACER's excuse is that these records use a legacy database schema that is incompatible with their new database architecture. From the PACER website:    
 
 > As a result of these architectural changes, the locally developed legacy case management systems in the five courts listed below are now incompatible with PACER; therefore, the judiciary is no longer able to provide electronic access to the closed cases on those systems.
 
@@ -37,7 +37,7 @@ New York, NY 10007</p>
 
 Chief Judge Katzmann:
 
-PACER recently removed public access to records of Second Circuit cases filed before January 1, 2010. This is a step backwards. These records include the briefs and motions written by some of the finest lawyers in the country. The Second Circuit should proudly display these documents online, not hide them away in a dusty basement
+PACER recently removed public access to records of Second Circuit cases filed before January 1, 2010. This is a step backwards. These records include briefs and motions written by some of the finest lawyers in the country. The Second Circuit should proudly display these documents online, not hide them away in a dusty basement
 
 Eliminating digital access will deprive young attorneys and law students of the opportunity to learn from an exemplary body of work. Eliminating digital access will increase the cost of legal representation and the cost of *pro bono* representation in particular. Please don’t let it happen. 
 
