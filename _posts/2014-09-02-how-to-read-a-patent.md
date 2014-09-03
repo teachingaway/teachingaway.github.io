@@ -91,6 +91,10 @@ I hope this helps provide a general overview of how to read a patent. Patent law
 
 Please feel free to ask *general questions* in the comments. I'll try to answer, and questions will help me improve this guide. I can't answer specific questions about your patents and technology. 
 
+- - - 
+
+Eric is a patent and technology lawyer in NYC. He's helped [defeat patent trolls](https://medium.com/patents-technology-law/law-students-fend-off-a-patent-troll-2b8a708277fc), and is learning to make Arduino toys.  
+
 
 <a href="https://twitter.com/TeachingAway" class="btn">Follow me on twitter</a>
 
