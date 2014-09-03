@@ -34,9 +34,7 @@ In 2 minutes, we've narrowed a huge patent document down to a small handful of i
 
 We want to determine whether our technology would infringe on this patent we're reading. A technology will infringe if it incorporates *every element* of any one of the claims. Fortunately, we only need to check the independent claims at this point. 
 
-Claims read like run-on sentences, but if you're lucky the run-ons will be broken down into sections and even subsections. Take a look at the first claim in our annotated patent (which happens to be the patent for Larry Page’s PageRank algo). The first claim is a method with 3 steps, and the first step has 4 qualifications. If you’re technology does not incorporate even one of these steps or qualifications, its (probably) not infringing.** 
-
-** at least not “directly infringing”. It might still be infringing under a complicated rule called the “Doctrine of Equivalents.”  
+Claims read like run-on sentences, but if you're lucky the run-ons will be broken down into sections and even subsections. Take a look at the first claim in our annotated patent (which happens to be the patent for Larry Page’s PageRank algo). The first claim is a method with 3 steps, and the first step has 4 qualifications. If you’re technology does not incorporate even one of these steps or qualifications, its (probably) not infringing. 
 
 1. A computer implemented method of scoring a plurality of linked documents, comprising:
 - obtaining a plurality of documents, 
@@ -47,7 +45,7 @@ Claims read like run-on sentences, but if you're lucky the run-ons will be broke
 - assigning a score to each of the linked documents based on scores of the one or more linking documents and
 - processing the linked documents according to their scores.
 
-For example, lets say your technology does all of this except that none of the documents are both "linked documents and linking documents." Then your technology is (probably) not infringing on this claim 1. 
+Lets say your technology does 95% of the elements in claim 1, except that none of the documents are both "linked documents and linking documents" (as the claim requires).  Then your technology is (probably) not infringing on this claim 1. Its an all-or-nothing analysis (at least at the preliminary stage). If even one element of the patent claim is missing from your technology, your tech is (probably) not infringing on the patent. 
 
 Parts of the claim might be ambiguous on their own. So at this point, we start referring back to the drawings and the summary to figure out whether words or phrases in the claim have some special meaning. This type of [claim interpretation](/MPEP/s2111.html) analysis is complicated, and beyond the scope of this post. In theory, if you are a reasonably competent engineer/scientist in the field of this patent, the claims should be written in language you can understand. (This is rarely true, but in theory, its required). 
 
