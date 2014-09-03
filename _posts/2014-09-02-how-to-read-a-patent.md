@@ -32,9 +32,11 @@ In 2 minutes, we've narrowed a huge patent document down to a small handful of i
 
 ## Any Infringement? 
 
-We want to determine whether our technology would infringe on this patent we're reading. A technology will infringe if it incorporates *every element* of any one of the claims. Fortunately, we only need to check the independent claims at this point. 
+We want to determine whether our technology would infringe on this patent we're reading. It will infringe if it incorporates *every element* of any one of the claims. Fortunately, we only need to check the independent claims at this point. 
 
-Claims read like run-on sentences, but if you're lucky the run-ons will be broken down into sections and even subsections. Take a look at the first claim in our annotated patent (which happens to be the patent for Larry Page’s PageRank algo). The first claim is a method with 3 steps, and the first step has 4 qualifications. If you’re technology does not incorporate even one of these steps or qualifications, its (probably) not infringing. 
+Claims read like run-on sentences, but if you're lucky the run-ons will be broken down into sections and even subsections. Take a look at the first claim in our annotated patent[^2]. The first claim is a method with 3 steps, and the first step has 4 qualifications: 
+
+[^2]: which happens to be the patent for Larry Page’s PageRank algo
 
 1. A computer implemented method of scoring a plurality of linked documents, comprising:
 - obtaining a plurality of documents, 
@@ -45,9 +47,9 @@ Claims read like run-on sentences, but if you're lucky the run-ons will be broke
 - assigning a score to each of the linked documents based on scores of the one or more linking documents and
 - processing the linked documents according to their scores.
 
-Lets say your technology does 95% of the elements in claim 1, except that none of the documents are both "linked documents and linking documents" (as the claim requires).  Then your technology is (probably) not infringing on this claim 1. Its an all-or-nothing analysis (at least at the preliminary stage). If even one element of the patent claim is missing from your technology, your tech is (probably) not infringing on the patent. 
+If you’re technology does not incorporate even one of these steps or qualifications, its (probably) not infringing this claim. Lets say your technology does 95% of the things described in claim 1, except that none of the documents are both "linked documents and linking documents" (as the claim requires).  Then your technology is (probably) not infringing on this claim 1. Its an all-or-nothing analysis (at least at the preliminary stage). If even one element of the patent claim is missing from your technology, your tech is (probably) not infringing on the patent. 
 
-Parts of the claim might be ambiguous on their own. So at this point, we start referring back to the drawings and the summary to figure out whether words or phrases in the claim have some special meaning. This type of [claim interpretation](/MPEP/s2111.html) analysis is complicated, and beyond the scope of this post. In theory, if you are a reasonably competent engineer/scientist in the field of this patent, the claims should be written in language you can understand. (This is rarely true, but in theory, its [required](/MPEP/s2163.html#d0e214553)). 
+Parts of the claim might be ambiguous on their own. So at this point, we start referring back to the rest of the patent document to try to understand whether words in the claim have some special meaning. This type of [claim interpretation](/MPEP/s2111.html) analysis is complicated, and beyond the scope of this post. In theory, if you are a reasonably competent engineer/scientist in the field of this patent, the claims should be written in language you can understand. (This is rarely true, but in theory, its [required](/MPEP/s2163.html#d0e214553)). 
 
 ## Annotated Patent
 
@@ -66,9 +68,9 @@ Its easy to forget that the claims, and only the claims, define patent rights. T
 
 ## Prior Art
 
-A [prior art analysis](MPEP/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because its useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^2] than the patent? If so, it might be prior art. Next, skip down to the claims. As with the infringement analysis, the claims are the most important part. But unlike infringement, we will need to review all the claims, not just the independent claims. 
+A [prior art analysis](MPEP/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because its useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^3] than the patent? If so, it might be prior art. Next, skip down to the claims. As with the infringement analysis, the claims are the most important part. But unlike infringement, we will need to review all the claims, not just the independent claims. 
 
-[^2]: There are lots of [complicated rules](http://adlervermillion.com/MPEP/s2152.html#ch2100_d20033_1afb3_e6) for determining whether a possible prior art reference is *older* than the patent. 
+[^3]: There are lots of [complicated rules](http://adlervermillion.com/MPEP/s2152.html#ch2100_d20033_1afb3_e6) for determining whether a possible prior art reference is *older* than the patent. 
 
 Check to see whether the prior art reference explains *every element* of a claim in the patent. If so, the reference “anticipates” the claim, and the claim is invalid. Repeat this process for each claim. If an independent claim is anticipated and invalid, the dependent claims that branch off of it might still be valid. 
 
