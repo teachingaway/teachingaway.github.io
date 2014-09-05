@@ -23,19 +23,13 @@ This walkthrough tries to explain the trademark application process, but it does
 
 ## Trademark Law Basics: The Branding and the Product
 
-Learning a little trademark law will help you put together a stronger trademark application. The Trademark Office rejects applications for two major reasons: 
-
-1. _Likelihood of Confusion_ -  The Trademark Office will refuse applications for trademarks that are too similar to existing trademark registrations. 
-
-2. _Distinctiveness_ - The Trademark Office will refuse applications for trademarks that define or closely describe your product. 
-
-To understand these rules, we need to understand that a trademark has two components: the branding and the product (or service) being sold. 
+The Trademark Office rejects applications for two major reasons: (1) _Likelihood of Confusion_  and (2) _lack of distinctiveness_. To understand these trademark rules, we need to understand that a trademark has two components, the branding and the product (or service) being sold. 
  
-**Likelihood of Confusion.** The Trademark Office will compare your trademark to its database of existing trademark registrations. If your trademark is too similar to an existing registration, it gets rejected. This comparison considers two factors: the brand and the product. Your trademark should only be refused if the brand, as used on your product, is so similar to an existing brand-as-used-on-product that the average consumer is likely to confuse your product for the older product. This is called the "likelihood of confusion" test, and it involves lots of complicated legal considerations that I'll save for a later discussion.
+**Likelihood of Confusion.** The Trademark Office will compare your trademark to its database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the brand and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing brand-as-used-on-product. How similar is too similar? Similar enough that an average consumer is likely to confuse your product for the older product. This "likelihood of confusion" test actually involves several more complicated legal considerations, and goes beyond the scope of this quick guide.
 
-**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept in the public domain. Every coffee shop can use the word "coffee" in its marketing. The Trademark Office will not grant anyone exclusive trademark rights in such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
+**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept in the public domain. For example, every coffee shop can use the word "coffee" in its marketing. The Trademark Office will not grant anyone one coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
 
-This is not only the law, its good branding. A distinctive trademark makes an impression, while a generic trademark is quickly forgotten.
+This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while a generic trademark is quickly forgotten.
 
 
 <!-- 
