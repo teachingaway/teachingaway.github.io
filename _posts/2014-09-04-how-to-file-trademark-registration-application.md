@@ -13,11 +13,11 @@ comments: true
 share: true
 ---
 
-Trademark rights are automatically granted to anyone who uses a distinctive brand to sell a product or service. These automatic rights (called "common law" rights) are basic and limited. For big league trademark rights, you need to register your trademark with the US Patent and Trademark Office (which I will just call the "Trademark Office").
+Trademark rights are automatically granted to anyone using a distinctive brand to sell a product or service. These automatic rights - called "common law" rights - are limited. For more potent trademark rights, you need to register your trademark with the US Patent and Trademark Office (I'll call it the "Trademark Office").
 
-There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell its goods or services. Sadly, the Trademark Office complicates this process with a tangle of confusing forms and baffling instructions. Their design philosophy is "more but worse." 
+There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Sadly, the Trademark Office complicates this process with a tangle of confusing forms and baffling instructions. Their design philosophy is "more but worse." 
 
-This walkthrough tries to make sense of the USPTO's trademark application process.  This guide is short, and its mostly pictures. The official Trademark Office manual (the "TMEP") weighs in at 1500 pages. As you'd  expect, I'm glossing over some details. If your brand is important, hire an experienced trademark attorney.[^1]
+This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.[^1]
 
 [^1]: I happen to be an experienced trademark attorney you could hire.
 
