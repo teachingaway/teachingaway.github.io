@@ -45,11 +45,11 @@ This is not only the law, its good branding. A distinctive trademark makes a las
 
 ## The Trademark Application Process
 
-If you have your unique, distinctive mark, and you started using it to sell your product, you are ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the impenetrable wall of text pictured below.
+If you have your unique, distinctive mark, and you are already using it to sell your product, then you are ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" class="big-image"></a>
 
-Pick "TEAS Plus." "TEAS" is some trademark Office acronym that doesn't matter.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services.
+Pick "TEAS Plus." TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services.
 
 Click continue to be whisked away to a new and different page of convoluted warnings and instructions. 
 
@@ -61,7 +61,7 @@ All you need to do on this page is pick whether an attorney is filling out the f
 
 <a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img src="/images/tm-app/2-is-attorney-filing-trademark.png" class="big-image"></a>
 
-**Time Limit** - This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process (although you can't get to the very end until you finish filling out the form - UX catch 22!). This "portable data" button at the validation page will download a wonky xml file that you can upload again at this start page. 
+**Time Limit.** Note that this form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, the form does not let you reach to the "download portable data" page at the very end until you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
 
 Click continue, and you will see an ugly data entry form. 
 
@@ -80,11 +80,13 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 ## The Trademark Itself
 
-Trademark registrations can protect one of two aspects of a mark - protection as a word-mark or as a design-mark. The plaintext word  protects the word (or short phrase or slogan) in any font and in any color. The design mark protects either a specific stylized version of a word, and can also protect a logo or design without any words in it at all. (Really more than these 2 - including sounds, product packaging, colors, smells, animations and more - but for an intro guide, let's focus on the big 2 - trademark registration can protect a plain text word or a logo/design). 
+Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. 
 
-If the trademark is plain text, pick Standard Character. Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are generally stronger - they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
+Note: there are really several other types of marks that can be registered, including sounds, product packaging, colors, smells, and animations. But for an intro guide, let's focus on word marks and design marks. 
 
-If your trademark includes a logo, image, particular font, then pick "Special Form." You might want to file two trademarks - one for the plain-text words and another for the stylized words or logo. 
+If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are generally stronger - they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
+
+If you want to register a stylized word or logo as your trademark, then pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
 
 Note: If the trademark includes any letters at all, type them into the box. Trademark law doesn't care much about capitalization or punctuation.
 
