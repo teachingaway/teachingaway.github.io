@@ -21,8 +21,6 @@ This walkthrough tries to make sense of the USPTO's trademark application proces
 
 [^1]: I happen to be an experienced trademark attorney you could hire.
 
-
-
 ## Trademark Law Basics: The Branding and the Product
 
 Learning a little trademark law will help you put together a stronger trademark application. The Trademark Office rejects applications for two major reasons: 
@@ -79,8 +77,6 @@ Click continue, and you will see an ugly data entry form.
 
 Here, you enter some info about the trademark owner. If the owner is a company that has parents, subsidiaries, or licensees, you should talk to a lawyer. Entering the wrong owner can cause problems.
 
-
-
 <a href="/images/tm-app/3-trademark-owner.png"><img src="/images/tm-app/3-trademark-owner.png" class="big-image"></a>
 
 Note that this page asked for info about the trademark _owner_. Later in the process, you will see a very similar form asking for info about the _contact person_. 
@@ -101,7 +97,6 @@ Note: If the trademark includes any letters at all, type them into the box. Trad
 <a href="/images/tm-app/4-standard-character-trademark.png"><img src="/images/tm-app/4-standard-character-trademark.png" class="big-image"></a>
 
 Pro tip: claim your logo as _colorless_ even if it includes particular colors. Colorless actually means every color. If you claim a color, your registration is limited to that particular color. A "special form" trademark should be easier to register, but the resulting trademark rights are less extensive than the plain-text option. If you pick "special form", you will be asked to upload a .jpg of your trademark.
-
 
 - - - 
 
@@ -124,7 +119,6 @@ Remember that the USPTO charges a fee of about $300 per class, as well as renewa
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
-
 - - - 
 
 ## Selecting Goods and Services from the List
@@ -143,21 +137,17 @@ Pick §1(a) if you already use the trademark in interstate commerce. That is, yo
 
 Pick §1(b) if you don't use the trademark to sell anything yet, but you plan to start soon.
 
-
 <a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" class="big-image"></a>
 
 If you selected §1(a) (use in commerce), you will be asked to provide a .jpg image showing how you use the trademark in commerce. The Trademark Office wants some evidence that you are truly using the trademark to sell something. This will be the next step.
 
 If you selected §1(b), you will end up with an "intent to use" registration. This registration is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
 
-
 - - - 
 
 ## Specimen of Use
 
 If you are already using your trademark (and picked 1(a) above), you need to upload a .jpg that shows how you use the trademark. 
-
-
 
 For goods,upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button.
 
@@ -189,9 +179,7 @@ Click "assign filing basis" at the bottom, and you will be returned to the "Basi
 
 - - - 
 
-
 ## Back to the Basis for Filing Screen
-
 
 You have now described your goods and services, and assigned a filing basis for each class. The final steps are easier. You need to enter your contact info, sign the application (swearing that its contents are accurate), and pay the USPTO fee ($275 per class). 
 
@@ -201,19 +189,17 @@ After every line is assigned its filing basis, click continue.
 
 - - - 
 
-
-## Enter Correspondence Info.
+## Enter Contact Info
 
 You entered "owner info" earlier, this time you are entering the contact info for the person who should receive Trademark Office notifications related to this application.
 
 <a href="/images/tm-app/13-correspondence-info.png"><img src="/images/tm-app/13-correspondence-info.png" class="big-image"></a>
 
-
 - - - 
 
 ## Sign the Application 
 
-Pick "sign directly." Sign your name by typing it between two slashes like this: /Osbert Sitwell/
+Pick "sign directly." Sign your name by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. If you lied, your trademark will be invalid (among other possible penalties). 
 
 <a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" class="big-image"></a>
 
@@ -221,14 +207,17 @@ Click "Validate". Don't click "add signatory" unless you want to add a <em>secon
 
 - - - 
 
+## Click to Agree
+
+Enter your email again, and then click to agree to the terms. The Trademark Office fee is non-refundable, and any info you send (other than your credit card info) will become public information. 
+
 <a href="/images/tm-app/15-enter-email.png"><img src="/images/tm-app/15-enter-email.png" class="big-image"></a>
 
 - - - 
 
 ## Pay the Filing Fee
 
-Submit payment and you're done.
-
+Submit payment and you're done. 
 
 <a href="/images/tm-app/16-pay-uspto-fee.png"><img src="/images/tm-app/16-pay-uspto-fee.png" ></a>
 
