@@ -13,21 +13,27 @@ comments: true
 share: true
 ---
 
-Trademark rights are automatically granted to anyone using a distinctive brand to sell a product or service. These automatic rights - called "common law" rights - are limited. For more potent trademark rights, you need to register your trademark with the US Patent and Trademark Office (I'll call it the "Trademark Office").
+Trademark law offers two levels of protection: basic “common law” rights and enhanced “registered” trademark rights. The basic common-law rights are automatically granted to anyone using a distinctive brand to sell a product or service. Registration at the US Patent and Trademark Office (I'll call it the "Trademark Office") results in a far more potent type of trademark protection. Any serious brand needs to register its trademarks. This article explains the trademark application process. 
 
-There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Sadly, the Trademark Office complicates this process with a tangle of confusing forms and baffling instructions. Their design philosophy is "more but worse." 
+There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of confusing forms and baffling instructions. Their web design philosophy is "more but worse." 
 
-This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.[^1]
+This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.
 
-[^1]: I happen to be an experienced trademark attorney you could hire.
+## Trademark Law Basics: Confusion and Distinctiveness
 
-## Trademark Law Basics: The Branding and the Product
-
-The Trademark Office rejects applications for two major reasons: (1) _Likelihood of Confusion_  and (2) _lack of distinctiveness_. To understand these trademark rules, we need to understand that a trademark has two components, the branding and the product (or service) being sold. 
+Before looking at the application, I’ll talk about the two most common reasons the Trademark Office will reject an application:  _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a “mark” and the product or service being advertised under the mark. For example, think of “apple” as a mark used for the product “computers,” or FedEx as a mark used for “delivery” services.  
  
-**Likelihood of Confusion.** The Trademark Office will compare your trademark to its database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the brand and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing brand-as-used-on-product. How similar is too similar? Similar enough that an average consumer is likely to confuse your product for the older product. This "likelihood of confusion" test actually involves several more complicated legal considerations, and goes beyond the scope of this quick guide.
+**Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the mark and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing mark used on a similar product. 
 
-**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept in the public domain. For example, every coffee shop can use the word "coffee" in its marketing. The Trademark Office will not grant anyone one coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
+In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that,  
+> (d) Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion….
+
+How similar is “too similar”? A new trademark is too similar to an old one if an average consumer is likely to confuse the new product for the old one, or associate the company that makes the new product with the company that makes the old one.  product for the older product. This "likelihood of confusion" test actually involves several more complicated legal considerations, and goes beyond the scope of this quick guide.[^1]
+
+[^1]: The leading case on this complicated “likelihood of confusion” issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
+
+
+**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept available in the public domain. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant anyone single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
 
 This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while a generic trademark is quickly forgotten.
 
