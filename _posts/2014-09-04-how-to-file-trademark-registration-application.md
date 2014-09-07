@@ -13,6 +13,8 @@ comments: true
 share: true
 ---
 
+**Work in Progress**
+
 Trademark law offers two levels of protection: basic “common law” rights and enhanced “registered” trademark rights. The basic common-law rights are automatically granted to anyone using a distinctive brand to sell a product or service. Registration at the US Patent and Trademark Office (I'll call it the "Trademark Office") results in a far more potent type of trademark protection. Any serious brand needs to register its trademarks. This article explains the trademark application process. 
 
 There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of confusing forms and baffling instructions. Their web design philosophy is "more but worse." 
@@ -26,16 +28,17 @@ Before looking at the application, I’ll talk about the two most common reasons
 **Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the mark and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing mark used on a similar product. 
 
 In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that,  
+
 > (d) Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion….
 
-How similar is “too similar”? A new trademark is too similar to an old one if an average consumer is likely to confuse the new product for the old one, or associate the company that makes the new product with the company that makes the old one.  product for the older product. This "likelihood of confusion" test actually involves several more complicated legal considerations, and goes beyond the scope of this quick guide.[^1]
+How similar is *too similar*? A new trademark is too similar to an old one if an average consumer is likely to confuse the new product for the old one. This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^1]
 
 [^1]: The leading case on this complicated “likelihood of confusion” issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
 **Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept available in the public domain. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant anyone single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
 
-This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while a generic trademark is quickly forgotten.
+This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
 
 <!-- 
@@ -51,13 +54,13 @@ This is not only the law, its good branding. A distinctive trademark makes a las
 
 ## The Trademark Application Process
 
-If you have your unique, distinctive mark, and you are already using it to sell your product, then you are ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
+If you have picked out a unique, distinctive mark, then you’re ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" class="big-image"></a>
 
 Pick "TEAS Plus." TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services.
 
-Click continue to be whisked away to a new and different page of convoluted warnings and instructions. 
+Click continue to be whisked away to a second page of convoluted warnings and instructions. 
 
 - - - 
 
@@ -67,7 +70,7 @@ All you need to do on this page is pick whether an attorney is filling out the f
 
 <a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img src="/images/tm-app/2-is-attorney-filing-trademark.png" class="big-image"></a>
 
-**Time Limit.** Note that this form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, the form does not let you reach to the "download portable data" page at the very end until you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
+**Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can’t actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
 
 Click continue, and you will see an ugly data entry form. 
 
@@ -75,7 +78,7 @@ Click continue, and you will see an ugly data entry form.
 
 ## Trademark Owner 
 
-Here, you enter some info about the trademark owner. If the owner is a company that has parents, subsidiaries, or licensees, you should talk to a lawyer. Entering the wrong owner can cause problems.
+Here, you enter some info about the trademark owner. Be careful if the owner is a company that has parents, subsidiaries, or licensees. Entering the wrong owner can cause problems.
 
 <a href="/images/tm-app/3-trademark-owner.png"><img src="/images/tm-app/3-trademark-owner.png" class="big-image"></a>
 
@@ -86,11 +89,11 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 ## The Trademark Itself
 
-Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. 
+Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^2]
 
-Note: there are really several other types of marks that can be registered, including sounds, product packaging, colors, smells, and animations. But for an intro guide, let's focus on word marks and design marks. 
+[^2]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
 
-If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are generally stronger - they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
+If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are generally stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
 
 If you want to register a stylized word or logo as your trademark, then pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
 
