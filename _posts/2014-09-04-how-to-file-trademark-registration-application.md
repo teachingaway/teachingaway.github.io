@@ -119,10 +119,19 @@ Now we're at a search box for the list of pre-approved "TEAS Plus" descriptions 
 
 Before searching, try to identify the "class" of goods and services applicable to your trademark. The trademark ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. 
 
-Remember that the USPTO charges a fee of about $300 per class, as well as renewal fees per class.
+**To do: Common Classes for Tech Products**
 
+Some common classes for tech startups are: 
+
+- Class 09 - Software
+- Class 42 - 
+- Class 44 - 
+- 
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
+
+**Extra Fees:** The USPTO charges an extra application fee of about $300 per class. After your registration, they will charge you renewal fees per class. These renewal fees come at year 5, and then every 10 years after registration. 
+
 
 - - - 
 
