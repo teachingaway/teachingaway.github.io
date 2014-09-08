@@ -75,15 +75,14 @@ How similar is *too similar*? A new trademark is too similar to an old one if an
 This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
 
-<!-- 
-
 | Name | TM Type  | Strength | 
+| - | - |
 | Computer | Generic | No TM Rights | 
 | Digital Data Systems | Descriptive | Weak Rights | 
 | Silicon Power | Suggestive | Strong Rights | 
 | Apple | Arbitrary | Strongest Rights | 
 
--->
+
 
 - - - 
 
@@ -107,15 +106,14 @@ click on the “free form search.” Here are some useful search strings for the
     “some products”[GS] AND 
     live[LD] 
 
-If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” 
+If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” The database is particular about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators (“AND”, “OR”) need to be capitalized. 
 
-**Search String Format** - Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators like “AND” and “OR” need to be capitalized. 
- 
-**“markxyz*”[BI]** - this searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. This is the most useful database field to know. Your search will only return identical matches, but you can use an asterisk as a ‘wildcard.’ Asterisk will search for one or more of any character.  
+| Search String | Result | 
+| - | - |  
+| “markxyz*”[BI]  |  this searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. This is the most useful database field to know. Your search will only return identical matches, but you can use an asterisk as a ‘wildcard.’ Asterisk will search for one or more of any character.   |  
+|  “productxyz”[GS]  |   this searches for marks with “productxyz” listed in the goods and services field of the database.  |  
+| live[LD]  |  This limits your search results to live trademark  registrations and applications. It will exclude abandon registrations, and may help you focus on the more important results.  |  
 
-**“productxyz”[GS]** - this searches for marks with “productxyz” listed in the goods and services field of the database. 
-
-**live[LD]** - This limits your search results to live trademark  registrations and applications. It will exclude abandon registrations, and may help you focus on the more important results. 
 
 - - - 
 
