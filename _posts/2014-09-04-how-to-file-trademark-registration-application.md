@@ -209,63 +209,17 @@ Rather than describe each of the classes, I’ll just touch on the classes that 
 33 |  Wines and Spirits
 34 | Smokers' Articles
 
-
-
-
-
-- 3 - Cosmetics
-
-- 7 - Machinery
-
-- 9 - Software, Electrical and Scientific apparatus
-
-- 10 - Medical Apparatus
-
-- 11  Environmental Control Apparatus
-
-- 12  Vehicles
-
-- 14  Jewelry
-
-- 15  Musical Instruments
-
-- 16  Paper Goods and Printed Matter
-
-- 25  Clothing
-
-- 28  Toys and Sporting Goods
-
-- 29  Meats and Processed Foods
-
-- 30  Staple Foods
-
-- 31  Natural Agricultural Products
-
-- 32  Light Beverages
-
-- 33  Wines and Spirits
-
-- 34  Smokers' Articles
-
-Classification for **Services**: 
-
-- 35  Advertising and Business
-
-- 36  Insurance and Financial
-
-- 38  Communication
-
-- 39  Transportation and Storage
-
-- 41  Education and Entertainment
-
-- 42  Computer, Scientific and Legal
-
-- 43  Hotels and Restaurants
-
-- 44  Medical, Beauty and Agricultural
-
-- 45  Personal
+| Class | for Services | 
+| | | 
+35 |   Advertising and Business
+36 |  Insurance and Financial
+38 |   Communication
+39 |   Transportation and Storage
+41 |   Education and Entertainment
+42 |   Computer, Scientific and Legal
+43 |   Hotels and Restaurants
+44 |   Medical, Beauty and Agricultural
+45 |   Personal
 
 
 In addition to selecting one or more “classes”, you will need to identify your products or services within that class. Here are some examples of product descriptions:  
