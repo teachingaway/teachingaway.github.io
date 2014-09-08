@@ -13,13 +13,13 @@ comments: true
 share: true
 ---
 
-**This is a Work in Progress**
+**[This is a Work in Progress]**
 
-A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses basic trademark law, how to search the trademark database, and how to file a trademark application at the US Patent and Trademark Office (I'll just call it the "Trademark Office”). 
+A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses the benefits of registration, some basic trademark law, how to search the trademark database, and finally how to file a trademark application at the US Patent and Trademark Office (I'll just call it the "Trademark Office”). 
 
-There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of baffling instructions. Their web design philosophy is "more but worse." 
+There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this info, but it sucks. The Trademark Office website complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "more but worse." 
 
-This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.
+This is a detailed trademark application walkthrough, but its not a substitute for hiring an experienced trademark attorney. 
 
 ## The Benefits of Trademark Registration
 
