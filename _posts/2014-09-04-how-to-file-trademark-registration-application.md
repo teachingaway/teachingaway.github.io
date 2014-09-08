@@ -13,13 +13,48 @@ comments: true
 share: true
 ---
 
-**Work in Progress**
+**This is a Work in Progress**
 
-Trademark law offers two levels of protection: basic “common law” rights and enhanced “registered” trademark rights. The basic common-law rights are automatically granted to anyone using a distinctive brand to sell a product or service. Registration at the US Patent and Trademark Office (I'll call it the "Trademark Office") results in a far more potent type of trademark protection. Any serious brand needs to register its trademarks. This article explains the trademark application process. 
+A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses basic trademark law, how to search the trademark database, and how to file your own trademark application. 
 
 There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of confusing forms and baffling instructions. Their web design philosophy is "more but worse." 
 
 This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.
+
+## The Benefits of Trademark Registration
+
+Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. Every serious US brand registers its trademarks at the US Patent and Trademark Office (I'll call it the "Trademark Office”). 
+
+A trademark registration is strong evidence of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity.
+
+**Evidence**. First, a trademark registration provides evidence of several critical issues:
+
+- Exclusive Rights. You have the exclusive right to use the trademark to sell the specified goods & services.
+
+- Validity. Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+
+- Start Date. Trademark rights go to the first company to use the trademark (with some exceptions).  If two companies use the same trademark, the company that started using it first has the superior trademark rights. A registration is strong evidence that your “date of first use” of the trademark was sometime before the application date.
+
+- Continuous Use. Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+
+Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+
+In addition to providing evidence, registration creates substantial rights and psychological benefits:
+
+- Nation-Wide Rights. Registration provides immediate nation-wide rights, while unregistered trademark rights are limited to the particular towns and cities where the trademark is actually being used to sell products or services.
+
+- Seize Counterfeit Imports. With a trademark registration, you can have the US Customs and Border Protection service seize counterfeit imports at the border.
+
+- Incontestability. After 5 years on the Principal Register, and after filing the appropriate forms, your registration will be “incontestable.” An incontestable registration cannot be cancelled (with a few exceptions).
+
+- Compensation for Infringement. Registration increases the amount of compensation you’re entitled to collect from infringers. It allows for treble (3x) damages, and even forcing the infringer to pay your attorney’s fees. Registration provides for mandatory treble damages and criminal penalties for counterfeiters. 15 USC §1117(b).
+
+- ® Symbol. You can proudly display the ® symbol with a registered trademark, while unregistered trademarks are limited to using the ™ symbol.
+
+- Psychological Benefits. In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury. An official government document with a shiny gold stamp can be persuasive.
+
+
+
 
 ## Trademark Law Basics: Confusion and Distinctiveness
 
@@ -68,7 +103,8 @@ The EU and WIPO databases are somewhat intuitive. The US database is not, so I�
 
 Here are some useful search strings for the US Trademark Database: 
 
-    “some mark*”[BI] AND “some products”[GS] AND live[LD] AND `RN > "0” 
+    “some mark*”[BI] AND “some products”[GS] 
+    AND live[LD] AND `RN > "0” 
 
 If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” 
 
@@ -203,7 +239,7 @@ For software, consider claiming several different classes:
 
 
 
-<a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
+<a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png"></a>
 
 **Extra Fees:** The USPTO charges an extra application fee of about $300 per class. After your registration, they will charge you renewal fees per class. These renewal fees come at year 5, and then every 10 years after registration. 
 
