@@ -85,6 +85,7 @@ This is not only the law, its good branding. A distinctive trademark makes a las
 
 -->
 
+- - - 
 
 ## Clearance Search
 
@@ -96,14 +97,15 @@ Three good places for starting your trademark clearance search are the US Tradem
 - [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
 - [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/)
 
-The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I’ll offer some tips.  
+The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I’ll try to offer some tips. Go to the [US Trademark Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
 
 <a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
 
-Here are some useful search strings for the US Trademark Database: 
+click on the “free form search.” Here are some useful search strings for the US Trademark Database: 
 
-    “some mark*”[BI] AND “some products”[GS] 
-    AND live[LD] AND `RN > "0” 
+    “some mark*”[BI] AND 
+    “some products”[GS] AND 
+    live[LD] 
 
 If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” 
 
@@ -115,7 +117,7 @@ If you’re a coder, you might recognize some of this as a weird cousin of “re
 
 **live[LD]** - This limits your search results to live trademark  registrations and applications. It will exclude abandon registrations, and may help you focus on the more important results. 
 
-
+- - - 
 
 ## The Trademark Application Process
 
