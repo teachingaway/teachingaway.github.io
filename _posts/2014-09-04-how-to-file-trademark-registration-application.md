@@ -182,6 +182,8 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 Now we're at a search box for the list of pre-approved "TEAS Plus" descriptions of goods and service. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If its too narrow you may have trouble stopping infringers. 
 
+<a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
+
 Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. There is a separate US Classification system, but its essentially irrelevant. The trademark ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. 
 
 Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
@@ -230,7 +232,6 @@ In addition to selecting one or more “classes”, you will need to identify yo
 38 | Communication (services)
 42 | Software  (software as a service)
 
-<a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png"></a>
 
 **Extra Fees:** The USPTO charges an extra application fee of about $300 per class. After your registration, they will charge you renewal fees per class. These renewal fees come at year 5, and then every 10 years after registration. 
 
