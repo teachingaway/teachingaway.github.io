@@ -189,7 +189,44 @@ Before searching, try to identify the "class" of goods and services applicable t
 Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
 
 
-Classification for **Goods**: 
+| Classification | for **Goods** | 
+| - | - | 
+| 3 - | Cosmetics |
+| 7 - | Machinery | 
+
+- 9 - Software, Electrical and Scientific apparatus
+
+- 10 - Medical Apparatus
+
+- 11  Environmental Control Apparatus
+
+- 12  Vehicles
+
+- 14  Jewelry
+
+- 15  Musical Instruments
+
+- 16  Paper Goods and Printed Matter
+
+- 25  Clothing
+
+- 28  Toys and Sporting Goods
+
+- 29  Meats and Processed Foods
+
+- 30  Staple Foods
+
+- 31  Natural Agricultural Products
+
+- 32  Light Beverages
+
+- 33  Wines and Spirits
+
+- 34  Smokers' Articles
+
+
+
+
 
 - 3 - Cosmetics
 
@@ -301,9 +338,9 @@ If you selected §1(b), you will end up with an "intent to use" registration. Th
 
 If you are already using your trademark (and picked 1(a) above), you need to upload a .jpg that shows how you use the trademark. 
 
-For goods,upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button.
+For goods, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button.
 
-For services, upload an advertisement.
+For services, upload an advertisement showing the mark being used to promote the service. Software as a service applications have recently become tricky. If your application claims Software as a Service, some examiners will reject a specimen that they believe shows only “downloadable” software. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" class="big-image"></a>
 
