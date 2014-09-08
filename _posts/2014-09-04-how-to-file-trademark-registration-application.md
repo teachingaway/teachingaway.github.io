@@ -180,11 +180,11 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 ## Searching for Goods and Services
 
-Now we're at a search box for the list of pre-approved "TEAS Plus" descriptions of goods and service. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If its too narrow you may have trouble stopping infringers. 
+Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If its too narrow you may have trouble stopping infringers. If you can’t find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a “TEAS” application. The TEAS application will allow you to describe your goods and services in your own words. 
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. There is a separate US Classification system, but its essentially irrelevant. The trademark ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. 
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. The [“International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but its essentially irrelevant, even for a US trademark application.
 
 Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
 
@@ -248,7 +248,7 @@ When viewing the results, be sure the description is in the rights class. You ca
 
 ## Filing Basis
 
-Every trademark needs a "filing basis." Think of the filing basis as the reason why you're entitled to a trademark registration. The two filing bases we will discuss here are called "use in commerce" [§1(a)] and "intent to use" [§1(b)]. The other filing basis relate to international trademarks. 
+Every trademark needs a "filing basis." Think of the filing basis as the reason why you're entitled to a trademark registration. The two filing bases we will discuss here are called "use in commerce" [§1(a)] and "intent to use" [§1(b)]. The others relate to international trademarks. 
  
 Pick §1(a) if you already use the trademark in interstate commerce. That is, you already use this trademark to sell some product or service in more than one US state. 
 
@@ -256,7 +256,7 @@ Pick §1(b) if you don't use the trademark to sell anything yet, but you plan to
 
 <a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" class="big-image"></a>
 
-If you selected §1(a) (use in commerce), you will be asked to provide a .jpg image showing how you use the trademark in commerce. The Trademark Office wants some evidence that you are truly using the trademark to sell something. This will be the next step.
+If you selected §1(a) (use in commerce), you will be asked to provide a jpg image showing how you use the trademark in commerce. The Trademark Office wants some evidence that you are truly using the trademark to sell something. This will be the next step.
 
 If you selected §1(b), you will end up with an "intent to use" registration. This registration is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
 
@@ -264,29 +264,27 @@ If you selected §1(b), you will end up with an "intent to use" registration. Th
 
 ## Specimen of Use
 
-If you are already using your trademark (and picked 1(a) above), you need to upload a .jpg that shows how you use the trademark. 
-
-For goods, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button.
-
-For services, upload an advertisement showing the mark being used to promote the service. Software as a service applications have recently become tricky. If your application claims Software as a Service, some examiners will reject a specimen that they believe shows only “downloadable” software. 
+If you are already using your trademark (and picked §1(a) above), you need to upload a jpg that shows how you use the trademark. For _physical goods_, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. For _services_, upload an advertisement showing the mark being used to promote the service. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" class="big-image"></a>
+
+_Software as a service_ applications have recently become tricky. If your application claims software as a service, some examiners will reject a specimen that they believe shows only “downloadable” software. 
 
 - - - 
 
 ## Upload the Specimen of Use
 
-On this page, you will upload a jpg of your specimen of use. The image should be smaller than 900px square, but big enough to show the trademark being used to sell your product or service. 
+On this page, you will upload a jpg of your specimen of use. The image should be smaller than 900px square, but big enough to show the trademark being used to sell your product or service. Feel free to upload a few different images to help ensure the Trademark Office will approve at least one of them. 
 
 <a href="/images/tm-app/10-attach-specimen-of-use-in-commerce.png"><img src="/images/tm-app/10-attach-specimen-of-use-in-commerce.png" class="big-image"></a>
 
-After you upload the image, click "return to application" (did you even know you left the application??).  
+After you upload the image, click "return to application.”  
 
 - - - 
 
 ## Date of First Use
 
-Next you will input the "date of first use" of the trademark. There are two - first use *in commerce*, and first use *anywhere*. Its critical that you get the date of first use in commerce correct. If its an old trademark, and you don't have the exact launch date, input the month and year. 
+Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. Its critical that you get the date of first use in commerce correct. If its an old trademark, and you don't have the exact launch date, input the month and year. 
 
 For goods in the same class, you can assign filing bases in a batch. If the goods are in different classes, each class needs to be assigned a filing basis separately. 
 
