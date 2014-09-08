@@ -52,6 +52,36 @@ This is not only the law, its good branding. A distinctive trademark makes a las
 -->
 
 
+## Clearance Search
+
+Before investing in your brand, search for any existing trademark registrations that might be too similar to your proposed brand. Lawyers sometimes call this a “trademark clearance search.” When lawyers say “knockout search” they’re talking about quick searches for identical (or nearly identical) trademark registrations. 
+
+Three good places for starting your trademark clearance search are the US Trademark Office (called “TESS”), the EU Trademark Office database (called “OHIM”), and the World Intellectual Property Office trademark database (called “ROMARIN”). I’m not sure why they all have terrible acronyms. 
+
+- [US Trademark Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)
+- [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
+- [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/)
+
+The EU and WIPO databases are somewhat intuitive. The US database is not, so I’ll offer some tips.  
+
+<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png" class="big-image"></a>
+
+Here are some useful search strings for the US Trademark Database: 
+
+    “some mark*”[BI] AND “some products”[GS] AND live[LD] AND `RN > "0” 
+
+If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” 
+
+**Search String Format** - Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators like “AND” and “OR” need to be capitalized. 
+ 
+**“markxyz*”[BI]** - this searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. This is the most useful database field to know. Your search will only return identical matches, but you can use an asterisk as a ‘wildcard.’ Asterisk will search for one or more of any character.  
+
+**“productxyz”[GS]** - this searches for marks with “productxyz” listed in the goods and services field of the database. 
+
+**live[LD]** - This limits your search results to live trademark  registrations and applications. It will exclude abandon registrations, and may help you focus on the more important results. 
+
+
+
 ## The Trademark Application Process
 
 If you have picked out a unique, distinctive mark, then you’re ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
@@ -117,16 +147,61 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 Now we're at a search box for the list of pre-approved "TEAS Plus" descriptions of goods and service. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If its too narrow you may have trouble stopping infringers. 
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. The trademark ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. 
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. There is a separate US Classification system, but its essentially irrelevant. The trademark ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. 
 
-**To do: Common Classes for Tech Products**
+Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
 
-Some common classes for tech startups are: 
 
-- Class 09 - Software
-- Class 42 - 
-- Class 44 - 
-- 
+Classification for Goods: 
+- 3 - Cosmetics
+- 7 - Machinery
+- 9 - Software, Electrical and Scientific apparatus
+- 10 - Medical Apparatus
+- 11  Environmental Control Apparatus
+- 12  Vehicles
+- 14  Jewelry
+- 15  Musical Instruments
+- 16  Paper Goods and Printed Matter
+- 25  Clothing
+- 28  Toys and Sporting Goods
+- 29  Meats and Processed Foods
+- 30  Staple Foods
+- 31  Natural Agricultural Products
+- 32  Light Beverages
+- 33  Wines and Spirits
+- 34  Smokers' Articles
+
+Classification for Services: 
+- 35  Advertising and Business
+- 36  Insurance and Financial
+- 38  Communication
+- 39  Transportation and Storage
+- 41  Education and Entertainment
+- 42  Computer, Scientific and Legal
+- 43  Hotels and Restaurants
+- 44  Medical, Beauty and Agricultural
+- 45  Personal
+
+
+In addition to selecting one or more “classes”, you will need to identify your products or services within that class. Here are some examples of product descriptions:  
+
+**iPad Mini** - Class 09 (Software and Electrical) - “Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet.” 
+
+**Etsy** - Class 35 (Advertising and Business) - “Computerized online ordering featuring general merchandise and general consumer goods.”
+
+**Tumblr** - Class 41 (Education and Entertainment) - Electronic publishing services, namely, publishing of online works of others featuring electronic media, multimedia contents, videos, movies, pictures, images, text, photos, user-generated content, and related information via the Internet; electronic publishing of blogs of others.
+
+**BOSE** - Class 09 (Software and Electrical) - Loudspeaker systems; electrical power processors-namely, power amplifiers, inverters, and battery chargers.
+
+**A note on software.** Picking the right class and description for software is 
+
+For software, consider claiming several different classes:
+- 9 – Software (goods)
+- 35 – Advertising and Business (services)
+- 38 – Communication (services)
+- 42 – Software  (software as a service)
+
+
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
