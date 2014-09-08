@@ -189,35 +189,25 @@ Before searching, try to identify the "class" of goods and services applicable t
 Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
 
 
-| Class | for **Goods** | 
+| Class | for Goods | 
 | - | - | 
 | 3  | Cosmetics |
 | 7  | Machinery | 
-| 9 |  Software, Electrical and Scientific apparatus | 
+| 9 |  Software, Electrical and Scientific | 
 |  10 |  Medical Apparatus 
- 11 |   Environmental Control Apparatus
- 12 |  Vehicles
- 14 |   Jewelry
-
-- 15  Musical Instruments
-
-- 16  Paper Goods and Printed Matter
-
-- 25  Clothing
-
-- 28  Toys and Sporting Goods
-
-- 29  Meats and Processed Foods
-
-- 30  Staple Foods
-
-- 31  Natural Agricultural Products
-
-- 32  Light Beverages
-
-- 33  Wines and Spirits
-
-- 34  Smokers' Articles
+11 |  Environmental Control Apparatus
+12 |  Vehicles
+14 |  Jewelry
+15 |  Musical Instruments
+16 |  Paper Goods and Printed Matter
+25 |  Clothing
+28 |  Toys and Sporting Goods
+29 |  Meats and Processed Foods
+30 |  Staple Foods
+31 |  Natural Agricultural Products
+32 |  Light Beverages
+33 |  Wines and Spirits
+34 | Smokers' Articles
 
 
 
