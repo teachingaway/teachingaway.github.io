@@ -27,8 +27,6 @@ Trademark law automatically grants a basic set of rights called “common law”
 
 [^1]: Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
-
-
 Evidence | Description
 | - | - | 
 Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
@@ -44,7 +42,7 @@ Compensation for Infringement  |  Registration increases the amount of compensat
 Psychological Benefits  | In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury.
 
 
-
+- - - 
 
 ## Trademark Law Basics: Confusion and Distinctiveness
 
@@ -52,19 +50,18 @@ Before looking at the application, I’ll talk about the two most common reasons
  
 **Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the mark and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing mark used on a similar product. 
 
-In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that,  
+In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that, “Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion….” 
 
-> (d) Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion….
+How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
-How similar is *too similar*? A new trademark is too similar to an old one if an average consumer is likely to confuse the new product for the old one. This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^1]
-
-[^1]: The leading case on this complicated “likelihood of confusion” issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
+[^2]: The leading case on this complicated “likelihood of confusion” issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
-**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse - "generic."  Generic words are words that define a particular product. Trademark Law does not protect these words. Instead, they are kept available in the public domain. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant anyone single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines - or even closely describes - a product, the Trademark Office will reject your application.  
+**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  
 
 This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
+Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is “computers” here’s 4 example trademarks and their level of distinctiveness: 
 
 | Name | TM Type  | Strength | 
 | - | - |
