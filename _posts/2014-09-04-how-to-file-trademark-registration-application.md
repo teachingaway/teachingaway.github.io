@@ -96,9 +96,9 @@ Three good places for starting your trademark clearance search are the US Tradem
 - [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
 - [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/)
 
-The EU and WIPO databases are somewhat intuitive. The US database is not, so I’ll offer some tips.  
+The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I’ll offer some tips.  
 
-<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png" class="big-image"></a>
+<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
 
 Here are some useful search strings for the US Trademark Database: 
 
