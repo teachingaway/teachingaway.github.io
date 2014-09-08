@@ -110,9 +110,9 @@ If you’re a coder, you might recognize some of this as a weird cousin of “re
 
 | Search String | Result | 
 | - | - |  
-| “markxyz*”[BI]  |  this searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. This is the most useful database field to know. Your search will only return identical matches, but you can use an asterisk as a ‘wildcard.’ Asterisk will search for one or more of any character.   |  
-|  “productxyz”[GS]  |   this searches for marks with “productxyz” listed in the goods and services field of the database.  |  
-| live[LD]  |  This limits your search results to live trademark  registrations and applications. It will exclude abandon registrations, and may help you focus on the more important results.  |  
+| “markxyz*”[BI]  |  This searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. Use an asterisk as a ‘wildcard.’    |  
+|  “productxyz”[GS]  |   This searches for marks with “productxyz” listed in the goods and services field of the database.  |  
+| live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
 
 - - - 
