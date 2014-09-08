@@ -224,10 +224,11 @@ In addition to selecting one or more “classes”, you will need to identify yo
 > **BOSE** - Class 09 (Software and Electrical) - Loudspeaker systems; electrical power processors-namely, power amplifiers, inverters, and battery chargers.
 
 **A note on software.** Picking the right class and description for software is difficult. Consider claiming software in several different classes:
-- 9 – Software (goods)
-- 35 – Advertising and Business (services)
-- 38 – Communication (services)
-- 42 – Software  (software as a service)
+
+9 | Software (goods)
+35 | Advertising and Business (services)
+38 | Communication (services)
+42 | Software  (software as a service)
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png"></a>
 
