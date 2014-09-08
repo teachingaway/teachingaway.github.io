@@ -210,7 +210,7 @@ Rather than describe each of the classes, I’ll just touch on the classes that 
 34 | Smokers' Articles
 
 | Class | for Services | 
-| | | 
+| - | - | 
 35 |   Advertising and Business
 36 |  Insurance and Financial
 38 |   Communication
