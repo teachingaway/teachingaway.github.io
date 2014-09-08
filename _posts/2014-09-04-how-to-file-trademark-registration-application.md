@@ -15,19 +15,19 @@ share: true
 
 **This is a Work in Progress**
 
-A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses basic trademark law, how to search the trademark database, and how to file your own trademark application. 
+A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses basic trademark law, how to search the trademark database, and how to file a trademark application at the US Patent and Trademark Office (I'll just call it the "Trademark Office”). 
 
-There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of confusing forms and baffling instructions. Their web design philosophy is "more but worse." 
+There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this application info, but sadly, the website complicates a potentially-simple process with a tangle of baffling instructions. Their web design philosophy is "more but worse." 
 
 This walkthrough tries to explain the trademark application process, but it doesn't cover every detail. Its not a substitute for hiring an experienced trademark attorney.
 
 ## The Benefits of Trademark Registration
 
-Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. Every serious US brand registers its trademarks at the US Patent and Trademark Office (I'll call it the "Trademark Office”). 
+Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity.
 
-A trademark registration is strong evidence of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity.
+**Evidence**. First, a trademark registration provides evidence[^*] of several critical issues:
 
-**Evidence**. First, a trademark registration provides evidence of several critical issues:
+[^*]: Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 - Exclusive Rights. You have the exclusive right to use the trademark to sell the specified goods & services.
 
@@ -37,7 +37,6 @@ A trademark registration is strong evidence of your exclusive trademark rights, 
 
 - Continuous Use. Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
 
-Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 In addition to providing evidence, registration creates substantial rights and psychological benefits:
 
