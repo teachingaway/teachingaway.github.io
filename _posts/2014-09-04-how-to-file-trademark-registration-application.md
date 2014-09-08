@@ -23,34 +23,25 @@ This walkthrough tries to explain the trademark application process, but it does
 
 ## The Benefits of Trademark Registration
 
-Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity.
+Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity. In addition to providing evidence, registration creates substantive trademark rights and psychological benefits. 
 
-**Evidence**. First, a trademark registration provides evidence [^1] of several critical issues:
-
-[^1]: Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
-
-- Exclusive Rights. You have the exclusive right to use the trademark to sell the specified goods & services.
-
-- Validity. Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-
-- Start Date. Trademark rights go to the first company to use the trademark (with some exceptions).  If two companies use the same trademark, the company that started using it first has the superior trademark rights. A registration is strong evidence that your “date of first use” of the trademark was sometime before the application date.
-
-- Continuous Use. Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+[^1]: Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 
-**Substantial Rights.** In addition to providing evidence, registration creates substantial rights and psychological benefits:
 
-- Nation-Wide Rights. Registration provides immediate nation-wide rights, while unregistered trademark rights are limited to the particular towns and cities where the trademark is actually being used to sell products or services.
-
-- Seize Counterfeit Imports. With a trademark registration, you can have the US Customs and Border Protection service seize counterfeit imports at the border.
-
-- Incontestability. After 5 years on the Principal Register, and after filing the appropriate forms, your registration will be “incontestable.” An incontestable registration cannot be cancelled (with a few exceptions).
-
-- Compensation for Infringement. Registration increases the amount of compensation you’re entitled to collect from infringers. It allows for treble (3x) damages, and even forcing the infringer to pay your attorney’s fees. Registration provides for mandatory treble damages and criminal penalties for counterfeiters. 15 USC §1117(b).
-
-- ® Symbol. You can proudly display the ® symbol with a registered trademark, while unregistered trademarks are limited to using the ™ symbol.
-
-- Psychological Benefits. In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury. An official government document with a shiny gold stamp can be persuasive.
+Evidence | Description
+| - | - | 
+Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
+Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  If two companies use the same trademark, the company that started using it first has the superior trademark rights. A registration is strong evidence that your “date of first use” of the trademark was sometime before the application date.
+Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+**TM Rights** | **Description**
+Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while unregistered trademark rights are limited to the particular towns and cities where the trademark is actually being used to sell products or services.
+Seize Counterfeit Imports  | With a trademark registration, you can have the US Customs and Border Protection service seize counterfeit imports at the border.
+Incontestability  | After 5 years on the Principal Register, and after filing the appropriate forms, your registration will be “incontestable.” An incontestable registration cannot be cancelled (with a few exceptions).
+Compensation for Infringement  |  Registration increases the amount of compensation you’re entitled to collect from infringers. It allows for treble (3x) damages, and even forcing the infringer to pay your attorney’s fees. Registration provides for mandatory treble damages and criminal penalties for counterfeiters. 15 USC §1117(b).
+® Symbol  | You can display the ® symbol after a registered trademark. Unregistered trademarks can only use the ™ symbol.
+Psychological Benefits  | In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury.
 
 
 
@@ -227,10 +218,13 @@ In addition to selecting one or more “classes”, you will need to identify yo
 
 **A note on software.** Picking the right class and description for software is difficult. Consider claiming software in several different classes:
 
-9 | Software (goods)
-35 | Advertising and Business (services)
-38 | Communication (services)
-42 | Software  (software as a service)
+Class | Short Title | Example 
+| - | - | 
+9 | Software (goods) | Any software that users download into a computer or mobile device. 
+35 | Advertising and Business (services) | online advertisements, digital markets, database services, 
+38 | Communication (services) | Internet service providers, cloud computing, chat & messaging services, streaming media.
+42 | Software  (services) | “software as a service” and software development services. 
+45 | Software (services) | Social networking, online dating
 
 
 **Extra Fees:** The USPTO charges an extra application fee of about $300 per class. After your registration, they will charge you renewal fees per class. These renewal fees come at year 5, and then every 10 years after registration. 
@@ -296,11 +290,11 @@ Click "assign filing basis" at the bottom, and you will be returned to the "Basi
 
 ## Back to the Basis for Filing Screen
 
-You have now described your goods and services, and assigned a filing basis for each class. The final steps are easier. You need to enter your contact info, sign the application (swearing that its contents are accurate), and pay the USPTO fee ($275 per class). 
-
 After every line is assigned its filing basis, click continue. 
 
 <a href="/images/tm-app/12-basis-assigned.png"><img src="/images/tm-app/12-basis-assigned.png" class="big-image"></a>
+
+You have now described your goods and services, and assigned a filing basis for each class. The final steps are easier. You need to enter your contact info, sign the application (swearing that its contents are accurate), and pay the USPTO fee ($275 per class). 
 
 - - - 
 
@@ -314,7 +308,7 @@ You entered "owner info" earlier, this time you are entering the contact info fo
 
 ## Sign the Application 
 
-Pick "sign directly." Sign your name by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. If you lied, your trademark will be invalid (among other possible penalties). 
+Pick "sign directly." Sign your name by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
 
 <a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" class="big-image"></a>
 
@@ -324,7 +318,7 @@ Click "Validate". Don't click "add signatory" unless you want to add a <em>secon
 
 ## Click to Agree
 
-Enter your email again, and then click to agree to the terms. The Trademark Office fee is non-refundable, and any info you send (other than your credit card info) will become public information. 
+Enter your email again, and then click to agree to the terms. The Trademark Office fee is non-refundable, and any info you send will become public information (except credit card). 
 
 <a href="/images/tm-app/15-enter-email.png"><img src="/images/tm-app/15-enter-email.png" class="big-image"></a>
 
@@ -339,7 +333,16 @@ Submit payment and you're done.
 
 ## What to Expect After You Submit
 
-The USPTO sends an immediate confirmation email. Then, about 3 months later, a Trademark Examining Attorney will review your application and send you an "office action." If the office action is an approval, your trademark will probably register in 2 more months, and the Trademark Office will mail you an official looking document with a shiny gold seal. If the office action is a refusal, you will receive an email explaining the reasons for the rejection. You will have 6 months to respond to the refusal by either amending the application or pointing out any errors in the Trademark Office's reasons for rejecting the application.   
+The USPTO sends an immediate confirmation email. Then, about 3 months later, a Trademark Examining Attorney will review your application and send you an "office action." If the office action is an approval, your trademark will probably register in 2 more months, and the Trademark Office will mail you an official document with a shiny gold seal. 
+
+If the office action is a refusal, you will receive an email explaining the reasons for the rejection. You will have 6 months to respond to the refusal by either amending the application or pointing out any errors in the Trademark Office's reasons for rejecting the application.   
+
+- - - 
+
+## Conclusion 
+
+Filing a DIY trademark application risky. Reading a blog is not a substitute for a legal education or hiring an experienced trademark attorney. 
+
 
 - - - 
 
