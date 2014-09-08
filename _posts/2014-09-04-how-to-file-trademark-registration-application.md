@@ -215,23 +215,19 @@ Rather than describe each of the classes, I’ll just touch on the classes that 
 
 In addition to selecting one or more “classes”, you will need to identify your products or services within that class. Here are some examples of product descriptions:  
 
-**iPad Mini** - Class 09 (Software and Electrical) - “Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet.” 
+> **iPad Mini** - Class 09 (Software and Electrical) - “Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet.” 
 
-**Etsy** - Class 35 (Advertising and Business) - “Computerized online ordering featuring general merchandise and general consumer goods.”
+> **Etsy** - Class 35 (Advertising and Business) - “Computerized online ordering featuring general merchandise and general consumer goods.”
 
-**Tumblr** - Class 41 (Education and Entertainment) - Electronic publishing services, namely, publishing of online works of others featuring electronic media, multimedia contents, videos, movies, pictures, images, text, photos, user-generated content, and related information via the Internet; electronic publishing of blogs of others.
+> **Tumblr** - Class 41 (Education and Entertainment) - Electronic publishing services, namely, publishing of online works of others featuring electronic media, multimedia contents, videos, movies, pictures, images, text, photos, user-generated content, and related information via the Internet; electronic publishing of blogs of others.
 
-**BOSE** - Class 09 (Software and Electrical) - Loudspeaker systems; electrical power processors-namely, power amplifiers, inverters, and battery chargers.
+> **BOSE** - Class 09 (Software and Electrical) - Loudspeaker systems; electrical power processors-namely, power amplifiers, inverters, and battery chargers.
 
-**A note on software.** Picking the right class and description for software is 
-
-For software, consider claiming several different classes:
+**A note on software.** Picking the right class and description for software is difficult. Consider claiming software in several different classes:
 - 9 – Software (goods)
 - 35 – Advertising and Business (services)
 - 38 – Communication (services)
 - 42 – Software  (software as a service)
-
-
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png"></a>
 
