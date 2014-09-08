@@ -25,9 +25,9 @@ This walkthrough tries to explain the trademark application process, but it does
 
 Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity.
 
-**Evidence**. First, a trademark registration provides evidence [^*] of several critical issues:
+**Evidence**. First, a trademark registration provides evidence [^1] of several critical issues:
 
-[^*]: Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+[^1]: Note.  Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 - Exclusive Rights. You have the exclusive right to use the trademark to sell the specified goods & services.
 
