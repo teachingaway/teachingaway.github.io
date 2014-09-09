@@ -49,41 +49,40 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 The Trademark Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
 
-| Word Mark: | Apple | Fed Ex | 
+| Word Mark: | APPLE | FED EX | 
 | Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
 | Goods/Services: | Computers | Shipping | 
 
 Trademark law focuses on the relationship between the “mark” and the “goods.” 
  
-**Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). “Similarity” measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
+### TM Law: Likelihood of Confusion.
+
+The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). “Similarity” measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
 
 How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
-**Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  
+### TM Law: “Distinctiveness”
 
-This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
-Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is "computers" here's 4 example trademarks and their level of distinctiveness: 
+Trademark distinctiveness is a spectrum of four categories. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Lets start with an example. Assuming the product is "computers" here are possible trademarks and their level of distinctiveness: 
+
+| Mark | Product | TM Category  | Strength | 
+| - | - | - |
+| COMPUTER | Computer | Generic | No TM Rights | 
+| DIGITAL DATA MACHINE | Computer |  Descriptive | Weak Rights | 
+| SILICON POWER | Computer | Suggestive | Strong Rights | 
+| APPLE | Computer | Arbitrary | Strongest Rights | 
+
+“Computer” is the generic word for computers, so no one can trademark it. “Digital Data Machines” describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. “Silicon Power” suggests some qualities of a computer (some parts are made of silicon), but the name doesn’t literally describe a computer. This type of name can be trademarked. Finally, the word “Apple” has nothing to do with computers at all. This puts it in the strongest category of trademarks - “arbitrary” marks. 
+
+Separating descriptive marks from suggestive marks is often the hardest distinction to make. So here are some examples with links to the actual cases: 
 
 | Mark | Product/Service | TM Category  | Strength | 
 | - | - | - |
-| Computer | Computer | Generic | No TM Rights | 
-| Digital Data Machine | Computer |  Descriptive | Weak Rights | 
-| Silicon Power | Computer | Suggestive | Strong Rights | 
-| Apple | Computer | Arbitrary | Strongest Rights | 
-
-“Computer” is the generic word for computers, so no one can trademark it. “Digital Data Machines” describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. “Silicon Power” suggests some qualities of a computer (some parts are made of silicon), but the name doesn’t literally describe a computer. This type of name can be trademarked. Finally, the word “Apple” has nothing to do with computers at all. This puts it in the strongest category of trademarks - “arbitrary” marks. Here are some other examples: 
-
-| Mark | Product/Service | TM Category  | Strength | 
-| - | - | - |
-| SALES FORCE | CRM | Suggestive | Strong 
-| ETSY | Marketplace | Arbitrary/Coined | Strongest | 
-| TUMBLR | Microblog | Arbitrary/ Coined | Strongest | 
-| KENTUCKY FRIED CHICKEN | Fried Chicken | Descriptive | Weak | 
-| DURACELL | Batteries | Suggestive | Strong | 
 | [CHARRED KEG](http://scholar.google.com/scholar_case?case=10176544782340112515) | Whiskey | Suggestive | Strong | 
 | [ACOUSTIC RESEARCH](http://scholar.google.com/scholar_case?case=11394995321972238426) | Audio Equipment | Suggestive | Strong | 
 | [ROACH MOTEL](http://scholar.google.com/scholar_case?case=9854008013713267402) | Insect Traps | Suggestive | Strong |
