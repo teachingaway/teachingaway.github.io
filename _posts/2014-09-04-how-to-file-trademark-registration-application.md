@@ -57,7 +57,8 @@ Trademark law focuses on the relationship between the "mark" and the "goods."
  
 ### TM Law: Likelihood of Confusion.
 
-The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). "Similarity" measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
+The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion” under §2(d). See [TMEP 1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044) for lots of additional details. 
+ “Similarity" measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
 
 How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
