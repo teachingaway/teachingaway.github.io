@@ -86,23 +86,23 @@ Separating descriptive marks from suggestive marks is often the hardest distinct
 | [CHARRED KEG](http://scholar.google.com/scholar_case?case=10176544782340112515) | Whiskey | Suggestive | Strong | 
 | [ACOUSTIC RESEARCH](http://scholar.google.com/scholar_case?case=11394995321972238426) | Audio Equipment | Suggestive | Strong | 
 | [ROACH MOTEL](http://scholar.google.com/scholar_case?case=9854008013713267402) | Insect Traps | Suggestive | Strong |
-| [First Bank](http://scholar.google.com/scholar_case?case=14042347707125635703) | Bank | Descriptive | Weak |
-| [Frosty Treats](http://scholar.google.com/scholar_case?case=2459036384129524460)| Ice Cream | Descriptive | Weak |
-| [24 Hour Fitness](http://scholar.google.com/scholar_case?case=13153660489332564008) | Gym | Descriptive | Weak |
+| [FIRST BANK](http://scholar.google.com/scholar_case?case=14042347707125635703) | Bank | Descriptive | Weak |
+| [FROSTY TREATS](http://scholar.google.com/scholar_case?case=2459036384129524460)| Ice Cream | Descriptive | Weak |
+| [24 HOUR FITNESS](http://scholar.google.com/scholar_case?case=13153660489332564008) | Gym | Descriptive | Weak |
+| [BEST BEER IN AMERICA](http://scholar.google.com/scholar_case?case=5955570528665510157)| Beer | Descriptive | Weak |  
 
 
-Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. However, when launching a new product or company, its far easier to start off with a strong mark. 
+Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. This is called “acquired distinctiveness.” However, when launching a new product or company, its far easier to start with a strong mark than to try to acquire distinctiveness. 
 
-The names of locations make weak trademarks. The Trademark Office likes to reject applications that take the format “Location + Product”, as in “Kentucky Fried Chicken.” Don’t use this format. 
-
-Personal names make weak trademarks. Don’t name your company or your product after yourself. It will raise all kinds of trademark problems. For example,  
+Here are some other distinctiveness traps to avoid. _Geographic locations_ make weak trademarks. The Trademark Office likes to reject applications that take the format “Location + Product”, as in “Kentucky Fried Chicken.” Don’t use this format. 
+_Personal names_ make weak trademarks. Don’t name your company or your product after yourself. It will raise all kinds of trademark problems. Avoid _laudatory_ self-praise in your mark. Marks like “Best Beer” are likely to be rejected by the trademark office as merely descriptive of beer.    
 
 
 - - - 
 
 ## Clearance Search
 
-Search for existing trademark registrations before picking a product or company name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are “likely to cause consumer confusion.”[^3] Three good databases to search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
+Start by thinking up a handful of _distinctive_ names for your product. Then, search for existing trademark registrations before setting on a final name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are “likely to cause consumer confusion.”[^3] Three good databases to search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
 
 [^3]: Lawyers sometimes call this type of search a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
 
@@ -121,7 +121,7 @@ Click on the "free form search" and try using this search pattern:
     "some products"[GS] AND 
     live[LD] 
 
-If you're a coder, you might recognize some of this as a weird cousin of "regular expressions" or "GREP." The database is picky about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators ("AND", "OR") need to be capitalized. 
+Coders might recognize this type of search as a weird cousin of "regular expressions" or "GREP." The database is picky about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Search operators like "AND" and "OR" need to be capitalized. 
 
 | Search String | Result | 
 | - | - |  
@@ -135,7 +135,7 @@ If you have carefully searched all 3 databases, and haven’t found any prior re
 
 ## The Trademark Application Process
 
-If you have picked out a unique, distinctive mark, then you're ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
+Now that you have a unique and distinctive mark, you're ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. It will great you with the wall of text pictured below.
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" class="big-image"></a>
 
