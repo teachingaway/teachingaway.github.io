@@ -68,12 +68,35 @@ This is not only the law, it's good branding. A distinctive trademark makes a la
 
 Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is "computers" here's 4 example trademarks and their level of distinctiveness: 
 
-| Mark | TM Type  | Strength | 
-| - | - |
-| Computer | Generic | No TM Rights | 
-| Digital Data Systems | Descriptive | Weak Rights | 
-| Silicon Power | Suggestive | Strong Rights | 
-| Apple | Arbitrary | Strongest Rights | 
+| Mark | Product/Service | TM Category  | Strength | 
+| - | - | - |
+| Computer | Computer | Generic | No TM Rights | 
+| Digital Data Machine | Computer |  Descriptive | Weak Rights | 
+| Silicon Power | Computer | Suggestive | Strong Rights | 
+| Apple | Computer | Arbitrary | Strongest Rights | 
+
+“Computer” is the generic word for computers, so no one can trademark it. “Digital Data Machines” describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. “Silicon Power” suggests some qualities of a computer (some parts are made of silicon), but the name doesn’t literally describe a computer. This type of name can be trademarked. Finally, the word “Apple” has nothing to do with computers at all. This puts it in the strongest category of trademarks - “arbitrary” marks. Here are some other examples: 
+
+| Mark | Product/Service | TM Category  | Strength | 
+| - | - | - |
+| SALES FORCE | CRM | Suggestive | Strong 
+| ETSY | Marketplace | Arbitrary/Coined | Strongest | 
+| TUMBLR | Microblog | Arbitrary/ Coined | Strongest | 
+| KENTUCKY FRIED CHICKEN | Fried Chicken | Descriptive | Weak | 
+| DURACELL | Batteries | Suggestive | Strong | 
+| [CHARRED KEG](http://scholar.google.com/scholar_case?case=10176544782340112515) | Whiskey | Suggestive | Strong | 
+| [ACOUSTIC RESEARCH](http://scholar.google.com/scholar_case?case=11394995321972238426) | Audio Equipment | Suggestive | Strong | 
+| [ROACH MOTEL](http://scholar.google.com/scholar_case?case=9854008013713267402) | Insect Traps | Suggestive | Strong |
+| [First Bank](http://scholar.google.com/scholar_case?case=14042347707125635703) | Bank | Descriptive | Weak |
+| [Frosty Treats](http://scholar.google.com/scholar_case?case=2459036384129524460)| Ice Cream | Descriptive | Weak |
+| [24 Hour Fitness](http://scholar.google.com/scholar_case?case=13153660489332564008) | Gym | Descriptive | Weak |
+
+
+Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. However, when launching a new product or company, its far easier to start off with a strong mark. 
+
+The names of locations make weak trademarks. The Trademark Office likes to reject applications that take the format “Location + Product”, as in “Kentucky Fried Chicken.” Don’t use this format. 
+
+Personal names make weak trademarks. Don’t name your company or your product after yourself. It will raise all kinds of trademark problems. For example,  
 
 
 - - - 
@@ -93,13 +116,13 @@ The EU and WIPO databases are somewhat intuitive. The US database is old and con
 
 <a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
 
-click on the "free form search." Here are some useful search strings for the US Trademark Database: 
+Click on the "free form search" and try using this search pattern: 
 
     "some mark*"[BI] AND 
     "some products"[GS] AND 
     live[LD] 
 
-If you're a coder, you might recognize some of this as a weird cousin of "regular expressions" or "GREP." The database is particular about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators ("AND", "OR") need to be capitalized. 
+If you're a coder, you might recognize some of this as a weird cousin of "regular expressions" or "GREP." The database is picky about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators ("AND", "OR") need to be capitalized. 
 
 | Search String | Result | 
 | - | - |  
@@ -107,6 +130,7 @@ If you're a coder, you might recognize some of this as a weird cousin of "regula
 |  "productxyz"[GS]  |   This searches for marks with "productxyz" listed in the goods and services field of the database.  |  
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
+If you have carefully searched all 3 databases, and haven’t found any prior registrations similar to your own trademark, its time to start the trademark application. 
 
 - - - 
 
