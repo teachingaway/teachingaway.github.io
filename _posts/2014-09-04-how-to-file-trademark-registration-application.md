@@ -279,17 +279,19 @@ Pick §1(b) if you don't use the trademark to sell anything yet, but you plan to
 
 <a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" class="big-image"></a>
 
-If you selected §1(a) (use in commerce), you will be asked to provide a jpg image showing how you use the trademark in commerce. The Trademark Office wants some evidence that you are truly using the trademark to sell something. This will be the next step.
+If you selected §1(a) (use in commerce), you will need to provide a "specimen of use", a jpg image showing how you use the trademark in commerce. This will be the next step.
 
-If you selected §1(b), you will end up with an "intent to use" registration. This registration is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
+If you selected §1(b), you will end up filing an "intent to use" application. This is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
 
 - - - 
 
 ## Specimen of Use
 
-If you are already using your trademark (and picked §1(a) above), you need to upload a jpg that shows how you use the trademark. For _physical goods_, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. For _services_, upload an advertisement showing the mark being used to promote the service. 
+If you are already using your trademark (and picked §1(a) above), you need to upload a jpg image that shows how you use the trademark. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" class="big-image"></a>
+
+For _physical goods_, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. For _services_, upload an advertisement showing the mark being used to promote the service. 
 
 _Software as a service_ applications have recently become tricky. If your application claims software as a service, some examiners will reject a specimen that they believe shows only "downloadable" software. 
 
@@ -303,23 +305,28 @@ On this page, you will upload a jpg of your specimen of use. The image should be
 
 After you upload the image, click "return to application."  
 
+
 - - - 
 
 ## Date of First Use
 
-Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. It's critical that you get the date of first use in commerce correct. If it's an old trademark, and you don't have the exact launch date, input the month and year. 
+At this page you will describe your specimen image and enter your date of first use of the trademark. 
+
+<a href="/images/tm-app/11-date-of-first-use.png"><img src="/images/tm-app/11-date-of-first-use.png" class="big-image"></a>
+
+Next, you will enter a written description of the specimen image you just uploaded. The description can be something simple like "photo of product showing mark on tag."
+
+Then you will input your "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. It's critical that you get the date of first use in commerce correct. If you don't know the exact launch date, input the month and year. 
 
 For goods in the same class, you can assign filing bases in a batch. If the goods are in different classes, each class needs to be assigned a filing basis separately. 
 
 Click "assign filing basis" at the bottom, and you will be returned to the "Basis for Filing" screen once again. 
 
-<a href="/images/tm-app/11-date-of-first-use.png"><img src="/images/tm-app/11-date-of-first-use.png" class="big-image"></a>
-
 - - - 
 
 ## Back to the Basis for Filing Screen
 
-After every line is assigned its filing basis, click continue. 
+After every line is assigned its filing basis (that is, there is a "1(a)" shown in the far right column for each row), click continue. 
 
 <a href="/images/tm-app/12-basis-assigned.png"><img src="/images/tm-app/12-basis-assigned.png" class="big-image"></a>
 
@@ -329,7 +336,7 @@ You have now described your goods and services, and assigned a filing basis for 
 
 ## Enter Contact Info
 
-You entered "owner info" earlier, this time you are entering the contact info for the person who should receive Trademark Office notifications related to this application.
+Enter the contact info for the person who should receive Trademark Office notifications related to this application. This may or may not be the same contact info you entered earlier for "owner info." 
 
 <a href="/images/tm-app/13-correspondence-info.png"><img src="/images/tm-app/13-correspondence-info.png" class="big-image"></a>
 
@@ -337,7 +344,7 @@ You entered "owner info" earlier, this time you are entering the contact info fo
 
 ## Sign the Application 
 
-Pick "sign directly." Sign your name by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
+Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
 
 <a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" class="big-image"></a>
 
@@ -370,7 +377,7 @@ If the office action is a refusal, you will receive an email explaining the reas
 
 ## Conclusion 
 
-Filing a DIY trademark application risky. Reading a blog is not a substitute for a legal education or hiring an experienced trademark attorney. 
+Filing a DIY trademark application risky. Reading a blog is not a substitute for hiring an experienced trademark attorney. 
 
 
 - - - 
