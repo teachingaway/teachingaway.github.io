@@ -139,9 +139,7 @@ Now that you have a unique and distinctive mark, you're ready to apply for a tra
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" class="big-image"></a>
 
-Pick "TEAS Plus." TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services.
-
-Click continue to be whisked away to a second page of convoluted warnings and instructions. 
+Pick "TEAS Plus." TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services. Click continue, and prepare yourself for a second page of convoluted warnings and instructions. 
 
 - - - 
 
@@ -170,17 +168,25 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 ## The Trademark Itself
 
-Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^2]
+Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." Here are two examples: 
 
-[^2]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
+| Word Mark: | APPLE | FED EX | 
+| Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
+| Goods/Services: | Computers | Shipping | 
 
-If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are generally stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
+The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^4]
+
+[^4]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
+
+<a href="/images/tm-app/4-standard-character-trademark.png"><img src="/images/tm-app/4-standard-character-trademark.png" class="big-image"></a>
+
+If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
 
 If you want to register a stylized word or logo as your trademark, then pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
 
 Note: If the trademark includes any letters at all, type them into the box. Trademark law doesn't care much about capitalization or punctuation.
 
-<a href="/images/tm-app/4-standard-character-trademark.png"><img src="/images/tm-app/4-standard-character-trademark.png" class="big-image"></a>
+
 
 Pro tip: claim your logo as _colorless_ even if it includes particular colors. Colorless actually means every color. If you claim a color, your registration is limited to that particular color. A "special form" trademark should be easier to register, but the resulting trademark rights are less extensive than the plain-text option. If you pick "special form", you will be asked to upload a .jpg of your trademark.
 
