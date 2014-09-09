@@ -15,53 +15,58 @@ share: true
 
 **[This is a Work in Progress]**
 
-Trademark rights protects a brand - the unique symbol the represents a company or product. A trademark helps shoppers know  who they’re buying from. This post discusses (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, (3) how to _search the trademark database_, and finally (4) _how to file a trademark application_ at the US Patent and Trademark Office (lets just call it the "Trademark Office”). 
+Trademark rights protects a brand - the unique symbol the represents a company or product. A trademark helps shoppers know  who they're buying from. This post discusses (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, (3) how to _search the trademark database_, and finally (4) _how to file a trademark application_ at the US Patent and Trademark Office (lets just call it the "Trademark Office"). 
 
 At its core, the trademark application process is simple data collection. The Trademark Office collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Unfortunately, the Trademark Office website sucks. It complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
-This is a detailed trademark application walkthrough, but it’s not a substitute for hiring an experienced trademark attorney. 
+This is a detailed trademark application walkthrough, but it's not a substitute for hiring an experienced trademark attorney. 
 
 ## The Benefits of Trademark Registration
 
-Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
+Trademark law automatically grants a basic set of rights called "common law" trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
-[^1]: Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+[^1]: Registration is "prima facie" evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 Evidence | Description
 | - | - | 
 Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
 Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your “date of first use” of the trademark.
+Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
 Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
 **Rights** | **Description**
 Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
 Seize Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
-Incontestability  | After 5 years of registration, a trademark can become “incontestable.” An incontestable registration cannot be cancelled (with some exceptions).
-Compensation for Infringement  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney’s fees. It even provides for _mandatory_ treble damages and even _criminal_ penalties for “counterfeiters.” 15 USC §1117(b).
+Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
+Compensation for Infringement  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. It even provides for _mandatory_ treble damages and even _criminal_ penalties for "counterfeiters." 15 USC §1117(b).
 ® Symbol  | The ® symbol can only be used on a registered trademark. Unregistered trademarks use the ™ symbol.
-Psychological Benefits  | In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury.
+Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
 
-
+While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
+ 
 - - - 
 
 ## Trademark Law Basics: Confusion and Distinctiveness
 
-Before looking at the application, I’ll talk about the two most common reasons the Trademark Office will reject an application:  _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a “mark” and the product or service being advertised under the mark. For example, think of “apple” as a mark used for the product “computers,” or FedEx as a mark used for “delivery” services.  
+The Trademark Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
+
+| Mark | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
+| Goods/Services | Computers | Shipping | 
+
  
 **Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the mark and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing mark used on a similar product. 
 
-In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that, “Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion….” 
+In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…." 
 
 How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
-[^2]: The leading case on this complicated “likelihood of confusion” issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
+[^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
 **Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  
 
-This is not only the law, it’s good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
-Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is “computers” here’s 4 example trademarks and their level of distinctiveness: 
+Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is "computers" here's 4 example trademarks and their level of distinctiveness: 
 
 | Name | TM Type  | Strength | 
 | - | - |
@@ -76,30 +81,30 @@ Trademark distinctiveness is a spectrum with four categories that blend into eac
 
 ## Clearance Search
 
-Before investing in your brand, search for any existing trademark registrations that might be too similar to your proposed brand. Lawyers sometimes call this a “trademark clearance search.” When lawyers say “knockout search” they’re talking about quick searches for identical (or nearly identical) trademark registrations. 
+Before investing in your brand, search for any existing trademark registrations that might be too similar to your proposed brand. Lawyers sometimes call this a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
 
-Three good places for starting your trademark clearance search are the US Trademark Office (called “TESS”), the EU Trademark Office database (called “OHIM”), and the World Intellectual Property Office trademark database (called “ROMARIN”). I’m not sure why they all have terrible acronyms. 
+Three good places for starting your trademark clearance search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
 
 - [US Trademark Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)
 - [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
 - [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/)
 
-The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I’ll try to offer some tips. Go to the [US Trademark Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
+The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I'll try to offer some tips. Go to the [US Trademark Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
 
 <a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
 
-click on the “free form search.” Here are some useful search strings for the US Trademark Database: 
+click on the "free form search." Here are some useful search strings for the US Trademark Database: 
 
-    “some mark*”[BI] AND 
-    “some products”[GS] AND 
+    "some mark*"[BI] AND 
+    "some products"[GS] AND 
     live[LD] 
 
-If you’re a coder, you might recognize some of this as a weird cousin of “regular expressions” or “GREP.” The database is particular about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators (“AND”, “OR”) need to be capitalized. 
+If you're a coder, you might recognize some of this as a weird cousin of "regular expressions" or "GREP." The database is particular about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Operators ("AND", "OR") need to be capitalized. 
 
 | Search String | Result | 
 | - | - |  
-| “markxyz*”[BI]  |  This searches for the term “markxyz” in the “Basic Index.” The Basic Index is the index of both word marks and design marks. Use an asterisk as a ‘wildcard.’    |  
-|  “productxyz”[GS]  |   This searches for marks with “productxyz” listed in the goods and services field of the database.  |  
+| "markxyz*"[BI]  |  This searches for the term "markxyz" in the "Basic Index." The Basic Index is the index of both word marks and design marks. Use an asterisk as a 'wildcard.'    |  
+|  "productxyz"[GS]  |   This searches for marks with "productxyz" listed in the goods and services field of the database.  |  
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
 
@@ -107,7 +112,7 @@ If you’re a coder, you might recognize some of this as a weird cousin of “re
 
 ## The Trademark Application Process
 
-If you have picked out a unique, distinctive mark, then you’re ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
+If you have picked out a unique, distinctive mark, then you're ready to apply for a trademark registration. First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. You should see the wall of text pictured below.
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" class="big-image"></a>
 
@@ -123,7 +128,7 @@ All you need to do on this page is pick whether an attorney is filling out the f
 
 <a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img src="/images/tm-app/2-is-attorney-filing-trademark.png" class="big-image"></a>
 
-**Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can’t actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
+**Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can't actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
 
 Click continue, and you will see an ugly data entry form. 
 
@@ -168,13 +173,13 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 ## Searching for Goods and Services
 
-Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it’s too narrow you may have trouble stopping infringers. If you can’t find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a “TEAS” application. The TEAS application will allow you to describe your goods and services in your own words. 
+Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. The [“International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but it’s essentially irrelevant, even for a US trademark application.
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but it's essentially irrelevant, even for a US trademark application.
 
-Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
+Rather than describe each of the classes, I'll just touch on the classes that are most relevant to tech startups. 
 
 
 | Class | for GOODS | 
@@ -203,11 +208,11 @@ Rather than describe each of the classes, I’ll just touch on the classes that 
 45 |   Personal
 
 
-In addition to selecting one or more “classes”, you will need to identify your products or services within that class. Here are some examples of product descriptions:  
+In addition to selecting one or more "classes", you will need to identify your products or services within that class. Here are some examples of product descriptions:  
 
-> *iPad Mini* - Class 09 (Software and Electrical) - “Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet.” 
+> *iPad Mini* - Class 09 (Software and Electrical) - "Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet." 
 
-> *Etsy* - Class 35 (Advertising and Business) - “Computerized online ordering featuring general merchandise and general consumer goods.”
+> *Etsy* - Class 35 (Advertising and Business) - "Computerized online ordering featuring general merchandise and general consumer goods."
 
 > *Tumblr* - Class 41 (Education and Entertainment) - Electronic publishing services, namely, publishing of online works of others featuring electronic media, multimedia contents, videos, movies, pictures, images, text, photos, user-generated content, and related information via the Internet; electronic publishing of blogs of others.
 
@@ -220,7 +225,7 @@ Class | Short Title | Example
 9 | Software (goods) | Any software that users download into a computer or mobile device. 
 35 | Advertising and Business (services) | online advertisements, digital markets, database services, 
 38 | Communication (services) | Internet service providers, cloud computing, chat & messaging services, streaming media.
-42 | Software  (services) | “software as a service” and software development services. 
+42 | Software  (services) | "software as a service" and software development services. 
 45 | Software (services) | Social networking, online dating
 
 
@@ -259,7 +264,7 @@ If you are already using your trademark (and picked §1(a) above), you need to u
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" class="big-image"></a>
 
-_Software as a service_ applications have recently become tricky. If your application claims software as a service, some examiners will reject a specimen that they believe shows only “downloadable” software. 
+_Software as a service_ applications have recently become tricky. If your application claims software as a service, some examiners will reject a specimen that they believe shows only "downloadable" software. 
 
 - - - 
 
@@ -269,13 +274,13 @@ On this page, you will upload a jpg of your specimen of use. The image should be
 
 <a href="/images/tm-app/10-attach-specimen-of-use-in-commerce.png"><img src="/images/tm-app/10-attach-specimen-of-use-in-commerce.png" class="big-image"></a>
 
-After you upload the image, click "return to application.”  
+After you upload the image, click "return to application."  
 
 - - - 
 
 ## Date of First Use
 
-Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. It’s critical that you get the date of first use in commerce correct. If it’s an old trademark, and you don't have the exact launch date, input the month and year. 
+Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. It's critical that you get the date of first use in commerce correct. If it's an old trademark, and you don't have the exact launch date, input the month and year. 
 
 For goods in the same class, you can assign filing bases in a batch. If the goods are in different classes, each class needs to be assigned a filing basis separately. 
 
