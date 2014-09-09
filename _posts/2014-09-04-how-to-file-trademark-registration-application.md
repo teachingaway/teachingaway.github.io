@@ -50,7 +50,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 The Trademark Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
 
 | Word Mark: | APPLE | FED EX | 
-| Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
+| Design Mark: | <img src="/images/tm-app/applelogo.png" style="max-width:75px;"> | <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;"> | 
 | Goods/Services: | Computers | Shipping | 
 
 Trademark law focuses on the relationship between the "mark" and the "goods." 
