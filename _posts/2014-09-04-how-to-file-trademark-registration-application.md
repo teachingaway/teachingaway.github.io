@@ -171,8 +171,8 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." Here are two examples: 
 
 | Word Mark | Design Mark | 
-| APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:75px;"> | 
-| FED EX | <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;"> | 
+| APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:60px;"> | 
+| FED EX | <img src="/images/tm-app/fedexlogo.png" style="max-width:60px;"> | 
 
 
 The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^4]
