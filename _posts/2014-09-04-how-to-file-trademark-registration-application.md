@@ -45,7 +45,7 @@ While basic trademark rights are granted automatically, registered trademark rig
  
 - - - 
 
-## Trademark Law Basics: Confusion and Distinctiveness
+## Trademark Law: Confusion and Distinctiveness
 
 The Trademark Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
 
@@ -53,16 +53,16 @@ The Trademark Office reviews applications for several issues. The most common re
 | Design Mark: | <img src="/images/tm-app/applelogo.png" style="max-width:75px;"> | <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;"> | 
 | Goods/Services: | Computers | Shipping | 
 
-Trademark law focuses on the relationship between the "mark" and the "goods." 
+Trademark law focuses on the relationship between the "mark" and the "goods." The central question is "how well does the mark help consumers identify the company that sells the goods?"
  
-### TM Law: Likelihood of Confusion.
+### TM Law: Likelihood of Confusion
 
-The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion” under §2(d). See [TMEP 1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044) for lots of additional details. 
- “Similarity" measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
+The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be to support a finding of likelihood of confusion." [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
-How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
+Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
+
 
 
 ### TM Law: "Distinctiveness"
