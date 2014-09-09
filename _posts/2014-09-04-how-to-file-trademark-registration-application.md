@@ -49,9 +49,9 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 The Trademark Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
 
-| Word Mark | Apple | Fed Ex | 
-| Design Mark | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
-| Goods/Services | Computers | Shipping | 
+| Word Mark: | Apple | Fed Ex | 
+| Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
+| Goods/Services: | Computers | Shipping | 
 
 Trademark law focuses on the relationship between the “mark” and the “goods.” 
  
@@ -68,7 +68,7 @@ This is not only the law, it's good branding. A distinctive trademark makes a la
 
 Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is "computers" here's 4 example trademarks and their level of distinctiveness: 
 
-| Name | TM Type  | Strength | 
+| Mark | TM Type  | Strength | 
 | - | - |
 | Computer | Generic | No TM Rights | 
 | Digital Data Systems | Descriptive | Weak Rights | 
@@ -76,14 +76,14 @@ Trademark distinctiveness is a spectrum with four categories that blend into eac
 | Apple | Arbitrary | Strongest Rights | 
 
 
-
 - - - 
 
 ## Clearance Search
 
-Before investing in your brand, search for any existing trademark registrations that might be too similar to your proposed brand. Lawyers sometimes call this a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
+Search for existing trademark registrations before picking a product or company name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are “likely to cause consumer confusion.”[^3] Three good databases to search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
 
-Three good places for starting your trademark clearance search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
+[^3]: Lawyers sometimes call this type of search a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
+
 
 - [US Trademark Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)
 - [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
