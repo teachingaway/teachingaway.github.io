@@ -84,12 +84,12 @@ Search for existing trademark registrations before picking a product or company 
 
 [^3]: Lawyers sometimes call this type of search a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
 
+| Search These Trademark Databases | 
+| [US Trademark Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | 
+| [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks) | 
+| [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/) |
 
-- [US Trademark Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk)
-- [EU Trademark Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks)
-- [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/)
-
-The EU and WIPO databases are somewhat intuitive. The US database is not intuitive at all, so I'll try to offer some tips. Go to the [US Trademark Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
+The EU and WIPO databases are somewhat intuitive. The US database is old and confusing, so I'll offer some tips. Go to the [US Trademark Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
 
 <a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
 
