@@ -181,12 +181,7 @@ The plaintext *word mark* protects the word (or short phrase or slogan) in any f
 
 <a href="/images/tm-app/4-standard-character-trademark.png"><img src="/images/tm-app/4-standard-character-trademark.png" class="big-image"></a>
 
-If you want to register a plaintext word mark, then pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. 
-
-If you want to register a stylized word or logo as your trademark, then pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
-
-Note: If the trademark includes any letters at all, type them into the box. Trademark law doesn't care much about capitalization or punctuation.
-
+To register a plaintext word mark, pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. To register a stylized word or logo, pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
 
 
 Pro tip: claim your logo as _colorless_ even if it includes particular colors. Colorless actually means every color. If you claim a color, your registration is limited to that particular color. A "special form" trademark should be easier to register, but the resulting trademark rights are less extensive than the plain-text option. If you pick "special form", you will be asked to upload a .jpg of your trademark.
@@ -195,7 +190,7 @@ Pro tip: claim your logo as _colorless_ even if it includes particular colors. C
 
 ## Adding Goods and Services
 
-Now we come to yet another page of complicated warnings. Click "Add Goods/Services." This will take us to a separate page  for selecting appropriate goods and services. 
+Over the next several steps, you will be describing your goods or services. Click "Add Goods/Services." This will take us to a separate page for finding and selecting the goods and services. 
 
 <a href="/images/tm-app/5-add-goods.png"><img src="/images/tm-app/5-add-goods.png" class="big-image"></a>
 
@@ -203,13 +198,17 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 ## Searching for Goods and Services
 
-Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
+Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. 
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but it's essentially irrelevant, even for a US trademark application.
+Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
 
-Rather than describe each of the classes, I'll just touch on the classes that are most relevant to tech startups. 
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes.[^5]
+
+[^5]: There is a separate "US Classification" system, but it's essentially irrelevant, even for a US trademark application.
+
+Here are some of the classes that are most relevant to tech startups. 
 
 
 | Class | for GOODS | 
@@ -238,7 +237,7 @@ Rather than describe each of the classes, I'll just touch on the classes that ar
 45 |   Personal
 
 
-In addition to selecting one or more "classes", you will need to identify your products or services within that class. Here are some examples of product descriptions:  
+After selecting a "class", you will need to describe your products or services within that class. Here are some examples of product descriptions:  
 
 > *iPad Mini* - Class 09 (Software and Electrical) - "Handheld mobile digital electronic device comprising a tablet computer, electronic book and periodical reader, digital audio and video player, camera, electronic personal organizer, calendar, and mapping and GPS device, and capable of providing access to the Internet." 
 
@@ -258,8 +257,6 @@ Class | Short Title | Example
 42 | Software  (services) | "software as a service" and software development services. 
 45 | Software (services) | Social networking, online dating
 
-
-**Extra Fees:** The USPTO charges an extra application fee of about $300 per class. After your registration, they will charge you renewal fees per class. These renewal fees come at year 5, and then every 10 years after registration. 
 
 
 - - - 
