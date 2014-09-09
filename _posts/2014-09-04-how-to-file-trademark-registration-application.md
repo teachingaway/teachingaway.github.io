@@ -53,18 +53,18 @@ The Trademark Office reviews applications for several issues. The most common re
 | Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
 | Goods/Services: | Computers | Shipping | 
 
-Trademark law focuses on the relationship between the “mark” and the “goods.” 
+Trademark law focuses on the relationship between the "mark" and the "goods." 
  
 ### TM Law: Likelihood of Confusion.
 
-The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). “Similarity” measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
+The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). "Similarity" measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
 
 How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
-### TM Law: “Distinctiveness”
+### TM Law: "Distinctiveness"
 
 A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
@@ -77,7 +77,7 @@ Trademark distinctiveness is a spectrum of four categories. From weakest to stro
 | SILICON POWER | Computer | Suggestive | Strong Rights | 
 | APPLE | Computer | Arbitrary | Strongest Rights | 
 
-“Computer” is the generic word for computers, so no one can trademark it. “Digital Data Machines” describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. “Silicon Power” suggests some qualities of a computer (some parts are made of silicon), but the name doesn’t literally describe a computer. This type of name can be trademarked. Finally, the word “Apple” has nothing to do with computers at all. This puts it in the strongest category of trademarks - “arbitrary” marks. 
+"Computer" is the generic word for computers, so no one can trademark it. "Digital Data Machines" describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. "Silicon Power" suggests some qualities of a computer (some parts are made of silicon), but the name doesn't literally describe a computer. This type of name can be trademarked. Finally, the word "Apple" has nothing to do with computers at all. This puts it in the strongest category of trademarks - "arbitrary" marks. 
 
 Separating descriptive marks from suggestive marks is often the hardest distinction to make. So here are some examples with links to the actual cases: 
 
@@ -92,17 +92,17 @@ Separating descriptive marks from suggestive marks is often the hardest distinct
 | [BEST BEER IN AMERICA](http://scholar.google.com/scholar_case?case=5955570528665510157)| Beer | Descriptive | Weak |  
 
 
-Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. This is called “acquired distinctiveness.” However, when launching a new product or company, its far easier to start with a strong mark than to try to acquire distinctiveness. 
+Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. This is called "acquired distinctiveness." However, when launching a new product or company, its far easier to start with a strong mark than to try to acquire distinctiveness. 
 
-Here are some other distinctiveness traps to avoid. _Geographic locations_ make weak trademarks. The Trademark Office likes to reject applications that take the format “Location + Product”, as in “Kentucky Fried Chicken.” Don’t use this format. 
-_Personal names_ make weak trademarks. Don’t name your company or your product after yourself. It will raise all kinds of trademark problems. Avoid _laudatory_ self-praise in your mark. Marks like “Best Beer” are likely to be rejected by the trademark office as merely descriptive of beer.    
+Here are some other distinctiveness traps to avoid. _Geographic locations_ make weak trademarks. The Trademark Office likes to reject applications that take the format "Location + Product", as in "Kentucky Fried Chicken." Don't use this format. 
+_Personal names_ make weak trademarks. Don't name your company or your product after yourself. It will raise all kinds of trademark problems. Avoid _laudatory_ self-praise in your mark. Marks like "Best Beer" are likely to be rejected by the trademark office as merely descriptive of beer.    
 
 
 - - - 
 
 ## Clearance Search
 
-Start by thinking up a handful of _distinctive_ names for your product. Then, search for existing trademark registrations before setting on a final name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are “likely to cause consumer confusion.”[^3] Three good databases to search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
+Start by thinking up a handful of _distinctive_ names for your product. Then, search for existing trademark registrations before setting on a final name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are "likely to cause consumer confusion."[^3] Three good databases to search are the US Trademark Office (called "TESS"), the EU Trademark Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
 
 [^3]: Lawyers sometimes call this type of search a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
 
@@ -129,7 +129,7 @@ Coders might recognize this type of search as a weird cousin of "regular express
 |  "productxyz"[GS]  |   This searches for marks with "productxyz" listed in the goods and services field of the database.  |  
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
-If you have carefully searched all 3 databases, and haven’t found any prior registrations similar to your own trademark, its time to start the trademark application. 
+If you have carefully searched all 3 databases, and haven't found any prior registrations similar to your own trademark, its time to start the trademark application. 
 
 - - - 
 
@@ -170,9 +170,10 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." Here are two examples: 
 
-| Word Mark: | APPLE | FED EX | 
-| Design Mark: | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
-| Goods/Services: | Computers | Shipping | 
+| Word Mark | Design Mark | 
+| APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:50px;"> | 
+| FED EX | <img src="/images/tm-app/fedexlogo.png" style="max-width:50px;> | 
+
 
 The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^4]
 
