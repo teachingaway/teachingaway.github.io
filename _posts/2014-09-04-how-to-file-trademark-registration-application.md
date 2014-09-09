@@ -15,15 +15,15 @@ share: true
 
 **[This is a Work in Progress]**
 
-A trademark protects a brand - a company’s unique relationship with its customers. A startup’s brand is one of its most valuable assets. This post discusses the benefits of registration, some basic trademark law, how to search the trademark database, and finally how to file a trademark application at the US Patent and Trademark Office (I'll just call it the "Trademark Office”). 
+Trademark rights protects a brand - the unique symbol the represents a company or product. A trademark helps shoppers know  who they’re buying from. This post discusses (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, (3) how to _search the trademark database_, and finally (4) _how to file a trademark application_ at the US Patent and Trademark Office (lets just call it the "Trademark Office”). 
 
-There is nothing inherently complicated about the trademark application process. The Trademark Office just collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. The Trademark Office has a website to collect this info, but it sucks. The Trademark Office website complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "more but worse." 
+At its core, the trademark application process is simple data collection. The Trademark Office collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Unfortunately, the Trademark Office website sucks. It complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
-This is a detailed trademark application walkthrough, but its not a substitute for hiring an experienced trademark attorney. 
+This is a detailed trademark application walkthrough, but it’s not a substitute for hiring an experienced trademark attorney. 
 
 ## The Benefits of Trademark Registration
 
-Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringing your trademark, and provides official government recognition of your brand identity. In addition to providing evidence, registration creates substantive trademark rights and psychological benefits. 
+Trademark law automatically grants a basic set of rights called “common law” trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
 [^1]: Registration is “prima facie” evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
@@ -31,14 +31,14 @@ Evidence | Description
 | - | - | 
 Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
 Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  If two companies use the same trademark, the company that started using it first has the superior trademark rights. A registration is strong evidence that your “date of first use” of the trademark was sometime before the application date.
+Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your “date of first use” of the trademark.
 Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
-**TM Rights** | **Description**
-Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while unregistered trademark rights are limited to the particular towns and cities where the trademark is actually being used to sell products or services.
-Seize Counterfeit Imports  | With a trademark registration, you can have the US Customs and Border Protection service seize counterfeit imports at the border.
-Incontestability  | After 5 years on the Principal Register, and after filing the appropriate forms, your registration will be “incontestable.” An incontestable registration cannot be cancelled (with a few exceptions).
-Compensation for Infringement  |  Registration increases the amount of compensation you’re entitled to collect from infringers. It allows for treble (3x) damages, and even forcing the infringer to pay your attorney’s fees. Registration provides for mandatory treble damages and criminal penalties for counterfeiters. 15 USC §1117(b).
-® Symbol  | You can display the ® symbol after a registered trademark. Unregistered trademarks can only use the ™ symbol.
+**Rights** | **Description**
+Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
+Seize Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
+Incontestability  | After 5 years of registration, a trademark can become “incontestable.” An incontestable registration cannot be cancelled (with some exceptions).
+Compensation for Infringement  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney’s fees. It even provides for _mandatory_ treble damages and even _criminal_ penalties for “counterfeiters.” 15 USC §1117(b).
+® Symbol  | The ® symbol can only be used on a registered trademark. Unregistered trademarks use the ™ symbol.
 Psychological Benefits  | In addition to enhancing formal legal rights, registration provides an intangible psychological advantage, especially in front of a jury.
 
 
@@ -59,7 +59,7 @@ How similar is *too similar*? If an average consumer is likely to confuse the ne
 
 **Distinctiveness.** A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  
 
-This is not only the law, its good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+This is not only the law, it’s good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
 Trademark distinctiveness is a spectrum with four categories that blend into each other. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Assuming the product is “computers” here’s 4 example trademarks and their level of distinctiveness: 
 
@@ -168,11 +168,11 @@ Now we come to yet another page of complicated warnings. Click "Add Goods/Servic
 
 ## Searching for Goods and Services
 
-Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If its too narrow you may have trouble stopping infringers. If you can’t find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a “TEAS” application. The TEAS application will allow you to describe your goods and services in your own words. 
+Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it’s too narrow you may have trouble stopping infringers. If you can’t find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a “TEAS” application. The TEAS application will allow you to describe your goods and services in your own words. 
 
 <a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" class="big-image"></a>
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. The [“International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but its essentially irrelevant, even for a US trademark application.
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the “International Class” here. The [“International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes. There is a separate US Classification system, but it’s essentially irrelevant, even for a US trademark application.
 
 Rather than describe each of the classes, I’ll just touch on the classes that are most relevant to tech startups. 
 
@@ -275,7 +275,7 @@ After you upload the image, click "return to application.”
 
 ## Date of First Use
 
-Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. Its critical that you get the date of first use in commerce correct. If its an old trademark, and you don't have the exact launch date, input the month and year. 
+Next you will input the "date of first use" of the trademark. There are two dates - first use *in commerce*, and first use *anywhere*. It’s critical that you get the date of first use in commerce correct. If it’s an old trademark, and you don't have the exact launch date, input the month and year. 
 
 For goods in the same class, you can assign filing bases in a batch. If the goods are in different classes, each class needs to be assigned a filing basis separately. 
 
