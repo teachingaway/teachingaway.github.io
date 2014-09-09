@@ -51,10 +51,11 @@ The Trademark Office reviews applications for several issues. The most common re
 
 | Word Mark | Apple | Fed Ex | 
 | Design Mark | <img src="/images/tm-app/applelogo.png"> | <img src="/images/tm-app/fedexlogo.png"> | 
-| Goods/ Services | Computers | Shipping | 
+| Goods/Services | Computers | Shipping | 
 
+Trademark law focuses on the relationship between the “mark” and the “goods.” 
  
-**Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). This comparison weighs two major factors: the mark and the product. Your trademark should only be refused if your brand, as used on your product, is too similar to an existing mark used on a similar product. 
+**Likelihood of Confusion.** The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion" under §2(d). “Similarity” measures both the similarity of the marks and the similarity of the goods/services. Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. 
 
 In the language of the Lanham Act §2(d), the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…." 
 
