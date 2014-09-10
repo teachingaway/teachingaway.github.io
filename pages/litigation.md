@@ -9,5 +9,12 @@ image:
 ---
 
 
+We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, and in trademark appeals at the USPTO and litigation in federal court.
 
-We litigate complex contract and intellectual property disputes.
+## At the US Patent and Trademark Office
+
+
+## Federal Court 
+
+
+## State Court

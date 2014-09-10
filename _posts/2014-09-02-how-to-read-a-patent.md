@@ -20,9 +20,9 @@ Lets suppose you want to figure out whether your new technology might infringe s
 
 ## First, skip down to the "claims." 
 
-The [claims](/MPEP/s608.html#d0e45039) [^1] are a numbered list of run-on sentences buried toward the end of the patent. Although they come last, the claims are actually the meat of the patent - they define the actual patent rights. The other sections are auxiliary - they are supposed to help explain the claims. 
+The [claims](/mpep/s608.html#d0e45039) [^1] are a numbered list of run-on sentences buried toward the end of the patent. Although they come last, the claims are actually the meat of the patent - they define the actual patent rights. The other sections are auxiliary - they are supposed to help explain the claims. 
 
-[^1]: links are to a local copy of the USPTO's ["Manual of Patent Examining Procedure"](/MPEP/), served from Jekyll
+[^1]: links are to a local copy of the USPTO's ["Manual of Patent Examining Procedure"](/mpep/), served from Jekyll
 
 Next, highlight all the "**independent claims**." These are the claims starting with the word "A". For example, “1. A swizzle stick adapted to..." or “9. A computer implemented method for..." There are probably 2 or 3 of these independent claims, but there can be more. 
 
@@ -51,7 +51,7 @@ Claims read like run-on sentences, but if you're lucky the run-ons will be broke
 
 If your technology does not incorporate even one of these steps or qualifications, its (probably) not infringing this claim. Lets say your technology does 90% of the things described in claim 1, except that none of the documents are both "linked documents and linking documents" (as required by the claim).  Then your technology is (probably) not infringing on this claim 1. Its an all-or-nothing analysis, at least at this preliminary stage. If even one element of the patent claim is missing from your technology, your tech is (probably) not infringing on the patent. 
 
-Parts of the claim might be ambiguous on their own. So at this point, we start referring back to the rest of the patent document to try to understand whether words in the claim have some special meaning. This type of [claim interpretation](/MPEP/s2111.html) analysis is complicated, and beyond the scope of this post. In theory, if you are a reasonably competent engineer/scientist in the field of this patent, the claims should be written in language you can understand. (This is rarely true, but in theory, it's [required](/MPEP/s2163.html#d0e214553)). 
+Parts of the claim might be ambiguous on their own. So at this point, we start referring back to the rest of the patent document to try to understand whether words in the claim have some special meaning. This type of [claim interpretation](/mpep/s2111.html) analysis is complicated, and beyond the scope of this post. In theory, if you are a reasonably competent engineer/scientist in the field of this patent, the claims should be written in language you can understand. (This is rarely true, but in theory, it's [required](/mpep/s2163.html#d0e214553)). 
 
 ## Annotated Patent
 
@@ -70,9 +70,9 @@ Its easy to forget that the claims, and only the claims, define patent rights. T
 
 ## Prior Art
 
-A [prior art analysis](MPEP/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because it's useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^4] than the patent? If so, it might be prior art. If the reference is newer than the patent, its not prior art. 
+A [prior art analysis](mpep/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because it's useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^4] than the patent? If so, it might be prior art. If the reference is newer than the patent, its not prior art. 
 
-[^4]: There are lots of [complicated rules](http://adlervermillion.com/MPEP/s2152.html#ch2100_d20033_1afb3_e6) for determining whether a possible prior art reference is *newer* or *older* than the patent. 
+[^4]: There are lots of [complicated rules](http://adlervermillion.com/mpep/s2152.html#ch2100_d20033_1afb3_e6) for determining whether a possible prior art reference is *newer* or *older* than the patent. 
 
 Next, skip down to the claims. As with the infringement analysis, the claims are the most important part of the patent for a prior art analysis. But unlike infringement, we will need to review *all* the claims, not just the independent claims. 
 

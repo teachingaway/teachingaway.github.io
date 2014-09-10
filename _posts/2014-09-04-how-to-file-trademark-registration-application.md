@@ -120,6 +120,7 @@ Click on the "free form search" and try using this search pattern:
 
     "some mark*"[BI] AND 
     "some products"[GS] AND 
+    036[IC] AND
     live[LD] 
 
 Coders might recognize this type of search as a weird cousin of "regular expressions" or "GREP." The database is picky about the *search string format* you use. Type in the word you want to search for, and follow it (no spaces) with the initials for the part of the database you want to search. These initials need to be in brackets. Search operators like "AND" and "OR" need to be capitalized. 
@@ -128,7 +129,10 @@ Coders might recognize this type of search as a weird cousin of "regular express
 | - | - |  
 | "markxyz*"[BI]  |  This searches for the term "markxyz" in the "Basic Index." The Basic Index is the index of both word marks and design marks. Use an asterisk as a 'wildcard.'    |  
 |  "productxyz"[GS]  |   This searches for marks with "productxyz" listed in the goods and services field of the database.  |  
+| 036[IC] | Searches for trademarks in International Class 36 | 
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
+
+_Database Timeouts_ - The US Trademark Database will timeout after  5 idle minutes, and then force you to start your search over again. This is a pain. 
 
 If you have carefully searched all 3 databases, and haven't found any prior registrations similar to your own trademark, its time to start the trademark application. 
 
