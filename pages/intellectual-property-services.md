@@ -37,7 +37,6 @@ Graham also argues that patents help explain disruptive technology in terms that
 From identity development, to trademark registration and enforcement, we work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct direct clients toward unique and easily defensible identities.
 
 
-
 ## Copyright:  <em>Defending Creative Works</em>
 
 Copyright law helps creative professionals and software developers protect their art and code. We write <a href="http://www.copyrightcodex.com/">Copyright Codex</a>, a free treatise on copyright law that has been recognized by law schools like Stanford and Duke. 
