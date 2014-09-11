@@ -17,19 +17,19 @@ share: true
 
 Patents grant rights to an invention, and these rights are defined in the patent's "Claims."  The "claims" are a numbered list of run-on sentences found toward the end of the patent document. They define what's in and what's out.
 
-_In theory_, patent claims are supposed to notify competitors about what technology requires a license and what's public domain. If its described in a claim, its patented, and you need a license. If the technology is not described in any patent claims, its public domain. _In practice_, patent claims are difficult to read and understand, and their meaning is often ambiguous. They might look like this: 
+_In theory_, patent claims are supposed to notify competitors about what technology requires a license and what's public domain. If its described in a claim, its patented, and you need a license. If the technology is not described in any patent claims, its public domain. Thats a nice theory. _In practice_, patent claims are difficult to read and understand, and their meaning is often ambiguous. They might look like this: 
 
     1. A multi-modal crowdfunding platform, comprising: 
        a plurality of contextual back-links 
        a prime number factorization engine, 
        an API for disruption-as-a-service, and
-       a peer-to-peer network for salting rainbow tables. 
+       a peer-to-peer network for salty rainbow tables. 
 
     2. The platform of claim 1, further comprising, 
        robust A/B testing for curated moonshots. 
        
 
-It doesn't make much sense, does it? The [actual patent claim](https://www.google.com/patents/US5337753) at issue in _Nautilus v. Biosig_ is only slightly better: 
+Patent claims are difficult to understand. My example is an exaggeration, but the [actual patent claim](https://www.google.com/patents/US5337753) at issue in _Nautilus v. Biosig_ is only slightly better: 
 
     1. A heart rate monitor for use by a user 
        in association with exercise apparatus
@@ -52,13 +52,15 @@ It doesn't make much sense, does it? The [actual patent claim](https://www.googl
        a second live electrode and a second common 
        electrode mounted on said second half in  
        spaced relationship with each other;
-       [and so on for 350 more words]
-
-Its not supposed to be this complicated. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention should be "indefinite" and therefore invalid.  
+       
+       [ etc. etc. ]
 
 <img src="/../images/BioSig-patent.jpg" />
 
-## Old Standard: Claim Can be Ambiguous, But Not "Insolubly Ambiguous." 
+Patent language is not supposed to be this complicated. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention should be "indefinite" and therefore invalid.  
+
+
+## Old Rule: Claim Can be Ambiguous, But Not "Insolubly Ambiguous." 
 
 We see so many ambiguous patent claims because the Federal Circuit has been extremely lenient towards patent holders. While congress required patents to use language that is "particular" and "distinct", the Federal Circuit allowed patent claim to be ambiguous, but not "insolubly ambiguous." This standard encouraged a proliferation of ambiguous patents, made it difficult for startups to enter the marketplace. 
 
@@ -66,9 +68,11 @@ As the Supreme Court put it:
 
 > absent a meaningful definiteness check... patent applicants face powerful incentives to inject ambiguity into their claims.
 
-## New Standard: "Reasonable Certainty"
+This ambiguity comes with a huge price tag. Defendants spend several hundred thousand dollars hiring lawyers to try to figure out what patents mean.  
 
-The Supreme Court raised the standard: patent claims must now describe the invention with such "reasonable certainty" that an engineer or scientist in the relevant field can understand what is in and what is out. 
+## New Rule: "Reasonable Certainty"
+
+In _Nautilus v. Biosig_, the Supreme Court raised the standard for clarity in patent language. Patent claims must now describe the invention with such "reasonable certainty" that an engineer or scientist in the relevant field can understand what is in and what is out. 
 
 > In place of the "insolubly ambiguous" standard, we hold that a patent is invalid for indefiniteness if its claims, read in light of the specification delineating the patent, and the prosecution history, fail to inform, with reasonable certainty, those skilled in the art about the scope of the invention.
 
@@ -88,13 +92,10 @@ In patent litigation, the "indefiniteness" analysis is generally conducted at a 
 
 - - - 
 
-# Text of Supreme Court Decision
 
-Nutilus, Inc., v. Biosign Instruments, Inc. 
+# Nautilus, Inc., v. Biosign Instruments, Inc. 
 
-No. 13-369.
-
-Supreme Court of the United States.
+Supreme Court of the United States. No. 13-369.
 
 Argued April 28, 2014.  Decided June 2, 2014.
 
@@ -171,7 +172,7 @@ For the reasons stated, we vacate the judgment of the United States Court of App
 
 It is so ordered.
 
-APPENDIX
+
 
 [^1]: In the Leahy-Smith America Invents Act, Pub. L. 112-29, 125 Stat. 284, enacted in 2011, Congress amended several parts of the Patent Act. Those amendments modified §§112 and 282 in minor respects not pertinent here. In any event, the amended versions of those provisions are inapplicable to patent applications filed before September 16, 2012, and proceedings commenced before September 16, 2011. See §§4(e), 15(c), 20(l), 125 Stat. 297, 328, 335, notes following 35 U. S. C. §§2, 111, 119. Here, the application for the patent-in-suit was filed in 1992, and the relevant court proceedings were initiated in 2010. Accordingly, this opinion's citations to the Patent Act refer to the 2006 edition of the United States Code.
 
