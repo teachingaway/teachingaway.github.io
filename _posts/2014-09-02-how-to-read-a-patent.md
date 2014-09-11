@@ -16,7 +16,7 @@ share: true
 
 Patents are complex documents that bury a handful of important sentences under a mountain of fluff and jargon.  If you're going to read a patent (and I urge you not to) you might as well start with the important parts, and read them correctly. 
 
-Lets suppose you want to figure out whether your new technology might infringe some patent. Here's a simple strategy I might use to start the infringement analysis. 
+Let's suppose you want to figure out whether your new technology might infringe some patent. Here's a simple strategy I might use to start the infringement analysis. 
 
 ## First, skip down to the "claims." 
 
