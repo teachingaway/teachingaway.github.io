@@ -55,6 +55,8 @@ Eric Adler
 
 ### Link Roundup:
 
+*Washington Post* - [Senate Judiciary Committee chairman urges PACER to restore access to removed case archives](http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/12/senate-judiciary-chairman-urges-pacer-to-restore-access-to-removed-case-archives/)
+
 *Ars Technica* - [US courts trash a decade’s worth of online documents, shrug it off](http://arstechnica.com/tech-policy/2014/08/us-courts-trash-a-decades-worth-of-documents-shrug-it-off)
 
 *Washington Post* - [Why PACER removed access to case archives of five courts](http://www.washingtonpost.com/blogs/the-switch/wp/2014/08/26/why-pacer-removed-access-to-case-archives-of-five-courts/)
