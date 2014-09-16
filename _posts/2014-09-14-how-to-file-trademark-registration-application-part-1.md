@@ -45,8 +45,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 <div> <!--Office Hours Signup -->
     <div style="width:60%; margin-right:4%; display:inline-block;">If you'd like to discuss trademark registration, sign up for <a href="/office-hours/">office hours</a>.
-    </div>
-    <a href="/office-hours/" class="big-btn button">Office Hours</a> 
+    </div><a href="/office-hours/" class="big-btn button">Office Hours</a> 
 </div> <!--Office Hours Signup -->
  
 - - - 
