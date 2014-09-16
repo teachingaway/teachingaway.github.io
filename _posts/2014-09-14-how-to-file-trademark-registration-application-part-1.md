@@ -15,7 +15,7 @@ share: true
 
 **[This is a Work in Progress]**
 
-A brand is about trust, and a trademark protects the trust your brand develops with customers. Your trademark prevents other companies from using a name or symbol so similar to your brand it's likely to confuse your customers.  In this two part post, I first discuss (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, and (3) how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (the "Trademark Office"). 
+A brand is about trust, and a trademark protects the trust your brand develops with customers. Your trademark prevents other companies from using a name or symbol so similar to your brand that it's likely to confuse your customers.  In this two part post, I first discuss (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, and (3) how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (the "Trademark Office"). 
 
 At its core, the trademark application process is simple data collection. The Trademark Office collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Unfortunately, the Trademark Office website sucks. It complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
