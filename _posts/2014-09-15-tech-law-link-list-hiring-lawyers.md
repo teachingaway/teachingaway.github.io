@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-There’s lots of advice on the internet, mostly bad. In our new series, "Tech Law Link Lists", we curate some useful guidance for startups. This is advice that's worth reading, but it may not be the right advice for *your* startup. The first installment is how to hire a lawyer for your startup. 
+There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law Link Lists" picks out the more useful guidance for startups. This is advice worth reading, but it may not be advice that's right for *your* startup. The first installment is how to hire a lawyer for your startup. 
 
 
 ### Hire a *Startup* Lawyer, But Not Your *Investor’s* Startup Lawyer.
@@ -52,22 +52,22 @@ There’s lots of advice on the internet, mostly bad. In our new series, "Tech L
 
 ### How much Law Should Founders Learn? 
 
-* [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/). *[Chris Dixon](https://twitter.com/cdixon), 2009*. "you can’t outsource the understanding of key financing and other legal documents to lawyers."
+* [Entrepreneurs Need to Learn Some Law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/). *[Chris Dixon](https://twitter.com/cdixon), 2009*. "you can’t outsource the understanding of key financing and other legal documents to lawyers."
 
-* [Reading your legal docs](http://venturehacks.com/articles/legal-docs). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2011*. "Read and understand everything in the term sheet. But when it comes to the closing docs, ask your lawyer to explain...."
+* [Reading your Legal Docs](http://venturehacks.com/articles/legal-docs). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2011*. "Read and understand everything in the term sheet. But when it comes to the closing docs, ask your lawyer to explain...."
 
 * [You Should Read Every Word of Every Legal Doc](http://blog.eladgil.com/2011/06/you-should-read-every-word-of-every.html). *Elad Gil, 2011*. That’s a lot of reading. 
 
 ### Lawyer Rants
 
+* [VCs & Tech Lawyers: Innovate, Automate, Simplify](http://500hats.typepad.com/500blogs/2007/09/vcs-tech-lawyer.html). *[Dave McClure](https://twitter.com/davemcclure), 2007*. A rant in three parts. (1) No more fucking faxes, (2) Simplify the term sheet,  (3) standardize and automate. 
+
+* [Top 10 Reasons why Entrepreneurs Hate Lawyers](http://venturehacks.com/articles/hate-lawyers). *Scott Walker, 2010*. Reasons: jargon, unresponsive, overlawyering & failure to prioritize, inexperienced associates doing all the work, and lawyers love to point out problems without offering solutions.  
+
 
 <blockquote class="twitter-tweet" lang="en"><p>Lawyers are like phone companies. Their bread and butter is in tricking you into racking up minutes.</p>&mdash; Bram Cohen (@bramcohen) <a href="https://twitter.com/bramcohen/status/7336163022">January 3, 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
-* [VCs & Tech Lawyers: Innovate, Automate, Simplify](http://500hats.typepad.com/500blogs/2007/09/vcs-tech-lawyer.html). *[Dave McClure](https://twitter.com/davemcclure), 2007*. A rant in three parts. (1) No more fucking faxes, (2) Simplify the term sheet,  (3) standardize and automate. 
-
-* [Top 10 reasons why Entrepreneurs Hate Lawyers](http://venturehacks.com/articles/hate-lawyers). *Scott Walker, 2010*. Reasons: jargon, unresponsive, overlawyering & failure to prioritize, inexperienced associates doing all the work, and lawyers love to point out problems without offering solutions.  
 
 * [Legal Fees: Start Swearing Now](https://web.archive.org/web/20130728083853/http://www.burningdoor.com/askthewizard/2007/04/legal_fees_start_swearing_now.html). *[Dick Costolo](https://twitter.com/dickc), 2007*. Costolo is now Twitter’s CEO. The ghost of his old blog lives on at archive.org. It advises startups to find a law firm with experience in "financings, corporate creation, contracts - especially contracts, patent/IP work, M&A work, options plans." Since your startup will be paying fees for both sets of lawyers (your lawyer and the VC’s lawyer), try to get both firms to cap their fees at the start. Also, try Dick’s “patent-pending-financing-legal-fees-negotiation-tactic: 
 
