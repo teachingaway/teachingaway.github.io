@@ -6,8 +6,8 @@ summary: "A curated list of links for founders about hiring the right startup la
 tags: [startup law, link list]
 author: adler
 image:
-  feature: /wide/industrial-blueprint--andrei-merkulov-fotolia.jpg
-  credit: Andrei Merkulov, Fotolia.
+  feature: /wide/default-image.png
+  credit:
   creditlink:
 comments: true
 share: true
