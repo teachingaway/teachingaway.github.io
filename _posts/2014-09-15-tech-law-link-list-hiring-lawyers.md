@@ -50,7 +50,7 @@ There’s lots of advice on the internet, and most of it's bad. In our new serie
 
 * [The Cost of Customization](http://siliconhillslawyer.com/2012/07/17/the-cost-of-complexity/). *Jose Ancer, 2012*. "One way to tell whether you’ve found yourself a decent tech lawyer is to count how often he/she tells you to keep things simple."
 
-### How much Law should founders Learn? 
+### How much Law Should Founders Learn? 
 
 * [Entrepreneurs need to learn some law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/). *Chris Dixon, 2009*. "you can’t outsource the understanding of key financing and other legal documents to lawyers."
 
@@ -60,13 +60,18 @@ There’s lots of advice on the internet, and most of it's bad. In our new serie
 
 ### Lawyer Rants
 
-[https://twitter.com/bramcohen/status/7336163022](https://twitter.com/bramcohen/status/7336163022)
 
-* [VCs & Tech Lawyers: INNOVATE, AUTOMATE, SIMPLIFY](http://500hats.typepad.com/500blogs/2007/09/vcs-tech-lawyer.html). *Dave McClure, 2007*. A rant in three parts. (1) No more fucking faxes, (2) Simplify the term sheet,  (3) standardize and automate. 
+<blockquote class="twitter-tweet" lang="en"><p>Lawyers are like phone companies. Their bread and butter is in tricking you into racking up minutes.</p>&mdash; Bram Cohen (@bramcohen) <a href="https://twitter.com/bramcohen/status/7336163022">January 3, 2010</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+* [VCs & Tech Lawyers: Innovate, Automate, Simplify](http://500hats.typepad.com/500blogs/2007/09/vcs-tech-lawyer.html). *Dave McClure, 2007*. A rant in three parts. (1) No more fucking faxes, (2) Simplify the term sheet,  (3) standardize and automate. 
 
 * [Top 10 reasons why Entrepreneurs hate lawyers](http://venturehacks.com/articles/hate-lawyers). *Scott Walker, 2010*. Jargon, unresponsive, overlawyering & failure to prioritize, inexperienced associates doing all the work, and lawyers love to point out problems without offering solutions.  
 
-* [Legal Fees: Start Swearing Now](https://web.archive.org/web/20130728083853/http://www.burningdoor.com/askthewizard/2007/04/legal_fees_start_swearing_now.html). *Dick Costolo, 2007*. Costolo is now Twitter’s CEO. The ghost of his old blog lives on at archive.org. It advises startups to find a law firm with experience in "financings, corporate creation, contracts - especially contracts, patent/IP work, M&A work, options plans." Since your startup will be paying fees for both sets of lawyers (your lawyer and the VC’s lawyer), try to get both firms to cap their fees at the start. Also, try Dick’s “patent-pending-financing-legal-fees-negotiation-tactic: “Before the two sides start negotiating, I call both sides and start swearing about how upset I'm going to be if this costs more than some reasonable amount. I'm generally informed that it's going to cost a lot more than that reasonable amount, upon which I call and email both sides again and the investors and swear a lot more about how capital inefficient this is and what a waste it is, and since I actually feel this way and am by now swearing in the office about the cost, it has the added effect of not sounding disingenuous.” 
+* [Legal Fees: Start Swearing Now](https://web.archive.org/web/20130728083853/http://www.burningdoor.com/askthewizard/2007/04/legal_fees_start_swearing_now.html). *Dick Costolo, 2007*. Costolo is now Twitter’s CEO. The ghost of his old blog lives on at archive.org. It advises startups to find a law firm with experience in "financings, corporate creation, contracts - especially contracts, patent/IP work, M&A work, options plans." Since your startup will be paying fees for both sets of lawyers (your lawyer and the VC’s lawyer), try to get both firms to cap their fees at the start. Also, try Dick’s “patent-pending-financing-legal-fees-negotiation-tactic: 
+
+> Before the two sides start negotiating, I call both sides and start swearing about how upset I'm going to be if this costs more than some reasonable amount. I'm generally informed that it's going to cost a lot more than that reasonable amount, upon which I call and email both sides again and the investors and swear a lot more about how capital inefficient this is and what a waste it is, and since I actually feel this way and am by now swearing in the office about the cost, it has the added effect of not sounding disingenuous.
 
 - - - 
 
