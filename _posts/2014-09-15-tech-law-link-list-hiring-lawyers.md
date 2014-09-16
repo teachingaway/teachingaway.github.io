@@ -13,12 +13,12 @@ comments: true
 share: true
 ---
 
-There’s lots of advice on the internet, and most of it's bad. In our new series, Tech Law Link Lists, we curate some useful guidance for startups. We point to advice worth reading, but it may not be the right advice for your startup. In our first installment, we cover hiring a lawyer. 
+There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law Link Lists", we curate some useful guidance for startups. This is advice that's worth reading, but it may not be the right advice for *your* startup. The first installment is how to hire a lawyer for your startup. 
 
 
 ### Hire a *Startup* Lawyer, But Not Your *Investor’s* Startup Lawyer.
 
-* [Lawyers or Insurance Salesmen?](http://startupboy.com/2005/11/30/lawyers-or-insurance-salesmen/) *Naval Ravikant, 2005*. "Don’t just go with the lawyer that the VCs insist upon. These lawyers will work with the VC on a hundred financings and with you on only one. Where do you think their loyalties lie?"
+* [Lawyers or Insurance Salesmen?](http://startupboy.com/2005/11/30/lawyers-or-insurance-salesmen/) *[Naval Ravikant](https://twitter.com/naval), 2005*. "Don’t just go with the lawyer that the VCs insist upon. These lawyers will work with the VC on a hundred financings and with you on only one. Where do you think their loyalties lie?"
 
 * [Don’t Use Your Lead Investor’s Lawyers](http://siliconhillslawyer.com/2014/01/05/lead-investor-startup-lawyer-dont/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. "If your lawyer makes more money off of your investors than he does from you, he’s not really your lawyer."
 
