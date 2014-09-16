@@ -30,6 +30,8 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 
 * [It’s the Hours, Not the Rate](http://www.jasonmendelson.com/wp/archives/2013/01/its-the-hours-not-the-rate-why-most-people-focus-on-the-wrong-thing-when-choosing-a-lawyer.php). *[Jason Mendelson](https://twitter.com/jasonmendelson), 2013*. "In all my years of auditing lawyer bills, it’s the hours that always stand out.  The hours, in any complex matter are what spiral out of control.  In these big issue situations (litigation, patent stuff, M&A, IPOs, etc.), the amount of hours that an efficient and creative lawyer will save you far, far outweigh whatever hourly rate they may charge. 
 
+* [Picking a Startup Lawyer in NYC](http://mattmireles.com/picking-a-startup-lawyer-in-nyc/). Matt Mireles, 2010. Make sure your lawyer is focused on wealth maximization, not risk mitigation. Includes some recommendations for individual NYC lawyers.  
+
 ### How Do Lawyers Add Value?
 
 * [Lawyers are referees, not coaches](http://venturehacks.com/articles/referees). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2008*. Lawyers teach you the rules of the game, but not how to win it. Your lawyer will tell you whether something is legal and whether it would breach a contract. A good lawyer can tell you about problems that tend to arise in similar deals. However, lawyers generally can’t tell you whether something will create value. 
@@ -42,13 +44,17 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 
 * [Should I pay my investor's legal fees?](http://venturehacks.com/articles/investors-legal-fee) *Venture Hacks, 2007*. Startups will probably need to pay their investor’s legal fees. Try to get the legal fees capped (for both your lawyer and the VC’s lawyer) before negotiations get started. Don’t give up a big chunk of equity "for the privilege of paying your investor’s legal bill." 
 
+<blockquote class="twitter-tweet" lang="en"><p>i always advisor founders to agree on a fee cap with their lawyers before a fundraise or big deal. saves so much ill will later.</p>&mdash; Sam Altman (@sama) <a href="https://twitter.com/sama/status/489139344532189184">July 15, 2014</a></blockquote>
+<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 * [What Are Standard Legal Fee Arrangements For Un-Funded Startups?](http://www.askthevc.com/wp/archives/2007/06/what-are-standard-legal-fee-arrangments-for-un-funded-startups.html) *[Jason Mendelson](https://twitter.com/jasonmendelson), 2007*. $5k fixed fee for incorporation, founder issuance, all initial contracts. Also discusses common terms for deferring legal fees. 
 
-* [What should legal fees in a Series A financing be?](http://www.startupcompanylawyer.com/2007/12/08/what-should-legal-fees-in-a-series-a-financing-be/) *Yokum Taku, 2007*. "Legal fees in Series A venture financings routinely exceed $50K." 
+* [What should legal fees in a Series A financing be?](http://www.startupcompanylawyer.com/2007/12/08/what-should-legal-fees-in-a-series-a-financing-be/) *[Yokum Taku](https://twitter.com/Yokum), 2007*. "Legal fees in Series A venture financings routinely exceed $50K." 
 
 * [Why Start-up Lawyers Frustrate Me](http://www.jasonmendelson.com/wp/archives/2008/06/why-start-up-lawyers-frustrate-me.php). *[Jason Mendelson](https://twitter.com/jasonmendelson), 2008*. The best startup lawyers know when to leave well enough alone. They don’t waste time marking up documents don’t have any major problems. 
 
 * [The Cost of Customization](http://siliconhillslawyer.com/2012/07/17/the-cost-of-complexity/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. "One way to tell whether you’ve found yourself a decent tech lawyer is to count how often she tells you to keep things simple."
+
 
 ### How much Law Should Founders Learn? 
 
@@ -58,7 +64,7 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 
 * [You Should Read Every Word of Every Legal Doc](http://blog.eladgil.com/2011/06/you-should-read-every-word-of-every.html). *Elad Gil, 2011*. That’s a lot of reading. 
 
-### Lawyer Rants
+### Anti-Lawyer Rants
 
 * [VCs & Tech Lawyers: Innovate, Automate, Simplify](http://500hats.typepad.com/500blogs/2007/09/vcs-tech-lawyer.html). *[Dave McClure](https://twitter.com/davemcclure), 2007*. A rant in three parts. (1) No more fucking faxes, (2) Simplify the term sheet,  (3) standardize and automate. 
 
