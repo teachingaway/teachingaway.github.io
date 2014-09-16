@@ -2,7 +2,7 @@
 layout: page
 permalink: /office-hours/
 title: "Lawyer Office Hours in Dumbo Brooklyn"
-summary: "Come chat about startup and tech law. Fridays from 4-6."
+summary: "Informal chats on startup and tech law. Fridays from 4-6."
 tags: []
 image:
   feature: /wide/dumbo-at-night-shutterstock.jpg
@@ -14,18 +14,17 @@ share:
 
 Come chat about startup and technology law. Sign up for a free 30 minute slot to talk about topics from raising money, to contracts, to trademarks and patent trolls. 
 
-- Should I file a "provisional patent" before my beta launch?
-- <a href="/employee-inventions/">When does a company own its employee's inventions?</a>
-- Was I supposed to file an 83(b) election?
-- What's the difference between ® and TM? 
-
-- - - 
-
 **Where:** [45 Main St. #500](http://adlervermillion.com/location/)
 
 **When:** Fridays, 4-6 pm
 
 **RSVP:** Sign up for a slot with <a href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Google Calendar</a>.
+
+- - - 
+
+While anyone is welcome at office hours, we have limited bandwidth for new client engagements. Our startup practice tends to be a good fit for (a) companies showing real traction or revenue, (b) experienced technical founders, (c) startups with a serious seed or series A term sheet, (d) technology or media companies with 10-75 employees. 
+
+If you think our firm might be a good fit for your business, email me: eric at adlervermillion. 
 
 - - - 
 
