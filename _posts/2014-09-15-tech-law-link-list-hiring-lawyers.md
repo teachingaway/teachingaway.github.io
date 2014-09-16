@@ -34,11 +34,11 @@ There’s lots of advice on the internet, and most of it's bad. In our new serie
 
 * [Lawyers are referees, not coaches](http://venturehacks.com/articles/referees). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2008*. Lawyers teach you the rules of the game, but not how to win it. Your lawyer will tell you whether something is legal and whether it would breach a contract. A good lawyer can tell you about problems that tend to arise in similar deals. However, lawyers generally can’t tell you whether something will create value. 
 
-* [Contracts are for the Divorce; Not the Honeymoon](http://siliconhillslawyer.com/2014/07/16/startup-contracts-divorce-marriage/). *Jose Ancer, 2014*. Some lawyers make mountains out of molehills. Others provide real value by helping founders avoid legal traps. Know when to listen to your lawyer and when to listen to your VC. 
+* [Contracts are for the Divorce; Not the Honeymoon](http://siliconhillslawyer.com/2014/07/16/startup-contracts-divorce-marriage/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. Some lawyers make mountains out of molehills. Others provide real value by helping founders avoid legal traps. Know when to listen to your lawyer and when to listen to your VC. 
 
-### Lawyer Fees, and getting the Best Value from Your Lawyer. 
+### Lawyer Fees. 
 
-* [Should I give my lawyers equity?](http://venturehacks.com/articles/lawyer-equity) *Venture Hacks, 2007*. Only if your lawyers are deferring fees and want compensation for their risk of not getting paid.  
+* [Should I give my lawyers equity?](http://venturehacks.com/articles/lawyer-equity) *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2007*. Only if your lawyers are deferring fees and want compensation for their risk of not getting paid.  
 
 * [Should I pay my investor's legal fees?](http://venturehacks.com/articles/investors-legal-fee) *Venture Hacks, 2007*. Startups will probably need to pay their investor’s legal fees. Try to get the legal fees capped (for both your lawyer and the VC’s lawyer) before negotiations get started. Don’t give up a big chunk of equity "for the privilege of paying your investor’s legal bill." 
 
