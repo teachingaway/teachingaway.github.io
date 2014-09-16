@@ -20,6 +20,8 @@ Come chat about startup and technology law. Sign up for a free 30 minute slot to
 
 **RSVP:** Sign up for a slot with <a href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Google Calendar</a>.
 
+<a class="big-btn button" href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Sign Up</a>.
+
 - - - 
 
 While anyone is welcome at office hours, we have limited bandwidth for new client engagements. Our startup practice tends to be a good fit for (a) companies showing real traction or revenue, (b) experienced technical founders, (c) startups with a serious seed or series A term sheet, (d) technology or media companies with 10-75 employees. 
