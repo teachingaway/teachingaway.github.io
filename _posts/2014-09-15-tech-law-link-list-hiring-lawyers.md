@@ -32,7 +32,9 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 
 * [Picking a Startup Lawyer in NYC](http://mattmireles.com/picking-a-startup-lawyer-in-nyc/). Matt Mireles, 2010. Make sure your lawyer is focused on wealth maximization, not risk mitigation. Includes some recommendations for individual NYC lawyers.  
 
-### How Do Lawyers Add Value?
+### Working with Lawyers
+
+[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/). *[Mark Suster](https://twitter.com/msuster), 2010.*  When to hire a lawyer, how to choose a lawyer, how to manage costs, and more. Your startup law firm should be local, right sized, and startup focused.
 
 * [Lawyers are referees, not coaches](http://venturehacks.com/articles/referees). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2008*. Lawyers teach you the rules of the game, but not how to win it. Your lawyer will tell you whether something is legal and whether it would breach a contract. A good lawyer can tell you about problems that tend to arise in similar deals. However, lawyers generally can’t tell you whether something will create value. 
 
@@ -55,6 +57,7 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 
 * [The Cost of Customization](http://siliconhillslawyer.com/2012/07/17/the-cost-of-complexity/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. "One way to tell whether you’ve found yourself a decent tech lawyer is to count how often she tells you to keep things simple."
 
+[A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5000 or less. 
 
 ### How much Law Should Founders Learn? 
 
@@ -74,6 +77,7 @@ There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law 
 <blockquote class="twitter-tweet" lang="en"><p>Lawyers are like phone companies. Their bread and butter is in tricking you into racking up minutes.</p>&mdash; Bram Cohen (@bramcohen) <a href="https://twitter.com/bramcohen/status/7336163022">January 3, 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+* [Lawyers Can’t Tell You You Can’t Do something](http://venturehacks.com/articles/bram-cohen-lawyers). *[Bram Cohen](https://twitter.com/bramcohen), Venture Hacks, 2010.* My particular gripe in that tweet had to do with the practice of billing up several hours to answer a question asked in email, when all that was really wanted was the answer *if* the lawyer knew it off the top of their head. 
 
 * [Legal Fees: Start Swearing Now](https://web.archive.org/web/20130728083853/http://www.burningdoor.com/askthewizard/2007/04/legal_fees_start_swearing_now.html). *[Dick Costolo](https://twitter.com/dickc), 2007*. Costolo is now Twitter’s CEO. The ghost of his old blog lives on at archive.org. It advises startups to find a law firm with experience in "financings, corporate creation, contracts - especially contracts, patent/IP work, M&A work, options plans." Since your startup will be paying fees for both sets of lawyers (your lawyer and the VC’s lawyer), try to get both firms to cap their fees at the start. Also, try Dick’s “patent-pending-financing-legal-fees-negotiation-tactic: 
 
