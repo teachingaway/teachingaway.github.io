@@ -81,9 +81,19 @@ h4 {
 // Lists
 // --------------------------------------------------
 .entry-content ul {
+    list-style: none;
     margin-left:0;
     padding-left:0;
+    li { 
+        padding-left: 1em; 
+        text-indent: -.7em;
+        }
+    li:before {
+        content: "• ";
+        color: #888; 
+        }
     }
+    
 .entry-content ul ul {
     margin-left:22px;
     }

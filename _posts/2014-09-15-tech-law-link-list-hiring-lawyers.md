@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-There’s lots of advice on the internet, mostly bad. Our new series, "Tech Law Link Lists", we curate some useful guidance for startups. This is advice that's worth reading, but it may not be the right advice for *your* startup. The first installment is how to hire a lawyer for your startup. 
+There’s lots of advice on the internet, mostly bad. In our new series, "Tech Law Link Lists", we curate some useful guidance for startups. This is advice that's worth reading, but it may not be the right advice for *your* startup. The first installment is how to hire a lawyer for your startup. 
 
 
 ### Hire a *Startup* Lawyer, But Not Your *Investor’s* Startup Lawyer.
