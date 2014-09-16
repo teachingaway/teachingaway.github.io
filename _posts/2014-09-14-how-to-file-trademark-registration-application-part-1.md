@@ -43,11 +43,6 @@ Psychological Benefits  | Registration provides an intangible psychological adva
 
 While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
 
-<div> <!--Office Hours Signup -->
-    <div style="width:60%; margin-right:4%; display:inline-block;">If you'd like to discuss trademark registration, sign up for <a href="/office-hours/">office hours</a>.
-    </div><a href="/office-hours/" class="big-btn button">Office Hours</a> 
-</div> <!--Office Hours Signup -->
- 
 - - - 
 
 ## Trademark Law: Confusion and Distinctiveness
@@ -148,8 +143,4 @@ If you have carefully searched all 3 databases, and haven't found any prior regi
 Now that you have a unique and distinctive mark, you're ready to [apply for a trademark registration in part 2 of this series](/how-to-file-trademark-registration-application-part-2/).
 
 
-
-
-
-
-
+- - - 
