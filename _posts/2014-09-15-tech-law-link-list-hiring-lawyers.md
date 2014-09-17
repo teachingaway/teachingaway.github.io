@@ -16,7 +16,7 @@ share: true
 The internet is full of advice, mostly bad, but occasionally useful. Our "Tech Law Link Lists" series tries to collect useful guidance for startups. This is advice worth reading, but it may not be advice that's right for *your* startup. This first installment is about finding the right lawyer for your startup. 
 
 
-### Hire a *Startup* Lawyer, But Not Your *Investor’s* Startup Lawyer.
+### Hire a *Startup* Lawyer, But Not Necessarily Your *Investor’s* Startup Lawyer.
 
 * [Lawyers or Insurance Salesmen?](http://startupboy.com/2005/11/30/lawyers-or-insurance-salesmen/) *[Naval Ravikant](https://twitter.com/naval), 2005*. "Don’t just go with the lawyer that the VCs insist upon. These lawyers will work with the VC on a hundred financings and with you on only one. Where do you think their loyalties lie?"
 
