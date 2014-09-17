@@ -102,8 +102,9 @@ Here are some of the classes that are most relevant to startups and makers.
 
 | Class | for GOODS | 
 | - | - | 
-3  | Cosmetics 
-7  | Machinery  
+3  | [Cosmetics](/tmep/tmep-1400.html#TMEP-ch-1400-32d115e341) 
+6 | [Metal Goods](/tmep/tmep-1400.html#TMEP-ch-1400-57d115e511)
+7  | [Machinery]()
 9 |  Software, Electrical and Scientific 
 10 |  Medical Apparatus 
 11 |  Environmental Control Apparatus
@@ -152,7 +153,7 @@ Class | Short Title | Example
 
 ## Selecting Goods and Services from the List
 
-When viewing the results, be sure the description is in the rights class. You can pick several descriptions, as long as they accurate describe your goods or services. The USPTO charges additional fees per "class" but not for multiple descriptions within a class.
+When viewing the results, be sure the description is in the rights class. You can pick several descriptions, as long as they accurately describe your goods or services. The USPTO charges additional fees per "class" but not for multiple descriptions within a class.
 
 <a href="/images/tm-app/7-pick-description-goods-services.png"><img src="/images/tm-app/7-pick-description-goods-services.png" ></a>
 
