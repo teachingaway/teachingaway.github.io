@@ -6,8 +6,8 @@ summary: "An illustrated walkthrough of the USPTO trademark application process.
 tags: [trademark]
 author: adler
 image:
-  feature: /wide/transmission-patent-gray-blueprint.jpg
-  credit:
+  feature: /wide/default-image.png
+  credit: Company Folders
   creditlink:
 comments: true
 share: true
