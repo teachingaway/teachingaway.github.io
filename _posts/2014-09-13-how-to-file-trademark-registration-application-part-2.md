@@ -16,7 +16,7 @@ share: true
 
 
 
-After reading [part 1](/how-to-file-trademark-registration-application-part-1/) and selecting a unique and distinctive mark, you're ready to apply for a trademark registration. While this is a detailed trademark application walkthrough, it's not a substitute for hiring an experienced trademark attorney.
+This is part two of a two-part post. [Part one](/how-to-file-trademark-registration-application-part-1/) explained how to choose a unique and distinctive mark. Part two is a detailed trademark application walkthrough (but it's not a substitute for hiring a lawyer).
 
 First, go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. It will great you with the wall of text pictured below.
 
