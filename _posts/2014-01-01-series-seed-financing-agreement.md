@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 title: "Series Seed v3.2 Financing Agreement"
 summary: "Series Seed angel financing agreement explained."
-tags: [venture capital, vc, angel, law]
+tags: [venture capital, angel]
 author: adler
 image:
   feature: /wide/default-image.png

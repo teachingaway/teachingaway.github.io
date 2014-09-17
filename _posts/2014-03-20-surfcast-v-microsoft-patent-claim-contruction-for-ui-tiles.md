@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Surfcast v. Microsoft: User Interface Patents" 
-tags: [patent, speakers, claim construction]
+tags: [patent, claim construction]
 author: adler
 image:
   feature: /wide/default-image.png
