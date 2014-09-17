@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 title: "How to Register a US Trademark: Background"
-summary: "An illustrated walkthrough of the USPTO trademark application process."
+summary: "The basic trademark law you need to know to pick a name and register a trademark."
 tags: [trademark]
 author: adler
 image:
@@ -13,11 +13,10 @@ comments: true
 share: true
 ---
 
-**[This is a Work in Progress]**
 
-A brand is about trust, and a trademark protects the trust your brand develops with customers. Your trademark prevents other companies from using a name or symbol so similar to your brand that it's likely to confuse your customers.  In this two part post, I first discuss (1) the benefits of  _trademark registration_, (2) some basic _trademark law_, and (3) how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (the "Trademark Office"). 
+Your brand is the symbol of your company, and a trademark prevents other companies from using a similar brand to free-ride on your business reputation. This two-part post is designed to teach startup founders the basics of trademark law and how to register a trademark with the US Trademark Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (the "Trademark Office"). 
 
-At its core, the trademark application process is simple data collection. The Trademark Office collects some basic information about the trademark, about the trademark owner, and about how the owner uses the trademark to sell things. Unfortunately, the Trademark Office website sucks. It complicates a simple application process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
+At its core, the trademark application process is simple data collection. The Trademark Office collects basic info on the trademark and the trademark owner. Sadly, the Trademark Office website sucks and complicates a simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
 This is a detailed trademark application walkthrough, but it's not a substitute for hiring an experienced trademark attorney. 
 
