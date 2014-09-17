@@ -100,31 +100,32 @@ Before searching, try to identify the "class" of goods and services applicable t
 Here are some of the classes that are most relevant to startups and makers. 
 
 
-| Class | for GOODS | 
+| Class | GOODS | 
 | - | - | 
 3  | [Cosmetics](/tmep/tmep-1400.html#TMEP-ch-1400-32d115e341) 
-6 | [Metal Goods](/tmep/tmep-1400.html#TMEP-ch-1400-57d115e511)
-7  | [Machinery]()
-9 |  Software, Electrical and Scientific 
-10 |  Medical Apparatus 
-11 |  Environmental Control Apparatus
-12 |  Vehicles
-16 |  Paper Goods and Printed Matter
-25 |  Clothing
-28 |  Toys and Sporting Goods
+6  | [Metal Goods](/tmep/tmep-1400.html#TMEP-ch-1400-57d115e511)
+7  | [Machinery](/tmep/tmep-1400.html#)
+9  | [Software, Electrical and Scientific](/tmep/tmep-1400.html#TMEP-ch-1400-82d115e693) 
+10 | [Medical Apparatus](/tmep/tmep-1400.html#TMEP-ch-1400-94d115e841)
+11 | [Environmental Control Apparatus](/tmep/tmep-1400.html#TMEP-ch-1400-101d115e886)
+12 | [Vehicles](/tmep/tmep-1400.html#TMEP-ch-1400-109d115e958)
+14 | [Jewelry](/tmep/tmep-1400.html#TMEP-ch-1400-124d115e1060)
+16 | [Paper Goods and Printed Matter](/tmep/tmep-1400.html#TMEP-ch-1400-141d115e1169)
+25 | [Clothing](/tmep/tmep-1400.html#TMEP-ch-1400-212d115e1709)
+28 | [Toys and Sporting Goods](/tmep/tmep-1400.html#TMEP-ch-1400-234d115e1827)
 
 
-| Class | for SERVICES | 
+| Class |  SERVICES | 
 | - | - | 
-35 |   Advertising and Business
-36 |  Insurance and Financial
-38 |   Communication
-39 |   Transportation and Storage
-41 |   Education and Entertainment
-42 |   Computer, Scientific and Legal
-43 |   Hotels and Restaurants
-44 |   Medical, Beauty and Agricultural
-45 |   Personal
+35 |  [Advertising and Business](/tmep/tmep-1400.html#TMEP-ch-1400-293d115e2303)
+36 |  [Insurance and Financial](/tmep/tmep-1400.html#TMEP-ch-1400-304d115e2381)
+38 |  [Communication](/tmep/tmep-1400.html#TMEP-ch-1400-322d115e2570)
+39 |  [Transportation and Storage](/tmep/tmep-1400.html#TMEP-ch-1400-332d115e2640)
+41 |  [Education and Entertainment](/tmep/tmep-1400.html#TMEP-ch-1400-351d115e2800)
+42 |  [Computer, Scientific and Legal](/tmep/tmep-1400.html#TMEP-ch-1400-358d115e2846)
+43 |  [Hotels and Restaurants](/tmep/tmep-1400.html#)
+44 |  [Medical, Beauty and Agricultural](/tmep/tmep-1400.html#TMEP-ch-1400-367d115e2946)
+45 |  [Personal](/tmep/tmep-1400.html#TMEP-ch-1400-385d115e3160)
 
 
 After selecting a "class", you will need to describe your products or services within that class. Here are some examples of product descriptions:  
