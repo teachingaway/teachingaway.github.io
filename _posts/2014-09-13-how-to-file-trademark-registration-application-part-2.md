@@ -40,9 +40,13 @@ Click continue, and you will see an ugly data entry form.
 
 ## Trademark Owner 
 
-Here, you enter some info about the trademark owner. Be careful if the owner is a company that has parents, subsidiaries, or licensees. Entering the wrong owner can cause problems.
+Here, you enter some info about the trademark owner. [TMEP 1201](/tmep/tmep-1200.html#TMEP-1200d1e7) discusses the details of trademark ownership. 
+
+
 
 <a href="/images/tm-app/3-trademark-owner.png"><img src="/images/tm-app/3-trademark-owner.png" ></a>
+
+Be careful if the owner is a company that has parents, subsidiaries, or licensees. [TMEP 1201.06](/tmep/tmep-1200.html#TMEP-1200d1e541) discusses special ownership situations. 
 
 Note that this page asked for info about the trademark _owner_. Later in the process, you will see a very similar form asking for info about the _contact person_. 
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "How to Register a US Trademark: Background"
+title: "How to Register a US Trademark: Legal Background"
 summary: "The basic trademark law you need to know to pick a name and register a trademark."
 tags: [trademark]
 author: adler
@@ -17,8 +17,6 @@ share: true
 Your brand is the symbol of your company, and a trademark prevents other companies from using a similar brand to free-ride on your business reputation. This two-part post is designed to teach startup founders the basics of trademark law and how to register a trademark with the US Trademark Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (the "Trademark Office"). 
 
 At its core, the trademark application process is simple data collection. The Trademark Office collects basic info on the trademark and the trademark owner. Sadly, the Trademark Office website sucks and complicates a simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
-
-This is a detailed trademark application walkthrough, but it's not a substitute for hiring an experienced trademark attorney. 
 
 ## The Benefits of Trademark Registration
 
@@ -58,7 +56,7 @@ Trademark law focuses on the relationship between the "mark" and the "goods." Th
 
 The Trademark Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be to support a finding of likelihood of confusion." [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
-Your trademark application will be refused if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
+The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the Trademark Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
@@ -66,7 +64,7 @@ Your trademark application will be refused if your mark, as used on your goods/s
 
 ### TM Law: "Distinctiveness"
 
-A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic."  Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980) Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The Trademark Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the Trademark Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
 Trademark distinctiveness is a spectrum of four categories. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Lets start with an example. Assuming the product is "computers" here are possible trademarks and their level of distinctiveness: 
 
