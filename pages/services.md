@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /services/
-title: ""
+title: "Services"
 modified: 2014-06-04 20:33
 tags: [litigation, patent, trademark, intellectual property law]
 image:
