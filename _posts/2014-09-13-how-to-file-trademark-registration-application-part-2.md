@@ -234,9 +234,11 @@ Enter the contact info for the person who should receive Trademark Office notifi
 
 ## Sign the Application 
 
-Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
+The application must be signed by a person (a) with authority to bind the company filing the application, and (b) with firsthand knowledge that the facts in the application are true. [TMEP 611.03](http://adlervermillion.com/tmep/tmep-0600.html#TMEP-600d1e1722) discusses who can sign a trademark application. 
 
 <a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" ></a>
+
+Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
 
 Click "Validate". Don't click "add signatory" unless you want to add a <em>second</em> signer. 
 
