@@ -22,7 +22,7 @@ First, gird yourself for a miserable user experience. You are about to engage wi
 
 ## 1. Welcome to the TM Office
 
-Pick "TEAS Plus."
+At the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">TM Application page</a>, pick "TEAS Plus."
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" ></a>
 
