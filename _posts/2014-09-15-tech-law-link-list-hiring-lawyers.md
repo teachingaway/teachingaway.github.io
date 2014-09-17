@@ -57,7 +57,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 * [The Cost of Customization](http://siliconhillslawyer.com/2012/07/17/the-cost-of-complexity/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. "One way to tell whether you’ve found yourself a decent tech lawyer is to count how often she tells you to keep things simple."
 
-[A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5000 or less. 
+[A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* "When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5,000 or less." 
 
 ### How much Law Should Founders Learn? 
 
