@@ -153,7 +153,7 @@ Class | Short Title | Example
 
 ## Selecting Goods and Services from the List
 
-When viewing the results, be sure the description is in the rights class. You can pick several descriptions, as long as they accurately describe your goods or services. The USPTO charges additional fees per "class" but not for multiple descriptions within a class.
+When viewing the search results, be sure the description is in the rights class (as listed in the left column). You can pick several descriptions, as long as they accurately describe your goods or services. The USPTO charges additional fees per "class" but not for multiple descriptions within a class.
 
 <a href="/images/tm-app/7-pick-description-goods-services.png"><img src="/images/tm-app/7-pick-description-goods-services.png" ></a>
 
@@ -161,23 +161,23 @@ When viewing the results, be sure the description is in the rights class. You ca
 
 ## Filing Basis
 
-Every trademark needs a "filing basis." The filing basis is just a reference to the part of the Trademark Statute you are claiming your rights under. The two filing bases we will discuss here are called ["use in commerce"](/tmep/tmep-0800.html#TMEP-800d1e671) [§1(a)] and ["intent to use"](/tmep/tmep-0800.html#TMEP-800d1e693) [§1(b)]. The others relate to international trademarks. See [TMEP 806 for filing basis details](/tmep/tmep-0800.html#TMEP-800d1e653), and [TMEP 1101](/tmep/tmep-1100.html#TMEP-1100d1e7) for additional information about when a company has a bona fide "intent to use" a trademark in the future. 
+Every trademark needs a "filing basis." The filing basis is just a reference to the part of the Trademark Statute you are claiming your rights under. The two filing bases we will discuss here are called ["use in commerce"](/tmep/tmep-0800.html#TMEP-800d1e671) [§ 1 (a)] and ["intent to use"](/tmep/tmep-0800.html#TMEP-800d1e693) [§ 1 (b)]. The others relate to international trademarks. See [TMEP 806 for filing basis details](/tmep/tmep-0800.html#TMEP-800d1e653), and [TMEP 1101](/tmep/tmep-1100.html#TMEP-1100d1e7) for additional information about when a company has a bona fide "intent to use" a trademark in the future. 
  
-Pick [§ 1(a)](/tmep/tmep-0800.html#TMEP-800d1e671) if you already use the trademark in interstate commerce. That is, you already use this trademark to sell some product or service in more than one US state. 
+Pick [§ 1 (a)](/tmep/tmep-0800.html#TMEP-800d1e671) if you already use the trademark in interstate commerce. That is, you already use this trademark to sell some product or service in more than one US state. 
 
-Pick [§ 1(b)](/tmep/tmep-0800.html#TMEP-800d1e693) if you don't use the trademark to sell anything yet, but you plan to start soon.
+Pick [§ 1 (b)](/tmep/tmep-0800.html#TMEP-800d1e693) if you don't use the trademark to sell anything yet, but you plan to start soon.
 
 <a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" ></a>
 
-If you selected §1(a) (use in commerce), you will need to provide a "specimen of use" - a jpg image showing how you use the trademark in commerce. This will be the next step.
+If you selected § 1 (a) (use in commerce), you will need to provide a "specimen of use" – a jpg image showing how you use the trademark in commerce. This will be the next step.
 
-If you selected §1(b), you will end up filing an "intent to use" application. This is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
+If you selected § 1 (b), you will end up filing an "intent to use" application. This is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the § 1 (b) intent-to-use trademark application process. 
 
 - - - 
 
 ## Specimen of Use
 
-If you are already using your trademark (and picked §1(a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
+If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" ></a>
 
@@ -214,9 +214,9 @@ Click "assign filing basis" at the bottom, and you will be returned to the "Basi
 
 - - - 
 
-## Back to the Basis for Filing Screen
+## Back to the "Basis for Filing" Screen
 
-After every line is assigned its filing basis (that is, there is a "1(a)" shown in the far right column for each row), click continue. 
+After every line is assigned its filing basis (that is, there is a "1(a)" or "1(b)" shown in the far right column for each row), click continue. 
 
 <a href="/images/tm-app/12-basis-assigned.png"><img src="/images/tm-app/12-basis-assigned.png" ></a>
 
@@ -234,7 +234,7 @@ Enter the contact info for the person who should receive Trademark Office notifi
 
 ## Sign the Application 
 
-Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
+Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
 
 <a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" ></a>
 
