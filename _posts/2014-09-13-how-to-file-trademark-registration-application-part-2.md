@@ -104,7 +104,7 @@ Here are some of the classes that are most relevant to startups and makers.
 | - | - | 
 3  | [Cosmetics](/tmep/tmep-1400.html#TMEP-ch-1400-32d115e341) 
 6  | [Metal Goods](/tmep/tmep-1400.html#TMEP-ch-1400-57d115e511)
-7  | [Machinery](/tmep/tmep-1400.html#)
+7  | [Machinery](/tmep/tmep-1400.html#TMEP-ch-1400-64d115e556)
 9  | [Software, Electrical and Scientific](/tmep/tmep-1400.html#TMEP-ch-1400-82d115e693) 
 10 | [Medical Apparatus](/tmep/tmep-1400.html#TMEP-ch-1400-94d115e841)
 11 | [Environmental Control Apparatus](/tmep/tmep-1400.html#TMEP-ch-1400-101d115e886)
@@ -126,7 +126,6 @@ Here are some of the classes that are most relevant to startups and makers.
 43 |  [Hotels and Restaurants](/tmep/tmep-1400.html#)
 44 |  [Medical, Beauty and Agricultural](/tmep/tmep-1400.html#TMEP-ch-1400-367d115e2946)
 45 |  [Personal](/tmep/tmep-1400.html#TMEP-ch-1400-385d115e3160)
-
 
 After selecting a "class", you will need to describe your products or services within that class. Here are some examples of product descriptions:  
 
