@@ -81,6 +81,8 @@ Over the next several steps, you will be describing your goods or services. Clic
 
 <a href="/images/tm-app/5-add-goods.png"><img src="/images/tm-app/5-add-goods.png" ></a>
 
+[TMEP 1402](/tmep/tmep-1400.html#TMEP-1400d1e1982) discusses the details of how to properly identify your goods and services. A "TEAS" application lets you describe your goods in your own words. A "TEAS Plus" application, what we are working on here, requires you to select a description of your goods from a pre-approved list. 
+
 - - - 
 
 ## Searching for Goods and Services
@@ -91,11 +93,11 @@ Now we're at a search box. This box lets us query the list list of pre-approved 
 
 Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes.[^5]
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes.[^5] The class headings themselves can be misleading, so review the class details at  [TMEP 1401.02(a) Headings of International Trademark Classes](/tmep/tmep-1400.html#TMEP-1400d1e1775). 
 
 [^5]: There is a separate "US Classification" system, but it's essentially irrelevant, even for a US trademark application.
 
-Here are some of the classes that are most relevant to tech startups. 
+Here are some of the classes that are most relevant to startups and makers. 
 
 
 | Class | for GOODS | 
@@ -158,15 +160,15 @@ When viewing the results, be sure the description is in the rights class. You ca
 
 ## Filing Basis
 
-Every trademark needs a "filing basis." Think of the filing basis as the reason why you're entitled to a trademark registration. The two filing bases we will discuss here are called ["use in commerce"](/tmep/tmep-0800.html#TMEP-800d1e671) [§1(a)] and ["intent to use"](/tmep/tmep-0800.html#TMEP-800d1e693) [§1(b)]. The others relate to international trademarks. See [TMEP 806 for filing basis details](/tmep/tmep-0800.html#TMEP-800d1e653), and [TMEP 1101](/tmep/tmep-1100.html#TMEP-1100d1e7) for additional information about when a company has a bona fide "intent to use" a trademark in the future. 
+Every trademark needs a "filing basis." The filing basis is just a reference to the part of the Trademark Statute you are claiming your rights under. The two filing bases we will discuss here are called ["use in commerce"](/tmep/tmep-0800.html#TMEP-800d1e671) [§1(a)] and ["intent to use"](/tmep/tmep-0800.html#TMEP-800d1e693) [§1(b)]. The others relate to international trademarks. See [TMEP 806 for filing basis details](/tmep/tmep-0800.html#TMEP-800d1e653), and [TMEP 1101](/tmep/tmep-1100.html#TMEP-1100d1e7) for additional information about when a company has a bona fide "intent to use" a trademark in the future. 
  
-Pick [§1(a)](/tmep/tmep-0800.html#TMEP-800d1e671) if you already use the trademark in interstate commerce. That is, you already use this trademark to sell some product or service in more than one US state. 
+Pick [§ 1(a)](/tmep/tmep-0800.html#TMEP-800d1e671) if you already use the trademark in interstate commerce. That is, you already use this trademark to sell some product or service in more than one US state. 
 
-Pick [§1(b)](/tmep/tmep-0800.html#TMEP-800d1e693) if you don't use the trademark to sell anything yet, but you plan to start soon.
+Pick [§ 1(b)](/tmep/tmep-0800.html#TMEP-800d1e693) if you don't use the trademark to sell anything yet, but you plan to start soon.
 
 <a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" ></a>
 
-If you selected §1(a) (use in commerce), you will need to provide a "specimen of use", a jpg image showing how you use the trademark in commerce. This will be the next step.
+If you selected §1(a) (use in commerce), you will need to provide a "specimen of use" - a jpg image showing how you use the trademark in commerce. This will be the next step.
 
 If you selected §1(b), you will end up filing an "intent to use" application. This is a placeholder. It will not provide full trademark rights until you file a "statement of use" with the Trademark Office. There is a time limit. You must file the statement of use within 6 months after your intent-to-use registration issues. You can extend this deadline for up to 3 additional 6-month periods by paying extension fees. This guide does not cover the §1(b) intent-to-use trademark application process. 
 
