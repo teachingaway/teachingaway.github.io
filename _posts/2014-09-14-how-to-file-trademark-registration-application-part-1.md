@@ -42,7 +42,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 - - - 
 
-## Trademark Law: Confusion and Distinctiveness
+## TM Law: Confusion and Distinctiveness
 
 The TM Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
 
