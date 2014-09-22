@@ -13,6 +13,10 @@ comments: true
 share: true
 ---
 
+
+Update: [Online court archive PACER says it will restore access to missing records](http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/19/online-court-archive-pacer-says-it-will-restore-access-to-missing-records/) according to the *Washington Post* (9/19/2014).  
+
+
 PACER, the public archive of court filings and decisions, recently [deleted](https://www.pacer.gov/announcements/general/webpacer.html) thousands of documents. PACER's excuse is that these records use a legacy database schema that is incompatible with their new database architecture. From the PACER website:    
 
 > As a result of these architectural changes, the locally developed legacy case management systems in the five courts listed below are now incompatible with PACER; therefore, the judiciary is no longer able to provide electronic access to the closed cases on those systems.
@@ -54,6 +58,8 @@ Eric Adler
 - - - 
 
 ### Link Roundup:
+
+
 
 *Washington Post* - [Senate Judiciary Committee chairman urges PACER to restore access to removed case archives](http://www.washingtonpost.com/blogs/the-switch/wp/2014/09/12/senate-judiciary-chairman-urges-pacer-to-restore-access-to-removed-case-archives/)
 
