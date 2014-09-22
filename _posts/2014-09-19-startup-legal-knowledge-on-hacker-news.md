@@ -17,7 +17,7 @@ Hacker News commenter Jacquesm recently plugged [startup lawyer George Grellas](
 
 > I'd like to plug [George Grellas](https://news.ycombinator.com/user?id=grellas) in case you're not aware of him, just reading his comment history should give you a lot of food for thought. He's one of HN's secret assets.
 
-I was not aware of him, so I read his comment history. His "comments" are really essays, and I think too valuable to remain "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1]
+I was not aware of him, so I read his comment history. His "comments" are really essays, and I think too valuable to remain "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1] 
 
 [^1]: Caveat: These links are worth reading, but they may not be the right advice for your particular company. I am not associated with George Grellas in any way. George Grellas does not endorse this post, and his views may have changed in the years since some of his essays were written.
 
@@ -84,6 +84,6 @@ The Clerky founders have "toiled at length in their field, identified key pain p
 
 [What’s Wrong with an LLC](https://news.ycombinator.com/item?id=1276724). 4/2010.  "The biggest practical advantage of an LLC is also its biggest practical limitation, and that is that it is like the siren song tempting founders to do quickie, online setups for their startups 'just to get started.'" 
 
-
+For more, follow [George Grellas](https://twitter.com/grellas) on twitter. You can follow [me](https://twitter.com/TeachingAway) and my partner [Zeke Vermillion](https://twitter.com/zmillion) on twitter as well. 
 
 
