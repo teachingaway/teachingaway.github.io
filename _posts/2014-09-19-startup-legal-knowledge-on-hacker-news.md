@@ -84,8 +84,4 @@ The Clerky founders have "toiled at length in their field, identified key pain p
 
 - [What’s Wrong with an LLC](https://news.ycombinator.com/item?id=1276724). 4/2010.  "The biggest practical advantage of an LLC is also its biggest practical limitation, and that is that it is like the siren song tempting founders to do quickie, online setups for their startups 'just to get started.'" 
 
-### Conclusion
-
-Grellas creates some rare signal in an internet full of noise. [Follow him](https://twitter.com/grellas) on twitter. For an East Coast view on law and technology, follow [me](https://twitter.com/TeachingAway) and my partner [Zeke Vermillion](https://twitter.com/zmillion). 
-
 
