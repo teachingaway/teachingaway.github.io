@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Hacker News commenter Jacquesm recently plugged [startup lawyer George Grellas](http://grellas.com/):  
+In response to my post on [hiring a startup lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/), Hacker News commenter Jacquesm [plugged](https://news.ycombinator.com/item?id=8327893) startup lawyer [George Grellas](http://grellas.com/):  
 
 > I'd like to plug [George Grellas](https://news.ycombinator.com/user?id=grellas) in case you're not aware of him, just reading his comment history should give you a lot of food for thought. He's one of HN's secret assets.
 
