@@ -17,11 +17,9 @@ Hacker News commenter Jacquesm recently plugged [startup lawyer George Grellas](
 
 > I'd like to plug [George Grellas](https://news.ycombinator.com/user?id=grellas) in case you're not aware of him, just reading his comment history should give you a lot of food for thought. He's one of HN's secret assets.
 
-I was not aware of him, so I read his comment history. His "comments" are really essays. And I think his essays are too valuable to be "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1][^2]
+I was not aware of him, so I read his comment history. His "comments" are really essays, and I think too valuable to remain "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1]
 
-[^1]: Caveat: these links are worth reading, but they may not be the right advice for your particular company.
-
-[^2]: I am not associated with George Grellas in any way. He doesn't endorse this post, and his views may have changed in the years since some of his essays were written. 
+[^1]: Caveat: These links are worth reading, but they may not be the right advice for your particular company. I am not associated with George Grellas in any way. George Grellas does not endorse this post, and his views may have changed in the years since some of his essays were written.
 
 
 ### Seed Capital and SAFE
