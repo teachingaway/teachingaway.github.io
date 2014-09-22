@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 title: "Startup Law Wisdom from Grellas on Hacker News"
-summary: "A collection of essays from the silicon valley attorney."
+summary: "A collection of essays from the veteran silicon valley attorney."
 tags: [startup law, link list]
 author: adler
 image:
@@ -17,14 +17,18 @@ Hacker News commenter Jacquesm recently plugged [startup lawyer George Grellas](
 
 > I'd like to plug [George Grellas](https://news.ycombinator.com/user?id=grellas) in case you're not aware of him, just reading his comment history should give you a lot of food for thought. He's one of HN's secret assets.
 
-I was not aware of him, so I read his comment history and it gave me food for thought. His "comments" are really essays. And I think his essays are too valuable to be "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [Caveat: these links are worth reading, but they may not be the right advice for your particular company.]  
+I was not aware of him, so I read his comment history. His "comments" are really essays. And I think his essays are too valuable to be "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1][^2]
+
+[^1]: Caveat: these links are worth reading, but they may not be the right advice for your particular company.
+
+[^2]: I am not associated with George Grellas in any way. He doesn't endorse this post, and his views may have changed in the years since some of his essays were written. 
 
 
 ### Seed Capital and SAFE
 
 - [Bad Notes on Venture Capital](https://news.ycombinator.com/item?id=8335570). 9/2014. Seed funding goals: (1) raise money as a bridge to Series A to reduce dilution; (2) keep equity incentives priced relatively low to assemble quality team without tax grief; (3) reasonable transaction costs; (4) close quickly. [Original post](http://www.bothsidesofthetable.com/2014/09/17/bad-notes-on-venture-capital/) by Mark Suster. 
 
-- [Announcing the SAFE, a Replacement for Convertible Notes](https://news.ycombinator.com/item?id=6862461). 12/2013. "It is at once simple and subtle and it covers a lot of nuanced legal technicalities that must have required some pretty careful thought to get right." [Original post](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes) by [Paul Graham](https://twitter.com/paulg). Pay attention to comments by “clevy” – that’s Carolyn Levy, YCombinator Attorney and author of SAFE. 
+- [Announcing the SAFE, a Replacement for Convertible Notes](https://news.ycombinator.com/item?id=6862461). 12/2013. "It is at once simple and subtle and it covers a lot of nuanced legal technicalities that must have required some pretty careful thought to get right." [Original post](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes) by [Paul Graham](https://twitter.com/paulg). Note any comments by “clevy” – that’s Carolyn Levy, YCombinator Attorney and author of SAFE. 
 
 - [Kima15: $150K for 15% in 15 days](https://news.ycombinator.com/item?id=6847867). 12/2013. How does Kima compare with YC? 
 
@@ -34,19 +38,17 @@ I was not aware of him, so I read his comment history and it gave me food for th
 
 ### Managing Legal Fees
 
+- [Startup Economics 101, or, How Long Until We’re Dead?](https://news.ycombinator.com/item?id=2350967)  3/2011. "Be cautious about deferred fees in dealing with lawyers. These have their legitimate role in the world of startups but, as with any other form of "easy credit," they can wind up costing you far more in the long run than if you simply negotiate good rates or fixed fee amounts for work you have at hand."
+
 - [Ways That Startup Lawyers Overcharge ](https://news.ycombinator.com/item?id=6684156). 11/2013. "Watch out for padded bills that have vague descriptions of what was done, beware getting billed for substantial amounts of lawyer learning time, scrutinize all cases where double billing might be involved, make sure billing rates match your needs as a company (big firm vs. small firm), try always to get estimates in advance, negotiate fixed fees or caps where appropriate..."  
-
-- [Startup Economics 101, or, How Long Until We’re Dead?](https://news.ycombinator.com/item?id=2350967). 3/2011. "Be cautious about deferred fees in dealing with lawyers. These have their legitimate role in the world of startups but, as with any other form of "easy credit," they can wind up costing you far more in the long run than if you simply negotiate good rates or fixed fee amounts for work you have at hand."  
-
 
 - [_Fucking Sue Me_](http://pud.com/post/10103947044/fucking-sue-me) by [Philip Kaplan](https://twitter.com/pud) hit Hacker News in 2011 and again in 2013. Grellas wrote two different responses, topping the comments in both 
 [2011](https://news.ycombinator.com/item?id=2985195) and [2013](https://news.ycombinator.com/item?id=6366912). 
 
+- [Show HN: Incorporate Your Startup Online with YC’s Forms (built by two lawyers)](https://news.ycombinator.com/item?id=5357618). 2012. 
+The Clerky founders have "toiled at length in their field, identified key pain points bedeviling the user, and developed a service that deals with them not only effectively but, one might even say, brilliantly." 
 
 - [SimpleLegal (YC S13) Reduces Legal Bills With Machine Learning](https://news.ycombinator.com/item?id=6166808). 8/2013. A history of legal Billing practices. 
-
-- [Show HN: Incorporate Your Startup Online with YC’s Forms (built by two lawyers)](https://news.ycombinator.com/item?id=5357618). 2012. 
-"The Clerky founders have done what founders at their best will do when launching a venture: they have toiled at length in their field, identified key pain points bedeviling the user, and developed a service that deals with them not only effectively but, one might even say, brilliantly." 
 
 ### On Employee Stock Incentives
 
