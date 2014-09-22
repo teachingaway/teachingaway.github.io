@@ -78,12 +78,14 @@ The Clerky founders have "toiled at length in their field, identified key pain p
 
 ### Forming a Company for Your Startup
 
-[Why Incorporating My Startup Was My Worst Mistake](https://news.ycombinator.com/item?id=2399139). 4/2011. "Corporations are not particularly hard or expensive to start, maintain, or dissolve - but you need to be at a stage of life where a thousand dollars here or there is not a major burden." 
+- [Why Incorporating My Startup Was My Worst Mistake](https://news.ycombinator.com/item?id=2399139). 4/2011. "Corporations are not particularly hard or expensive to start, maintain, or dissolve - but you need to be at a stage of life where a thousand dollars here or there is not a major burden." 
 
-[If I Launched a Startup](https://news.ycombinator.com/item?id=2925222).  8/2011. Some observations on a sharp, concise checklist. 
+- [If I Launched a Startup](https://news.ycombinator.com/item?id=2925222).  8/2011. Some observations on a sharp, concise checklist. 
 
-[What’s Wrong with an LLC](https://news.ycombinator.com/item?id=1276724). 4/2010.  "The biggest practical advantage of an LLC is also its biggest practical limitation, and that is that it is like the siren song tempting founders to do quickie, online setups for their startups 'just to get started.'" 
+- [What’s Wrong with an LLC](https://news.ycombinator.com/item?id=1276724). 4/2010.  "The biggest practical advantage of an LLC is also its biggest practical limitation, and that is that it is like the siren song tempting founders to do quickie, online setups for their startups 'just to get started.'" 
 
-For more, follow [George Grellas](https://twitter.com/grellas) on twitter. You can follow [me](https://twitter.com/TeachingAway) and my partner [Zeke Vermillion](https://twitter.com/zmillion) on twitter as well. 
+### Conclusion
+
+Grellas creates some rare signal in an internet full of noise. [Follow him](https://twitter.com/grellas) on twitter. For an East Coast view on law and technology, follow [me](https://twitter.com/TeachingAway) and my partner [Zeke Vermillion](https://twitter.com/zmillion). 
 
 
