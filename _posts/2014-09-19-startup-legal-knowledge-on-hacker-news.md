@@ -19,7 +19,7 @@ In response to my post on [hiring a startup lawyer](http://adlervermillion.com/t
 
 I was not aware of him, so I read his comment history. His "comments" are really essays, and I think too valuable to remain "secret assets." So here are the Grellas essays that are, in my opinion, the most useful for tech startups. [^1] 
 
-[^1]: Caveat: These links are worth reading, but they may not be the right advice for your particular company. I am not associated with George Grellas in any way. George Grellas does not endorse this post, and his views may have changed in the years since some of his essays were written.
+[^1]: Caveat: These links are worth reading, but they may not be the right advice for your particular company. I am not associated with George Grellas, he does not endorse this post, and his views may have changed in the years since some of his essays were written.
 
 
 ### Seed Capital and SAFE
@@ -48,7 +48,7 @@ The Clerky founders have "toiled at length in their field, identified key pain p
 
 - [SimpleLegal (YC S13) Reduces Legal Bills With Machine Learning](https://news.ycombinator.com/item?id=6166808). 8/2013. A history of legal Billing practices. 
 
-### On Employee Stock Incentives
+### Employee Stock Incentives
 
 - [Engineer’s Guide to Stock Options](https://news.ycombinator.com/item?id=6883730). 12/2013. Alex MacCaw's 
 [original post](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options) is fantastic. Grellas adds some thoughts and examples that should be read in tandem with the original.   
