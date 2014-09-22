@@ -28,7 +28,7 @@ I was not aware of him, so I read his comment history. His "comments" are really
 
 - [Announcing the SAFE, a Replacement for Convertible Notes](https://news.ycombinator.com/item?id=6862461). 12/2013. "It is at once simple and subtle and it covers a lot of nuanced legal technicalities that must have required some pretty careful thought to get right." [Original post](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes) by [Paul Graham](https://twitter.com/paulg). Note any comments by “clevy” – that’s Carolyn Levy, YCombinator Attorney and author of SAFE. 
 
-- [Kima15: $150K for 15% in 15 days](https://news.ycombinator.com/item?id=6847867). 12/2013. How does Kima compare with YC? 
+- [Kima15: $150K for 15% in 15 days](https://news.ycombinator.com/item?id=6847867). 12/2013. How does a Kima seed round compare with YC? 
 
 - [A Founder-Friendly Term Sheet](https://news.ycombinator.com/item?id=5820785). 6/2013. "I have rarely seen a significant VC deal in which the option pool is not brought in as a back-door way of lowering valuation for the founders. Removing that bit of legerdemain from the valuation equation is really quite stunning."  [Original post](http://blog.samaltman.com/a-founder-friendly-term-sheet) by Sam Altman.
 
