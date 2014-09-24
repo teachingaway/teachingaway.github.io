@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Startup Law Wisdom from Grellas on Hacker News"
+title: "Startup Law Wisdom from Grellas, a Hacker News 'Secret Asset'"
 summary: "A collection of essays from the veteran silicon valley attorney."
 tags: [startup law, link list]
 author: adler
