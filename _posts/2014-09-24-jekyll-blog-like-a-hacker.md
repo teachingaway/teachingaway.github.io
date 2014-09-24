@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Blog like a Hacker, Lawyer Edition.
+title: "Blog like a Hacker, Lawyer Edition."
 summary: "Jekyll and Github reflect our values as a firm - simple, efficient & open source solutions."
 tags: [software]
 author: adler
 image:
-  feature: /wide/default-image.png
+  feature: /wide/octojekyll-blue.png
   credit:
   creditlink:
 comments: true
