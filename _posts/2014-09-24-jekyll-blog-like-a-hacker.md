@@ -5,9 +5,9 @@ summary: "Jekyll and Github reflect our values as a firm - simple, efficient & o
 tags: [software]
 author: adler
 image:
-  feature: /wide/octojekyll-blue2.png/
-  credit: Github
-  creditlink: 
+  feature: /wide/default-image.png
+  credit:
+  creditlink:
 comments: true
 share: true
 ---
