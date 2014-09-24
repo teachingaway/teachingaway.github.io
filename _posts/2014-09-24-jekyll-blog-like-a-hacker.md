@@ -7,7 +7,7 @@ author: adler
 image:
   feature: /wide/octojekyll-blue.png/
   credit: Github
-  creditlink: www.github.com
+  creditlink: 
 comments: true
 share: true
 ---
