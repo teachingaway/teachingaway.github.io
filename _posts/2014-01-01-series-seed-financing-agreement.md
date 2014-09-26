@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-
+# Draft Post
 
 Some thoughts and explanation of the Series Seed v3.2 standard financing agreement.
  

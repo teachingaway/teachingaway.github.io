@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-
+# Draft Post
 
 Some thoughts and explanation of the Techstars standard "Angel Financing Agreement."
  
