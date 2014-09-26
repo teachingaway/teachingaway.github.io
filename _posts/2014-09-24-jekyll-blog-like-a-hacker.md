@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Blog Like a Hacker, Lawyer Edition."
-summary: "Jekyll and Github reflect our values as a firm - simplicity, efficiency, and collaboration."
+title: "Blog Like a Hacker: Jekyll Reflects our Law Firm Values."
+summary: "Jekyll and Github reflect our values as a firm - simplicity, efficiency, technology and collaboration."
 tags: [software]
 author: adler
 image:
