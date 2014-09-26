@@ -58,11 +58,11 @@ Parts of the claim might be ambiguous on their own. So at this point, we start r
 When reading a patent, first skip to the independent claims, and read them carefully. The rest of the document is far less important. Here's an annotated patent explaining some of the other parts of the patent document. 
 
 
-<a href="/images/patent/patent-explained1.png"><img src="/images/reading-patents.png" class="big-image"></a>
+<a href="/images/patent/patent-explained1.png"><img src="/images/patent/patent-explained1.png" class="big-image"></a>
 
-<a href="/images/patent/patent-explained2.png"><img src="/images/reading-patents.png" class="big-image"></a>
+<a href="/images/patent/patent-explained2.png"><img src="/images/patent/patent-explained2.png" class="big-image"></a>
 
-<a href="/images/patent/patent-explained3.png"><img src="/images/reading-patents.png" class="big-image"></a>
+<a href="/images/patent/patent-explained3.png"><img src="/images/patent/patent-explained3.png" class="big-image"></a>
  
 <!-- <a href="/images/reading-patents.png"><img src="/images/reading-patents.png" class="big-image"></a> -->
 
