@@ -34,7 +34,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 ### Working with Lawyers
 
-[How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/). *[Mark Suster](https://twitter.com/msuster), 2010.*  When to hire a lawyer, how to choose a lawyer, how to manage costs, and more. Your startup law firm should be local, right sized, and startup focused.
+* [How to Work with Lawyers at a Startup](http://www.bothsidesofthetable.com/2010/01/21/how-to-work-with-lawyers-at-a-startup/). *[Mark Suster](https://twitter.com/msuster), 2010.*  When to hire a lawyer, how to choose a lawyer, how to manage costs, and more. Your startup law firm should be local, right sized, and startup focused.
 
 * [Lawyers are referees, not coaches](http://venturehacks.com/articles/referees). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2008*. Lawyers teach you the rules of the game, but not how to win it. Your lawyer will tell you whether something is legal and whether it would breach a contract. A good lawyer can tell you about problems that tend to arise in similar deals. However, lawyers generally can’t tell you whether something will create value. 
 
@@ -43,6 +43,8 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 ### Lawyer Fees. 
 
 * [Should I give my lawyers equity?](http://venturehacks.com/articles/lawyer-equity) *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2007*. Only if your lawyers are deferring fees and want compensation for their risk of not getting paid.  
+
+* [Be Cautious About Deferred Fees in Dealing with Lawyers.](https://news.ycombinator.com/item?id=2350967) *[George Grellas](https://twitter.com/grellas), Hacker News, 2011*. “These have their legitimate role in the world of startups but, as with any other form of 'easy credit,' they can wind up costing you far more in the long run than if you simply negotiate good rates or fixed fee amounts for work you have at hand.”
 
 * [Should I pay my investor's legal fees?](http://venturehacks.com/articles/investors-legal-fee) *Venture Hacks, 2007*. Startups will probably need to pay their investor’s legal fees. Try to get the legal fees capped (for both your lawyer and the VC’s lawyer) before negotiations get started. Don’t give up a big chunk of equity "for the privilege of paying your investor’s legal bill." 
 
@@ -57,7 +59,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 * [The Cost of Customization](http://siliconhillslawyer.com/2012/07/17/the-cost-of-complexity/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. "One way to tell whether you’ve found yourself a decent tech lawyer is to count how often she tells you to keep things simple."
 
-[A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* "When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5,000 or less." 
+* [A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* "When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5,000 or less." 
 
 ### How much Law Should Founders Learn? 
 
