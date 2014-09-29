@@ -13,7 +13,7 @@ share: true
 ---
 
 
-<p class="big-text">Jekyll and Github reflect our values as a firm - simplicity, efficiency, technology and collaboration. It's the right size tool for a simple website.</p> 
+<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, technology and collaboration. It's the right size tool for a simple website.</p> 
 
 Jekyll is a lightweight static website generator. When I learned HTML 15 years ago, I built static websites, so Jekyll feels natural. We switched our law firm website from Wordpress to Jekyll last year because Jekyll is faster and more elegant. While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch. Wordpress is the big-law of content management systems, happily wasting time by repeating mundane tasks.[^1]  
 
@@ -23,11 +23,11 @@ Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wo
 
 Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, its more secure. 
 
-## Jekyll Can Live in Github
+### Jekyll Can Live in Github
 
 Github can serve a Jekyll website from a Github repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. If you’re new to GitHub, building a Github page is a great introduction.  
 
-## CSS Styles with LESS
+### CSS Styles with LESS
 
 [LESS](http://lesscss.org/) is a CSS "preprocessor." I don't know what that means. All I know is that learning LESS feels like escaping from the front-end stone age. Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), and LESS is concise. LESS is easier to write than CSS, and far easier to edit. The LESS learning curve is gentle, and the payoff is huge. I'm not going back. 
 
@@ -37,7 +37,7 @@ Github can serve a Jekyll website from a Github repository.  This takes care of 
 We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not maximizing billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face still decorates their landing page. Zeke contributes to the open source [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
 
 
-## Links
+### Links
 
 * [Original Blog like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html). Tom Preston-Werner. 
 

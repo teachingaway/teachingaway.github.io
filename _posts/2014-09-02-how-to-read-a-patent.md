@@ -3,7 +3,7 @@ layout: post
 bloglist: "yes"
 title: "How to Read a Patent"
 summary: "A quick-and-dirty guide with with annotations and explanations."
-tags: [patent, infringement, prior art]
+tags: [patent]
 author: adler
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
