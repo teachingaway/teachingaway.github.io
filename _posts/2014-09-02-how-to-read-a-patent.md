@@ -87,7 +87,7 @@ Check to see whether the prior art reference explains *every element* of a claim
 
 The prior art reference might be another patent, or it might be a journal article, white paper or most any other published document. If the prior art reference happens to be another patent, the claims in this prior art patent are not particularly important. Any part of a prior art patent (lets call it "old-patent") can help invalidate a later patent ("new-patent"). The claims are the critical part of new-patent, but not of old-patent. 
 
-Even if a patent claim is not *anticipated*, it might still be invalid as *obvious*. The obviousness analysis basically asks whether someone might reasonably combine two or more references to teach every element of a patent claim. It's complicated, so we will save the details for another post. 
+Even if a patent claim is not *anticipated*, it might still be invalid as *obvious*. The [obviousness analysis](/mpep/s2141.html) basically asks whether someone might reasonably combine two or more references to teach every element of a patent claim. It's complicated, so we will save the details for another post. 
 
  
 
