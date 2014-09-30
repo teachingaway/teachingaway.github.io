@@ -25,11 +25,11 @@ Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wo
 
 <img src="/images/bob-loblaw.jpg" class="translucent">
 
-For a simple law blog, try jekryll. Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, it's more secure. 
+For a simple law blog, try jekyll. Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, it's more secure. 
 
 **Jekyll + Github.** Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
-CSS Styles with LESS. [LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
+**CSS Styles with LESS.** [LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
 
 <img src="/images/octocat-agendacat-law.png" class="translucent">
 
