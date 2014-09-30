@@ -13,13 +13,13 @@ share: true
 ---
 
 
-<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. It's the right size tool for a simple website.</p> 
+<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. It's the right size tool for a simple law blog.</p> 
 
-Jekyll is a lightweight static website generator. We switched our law firm website from Wordpress to Jekyll because Jekyll is a faster and more elegant platform for a simple law blog. 
+Jekyll is a lightweight static website generator. It's speed and elegance convinced me to switch our law firm website over from Wordpress. While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch.[^1] Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
 
-While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch. Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
+[^1]: caching a Wordpress website is possible in theory, and should speed up page loads, but after several attempts I've never made it work. 
 
-<img src="/images/bob-loblaw.jpg">
+<img src="/images/bob-loblaw.jpg" style="translucent">
 
 Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wordpress.com. The only place Wordpress seems to work is on [Digital Ocean](https://www.digitalocean.com/) [disclosure: Digital Ocean was one of our first clients].  
 
@@ -29,7 +29,7 @@ Unlike Wordpress, Jekyll builds the website once, and then re-serves the same st
 
 Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
-<img src="/images/octocat-agendacat-law.png">
+<img src="/images/octocat-agendacat-law.png" style="translucent">
 
 ### CSS Styles with LESS
 
