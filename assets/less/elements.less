@@ -69,12 +69,12 @@ table tr th :last-child, table tr td :last-child {
     opacity: .85;
     @media @medium {
         opacity: .65;
-        filter: grayscale(100%); 
+        .desaturate(100%); 
     }
 }
 .translucent:hover {
     opacity:1;
-    filter: grayscale(0%); 
+    .desaturate(0);
     }
 
 figure {

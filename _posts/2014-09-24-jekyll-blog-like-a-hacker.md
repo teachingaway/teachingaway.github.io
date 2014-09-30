@@ -21,7 +21,9 @@ Jekyll is a lightweight static website generator. It's speed and elegance convin
 
 <img src="/images/bob-loblaw.jpg" class="translucent">
 
-Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wordpress.com. The only place Wordpress seems to work is on [Digital Ocean](https://www.digitalocean.com/) [disclosure: Digital Ocean was one of our first clients].  
+Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wordpress.com. The only fast Wordpress host I've used is [Digital Ocean](https://www.digitalocean.com/). 
+
+<!-- [disclosure: Digital Ocean was one of our first clients].   -->
 
 Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, its more secure. 
 
