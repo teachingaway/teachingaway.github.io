@@ -11,7 +11,8 @@ share:
 
 
 
-<p><strong>Everything interesting in Law and Technology.</strong> </p>
+<p><strong>Everything interesting in Law and Technology.</strong> Served monthly, no spam. All emails stored in [Mailchimp](http://www.mailchimp.com). Check out the <a href="http://us6.campaign-archive2.com/home/?u=55e077edd77130eaee20fb147&id=f800967f5b">archive</a>.
+</p>
 
 
 <!-- Begin MailChimp Signup Form -->
@@ -43,7 +44,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 <div class="response" id="mce-success-response" style="display:none"></div>
 </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
 <div style="position: absolute; left: -5000px;"><input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value=""></div>
-<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+<div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button big-btn"></div>
 </div>
 </form>
 </div>
@@ -51,6 +52,5 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 <!--End mc_embed_signup-->
 
 
-Served monthly, no spam. All emails stored in [Mailchimp](http://www.mailchimp.com). 
 
 <a href="/images/patent-drawings/airmail-catching-device-1932.png"><img src="/images/patent-drawings/airmail-catching-device-1932.png"></a>
