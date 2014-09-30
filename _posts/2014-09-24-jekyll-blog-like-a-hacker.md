@@ -29,6 +29,9 @@ Unlike Wordpress, Jekyll builds the website once, and then re-serves the same st
 
 Github can serve a Jekyll website from a Github repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
+
+<img src="/images/octocat-agendacat-law.png">
+
 ### CSS Styles with LESS
 
 [LESS](http://lesscss.org/) is a "CSS preprocessor." I don't know what a CSS preprocessor is, but learning LESS feels like escaping from the front-end stone age. Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is easier to write than CSS, and far easier to edit. The LESS learning curve is gentle, and the payoff is huge. I'm not going back. 
@@ -45,14 +48,9 @@ We use Jekyll & Github for our website because they reflect our values as a law 
 
 * [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/). Nicolas Hery, 2013. 
 
-* [octodex](https://octodex.github.com/)
-
 * [Jekyll From Scratch](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
 
 * [Jekyll 201: Beyond Hello World](http://www.mdswanson.com/blog/2013/06/03/jekyll-201.html)
 
 * [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - Smashing Magazine, 2014. 
-
-- - - 
-
 
