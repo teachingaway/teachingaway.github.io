@@ -19,23 +19,19 @@ Jekyll is a lightweight static website generator. It's speed and elegance convin
 
 [^1]: caching a Wordpress website is possible in theory, and should speed up page loads, but after several attempts I've never made it work. 
 
-<img src="/images/bob-loblaw.jpg" class="translucent">
-
 Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wordpress.com. The only fast Wordpress host I've used is [Digital Ocean](https://www.digitalocean.com/). 
 
 <!-- [disclosure: Digital Ocean was one of our first clients].   -->
 
-Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, its more secure. 
+<img src="/images/bob-loblaw.jpg" class="translucent">
 
-### Jekyll + Github
+For a simple law blog, try jekryll. Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, it's more secure. 
 
-Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
+**Jekyll + Github.** Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
+
+CSS Styles with LESS. [LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
 
 <img src="/images/octocat-agendacat-law.png" class="translucent">
-
-### CSS Styles with LESS
-
-[LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
 
 ## Technology that Reflects our Values as a Law Firm
 
