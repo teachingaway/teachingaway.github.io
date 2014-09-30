@@ -20,21 +20,21 @@ This is part two of a two-part post. [Part one](/how-to-file-trademark-registrat
 
 First, gird yourself for a miserable user experience. You are about to engage with an ancient government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
 
-## 1. Welcome to the TM Office
+## 0. Welcome to the TM Office
 
 At the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">TM Application page</a>, pick "TEAS Plus."
 
-<a href="/images/tm-app/1-pick-teas-plus.png"><img src="/images/tm-app/1-pick-teas-plus.png" ></a>
+<a href="/images/tm-app/1-pick-teas-plus.png"><img class="translucent" src="/images/tm-app/1-pick-teas-plus.png" ></a>
 
 TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services. Click continue, and prepare yourself for a second page of convoluted warnings and instructions. 
 
 - - - 
 
-## 2. Lawyer or DIY Application? 
+## 1. Lawyer or DIY Application? 
 
 All you need to do on this page is pick whether an attorney is filling out the form or not. 
 
-<a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img src="/images/tm-app/2-is-attorney-filing-trademark.png" ></a>
+<a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img class="translucent" src="/images/tm-app/2-is-attorney-filing-trademark.png" ></a>
 
 **Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can't actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
 
@@ -42,11 +42,11 @@ Click continue, and you will see an ugly data entry form.
 
 - - - 
 
-## 3. Trademark Owner 
+## 2. Trademark Owner 
 
 Here, you enter some info about the trademark owner. [TMEP 1201](/tmep/tmep-1200.html#TMEP-1200d1e7) discusses the details of trademark ownership. 
 
-<a href="/images/tm-app/3-trademark-owner.png"><img src="/images/tm-app/3-trademark-owner.png" ></a>
+<a href="/images/tm-app/3-trademark-owner.png"><img class="translucent" src="/images/tm-app/3-trademark-owner.png" ></a>
 
 Be careful if the owner is a company that has parents, subsidiaries, or licensees. [TMEP 1201.06](/tmep/tmep-1200.html#TMEP-1200d1e541) discusses special ownership situations. 
 
@@ -54,7 +54,7 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 - - - 
 
-## 4. The Trademark Itself
+## 3. The Trademark Itself
 
 Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." Here are two examples: 
 
@@ -67,7 +67,7 @@ The plaintext *word mark* protects the word (or short phrase or slogan) in any f
 
 [^4]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
 
-<a href="/images/tm-app/4-standard-character-trademark.png"><img src="/images/tm-app/4-standard-character-trademark.png" ></a>
+<a href="/images/tm-app/4-standard-character-trademark.png"><img class="translucent" src="/images/tm-app/4-standard-character-trademark.png" ></a>
 
 To register a plaintext word mark, pick "Standard Character." Plain text trademark registrations provide stronger trademark rights, but are more likely to be rejected by office actions. Plain text registration are stronger because they protect your trademark in every font, every color, and in any design.  Since they are broader rights, they are more likely to be rejected by the trademark office as being too similar to existing trademark registrations. To register a stylized word or logo, pick "Special Form." You might want to apply for two separate trademark registrations - one for the plain-text words and another for the logo. 
 
@@ -76,21 +76,21 @@ Pro tip: claim your logo as _colorless_ even if it includes particular colors. C
 
 - - - 
 
-## 5. Adding Goods and Services
+## 4. Adding Goods and Services
 
 Over the next several steps, you will be describing your goods or services. Click "Add Goods/Services." This will take us to a separate page for finding and selecting the goods and services. 
 
-<a href="/images/tm-app/5-add-goods.png"><img src="/images/tm-app/5-add-goods.png" ></a>
+<a href="/images/tm-app/5-add-goods.png"><img class="translucent" src="/images/tm-app/5-add-goods.png" ></a>
 
 [TMEP 1402](/tmep/tmep-1400.html#TMEP-1400d1e1982) discusses the details of how to properly identify your goods and services. A "TEAS" application lets you describe your goods in your own words. A "TEAS Plus" application, what we are working on here, requires you to select a description of your goods from a pre-approved list. 
 
 - - - 
 
-## 6. Searching for Goods and Services
+## 5. Searching for Goods and Services
 
 Now we're at a search box. This box lets us query the list list of pre-approved descriptions of goods and services. 
 
-<a href="/images/tm-app/6-search-goods-services.png"><img src="/images/tm-app/6-search-goods-services.png" ></a>
+<a href="/images/tm-app/6-search-goods-services.png"><img class="translucent" src="/images/tm-app/6-search-goods-services.png" ></a>
 
 Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
 
@@ -152,15 +152,15 @@ Class | Short Title | Example
 
 - - - 
 
-## 7. Selecting Goods and Services from the List
+## 6. Selecting Goods and Services from the List
 
 When viewing the search results, be sure the description is in the rights class (as listed in the left column). You can pick several descriptions, as long as they accurately describe your goods or services. The USPTO charges additional fees per "class" but not for multiple descriptions within a class.
 
-<a href="/images/tm-app/7-pick-description-goods-services.png"><img src="/images/tm-app/7-pick-description-goods-services.png" ></a>
+<a href="/images/tm-app/7-pick-description-goods-services.png"><img class="translucent" src="/images/tm-app/7-pick-description-goods-services.png" ></a>
 
 - - - 
 
-## 8. Filing Basis
+## 7. Filing Basis
 
 Every trademark needs a "filing basis." The filing basis is just a reference to the part of the Trademark Statute you are claiming your rights under. The two filing bases we will discuss here are called ["use in commerce"](/tmep/tmep-0800.html#TMEP-800d1e671) [§ 1 (a)] and ["intent to use"](/tmep/tmep-0800.html#TMEP-800d1e693) [§ 1 (b)]. The others relate to international trademarks. See [TMEP 806 for filing basis details](/tmep/tmep-0800.html#TMEP-800d1e653), and [TMEP 1101](/tmep/tmep-1100.html#TMEP-1100d1e7) for additional information about when a company has a bona fide "intent to use" a trademark in the future. 
  
@@ -168,7 +168,7 @@ Pick [§ 1 (a)](/tmep/tmep-0800.html#TMEP-800d1e671) if you already use the trad
 
 Pick [§ 1 (b)](/tmep/tmep-0800.html#TMEP-800d1e693) if you don't use the trademark to sell anything yet, but you plan to start soon.
 
-<a href="/images/tm-app/8-assign-filing-basis.png"><img src="/images/tm-app/8-assign-filing-basis.png" ></a>
+<a href="/images/tm-app/8-assign-filing-basis.png"><img class="translucent" src="/images/tm-app/8-assign-filing-basis.png" ></a>
 
 If you selected § 1 (a) (use in commerce), you will need to provide a "specimen of use" – a jpg image showing how you use the trademark in commerce. This will be the next step.
 
@@ -176,11 +176,11 @@ If you selected § 1 (b), you will end up filing an "intent to use" application.
 
 - - - 
 
-## 9. Specimen of Use
+## 8. Specimen of Use
 
 If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
 
-<a href="/images/tm-app/9-filing-basis-specimen.png"><img src="/images/tm-app/9-filing-basis-specimen.png" ></a>
+<a href="/images/tm-app/9-filing-basis-specimen.png"><img class="translucent" src="/images/tm-app/9-filing-basis-specimen.png" ></a>
 
 For _physical goods_, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. For _services_, upload an advertisement showing the mark being used to promote the service. 
 
@@ -188,22 +188,22 @@ _Software as a service_ and digital technology services require a very specific 
 
 - - - 
 
-## 10. Upload the Specimen of Use
+## 9. Upload the Specimen of Use
 
 On this page, you will upload a jpg of your specimen of use. The image should be smaller than 900px square, but big enough to show the trademark being used to sell your product or service. Feel free to upload a few different images to help ensure the Trademark Office will approve at least one of them. 
 
-<a href="/images/tm-app/10-attach-specimen-of-use-in-commerce.png"><img src="/images/tm-app/10-attach-specimen-of-use-in-commerce.png" ></a>
+<a href="/images/tm-app/10-attach-specimen-of-use-in-commerce.png"><img class="translucent" src="/images/tm-app/10-attach-specimen-of-use-in-commerce.png" ></a>
 
 After you upload the image, click "return to application."  
 
 
 - - - 
 
-## 11. Date of First Use
+## 10. Date of First Use
 
 At this page you will enter the "date of first use" and describe the specimen image that was just uploaded. 
 
-<a href="/images/tm-app/11-date-of-first-use.png"><img src="/images/tm-app/11-date-of-first-use.png" ></a>
+<a href="/images/tm-app/11-date-of-first-use.png"><img class="translucent"  src="/images/tm-app/11-date-of-first-use.png" ></a>
 
 First, write a short description of the specimen image you just uploaded. The description can be something simple like "photo of product showing mark on tag."
 
@@ -215,29 +215,29 @@ Click "assign filing basis" at the bottom, and you will be returned to the "Basi
 
 - - - 
 
-## 12. Back to the "Basis for Filing" Screen
+## 11. Back to the "Basis for Filing" Screen
 
 After every line is assigned its filing basis (that is, there is a "1(a)" or "1(b)" shown in the far right column for each row), click continue. 
 
-<a href="/images/tm-app/12-basis-assigned.png"><img src="/images/tm-app/12-basis-assigned.png" ></a>
+<a href="/images/tm-app/12-basis-assigned.png"><img class="translucent"  src="/images/tm-app/12-basis-assigned.png" ></a>
 
 You have now described your goods and services, and assigned a filing basis for each class. The final steps are easier. You need to enter your contact info, sign the application (swearing that its contents are accurate), and pay the USPTO fee ($275 per class). 
 
 - - - 
 
-## 13. Enter Contact Info
+## 12. Enter Contact Info
 
 Enter the contact info for the person who should receive Trademark Office notifications related to this application. This may or may not be the same contact info you entered earlier for "owner info." 
 
-<a href="/images/tm-app/13-correspondence-info.png"><img src="/images/tm-app/13-correspondence-info.png" ></a>
+<a href="/images/tm-app/13-correspondence-info.png"><img class="translucent" src="/images/tm-app/13-correspondence-info.png" ></a>
 
 - - - 
 
-## 14. Sign the Application 
+## 13. Sign the Application 
 
 The application must be signed by a person (a) with authority to bind the company filing the application, and (b) with firsthand knowledge that the facts in the application are true. [TMEP 611.03](http://adlervermillion.com/tmep/tmep-0600.html#TMEP-600d1e1722) discusses who can sign a trademark application. 
 
-<a href="/images/tm-app/14-sign-declaration.png"><img src="/images/tm-app/14-sign-declaration.png" ></a>
+<a href="/images/tm-app/14-sign-declaration.png"><img class="translucent" src="/images/tm-app/14-sign-declaration.png" ></a>
 
 Pick the "sign directly" radio bubble. Then sign your name in the "signature field" by typing it between two slashes like this: /Osbert Sitwell/. By signing the declaration, you are swearing that everything you just wrote is true. 
 
@@ -245,19 +245,19 @@ Click "Validate". Don't click "add signatory" unless you want to add a <em>secon
 
 - - - 
 
-## 15. Click to Agree
+## 14. Click to Agree
 
 Enter your email again, and then click to agree to the terms. The Trademark Office fee is non-refundable, and any info you send will become public information (except credit card). 
 
-<a href="/images/tm-app/15-enter-email.png"><img src="/images/tm-app/15-enter-email.png" ></a>
+<a href="/images/tm-app/15-enter-email.png"><img class="translucent"  src="/images/tm-app/15-enter-email.png" ></a>
 
 - - - 
 
-## 16. Pay the Filing Fee
+## 15. Pay the Filing Fee
 
 Submit payment and you're done. 
 
-<a href="/images/tm-app/16-pay-uspto-fee.png"><img src="/images/tm-app/16-pay-uspto-fee.png" ></a>
+<a href="/images/tm-app/16-pay-uspto-fee.png"><img class="translucent" src="/images/tm-app/16-pay-uspto-fee.png" ></a>
 
 
 ## What to Expect After You Submit
