@@ -13,7 +13,7 @@ share: true
 ---
 
 
-<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, technology and collaboration. It's the right size tool for a simple website.</p> 
+<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. It's the right size tool for a simple website.</p> 
 
 Jekyll is a lightweight static website generator. We switched our law firm website from Wordpress to Jekyll because Jekyll is a faster and more elegant platform for a simple law blog. 
 
@@ -25,21 +25,19 @@ Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wo
 
 Unlike Wordpress, Jekyll builds the website once, and then re-serves the same static website over and over. Without a database, Jekyll is not only faster than Wordpress, its more secure. 
 
-### Jekyll Can Live in Github
+### Jekyll + Github
 
-Github can serve a Jekyll website from a Github repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
-
+Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
 <img src="/images/octocat-agendacat-law.png">
 
 ### CSS Styles with LESS
 
-[LESS](http://lesscss.org/) is a "CSS preprocessor." I don't know what a CSS preprocessor is, but learning LESS feels like escaping from the front-end stone age. Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is easier to write than CSS, and far easier to edit. The LESS learning curve is gentle, and the payoff is huge. I'm not going back. 
-
+[LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
 
 ## Technology that Reflects our Values as a Law Firm
 
-We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not maximizing billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face still decorates their landing page. Zeke contributes to the open source [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
+We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face still decorates their landing page. Zeke contributes to the open source [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
 
 
 ### Links
