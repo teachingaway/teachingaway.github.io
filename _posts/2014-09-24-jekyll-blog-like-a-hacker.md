@@ -15,9 +15,11 @@ share: true
 
 <p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, technology and collaboration. It's the right size tool for a simple website.</p> 
 
-Jekyll is a lightweight static website generator. When I learned HTML 15 years ago, I built static websites, so Jekyll feels natural. We switched our law firm website from Wordpress to Jekyll last year because Jekyll is faster and more elegant. While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch. Wordpress is the big-law of content management systems, happily wasting time by repeating mundane tasks.[^1]  
+Jekyll is a lightweight static website generator. We switched our law firm website from Wordpress to Jekyll because Jekyll is a faster and more elegant platform for a simple law blog. 
 
-[^1]: Except that unlike big-law, Wordpress is free.  
+While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch. Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
+
+<img src="/images/bob-loblaw.jpg">
 
 Wordpress is painfully slow on Media Temple, Dreamhost, Bluehost, and even on Wordpress.com. The only place Wordpress seems to work is on [Digital Ocean](https://www.digitalocean.com/) [disclosure: Digital Ocean was one of our first clients].  
 
@@ -25,11 +27,11 @@ Unlike Wordpress, Jekyll builds the website once, and then re-serves the same st
 
 ### Jekyll Can Live in Github
 
-Github can serve a Jekyll website from a Github repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. If you’re new to GitHub, building a Github page is a great introduction.  
+Github can serve a Jekyll website from a Github repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
 ### CSS Styles with LESS
 
-[LESS](http://lesscss.org/) is a CSS "preprocessor." I don't know what that means. All I know is that learning LESS feels like escaping from the front-end stone age. Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), and LESS is concise. LESS is easier to write than CSS, and far easier to edit. The LESS learning curve is gentle, and the payoff is huge. I'm not going back. 
+[LESS](http://lesscss.org/) is a "CSS preprocessor." I don't know what a CSS preprocessor is, but learning LESS feels like escaping from the front-end stone age. Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is easier to write than CSS, and far easier to edit. The LESS learning curve is gentle, and the payoff is huge. I'm not going back. 
 
 
 ## Technology that Reflects our Values as a Law Firm
