@@ -60,18 +60,22 @@ table tr th :last-child, table tr td :last-child {
         max-width: 960px;
         }
     @media @medium {
-        opacity: .65;
-        
+        opacity: .65;    
     }
 }
 .big-image:hover {opacity:1;}
 
 .translucent {
+    opacity: .85;
     @media @medium {
         opacity: .65;
+        filter: grayscale(100%); 
     }
 }
-.translucent:hover {opacity:1;}
+.translucent:hover {
+    opacity:1;
+    filter: grayscale(0%); 
+    }
 
 figure {
   margin: 0;
