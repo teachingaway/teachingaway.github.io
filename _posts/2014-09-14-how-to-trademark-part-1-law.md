@@ -14,7 +14,9 @@ share: true
 ---
 
 
-Your brand is the symbol of your business, and a trademark prevents other companies from using a similar brand to free-ride on your business reputation. This two-part post teaches the basics of trademark law and how to register a trademark at the US TM Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-file-trademark-registration-application-part-2/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (I'll call it the "TM Office"). 
+<p class="big-text">Your brand is the symbol of your business. A trademark stops other companies from using a similar symbol to free-ride on your reputation. </p>
+
+This two-part post teaches the basics of trademark law and how to register a trademark at the US TM Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-trademark-part-2-registration-guide/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (I'll call it the "TM Office"). 
 
 The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website sucks and complicates a simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
@@ -23,6 +25,8 @@ The trademark application process, at its core, is simple data collection. The T
 Trademark law automatically grants a basic set of rights called "common law" trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
 [^1]: Registration is "prima facie" evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+
+<!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
 
 Evidence | Description
 | - | - | 
@@ -98,13 +102,27 @@ _Personal names_ make weak trademarks. Don't name your company or your product a
 
 - - - 
 
+## Naming and Branding
+
+Think up a handful of _distinctive_ names for your product. Try to highlight you competitive advantage or describe an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
+
+Names should be web friendly. Is the .com domain available? How easy will it be for you take the top spot in a Google search? 
+
+A name should be pronounceable, and use an intuitive spelling. Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
+
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
+
+
+- - - 
+
 ## Clearance Search
 
-Start by thinking up a handful of _distinctive_ names for your product. Then, search for existing trademark registrations before setting on a final name, and before filing a trademark application. Searching for identical marks is not enough. You need to search for marks that are so similar that they are "likely to cause consumer confusion."[^3] Three good databases to search are the US TM Office (called "TESS"), the EU TM Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). I'm not sure why they all have terrible acronyms. 
+Run your proposed names through a trademark "clearance" search before settling on a final name. Search for existing trademarks and registrations, but don't limit the search to _identical_ marks. Search for _similar_ marks. Search for marks that are similar enough that they are "likely to cause consumer confusion" (as discussed above, and at [TMEP  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044)). 
 
-[^3]: Lawyers sometimes call this type of search a "trademark clearance search." When lawyers say "knockout search" they're talking about quick searches for identical (or nearly identical) trademark registrations. 
+Where to search? Start with google. Then move on to trademark databases. Three good databases to search are the US TM Office (called "TESS"), the EU TM Office database (called "OHIM"), and the World Intellectual Property Office trademark database (called "ROMARIN"). Terrible acronyms. 
 
-| Search These Trademark Databases | 
+
+| Search These Trademark Databases: | 
 | [US TM Office Search - TESS](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk) | 
 | [EU TM Office Search - OHIM](http://oami.europa.eu/eSearch/#advanced/trademarks) | 
 | [World IP Office Trademark Search - ROMARIN](http://www.wipo.int/romarin/) |

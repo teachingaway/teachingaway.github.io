@@ -1,17 +1,29 @@
 // Selection
 // --------------------------------------------------
 
+/* 
 ::-moz-selection { 
-	background-color: lighten(@base-color, 65%); 
-	color: @base-color; 
+ 	background-color: lighten(@base-color, 65%); 
+ 	color: @base-color; 
+ 	text-shadow: none; 
+}  	
+::selection { 
+ 	background-color: lighten(@base-color, 65%); 
+ 	color: @base-color; 
+ 	text-shadow: none; 
+}
+ */
+
+::-moz-selection { 
+	background-color: @base-color; 
+	color: @white; 
 	text-shadow: none; 
 }  	
 ::selection { 
-	background-color: lighten(@base-color, 65%); 
-	color: @base-color; 
+	background-color: @base-color; 
+	color: @white; 
 	text-shadow: none; 
 }
-
 
 // Webkit Custom Scrollbar
 // --------------------------------------------------

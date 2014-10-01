@@ -33,7 +33,7 @@ Design patents protect the "ornamental appearance" of a product. They can protec
 - - -
 
 ## The [MPEP](../mpep/index.html) in Jekyll. 
-The Manual of Patent Examination Procedure is the guide US patent examiners use to review patent applications. Its a huge book, and since I prefer reading it online, we copied the 2014 version into a Jekyll-based website.
+The Manual of Patent Examination Procedure is the guide US patent examiners use to review patent applications. It's a huge book, and the USPTO's web interface is pretty bad, so we made this [MPEP website](../mpep/index.html).
 
 Some important sections are [Obviousness](../mpep/s2141.html), [written description](../mpep/s2163.html), and [patentable subject matter](../mpep/s2106.html).
 

@@ -41,7 +41,7 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 </label>
 <input type="email" value="" name="EMAIL" class="required email email-box" id="mce-EMAIL">
 </div>
-<div class="mc-field-group">
+<div class="mc-field-group" style="padding-top:1em;">
 <label for="mce-ABOUTUSER">What's going on? (optional)</label>
 <input type="text" value="" name="ABOUTUSER" class="email-box" id="mce-ABOUTUSER">
 </div>
@@ -57,21 +57,25 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
 <!--End mc_embed_signup-->
 
+<hr>
+
 <a href="/images/patent-drawings/airmail-catching-device-1932.png"><img src="/images/patent-drawings/airmail-catching-device-1932.png"></a>
 
 ### Newsletter Inspired By
 
-* [5 Useful Articles](http://tinyletter.com/5ua) by Parker Higgins & Sarah Jeong. Snarky IP law news.  
-* [Ben Evans](http://ben-evans.com/news/). Everything interesting in tech and mobile from an Andreessen Horowitz partner. 
-* [Andrew Chen](http://andrewchen.co).  long-form essays on Silicon Valley. 
-* [Media ReDef](http://redef.com/) by Jason Hirschhorn. 
-* [5 Intriguing Things](https://tinyletter.com/intriguingthings) by Alexis Madrigal. 
+* [5 Useful Articles](http://tinyletter.com/5ua) by Parker Higgins & Sarah Jeong. A snarky IP law newsletter.  Weekly. 
+* [Ben Evans](http://ben-evans.com/news/). Everything interesting in tech and mobile from an Andreessen Horowitz partner. Weekly. 
+* [Andrew Chen](http://andrewchen.co).  long-form essays on Silicon Valley. Weekly. 
+* [Media ReDef](http://redef.com/) by Jason Hirschhorn. Daily. 
+* [5 Intriguing Things](https://tinyletter.com/intriguingthings) by Alexis Madrigal. Technology news from an Atlantic editor. Daily. 
 
 
 - - - 
 
 
 <a href="/images/patent-drawings/mail-bag-catcher-train-1902.png"><img src="/images/patent-drawings/mail-bag-catcher-train-1902.png"></a>
+
+- - - 
 
 <a href="/images/patent-drawings/mail-box-1901.png"><img src="/images/patent-drawings/mail-box-1901.png"></a>
 
