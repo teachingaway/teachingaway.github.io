@@ -71,4 +71,4 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 <a href="/images/patent-drawings/mail-box-1901.png"><img src="/images/patent-drawings/mail-box-1901.png"></a>
 
 
-<a href="/images/patent-drawings/mail-bag-catcher-train-1902"><img src="/images/patent-drawings/mail-bag-catcher-train-1902"></a>
+<a href="/images/patent-drawings/mail-bag-catcher-train-1902.png"><img src="/images/patent-drawings/mail-bag-catcher-train-1902.png"></a>
