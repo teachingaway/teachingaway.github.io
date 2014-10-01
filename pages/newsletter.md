@@ -57,6 +57,18 @@ We recommend moving this block and the preceding CSS link to the HEAD of your HT
 
 <!--End mc_embed_signup-->
 
-
-
 <a href="/images/patent-drawings/airmail-catching-device-1932.png"><img src="/images/patent-drawings/airmail-catching-device-1932.png"></a>
+
+### Newsletter Inspired By
+
+* [5 Useful Articles](http://tinyletter.com/5ua) by Parker Higgins & Sarah Jeong. Snarky IP law news.  
+* [Ben Evans](http://ben-evans.com/news/). Everything interesting in tech and mobile from an Andreessen Horowitz partner. 
+* [Andrew Chen](http://andrewchen.co).  long-form essays on Silicon Valley. 
+* [Media ReDef](http://redef.com/) by Jason Hirschhorn. 
+* [5 Intriguing Things](https://tinyletter.com/intriguingthings) by Alexis Madrigal. 
+
+
+<a href="/images/patent-drawings/mail-box-1901.png"><img src="/images/patent-drawings/mail-box-1901.png"></a>
+
+
+<a href="/images/patent-drawings/mail-bag-catcher-train-1902"><img src="/images/patent-drawings/mail-bag-catcher-train-1902"></a>
