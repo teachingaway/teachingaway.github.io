@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Blog Like a Hacker: Lawyer Edition."
-summary: "Jekyll and Github reflect our values as a firm - simplicity, efficiency, technology and collaboration."
+summary: "Jekyll and Github reflect our values as a firm - simplicity, efficiency, and open source collaboration."
 tags: [software]
 author: adler
 image:
@@ -13,9 +13,9 @@ share: true
 ---
 
 
-<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. It's the right size tool for a simple law blog.</p> 
+<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. Jekyll is the right size tool for a simple law blog.</p> 
 
-Jekyll is a lightweight static website generator. It's speed and elegance convinced me to switch our law firm website over from Wordpress. While Wordpress has lots of fancy features, these features make it slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch.[^1] Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
+Jekyll is a lightweight static website generator. It's speed and elegance convinced me to switch our law firm website over from Wordpress. Wordpress is slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch.[^1] Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
 
 [^1]: caching a Wordpress website is possible in theory, and should speed up page loads, but after several attempts I've never made it work. 
 
@@ -35,18 +35,10 @@ For a simple law blog, try jekyll. Unlike Wordpress, Jekyll builds the website o
 
 ## Technology that Reflects our Values as a Law Firm
 
-We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face still decorates their landing page. Zeke contributes to the open source [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
+We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face decorates their landing page. Dedication to open source is why Zeke contributes to the [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
 
 
 ### Links
 
-* [Original Blog like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html). Tom Preston-Werner. 
-
-* [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/). Nicolas Hery, 2013. 
-
-* [Jekyll From Scratch](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/)
-
-* [Jekyll 201: Beyond Hello World](http://www.mdswanson.com/blog/2013/06/03/jekyll-201.html)
-
-* [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) - Smashing Magazine, 2014. 
+Tom Preston-Werner wrote the original [Blog like a Hacker](http://tom.preston-werner.com/2008/11/17/blogging-like-a-hacker.html) post, just after he wrote the Jekyll code (2008). The most useful guide to Jekyll is probably [Creating a fast and mobile-friendly website with Jekyll](http://nicolashery.com/fast-mobile-friendly-website-with-jekyll/) from Nicolas Hery (2013). [Jekyll From Scratch](http://pixelcog.com/blog/2013/jekyll-from-scratch-introduction/) is also quite good. Smashing Magazine's [Build A Blog With Jekyll And GitHub Pages](http://www.smashingmagazine.com/2014/08/01/build-blog-jekyll-github-pages/) is another good starting point (8/2014). 
 

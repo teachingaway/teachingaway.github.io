@@ -16,10 +16,10 @@ share: true
 
 
 
-In [Part one](/how-to-trademark-part-1-law/), we explained how to choose a unique and distinctive mark. To register the trademark, you need to navigate the USPTO's registration labyrinth. It's messy, so here's detailed walkthrough of the  trademark application process. 
+<p class="big-text">[Part one](/how-to-trademark-part-1-law/) explained how to choose a unique and distinctive mark. This part now tries to guide you through the USPTO's trademark registration labyrinth.</p>
 
-This website is not a substitute for hiring a lawyer. Statistically, only 40% of applications filed by inexperieced non-lawyers are approved. In comparison, 60% of trademarks filed by experienced lawyers are approved. [Do Trademark Lawyers Matter? 16 STAN. TECH. L. REV. 583 (2013).
-](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf)
+This website is not a substitute for hiring a lawyer. Statistically, the TM Office approves only 40% of applications filed by non-lawyers. In comparison, they approve 60% filed by experienced lawyers. [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)
+](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf).
 
 
 First, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
