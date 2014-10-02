@@ -48,13 +48,17 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 ## TM Law: Confusion and Distinctiveness
 
-The TM Office reviews applications for several issues. The most common reasons for a rejection are (1)  _Likelihood of Confusion_ and (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  
+The TM Office frequently rejects applications for (1)  _Likelihood of Confusion_ and/or (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
-| Word Mark: | APPLE | FED EX | 
-| Design Mark: | <img src="/images/tm-app/applelogo.png" style="max-width:75px;"> | <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;"> | 
-| Goods/Services: | Computers | Shipping | 
 
-Trademark law focuses on the relationship between the "mark" and the "goods." The central question is "how well does the mark help consumers identify the company that sells the goods?"
+| **Word Mark** | **Design Mark** | **Goods/Services** | 
+| FED EX |  <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;">  | Shipping | 
+| APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:65px;"> | Computers| 
+| DROPBOX | <img src="/images/tm-app/dropboxlogo.png" style="max-width:65px;"> | Cloud Storage | 
+
+
+
+Trademark law focuses on the relationship between the "mark" (either word or design) and the "goods." The central question of all trademark law is "how well does the mark help consumers identify the company that sells the goods?" Both "distinctiveness" and "likelihood of confusion" stem from this question. 
  
 ### TM Law: Likelihood of Confusion
 
@@ -68,7 +72,7 @@ The TM Office will refuse your application if your mark, as used on your goods/s
 
 ### TM Law: "Distinctiveness"
 
-A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980) Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The TM Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the TM Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980). Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The TM Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the TM Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
 
 Trademark distinctiveness is a spectrum of four categories. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Lets start with an example. Assuming the product is "computers" here are possible trademarks and their level of distinctiveness: 
 
