@@ -9,11 +9,18 @@ image:
   creditlink: 
 ---
 
+
+
+
+
+
+
 <ul class="tag-box inline">
-{% assign tags_list = site.tags %}  
+{% assign tags_list = site.tags | sort:0 %}  
   {% if tags_list.first[0] == null %}
     {% for tag in tags_list %} 
-    	<li><a href="#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></li>
+    	<li><p><a href="#{{ tag }}">{{ tag }} <span>{{ site.tags[tag].size }}</span></a></p>
+    	</li>
     {% endfor %}
   {% else %}
     {% for tag in tags_list %} 

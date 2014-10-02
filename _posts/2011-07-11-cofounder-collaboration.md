@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cofounder Collaboration"
-tags: [docracy, startups]
+tags: [startups]
 author: vermillion
 image:
   feature: /wide/default-image.png

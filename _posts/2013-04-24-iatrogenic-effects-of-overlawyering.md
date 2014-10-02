@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The iatrogenic effects of overlawyering"
-tags: [docracy, startups]
+tags: [startups]
 author: vermillion
 image:
   feature: /wide/default-image.png
