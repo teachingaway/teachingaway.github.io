@@ -105,10 +105,18 @@
 
         <hr>
 
+
         
         {% if site.disqus_shortname and page.comments %}<div id="disqus_thread"></div><!-- /#disqus_thread -->{% endif %}
       </div><!-- /.entry-content -->
     </div><!-- /.entry-wrapper -->
+    
+    <nav class="pagination" role="navigation">
+        <a href="/articles/" class="btn big-btn"">Recent Posts</a> 
+        <a href="/tags/" class="btn big-btn">Posts by Topic</a> 
+    </nav>
+    <!-- 
+
     <nav class="pagination" role="navigation">
       {% if page.previous %}
         <a href="{{ site.url }}{{ page.previous.url }}" class="btn" title="{{ page.previous.title }}">Previous article</a>
@@ -116,7 +124,10 @@
       {% if page.next %}
         <a href="{{ site.url }}{{ page.next.url }}" class="btn" title="{{ page.next.title }}">Next article</a>
       {% endif %}
-    </nav><!-- /.pagination -->
+    </nav><!~~ /.pagination ~~>
+    
+ -->
+    
   </article>
 </div><!-- /#main -->
 
