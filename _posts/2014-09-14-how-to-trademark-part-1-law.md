@@ -18,7 +18,7 @@ share: true
 
 This two-part post teaches the basics of trademark law and how to register a trademark at the US TM Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-trademark-part-2-registration-guide/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (I'll call it the "TM Office"). 
 
-The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website sucks and complicates a simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
+The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website complicates this simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
 ## The Benefits of Trademark Registration
 
@@ -39,7 +39,7 @@ Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while
 Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
 Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
 Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
-® Symbol  | The ® symbol can only be used on a registered trademark. Unregistered trademarks use the ™ symbol.
+® Symbol  | The ® symbol can only be used on a registered trademark. Unregistered trademarks use ™.
 Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
 
 While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
@@ -48,7 +48,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 ## TM Law: Confusion and Distinctiveness
 
-The TM Office frequently rejects applications for (1)  _Likelihood of Confusion_ and/or (2) _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
+The TM Office frequently rejects applications. The two most common reasons for rejection are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
 
 | **Word Mark** | **Design Mark** | **Goods/Services** | 

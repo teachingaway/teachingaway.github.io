@@ -18,8 +18,10 @@ share: true
 
 <p class="big-text"><a href="/how-to-trademark-part-1-law/">Part one</a> explained how to choose a unique and distinctive mark. This part tries to guide you through the USPTO's trademark registration labyrinth, with some examples for technology and consumer products startups.</p>
 
-This website is not a substitute for hiring a lawyer. Statistically, the TM Office approves only 40% of applications filed by non-lawyers. In comparison, they approve 60% filed by experienced lawyers. [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)
-](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf). If you're going to apply anyway, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
+This website is not a substitute for hiring a lawyer. Statistically, the TM Office approves only 40% of applications filed by non-lawyers. In comparison, they approve 60% of trademark applications filed by experienced lawyers.[^1] If you're going to apply anyway, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
+
+[^1]: [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)
+](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf).
 
 ## 0. Welcome to the TM Office
 
@@ -64,9 +66,9 @@ Trademark registrations can protect one of two types of marks, a "word mark" or 
 | FED EX | <img src="/images/tm-app/fedexlogo.png" style="max-width:60px;"> | a design mark can be stylized text | 
 
 
-The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^4]
+The plaintext *word mark* protects the word (or short phrase or slogan) in any font and in any color. The *design mark* protects a stylized version of a word, and can also protect a logo or design without any words. [^2]
 
-[^4]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
+[^2]: While word-marks and design-marks are the most common types of trademarks, there are really several other types of marks that can be registered, including sounds, product packaging, colors, and animations. 
 
 <a href="/images/tm-app/4-standard-character-trademark.png"><img class="translucent" src="/images/tm-app/4-standard-character-trademark.png" ></a>
 
@@ -95,9 +97,9 @@ Now we're at a search box. This box lets us query the list list of pre-approved 
 
 Describing your goods and services is tricky.  If the description is too broad, it can void your trademark. If it's too narrow you may have trouble stopping infringers. If you can't find an accurate description of your goods in the list of pre-approved descriptions, you should end this "TEAS Plus" application and start over with a "TEAS" application. The TEAS application will allow you to describe your goods and services in your own words. 
 
-Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes.[^5] The class headings themselves can be misleading, so review the class details at  [TMEP 1401.02(a) Headings of International Trademark Classes](/tmep/tmep-1400.html#TMEP-1400d1e1775). 
+Before searching, try to identify the "class" of goods and services applicable to your trademark. We are talking about the "International Class" here. The ["International Class"](http://www.uspto.gov/trademarks/notices/international.jsp) system tries to categorize all possible goods and services into 45 classes.[^3] The class headings themselves can be misleading, so review the class details at  [TMEP 1401.02(a) Headings of International Trademark Classes](/tmep/tmep-1400.html#TMEP-1400d1e1775). 
 
-[^5]: There is a separate "US Classification" system, but it's essentially irrelevant, even for a US trademark application.
+[^3]: There is a separate "US Classification" system, but it's essentially irrelevant, even for a US trademark application.
 
 Here are some of the classes that are most relevant to startups and makers. 
 
