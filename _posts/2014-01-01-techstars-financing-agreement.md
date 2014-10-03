@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 title: "Techstars Financing Agreement"
 summary: "Techstars angel financing term sheet explained."
-tags: [venture capital, angel]
+tags: [venture capital, seed]
 author: adler
 image:
   feature: /wide/default-image.png
