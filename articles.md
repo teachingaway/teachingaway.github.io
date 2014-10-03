@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /articles/
-title: Articles
+title: Recent Articles
 description: "An archive of posts sorted by date."
 image:
   feature: /wide/default-image.png
@@ -9,6 +9,11 @@ image:
   creditlink: 
 ---
 
+
+<nav class="pagination" role="navigation">
+ <a href="/tags/" class="btn big-btn">Sort by Topic</a> 
+</nav>
+    
 <ul class="post-list">
 {% for post in site.posts limit:25 %} 
 {% if post.includeinbloglist != "no" %}

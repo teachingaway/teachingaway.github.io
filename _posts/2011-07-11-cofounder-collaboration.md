@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Cofounder Collaboration"
-tags: [startups]
+tags: [startup law]
 author: vermillion
 image:
   feature: /wide/default-image.png

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "The iatrogenic effects of overlawyering"
-tags: [startups]
+summary: "When the best course of treatment is none at all, iatrogenesis is the harm caused by active intervention."
+tags: [startup law]
 author: vermillion
 image:
   feature: /wide/default-image.png
