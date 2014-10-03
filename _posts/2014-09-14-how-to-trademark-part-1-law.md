@@ -46,7 +46,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 - - - 
 
-## The Relationship between Mark and Product is Trademark Law's Central Concern.
+## The Relationship Between the Mark and Product is Central to Trademark Law.
 
 The TM Office frequently rejects applications. The two most common reasons for rejection are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
@@ -64,7 +64,7 @@ Trademark law focuses on the relationship between the "mark" (either word or des
 
 The TM Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, they will send you an "office action" rejecting your application for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be" to reject an application for likelihood of confusion. [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
-The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
+The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing trademark registration. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
@@ -72,18 +72,18 @@ The TM Office will refuse your application if your mark, as used on your goods/s
 
 ### TM Law: "Distinctiveness"
 
-A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980). Generic words are words that define a particular product. These words cannot be trademarked. Instead, they are kept available in the public domain for everyone to use. For example, every coffee shop must be allowed to use the word "coffee" in its marketing. The TM Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–a product, the TM Office will reject it.  This is not only the law, it's good branding. A distinctive trademark makes a lasting impression, while customers quickly forget a generic trademark.
+A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980). A word is generic if it defines the particular product it's being used to sell. Generic words are reserved for the public domain, and cannot be trademarked. For example, every coffee shop is allowed to use the word "coffee" in its marketing. The TM Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–your product, the TM Office will reject it.
 
 Trademark distinctiveness is a spectrum of four categories. From weakest to strongest, the categories are (a) generic (b) descriptive (c) suggestive and (d) arbitrary. Lets start with an example. Assuming the product is "computers" here are possible trademarks and their level of distinctiveness: 
 
-| Mark | Product | TM Category  | Strength | 
+| Mark | Product | Category  | Strength | 
 | - | - | - |
-| COMPUTER | Computer | Generic | No TM Rights | 
+| COMPUTER | Computer     | Generic | No TM Rights | 
 | DIGITAL DATA MACHINE | Computer |  Descriptive | Weak Rights | 
 | SILICON POWER | Computer | Suggestive | Strong Rights | 
 | APPLE | Computer | Arbitrary | Strongest Rights | 
 
-"Computer" is the generic word for computers, so no one can trademark it. "Digital Data Machines" describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. "Silicon Power" suggests some qualities of a computer (some parts are made of silicon), but the name doesn't literally describe a computer. This type of name can be trademarked. Finally, the word "Apple" has nothing to do with computers at all. This puts it in the strongest category of trademarks - "arbitrary" marks. 
+"Computer" is the generic word for computers, so no one can trademark it. "Digital Data Machine" describes a computer pretty closely - a computer is a machine that manipulates digital data. Its possible to trademark this type of descriptive mark, but its not ideal. Even if its registered, it will always be a weak trademark. "Silicon Power" suggests some qualities of a computer (some parts are made of silicon), but the name doesn't literally describe a computer. This type of name can be trademarked. Finally, the word "Apple" has nothing to do with computers at all. This puts it in the strongest category of trademarks - "arbitrary" marks. 
 
 Separating descriptive marks from suggestive marks is often the hardest distinction to make. So here are some examples with links to the actual cases: 
 
@@ -100,19 +100,28 @@ Separating descriptive marks from suggestive marks is often the hardest distinct
 
 Marks that start off weak can eventually become stronger through heavy advertising and developing strong brand recognition. This is called "acquired distinctiveness." However, when launching a new product or company, its far easier to start with a strong mark than to try to acquire distinctiveness. 
 
-Here are some other distinctiveness traps to avoid. _Geographic locations_ make weak trademarks. The TM Office likes to reject applications that take the format "Location + Product", as in "Kentucky Fried Chicken." Don't use this format. 
-_Personal names_ make weak trademarks. Don't name your company or your product after yourself. It will raise all kinds of trademark problems. Avoid _laudatory_ self-praise in your mark. Marks like "Best Beer" are likely to be rejected by the trademark office as merely descriptive of beer.    
+Here are some other distinctiveness traps to avoid:
+ 
+* _Geographic locations_ make weak trademarks. [TMEP 1210](/tmep/tmep-1200.html#TMEP-1200d1e8253). The TM Office likes to reject applications that take the format "Location + Product", as in "Kentucky Fried Chicken." Don't use this format. 
 
+* _Personal names_ make weak trademarks. [TMEP 1211](/tmep/tmep-1200.html#TMEP-1200d1e9735). Don't name your company or your product after yourself. It will raise all kinds of trademark problems. 
+
+* _laudatory_ self-praise makes a weak trademark. [TMEP 1209.03(k)](/tmep/tmep-1200.html#TMEP-1200d1e7858). Marks like "Best Beer" are likely to be rejected by the trademark office as merely descriptive of beer.    
+ 
 
 - - - 
 
 ## Naming and Branding
 
-Think up a handful of _distinctive_ names for your product. Try to highlight you competitive advantage or describe an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
+From a business perspective, branding concerns often outweigh trademark concerns. This section quickly touches on non-legal branding issues. 
 
-Names should be web friendly. Is the .com domain available? How easy will it be for you take the top spot in a Google search? 
+Think of a name that highlights your competitive advantage or describes an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
 
-A name should be pronounceable, and use an intuitive spelling. Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
+Names should be internet friendly. Is the .com domain available? Can you buy it? Is it SEO friendly? (i.e., will your company be the top spot in a Google search for the word?).  
+
+A name should be pronounceable, and use an intuitive spelling. 
+
+Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
 
 Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
 

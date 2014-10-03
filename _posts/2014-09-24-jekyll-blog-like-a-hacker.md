@@ -13,7 +13,7 @@ share: true
 ---
 
 
-<p class="big-text">Jekyll and Github reflect our values as a law firm - simplicity, efficiency, and open source collaboration. We dropped Wordpress because it was too slow and cumbersome for our simple law blog.</p> 
+<p class="big-text">Jekyll and Github reflect our values as a law firm: simplicity, efficiency, and open source collaboration.</p> 
 
 Jekyll is a lightweight static website generator. It's speed and elegance convinced me to switch our law firm website over from Wordpress. Wordpress is slow. When a user hits a Wordpress site, Wordpress queries a database for instructions on how to build the website, builds it, serves it, and then forgets everything. When the next visitor shows up, Wordpress starts over from scratch.[^1] Wordpress is the big-law of content management systems: happy to waste time by repeating mundane tasks.
 
