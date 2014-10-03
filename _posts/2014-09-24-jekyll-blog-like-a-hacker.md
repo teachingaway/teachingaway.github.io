@@ -29,13 +29,15 @@ For a simple law blog, try jekyll. Unlike Wordpress, Jekyll builds the website o
 
 **Jekyll + Github.** Github can serve a Jekyll website from a repository.  This takes care of version control, and also leverages Github’s wonderful CDN. Github Pages can be set up in [5 quick steps](https://pages.github.com/). If you already use Github, its more like 2 steps. 
 
-**CSS Styles with LESS.** [LESS](http://lesscss.org/) is a "CSS preprocessor." Writing plain CSS is [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself), while LESS is concise. LESS is not only easier to write than CSS, it's easier to edit. The LESS learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
+**CSS Styles with LESS.** [LESS](http://lesscss.org/) is a "CSS preprocessor." It saves on [repetitive](http://en.wikipedia.org/wiki/Don't_repeat_yourself) grunt work by styling elements with variables. LESS understands nested identifiers, which helps me figure out specificity at a glance rather than a painful comparison. LESS is not only easier to write than CSS, it's easier to edit. The learning curve is gentle, and the payoff is huge. It feels like escaping from the front-end stone age.  
 
 <img src="/images/octocat-agendacat-law.png" class="translucent">
 
 ## Technology that Reflects our Values as a Law Firm
 
-We use Jekyll & Github for our website because they reflect our values as a law firm. We aim to provide simple, elegant solutions to complex legal problems. We don’t waste time grinding through 50 page contracts when 5 pages will do. We prioritize efficiency, not billable hours. We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face decorates their landing page. Dedication to open source is why Zeke contributes to the [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. 
+We use Jekyll & Github for our website because they reflect our values as a law firm. We provide simple, elegant solutions to complex legal problems. We don’t waste time grinding out long contracts when short ones will do. We prioritize efficiency, not billable hours. 
+
+We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com), and Eric’s face decorates their landing page. Dedication to open source is why Zeke contributes to the [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. Jekyll also lets us serve clean, mobile-friendly copies of the [patent examiner's manual (MPEP)](../mpep/) and the [trademark examiner's manual (TMEP)](../tpep/). 
 
 
 ### Links
