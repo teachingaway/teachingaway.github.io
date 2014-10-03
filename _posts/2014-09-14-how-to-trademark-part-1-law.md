@@ -46,7 +46,7 @@ While basic trademark rights are granted automatically, registered trademark rig
 
 - - - 
 
-## TM Law: Confusion and Distinctiveness
+## The Relationship between Mark and Product is Trademark Law's Central Concern.
 
 The TM Office frequently rejects applications. The two most common reasons for rejection are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
@@ -62,7 +62,7 @@ Trademark law focuses on the relationship between the "mark" (either word or des
  
 ### TM Law: Likelihood of Confusion
 
-The TM Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, it will be rejected for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be to support a finding of likelihood of confusion." [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
+The TM Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, they will send you an "office action" rejecting your application for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be" to reject an application for likelihood of confusion. [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
 The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing mark as used on similar goods/services. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
