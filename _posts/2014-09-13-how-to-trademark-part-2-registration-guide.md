@@ -16,13 +16,10 @@ share: true
 
 
 
-<p class="big-text">[Part one](/how-to-trademark-part-1-law/) explained how to choose a unique and distinctive mark. This part now tries to guide you through the USPTO's trademark registration labyrinth.</p>
+<p class="big-text"><a href="/how-to-trademark-part-1-law/">Part one</a> explained how to choose a unique and distinctive mark. This part tries to guide you through the USPTO's trademark registration labyrinth, with some examples for technology and consumer products startups.</p>
 
 This website is not a substitute for hiring a lawyer. Statistically, the TM Office approves only 40% of applications filed by non-lawyers. In comparison, they approve 60% filed by experienced lawyers. [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)
-](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf).
-
-
-First, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
+](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf). If you're going to apply anyway, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
 
 ## 0. Welcome to the TM Office
 
@@ -30,7 +27,7 @@ At the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/te
 
 <a href="/images/tm-app/1-pick-teas-plus.png"><img class="translucent" src="/images/tm-app/1-pick-teas-plus.png" ></a>
 
-TEAS is some trademark Office acronym.  "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services. Click continue, and prepare yourself for a second page of convoluted warnings and instructions. 
+TEAS is some Trademark Office acronym. "TEAS Plus" is the version that saves you $50, but limits your options for describing your goods and services. Click continue, and prepare yourself for a second page of convoluted warnings and instructions. 
 
 - - - 
 
@@ -40,7 +37,7 @@ All you need to do on this page is pick whether an attorney is filling out the f
 
 <a href="/images/tm-app/2-is-attorney-filing-trademark.png"><img class="translucent" src="/images/tm-app/2-is-attorney-filing-trademark.png" ></a>
 
-**Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can't actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, you can upload it again at this page.  
+**Time Limit.** This form will self destruct in 60 minutes. You can save your work for later by clicking "download portable data" on the "validation" page at the very end of the process. In a UX catch 22, you can't actually get to the "download portable data" page until after you finish filling out each previous page of the form. If you do manage to download your saved data, but can't finish the form, you can upload your data again at this page.  
 
 Click continue, and you will see an ugly data entry form. 
 
@@ -62,7 +59,7 @@ Note that this page asked for info about the trademark _owner_. Later in the pr
 
 Trademark registrations can protect one of two types of marks, a "word mark" or a "design mark." Here are two examples: 
 
-| Word Mark | Design Mark | | 
+| **Word Mark** | **Design Mark** | | 
 | APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:60px;"> | a design mark can be a logo | 
 | FED EX | <img src="/images/tm-app/fedexlogo.png" style="max-width:60px;"> | a design mark can be stylized text | 
 
