@@ -181,17 +181,17 @@ If you selected § 1 (b), you will end up filing an "intent to use" application.
 
 ## 8. Specimen of Use
 
-If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](/tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
+If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img class="translucent" src="/images/tm-app/9-filing-basis-specimen.png" ></a>
 
-For _physical goods_, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. 
+For physical **goods**, upload a picture of the trademark on the actual product.  You can use a screen-shot of your website, but only if it shows a "buy now" or "Purchase" button. 
 
-> the specimen must show the mark as used on or in connection with the goods in commerce. A trademark specimen should be a label, tag, or container for the goods, or a display associated with the goods. 37 C.F.R. §2.56(b)(1). [TMEP 904.03](/tmep/tmep-0900.html#TMEP-900d1e636)
+> the specimen must show the mark as used on or in connection with the goods in commerce. A trademark specimen should be a label, tag, or container for the goods, or a display associated with the goods. [TMEP 904.03](/tmep/tmep-0900.html#TMEP-900d1e636).
 
-For _services_, upload an advertisement showing the mark being used to promote the service. [TMEP 1301.04](http://adlervermillion.com/tmep/tmep-1300.html#TMEP-1300d1e266). The TM Office published a [guide to service mark specimens](http://adlervermillion.com/tmep/service-mark-examiner-guide-2014/) in August 2014 with several useful visual examples.  
+For **services**, upload an advertisement showing the mark being used to promote the service. [TMEP 1301.04](http://adlervermillion.com/tmep/tmep-1300.html#TMEP-1300d1e266).  
 
-_Software as a service_ and digital technology services require a very specific type of specimen of use. The [Trademark Office's August 2014 guidelines](/tmep/service-mark-examiner-guide-2014/) describe the details. For example, if your application claims software as a service,  examiners will reject a specimen that they believe shows only "downloadable" software. 
+**Software as a service** and digital technology services require a very specific type of specimen of use. The [TM Office's August 2014 guidelines](/tmep/service-mark-examiner-guide-2014/) describe the details. For example, if your application claims software as a service,  examiners will reject a specimen that they believe shows only "downloadable" software. 
 
 - - - 
 
