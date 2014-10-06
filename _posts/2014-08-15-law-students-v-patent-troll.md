@@ -8,6 +8,8 @@ image:
   feature: /wide/blip-clinic-students.jpg
   credit: BLIP
   creditlink: 
+comments: true
+share: true
 ---
 
 
