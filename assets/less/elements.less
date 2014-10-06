@@ -179,6 +179,26 @@ svg:not(:root) {
   }
 }
 
+.big-big-btn {
+  display: inline-block;
+  margin-bottom: 20px;
+  padding: 18px 36px;
+  .font-rem(22);
+  font-weight: bold;
+  background-color: @black;
+  color: @white;
+  border: 5px solid @black !important;
+  .rounded(30px);
+  &:visited {
+    color: @white;
+  }
+  &:hover {
+    background-color: @white;
+    color: @black;
+  }
+}
+
+
 // Well
 // --------------------------------------------------
 .well {

@@ -20,8 +20,7 @@ share: true
 
 This website is not a substitute for hiring a lawyer. Statistically, the TM Office approves only 40% of applications filed by non-lawyers. In comparison, they approve 60% of trademark applications filed by experienced lawyers.[^1] If you're going to apply anyway, gird yourself for a miserable user experience. You are about to engage with a government website. Ready? Go to the <a title="USPTO Trademark Application" href="http://www.uspto.gov/teas/teasplus.htm">USPTO's Trademark Application</a> page. 
 
-[^1]: [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)
-](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf).
+[^1]: [_Do Trademark Lawyers Matter?_  Stanford Technology Law Review (2013)](https://journals.law.stanford.edu/sites/default/files/stanford-technology-law-review-stlr/online/dotrademarklawyersmatter.pdf).
 
 ## 0. Welcome to the TM Office
 

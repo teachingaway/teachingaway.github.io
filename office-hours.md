@@ -20,7 +20,9 @@ Sign up for a free 30 minute slot to talk about startup and technology law topic
 
 **RSVP:** Sign up for a slot with <a href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Google Calendar</a>.
 
-<a class="big-btn button" style="margin-left:25%; margin-right:auto;" href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Sign Up</a>
+<div>
+<a class="big-big-btn button" style="margin-left:auto; margin-right:auto;" href="https://www.google.com/calendar/selfsched?sstoken=UUtDcFdZRFV2OFAyfGRlZmF1bHR8NmQ3N2QyNTk4MjU0ZjBmNTk3YWJiYjRlODY0NDc2NDk">Sign Up</a>
+</div>
 
 - - - 
 
