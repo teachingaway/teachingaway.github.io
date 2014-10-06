@@ -181,7 +181,7 @@ If you selected § 1 (b), you will end up filing an "intent to use" application.
 
 ## 8. Specimen of Use
 
-If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
+If you are already using your trademark (and picked § 1 (a) above), you need to upload a jpg image that shows how you use the trademark. See [TMEP 904](/tmep/tmep-0900.html#TMEP-900d1e489) for details on the appropriate type of specimen to file. 
 
 <a href="/images/tm-app/9-filing-basis-specimen.png"><img class="translucent" src="/images/tm-app/9-filing-basis-specimen.png" ></a>
 
@@ -210,7 +210,7 @@ At this page you will enter the "date of first use" and describe the specimen im
 
 First, write a short description of the specimen image you just uploaded. The description can be something simple like "photo of product showing mark on tag."
 
-Next, enter the "date of first use" of the trademark. See [TMEP 903 for details on the "Dates of Use."](tmep/tmep-0900.html#TMEP-900d1e225) There are two dates - first use *in commerce*, and first use *anywhere*. It's critical that you get the date of first use in commerce correct. If you don't know the exact launch date, input the month and year. 
+Next, enter the "date of first use" of the trademark. See [TMEP 903 for details on the "Dates of Use."](/tmep/tmep-0900.html#TMEP-900d1e225) There are two dates - first use *in commerce*, and first use *anywhere*. It's critical that you get the date of first use in commerce correct. If you don't know the exact launch date, input the month and year. 
 
 For goods in the same class, you can assign filing bases in a batch. If the goods are in different classes, each class needs to be assigned a filing basis separately. 
 
