@@ -33,9 +33,9 @@ For a simple law blog, we recommend jekyll. Unlike Wordpress, Jekyll builds the 
 
 <img src="/images/octocat-agendacat-law.png" class="translucent">
 
-## Jekyll & Github Reflect our Values as a Law Firm
+## Our Law Firm Values
 
-We use Jekyll & Github for our website because they reflect our values as a law firm. We provide simple, elegant solutions to complex legal problems. We don’t waste time grinding out long contracts when short ones will do. We prioritize efficiency, not billable hours. 
+We use Jekyll & Github for our website because they reflect our values as a law firm. We try provide simple, elegant solutions to legal problems. We don’t waste time grinding out long contracts when short ones will do. We prioritize efficiency, not billable hours. 
 
 We collaborate, and love open source software. One of our earliest law firm side-projects was writing and sharing open source legal documents. We were early advisors to [Docracy](Docracy.com).  Zeke contributes to the open source [Series Seed](http://www.seriesseed.com/posts/2014/02/version-32.html) documents. Jekyll also lets us serve clean, mobile-friendly copies of the [patent examiner's manual](../mpep/) (MPEP) and the [trademark examiner's manual](../tpep/) (TMEP). 
 

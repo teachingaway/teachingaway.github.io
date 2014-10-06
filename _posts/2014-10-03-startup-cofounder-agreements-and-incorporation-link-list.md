@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-<p class="big-text">Useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
+<p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting out your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
 
 Our technology law "Link List” series collects useful guidance for startups.[^1]  The first installment helped startups [hire the right lawyer](/tech-law-link-list-hiring-lawyers/). 
 
