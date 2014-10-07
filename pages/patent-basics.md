@@ -14,6 +14,8 @@ share:
 Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A _design patent_ is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "_provisional_" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
 
 
+
+
 ## Utility Patent
 
 A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. 
@@ -28,7 +30,11 @@ There are several benefits. Its often cheaper to file a provisional application 
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
+## Plant Patents 
 
+Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html). 
+
+<img src="/images/patent-drawings/avocado-patent-hass-1935.jpg">
 
 - - -
 
