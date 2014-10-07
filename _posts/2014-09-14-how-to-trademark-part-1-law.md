@@ -30,7 +30,7 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 
 Evidence | Description
 | - | - | 
-Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
+<i class="icon-lock"></i> Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
 Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
 Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
 Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
