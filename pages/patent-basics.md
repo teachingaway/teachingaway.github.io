@@ -30,6 +30,8 @@ There are several benefits. Its often cheaper to file a provisional application 
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
+<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png">
+
 ## Plant Patents 
 
 Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html). 
