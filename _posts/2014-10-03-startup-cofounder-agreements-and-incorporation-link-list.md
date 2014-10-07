@@ -15,7 +15,7 @@ share: true
 
 <p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting out your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
 
-Our technology law "Link List” series collects useful guidance for startups.[^1]  The first installment helped companies [hire the right lawyer](/tech-law-link-list-hiring-lawyers/). This post discusses pre-incorporation founders agreements, the entity formation process, what type of legal entity to form, and what state to form it in. 
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses pre-incorporation founders agreements and the entity formation process. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
@@ -53,9 +53,9 @@ If you need venture capital, form a Delaware C-Corp. If your business will never
 LLC | flexible; tax pass through 
 C&nbsp;Corp | VCs Require it. Pays separate taxes 
 S&nbsp;Corp | tax pass through 
-B&nbsp;Corp | commits to a social mission (Etsy, Warby Parker, Patagonia, etc)
+B&nbsp;Corp | commits to a social mission (Etsy, Warby Parker, Patagonia)
 
-The difference between an "S Corp" and a “C Corp” is just a tax election. A "C Corp" is subject to double-taxation, but allows multiple classes of stockholders (which VCs will demand). An "S Corp" avoids double taxation, but imposes several restrictions on the company and its owners. “Double taxation” isn’t as bad as it sounds. Accountants can often reduce or eliminate the extra tax.  
+The difference between an "S Corp" and a “C Corp” is just a tax election. A "C Corp" gets double-taxed, but allows multiple classes of stockholders (which VCs will demand). An "S Corp" avoids double taxation, but imposes several restrictions on the company and its owners. “Double taxation” isn’t as bad as it sounds. Accountants can often reduce or eliminate the extra tax.  
 
 
 * [What Type of Entity Should I Form?](http://www.startupcompanylawyer.com/2009/03/12/what-type-of-entity-should-i-form/) *[Yokum Taku](https://twitter.com/Yokum)*, 2009.  If you want to raise venture capital, form a Delaware C Corp. 
@@ -66,7 +66,7 @@ The difference between an "S Corp" and a “C Corp” is just a tax election. A 
 
 * [B-Corp: Companies with Benefits](http://www.newyorker.com/?p=2640342&currentPage=all). *James Surowiecki*, 2014.    "Becoming a B corp raises the reputational cost of abandoning your social goals. It’s what behavioral economists call a ‘commitment device’—a way of insuring that you’ll live up to your promises." 
 
-## Where to Incorporate? Delaware? NY? California?
+## Where to Incorporate? Delaware? NY? CA?
 
 Delaware offers the strongest corporate laws and many investors will expect a Delaware corporation. The downside is that incorporating in Delaware will add some extra paperwork and a Delaware "franchise tax" of about $350/year for a pre-revenue startup. 
 
