@@ -28,9 +28,9 @@ Founders can collaborate on a project before dealing with the expense of formal 
 
 * "Vesting" - Discuss how long cofounders will need to stick with the project to earn their ownership share. Assume that a cofounder will drift off to different project, and define what will happen to her pre-incorporation ownership stake. Put it in writing. A reasonable pre-incorporation "vesting" schedule might be "if you leave before we incorporate, you lose *all* ownership interest."
 
-* [Startup Founder Agreements](http://blog.simeonov.com/2010/02/22/startup-founder-agreements/). *[Simeon Simeonov](https://twitter.com/simeons)*, 2010. The founding team should create a written agreement outlining IP ownership, equity ownership, vesting, etc. The agreement should be a simple, readable letter that aligns everyone's interest on the main startup issues. The letter should include a formation agreement paragraph that requires the founders to behave during incorporation in a way that effects the agreement.
+* [Breaking Up prior to Incorporation](http://ithacavc.com/2011/10/16/breaking-up-prior-to-incorporation/). *Zach Shulman*, (2011). "Founder L is not pulling his weight; he is happy to talk strategy and suggest tasks for others, but is not willing to get his hands too dirty." Fucking Founder L.   
 
-* [Breaking Up prior to Incorporation](http://ithacavc.com/2011/10/16/breaking-up-prior-to-incorporation/). Zach Shulman, (2011). Ithaca VC discusses some common pre-incorporation founder pitfalls.  
+* [Startup Founder Agreements](http://blog.simeonov.com/2010/02/22/startup-founder-agreements/). *[Simeon Simeonov](https://twitter.com/simeons)*, 2010. The founding team should create a simple written agreement outlining IP ownership, equity ownership, vesting, etc. 
 
 * [When Do I need to Incorporate a Company?](http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company/) *[Yokum Taku](https://twitter.com/Yokum)*, 2009. Startups should incorporate before they start to generate revenue, create serious intellectual property, hire employees or contractors, issue stock options, or get visas. 
 
@@ -48,13 +48,15 @@ Founders can collaborate on a project before dealing with the expense of formal 
 
 If you need venture capital, form a Delaware C-Corp. If your business will never need VC style investors, form an LLC. 
 
-The difference between an "S Corp" and a “C Corp” is just a tax election: S Corp avoids double-taxation, but C Corp allows multiple classes of stockholders (which VCs will demand). “Double taxation” isn’t as bad as it sounds because a clever accountant can often reduce or eliminate the extra tax.  
 
-**Entity** | **Features** | **Notes**
-LLC | flexible; tax pass through | &nbsp;
-C&nbsp;Corp | VCs Require it. Pays separate taxes | A regular corporation
-S&nbsp;Corp | tax pass through | &nbsp;
-B&nbsp;Corp | commits to a social mission | like Etsy, Warby Parker & Patagonia
+**Entity** | **Features** 
+LLC | flexible; tax pass through 
+C&nbsp;Corp | VCs Require it. Pays separate taxes 
+S&nbsp;Corp | tax pass through 
+B&nbsp;Corp | commits to a social mission (Etsy, Warby Parker, Patagonia, etc)
+
+The difference between an "S Corp" and a “C Corp” is just a tax election. A "C Corp" is subject to double-taxation, but allows multiple classes of stockholders (which VCs will demand). An "S Corp" avoids double taxation, but imposes several restrictions on the company and its owners. “Double taxation” isn’t as bad as it sounds. Accountants can often reduce or eliminate the extra tax.  
+
 
 * [What type of entity should I form?](http://www.startupcompanylawyer.com/2009/03/12/what-type-of-entity-should-i-form/) *[Yokum Taku](https://twitter.com/Yokum)*, 2009.  If you want to raise venture capital, form a Delaware C Corp. 
 

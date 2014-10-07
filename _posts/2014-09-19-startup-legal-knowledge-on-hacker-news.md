@@ -3,7 +3,7 @@ layout: post
 bloglist: "yes"
 title: "Startup Law Wisdom from a Hacker News Secret Asset"
 summary: "A collection of essays from the veteran Silicon Valley attorney George Grellas."
-tags: [startup law]
+tags: [startup law, link list]
 author: adler
 image:
   feature: /wide/default-image.png
