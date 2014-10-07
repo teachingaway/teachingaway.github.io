@@ -18,6 +18,16 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
 
 A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. 
 
+Here are some ballpark cost estimates to prepare and file utility patent applications
+
+Estimaged Cost | Type of Application
+- | - 
+$5,000 - $8,000 | mechanical patent application of average complexity
+$7,500- $10,000 | software patent application of average complexity
+
+The total patent application costs depend on a number of factors. If you provide a detailed, well organized invention disclosure, the application process will require less drafting time from the patent attorney, and will result in lower costs to you. 
+
+
 ## Provisional Patents
 
 A provisional patent application is a temporary patent application that nails down a filing date at the Patent Office. If an inventor files a full utility patent application within 1 year after the provisional, the later full application will be treated as though it was filed on the date of the earlier provisional application. 

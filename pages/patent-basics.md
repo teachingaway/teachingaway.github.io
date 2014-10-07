@@ -46,7 +46,7 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 *  The patent attorney will draft and file your patent application. 
 
-*  The patent application will be "published" 18 months after it is filed, unless the inventor makes a "[non-publication request](/mpep/s1122/)." Published patent application are available to the public on the USPTO's database. 
+*  The patent application will be "published" 18 months after it's filed. If a provisional application was filed, the publication takes place 18 months after the provisional. Published patent application are available to the public on the USPTO's database. Publication can be delayed by filing a [non-publication request](/mpep/s1122/), but only if the inventor is sure that she does not want to seek patent protection in foreign countries.  
 
 *  About 2 years after the application is filed, the a USPTO Patent Examiner will review the application. The Patent Examiner will generally issue an "Office Action" rejecting the application based on prior art. If the Patent Examiner finds a prior art document that describes the exact invention, she will reject the application under § 102 as [anticipated](../mpep/s2131/) by the prior art. MPEP 2131.  If the Patent Examiner can't find prior art describing the exact invention, but can find a handful of related prior art patents that, in combination, describe the invention, then she will reject the application as [obvious](../mpep/s2141/) under § 103. MPEP 2141. 
 
@@ -56,6 +56,7 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 - - - 
 
+ 
 
 ## The [MPEP](../mpep/index.html) in Jekyll. 
 The Manual of Patent Examination Procedure is the guide US patent examiners use to review patent applications. It's a huge book, and the USPTO's web interface is pretty bad, so we made this [MPEP website](../mpep/index.html).
