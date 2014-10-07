@@ -15,7 +15,7 @@ share: true
 
 <p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting out your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
 
-Our technology law "Link List” series collects useful guidance for startups.[^1]  The first installment helped startups [hire the right lawyer](/tech-law-link-list-hiring-lawyers/). 
+Our technology law "Link List” series collects useful guidance for startups.[^1]  The first installment helped companies [hire the right lawyer](/tech-law-link-list-hiring-lawyers/). This post discusses pre-incorporation founders agreements, the entity formation process, what type of entity to form (LLC, Corp, etc.), and what state to form it in. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
