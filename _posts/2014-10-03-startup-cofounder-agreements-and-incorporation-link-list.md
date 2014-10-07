@@ -21,13 +21,18 @@ Our technology law "Link List” series collects useful guidance for startups.[^
 
 ### Pre-Incorporation  
 
-Founders can collaborate on a project before dealing with the expense and distraction of formal incorporation. But they should put their collaboration agreement in writing. Even an informal written agreement, in your own words, is better than a verbal agreement. 
+Founders can collaborate on a project before dealing with the expense of formal incorporation. They should agree to a simple written collaboration letter.  A verbal agreement is a recipe for disputes. Above all, remember that incorporation shields your personal assets from the startup's losses or liabilities. Don't put off incorporation for too long.  
+
 
 * [Cofounder Collaboration](http://adlervermillion.com/cofounder-collaboration/).  *[Zeke Vermillion](https://twitter.com/zmillion)*, 2011. Negotiating every legal issue before actually starting a project will distract you from building a minimum viable product. Zeke's [Founders' Agreement Template](https://www.docracy.com/6348/founders-agreement-template#) helps  founders collaborate on early-stage business projects on fair terms, without a lot of hassle or paperwork. 
 
-* Vesting - Discuss how long cofounders will need to stick with the project to earn their ownership share. Assume that a cofounder will drift off to a different project, and define what will happen to her pre-incorporation ownership stake. Put it in writing. A reasonable pre-incorporation vesting schedule might be "if you leave before we incorporate, you lose *all* ownership interest."   
+* "Vesting" - Discuss how long cofounders will need to stick with the project to earn their ownership share. Assume that a cofounder will drift off to different project, and define what will happen to her pre-incorporation ownership stake. Put it in writing. A reasonable pre-incorporation "vesting" schedule might be "if you leave before we incorporate, you lose *all* ownership interest."
 
-* [When Do I need to Incorporate a Company?](http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company/) *[Yokum Taku](https://twitter.com/Yokum)*, 2009. Startups should incorporate if they have more than one founder, start creating serious intellectual property, need to hire employees or contractors, issue stock options, or get visas. 
+* [Startup Founder Agreements](http://blog.simeonov.com/2010/02/22/startup-founder-agreements/). *[Simeon Simeonov](https://twitter.com/simeons)*, 2010. The founding team should create a written agreement outlining IP ownership, equity ownership, vesting, etc. The agreement should be a simple, readable letter that aligns everyone's interest on the main startup issues. The letter should include a formation agreement paragraph that requires the founders to behave during incorporation in a way that effects the agreement.
+
+* [Breaking Up prior to Incorporation](http://ithacavc.com/2011/10/16/breaking-up-prior-to-incorporation/). Zach Shulman, (2011). Ithaca VC discusses some common pre-incorporation founder pitfalls.  
+
+* [When Do I need to Incorporate a Company?](http://www.startupcompanylawyer.com/2009/07/20/when-do-i-need-to-incorporate-a-company/) *[Yokum Taku](https://twitter.com/Yokum)*, 2009. Startups should incorporate before they start to generate revenue, create serious intellectual property, hire employees or contractors, issue stock options, or get visas. 
 
 * [Why Incorporating My Startup was My Worst Mistake](https://news.ycombinator.com/item?id=2399139). Hacker News, 2011. [Grellas](https://twitter.com/grellas): "Corporations are not particularly hard or expensive to start, maintain, or dissolve - but you need to be at a stage of life where a thousand dollars here or there is not a major burden." The original link is [broken](https://web.archive.org/web/20110404132033/http://heyhamza.com/why-incorporating-my-startup-was-my-worst-mis), but the HN comments are more interesting anyway. 
 
