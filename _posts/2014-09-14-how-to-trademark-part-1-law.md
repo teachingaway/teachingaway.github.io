@@ -28,7 +28,7 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 
 <!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
 
- | Evidence | Description
+| | Evidence | Description |
 | - | - | - | 
 <i class="icon-lock icon-2x"></i> | Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
 <i class="icon-thumbs-up-alt icon-2x pull-left"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
