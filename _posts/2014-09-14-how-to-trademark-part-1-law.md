@@ -31,17 +31,17 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 | | Evidence | Description |
 | - | - | - | 
 <i class="icon-lock icon-2x"></i> | Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
-<i class="icon-thumbs-up-alt icon-2x pull-left"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-<i class="icon-calendar-empty icon-2x pull-left"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
-<i class="icon-refresh icon-2x pull-left"></i> | Used Continuously |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
-| | Rights | Description | 
+<i class="icon-ok-sign icon-2x"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+<i class="icon-calendar-empty icon-2x"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
+<i class="icon-refresh icon-2x"></i> |  Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+| | **Rights** | **Description** | 
 | - | - | - | 
-<i class="icon-globe icon-2x pull-left"></i> | Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
-<i class="icon-map-marker icon-2x pull-left"></i> | Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
-<i class="icon-certificate icon-2x pull-left"></i> | Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
-<i class="icon-dollar icon-2x pull-left"></i> | Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
+<i class="icon-globe icon-2x"></i> | Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
+<i class="icon-map-marker icon-2x"></i> | Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
+<i class="icon-certificate icon-2x"></i> | Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
+<i class="icon-dollar icon-2x"></i> | Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
 | | ® Symbol  | The ® symbol can only be used on a registered trademark. Unregistered trademarks use ™.
-| | Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
+| <i class="icon-group icon-2x"></i> | Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
 
 While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
 
