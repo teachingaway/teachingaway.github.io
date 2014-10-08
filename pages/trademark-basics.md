@@ -17,6 +17,38 @@ Trademarks protect brand identity. They reduce the risk of [namespace collision]
 
 - - - 
 
+## Selecting a Name
+
+Trademarks should be unique and distinctive (rather than descriptive). A trademark is "descriptive" if it describes the product its used on. This leads to a weaker trademark because descriptive words are generally reserved for the public domain. When you've settled on a handful of strong potential trademarks, do a "clearance search" to see if anyone else is using the proposed trademark on a similar product. 
+
+**Unique:** Pick a name that no one else is using. First, just google your proposed name. Is anyone else using it on a similar product? Next, search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).  then search some international trademark databases, and finally. 
+
+**Distinctive:** Pick a name that does *not* directly describe your product. A good trademark is either a made-up word (like Xerox), or a word thats entirely unrelated to your product (like how the word "Apple" is entirely unrelated to computers or software). 
+
+## Trademark Symbols: ™ and ®
+
+Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-text">®</span> symbol after a *registered* trademark. 
+
+The purposes of these trademark symbols is to tell your customers and competitors that you are claiming trademark rights in your brand name (or logo or slogan). 
+
+
+
+## Naming and Branding
+
+From a business perspective, branding concerns often outweigh trademark concerns. This section quickly touches on non-legal branding issues. 
+
+Think of a name that highlights your competitive advantage or describes an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
+
+Names should be internet friendly. Is the .com domain available? Can you buy it? Is it SEO friendly? (i.e., will your company be the top spot in a Google search for the word?).  
+
+A name should be pronounceable, and use an intuitive spelling. 
+
+Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
+
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
+
+- - - 
+
 ## The Benefits of Trademark Registration
 
 Trademark law automatically grants a basic set of rights called "common law" trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
@@ -53,7 +85,6 @@ The TM Office frequently rejects applications. The two most common reasons for r
 | FED EX |  <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;">  | Shipping | 
 | APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:65px;"> | Computers| 
 | DROPBOX | <img src="/images/tm-app/dropboxlogo.png" style="max-width:65px;"> | Cloud Storage | 
-
 
 
 Trademark law focuses on the relationship between the "mark" (either word or design) and the "goods." The central question of all trademark law is "how well does the mark help consumers identify the company that sells the goods?" Both "distinctiveness" and "likelihood of confusion" stem from this question. 
@@ -109,19 +140,7 @@ Here are some other distinctiveness traps to avoid:
 
 - - - 
 
-## Naming and Branding
 
-From a business perspective, branding concerns often outweigh trademark concerns. This section quickly touches on non-legal branding issues. 
-
-Think of a name that highlights your competitive advantage or describes an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
-
-Names should be internet friendly. Is the .com domain available? Can you buy it? Is it SEO friendly? (i.e., will your company be the top spot in a Google search for the word?).  
-
-A name should be pronounceable, and use an intuitive spelling. 
-
-Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
-
-Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
 
 
 - - - 
@@ -158,42 +177,19 @@ Coders might recognize this type of search as a weird cousin of "regular express
 | 036[IC] | Searches for trademarks in International Class 36 | 
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
-_Database Timeouts_ - The US Trademark Database will timeout after  5 idle minutes, and then force you to start your search over again. This is a pain. 
-
-If you have carefully searched all 3 databases, and haven't found any prior registrations similar to your own trademark, its time to start the trademark application. 
-
-- - - 
-
-## Selecting a Name
-
-Trademarks should be unique and non-descriptive. A trademark is "descriptive" if it describes the product its used on. This leads to a weaker trademark because descriptive words are generally reserved for the public domain. When you've settled on a handful of strong potential trademarks, do a "clearance search" to see if anyone else is using the proposed trademark on a similar product. 
-
-**Unique:** Pick a name that no one else is using. First, just google your proposed name. Is anyone else using it on a similar product? Next, search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).  then search some international trademark databases, and finally. 
-
-The US Trademark Database is pretty old. Here's a useful search string: 
-
-
-
-    “foo-mark”[BI] AND “some products”[GS] AND live[LD]
-
-
-
-* “foo-mark”[BI] - asks for a search of the "Basic Index" -- this is essentially the index of trademark names.  
-* AND - put it in capitals. 
-* “some products”[GS] - this searches for strings in the "goods and services" database. Try searching for some common words that describe your products or service. 
-* live[LD] - asks for only live trademark registrations and applications (otherwise, your search results will be cluttered with abandoned registrations). 
-
 Putting that together with an example: 
 
     “Snackattack”[BI] AND “cupcakes”[GS] AND live[LD]
 
 This search string will look for any registered trademarks for the word "snackattack" as used on the product "cupcakes."
 
+_Database Timeouts_ - The US Trademark Database will timeout after  5 idle minutes, and then force you to start your search over again. This is a pain. 
+
+
+- - - 
+
  
-**Non-Descriptive:** Pick a name that does *not* directly describe your product. A good trademark is either a made-up word (like Xerox), or a word thats entirely unrelated to your product (like how the word "Apple" is entirely unrelated to computers or software). 
 
-## Trademark Symbols: ™ and ®
 
-Use the ™ symbol after an *unregistered* trademark. Use the ® symbol after a *registered* trademark. 
 
-The purposes of these trademark symbols is to tell your customers and competitors that you are claiming trademark rights in your brand name (or logo or slogan). 
+ 
