@@ -31,9 +31,9 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 | | Evidence | Description |
 | - | - | - | 
 <i class="icon-lock icon-2x icon-muted"></i> | Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
-<i class="icon-ok-sign icon-2x icon-muted"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-<i class="icon-calendar-empty icon-2x"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
-<i class="icon-refresh icon-2x"></i> |  Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+<i class="icon-ok-sign icon-2x icon-light"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+<i class="icon-calendar-empty icon-2x icon-muted"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
+<i class="icon-refresh icon-2x icon-light"></i> |  Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
 | | **Rights** | **Description** | 
 | - | - | - | 
 <i class="icon-globe icon-2x"></i> | Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
