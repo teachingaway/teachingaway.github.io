@@ -27,9 +27,7 @@ Trademarks should be unique and distinctive (rather than descriptive). A tradema
 
 ## Trademark Symbols: ™ and ®
 
-Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-text">®</span> symbol after a *registered* trademark. 
-
-The purposes of these trademark symbols is to tell your customers and competitors that you are claiming trademark rights in your brand name (or logo or slogan). 
+Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-text">®</span> symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
 
 
