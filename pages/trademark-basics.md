@@ -1,9 +1,8 @@
 ---
 layout: page
 permalink: /trademark-basics/
-title: "Trademark Fundamentals"
-modified: 2014-06-04 20:33
-tags: [trademark, intellectual property law]
+title: "Trademark Law Fundamentals"
+tags: [trademark]
 image:
   feature: /wide/default-image.png
   credit: Company Folders
@@ -11,19 +10,28 @@ image:
 ---
 
 
+<p style="big-text">
+Trademarks protect brand identity. They reduce the risk of [namespace collision](http://en.wikipedia.org/wiki/Naming_collision). A trademark can be any name, image or slogan used to identify a company. </p>
 
-Trademarks protect brand identity. They reduce the risk of [namespace collision](http://en.wikipedia.org/wiki/Naming_collision). A trademark can be any name, image or slogan used to identify a company. 
 
 
-- - - 
 
 ## Selecting a Name
 
-Trademarks should be unique and distinctive (rather than descriptive). A trademark is "descriptive" if it describes the product its used on. This leads to a weaker trademark because descriptive words are generally reserved for the public domain. When you've settled on a handful of strong potential trademarks, do a "clearance search" to see if anyone else is using the proposed trademark on a similar product. 
+A trademark should be (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. 
 
 **Unique:** Pick a name that no one else is using. First, just google your proposed name. Is anyone else using it on a similar product? Next, search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).  then search some international trademark databases, and finally. 
 
-**Distinctive:** Pick a name that does *not* directly describe your product. A good trademark is either a made-up word (like Xerox), or a word thats entirely unrelated to your product (like how the word "Apple" is entirely unrelated to computers or software). 
+**Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). Also consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx, Duracell, Whole Foods). 
+
+Think of names that highlight your competitive advantage or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel, Chase(?)).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
+
+Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
+
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
+
+After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. 
+
 
 ## Trademark Symbols: ™ and ®
 
@@ -31,21 +39,9 @@ Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-t
 
 
 
-## Naming and Branding
-
-From a business perspective, branding concerns often outweigh trademark concerns. This section quickly touches on non-legal branding issues. 
-
-Think of a name that highlights your competitive advantage or describes an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
-
-Names should be internet friendly. Is the .com domain available? Can you buy it? Is it SEO friendly? (i.e., will your company be the top spot in a Google search for the word?).  
-
-A name should be pronounceable, and use an intuitive spelling. 
-
-Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
-
-Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
 
 - - - 
+
 
 ## The Benefits of Trademark Registration
 
@@ -55,20 +51,19 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 
 <!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
 
-| | Evidence | Description |
-| - | - | - | 
-<i class="icon-lock icon-2x icon-muted"></i> | Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
-<i class="icon-ok-sign icon-2x icon-light"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-<i class="icon-calendar-empty icon-2x icon-muted"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
-<i class="icon-refresh icon-2x icon-light"></i> |  Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
-| | **Rights** | **Description** | 
-| - | - | - | 
-<i class="icon-globe icon-2x icon-muted"></i> | Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
-<i class="icon-map-marker icon-2x icon-light"></i> | Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
-<i class="icon-certificate icon-2x icon-muted"></i> | Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
-<i class="icon-dollar icon-2x icon-light"></i> | Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
-| <i class="icon-3x">®</i> | <span class="icon-stack"><i class="icon-circle-blank icon-stack-base"></i><i class="icon-2x">R</i></span> | The ® symbol can only be used on a registered trademark. Unregistered trademarks use ™.
-| <i class="icon-group icon-2x icon-light"></i> | Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
+| Evidence | Description |
+| - | - | 
+Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
+Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
+Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+| **Rights** | **Description** | 
+| - | - | 
+Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
+ Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
+Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
+Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
+Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
 
 While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
 
@@ -139,10 +134,6 @@ Here are some other distinctiveness traps to avoid:
 - - - 
 
 
-
-
-- - - 
-
 ## Clearance Search
 
 Run your proposed names through a trademark "clearance" search before settling on a final name. Search for existing trademarks and registrations, but don't limit the search to _identical_ marks. Search for _similar_ marks. Search for marks that are similar enough that they are "likely to cause consumer confusion" (as discussed above, and at [TMEP  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044)). 
@@ -157,7 +148,7 @@ Where to search? Start with google. Then move on to trademark databases. Three g
 
 The EU and WIPO databases are somewhat intuitive. The US database is old and confusing, so I'll offer some tips. Go to the [US TM Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
 
-<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
+<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png" class="translucent"></a>
 
 Click on the "free form search" and try using this search pattern: 
 
