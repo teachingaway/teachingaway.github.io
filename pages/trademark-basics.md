@@ -18,13 +18,13 @@ Trademarks protect brand identity. They reduce the risk of [namespace collision]
 
 ## Selecting a Name
 
-A trademark should be (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. 
+A trademark should be (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
 
 **Unique:** Pick a name that no one else is using. First, just google your proposed name. Is anyone else using it on a similar product? Next, search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).  then search some international trademark databases, and finally. 
 
-**Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). Also consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx, Duracell, Whole Foods). 
+**Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). 
 
-Think of names that highlight your competitive advantage or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel, Chase(?)).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
+Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx, Duracell, Whole Foods). Think of names that highlight your competitive advantage or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel, Chase(?)).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
 
 Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
 
@@ -37,15 +37,11 @@ After brainstorming a handful of strong potential trademarks, do a "clearance se
 
 Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-text">®</span> symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
-
-
-
 - - - 
-
 
 ## The Benefits of Trademark Registration
 
-Trademark law automatically grants a basic set of rights called "common law" trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
+Trademark law automatically grants a basic set of rights called "common law" trademark rights. These basic rights can be enhanced by securing a federal trademark registration. Registration is a big improvement over the default common law trademark rights.  A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
 [^1]: Registration is "prima facie" evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
@@ -65,20 +61,27 @@ Incontestability  | After 5 years of registration, a trademark can become "incon
 Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
 Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
 
-While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
+While basic "common law" trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
 
 - - - 
 
-## The Relationship Between the Mark and Product is Central to Trademark Law.
+## A Trademark Can Be Any Symbol That Identifies Your Brand
 
-The TM Office frequently rejects applications. The two most common reasons for rejection are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
+Trademarks are commonly words or logos. Slogans and short phrases are also common trademarks. But trademarks don't stop there. Unique product packaging can be trademarked. This is called "trade dress." Trade Dress isn't limited to packaging, but any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
+as well as sounds or jingles, even a scent can (in theory) be trademarked. 
 
+For most businesses, a word and a logo will be enough of a trademark. 
+
+- - - 
+
+## The Relationship Between the Mark and the Product is Central to Trademark Law.
+
+The two biggest hurdles to clear in the trademark registration process are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
 | **Word Mark** | **Design Mark** | **Goods/Services** | 
 | FED EX |  <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;">  | Shipping | 
 | APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:65px;"> | Computers| 
 | DROPBOX | <img src="/images/tm-app/dropboxlogo.png" style="max-width:65px;"> | Cloud Storage | 
-
 
 Trademark law focuses on the relationship between the "mark" (either word or design) and the "goods." The central question of all trademark law is "how well does the mark help consumers identify the company that sells the goods?" Both "distinctiveness" and "likelihood of confusion" stem from this question. 
  
@@ -89,7 +92,6 @@ The TM Office will compare your trademark to a database of existing trademark re
 The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing trademark registration. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
-
 
 
 ### TM Law: "Distinctiveness"

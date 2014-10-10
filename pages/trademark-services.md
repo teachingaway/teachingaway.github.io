@@ -61,3 +61,11 @@ We help corporate clients manage their trademark portfolios and renewal deadline
 ## Domain Name Disputes
 
 We have extensive experience litigating domain name arbitration matters. 
+
+## Trademark Opposition and Cancellation Proceedings
+
+We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. 
+
+## Trademark Registration Appeals at the USPTO
+
+We have won several trademark registration appeals, even where the original attorney could not secure a trademark registration. 
