@@ -58,9 +58,11 @@ table tr th :last-child, table tr td :last-child {
         margin-left:-190px;
         width: 960px;
         max-width: 960px;
+        .rounded(@radius:3px); 
         }
     @media @medium {
-        opacity: .65;    
+        opacity: .65;
+        .rounded(@radius:2px);
     }
 }
 .big-image:hover {opacity:1;}
