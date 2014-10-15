@@ -65,7 +65,24 @@ table tr th :last-child, table tr td :last-child {
         .rounded(@radius:2px);
     }
 }
-.big-image:hover {opacity:1;}
+
+.medium-image {
+    @media @large {
+        margin-left:-100px;
+        width: 840px;
+        max-width: 840px;
+        .rounded(@radius:3px); 
+        }
+    @media @medium {
+        opacity: .65;
+        .desaturate(100%);
+        .rounded(@radius:2px);
+    }
+}
+.medium-image:hover, .big-image:hover {
+    opacity:1;
+    .desaturate(0);
+    }
 
 .translucent {
     opacity: .85;
