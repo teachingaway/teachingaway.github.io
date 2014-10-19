@@ -14,18 +14,18 @@ image:
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
 
-<div class="toc" style="padding-left:1rem;">
-<strong>Contents</strong><br/>
-<a href="#selecting-a-name">Selecting a Name</a><br/>
-<a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a><br/>
-<a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a><br/>
-<a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a><br/>
-<a href="#trademark-timeframes">Trademark Timeframes</a><br/>
-<a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a><br/>
-<a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a><br/>
-<a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a><br/>
-<a href="#clearance-search">Clearance Search</a><br/>
-</div>
+<ul class="toc" style="padding-left:1rem;">
+<strong>Contents</strong>
+<li><a href="#selecting-a-name">Selecting a Name</a></li>
+<li><a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a></li>
+<li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a></li>
+<li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a></li>
+<li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
+<li><a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a></li>
+<li><a href="#clearance-search">Clearance Search</a></li>
+</ul>
 
 
 ## Selecting a Name
