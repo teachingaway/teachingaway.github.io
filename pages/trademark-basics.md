@@ -13,23 +13,17 @@ image:
 <p style="big-text">
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
-{{ toc }}
-
-[[_TOC_]]
- 
-{:toc} 
-
 
 <div class="toc">
-<a href="#selecting-a-name">Selecting a Name</a>
-<a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
-<a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
-<a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
-<a href="#trademark-timeframes">Trademark Timeframes</a>
-<a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
-<a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a>
-<a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a>
-<a href="#clearance-search">Clearance Search</a>
+<a href="#selecting-a-name">Selecting a Name</a><br/>
+<a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a><br/>
+<a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a><br/>
+<a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a><br/>
+<a href="#trademark-timeframes">Trademark Timeframes</a><br/>
+<a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a><br/>
+<a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a><br/>
+<a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a><br/>
+<a href="#clearance-search">Clearance Search</a><br/>
 </div>
 
 
