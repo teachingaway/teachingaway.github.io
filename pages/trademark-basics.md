@@ -16,7 +16,7 @@ Trademarks protect brand identity. They reduce the risk of <a href="http://en.wi
 <style>
 ul.toc {background-color: #f2f2f2;}
 ul.toc li {
-	margin-left:1rem;
+	margin-left:2rem;
 	margin-top:5px;
 	list-style-type: circle;
 	// list-style-position: inside;
@@ -30,7 +30,7 @@ ul.toc li {
 <li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
 <li><a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a></li>
 <li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
-<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a></li>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product.</a></li>
 <li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
 <li><a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a></li>
 <li><a href="#clearance-search">Clearance Search</a></li>
