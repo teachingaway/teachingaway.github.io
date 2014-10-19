@@ -17,12 +17,12 @@ Trademarks protect brand identity. They reduce the risk of <a href="http://en.wi
 - <a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
 
 - <a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
-- <a href="#a-Trademark-Can-Be-Any-Symbol-That-Identifies-Your-Brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
-- <a href="#Trademark-Timeframes">Trademark Timeframes</a>
-- <a href="/The-Relationship-Between-the-Mark-and-the-Product-is-Central-to-Trademark-Law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
+- <a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
+- <a href="#trademark-timeframes">Trademark Timeframes</a>
+- <a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
 - <a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a>
-- <a href="#"></a>
-- <a href="#"></a>
+- <a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a>
+- <a href="#clearance-search">Clearance Search</a>
 
 ## Selecting a Name
 
