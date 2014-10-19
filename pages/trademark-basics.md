@@ -11,14 +11,12 @@ image:
 
 
 <p style="big-text">
-Trademarks protect brand identity. They reduce the risk of [namespace collision](http://en.wikipedia.org/wiki/Naming_collision). A trademark can be any name, image or slogan used to identify a company. </p>
-
-
+Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
 
 ## Selecting a Name
 
-A trademark should be (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
+A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
 
 **Unique:** Pick a name that helps differentiate your product. You want a name that is not even similar to any other competitor's name. Obviously Google the potential names, and dig beyond the first page. If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 
