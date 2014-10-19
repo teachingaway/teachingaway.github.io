@@ -14,7 +14,10 @@ image:
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
 <style>
-ul.toc {background-color: #f2f2f2;}
+ul.toc {
+	background-color: #f2f2f2;
+	max-width:75%;
+	}
 ul.toc li {
 	margin-left:2rem;
 	margin-top:5px;
@@ -28,7 +31,7 @@ ul.toc li {
 <li><a href="#selecting-a-name">Selecting a Name</a></li>
 <li><a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a></li>
 <li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
-<li><a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be Any Symbol that Identifies a Brand</a></li>
 <li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
 <li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product.</a></li>
 <li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
@@ -45,9 +48,7 @@ A strong trademark is (a) unique and (b) distinctive rather than descriptive. A 
 
 Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx). Think of names that highlight your competitive advantage (Duracell, Whole Foods) or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
 
-Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
-
-Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
+Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
 
 **Unique:** After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. The name can't be identical to competitors' names, and ideally shouldn't even be similar. Brainstorm 3 or 4 potential names and Google them (dig beyond the first page of results). If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 
@@ -74,8 +75,8 @@ Start Date  |  Trademark rights go to the first company to use the trademark (wi
 Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
 | **Rights** | **Description** | 
 | - | - | 
-Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
- Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
+Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law rights are limited to the particular towns and cities where the trademark is actually used.
+Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
 Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
 Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
 Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
@@ -84,12 +85,14 @@ While basic "common law" trademark rights are granted automatically, registered 
 
 - - - 
 
-## A Trademark Can Be Any Symbol That Identifies Your Brand
+## A Trademark Can Be any Symbol that Identifies a Brand
 
-Trademarks are commonly words or logos. Slogans and short phrases are also common trademarks. But trademarks don't stop there. Unique product packaging can be trademarked. This is called "trade dress." Trade Dress isn't limited to packaging, but any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
+Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any* symbol that identifies a brand. For example, unique product packaging can be trademarked. This is called "trade dress." Trade Dress isn't limited to packaging, but any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
 as well as sounds or jingles, even a scent can (in theory) be trademarked. 
 
 For most businesses, a word and a logo will be enough of a trademark. 
+
+- - - 
 
 ## Trademark Timeframes
 
