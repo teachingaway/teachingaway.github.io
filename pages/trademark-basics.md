@@ -13,6 +13,8 @@ image:
 <p style="big-text">
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
+{{ toc }}
+
 <div class="tox">
 <a href="#selecting-a-name">Selecting a Name</a>
 <a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
