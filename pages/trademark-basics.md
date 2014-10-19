@@ -16,24 +16,22 @@ Trademarks protect brand identity. They reduce the risk of <a href="http://en.wi
 
 ## Selecting a Name
 
-A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the less protection it will receive. If the word actually defines the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
-
-**Unique:** Pick a name that helps differentiate your product. You want a name that is not even similar to any other competitor's name. Obviously Google the potential names, and dig beyond the first page. If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
+A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the weaker the trademark. If the word actually *defines* the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
 
 **Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). 
 
-Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx, Duracell, Whole Foods). Think of names that highlight your competitive advantage or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel, Chase(?)).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
+Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx). Think of names that highlight your competitive advantage (Duracell, Whole Foods) or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
 
 Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
 
 Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
 
-After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. 
+**Unique:** After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. The name can't be identical to competitors' names, and ideally shouldn't even be similar. Brainstorm 3 or 4 potential names and Google them (dig beyond the first page of results). If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 
 
 ## Trademark Symbols: ™ and ®
 
-Use the ™ symbol after an *unregistered* trademark. Use the <span class="big-text">®</span> symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
+Use the **™** symbol after an *unregistered* trademark. Use the **®** symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
 - - - 
 
