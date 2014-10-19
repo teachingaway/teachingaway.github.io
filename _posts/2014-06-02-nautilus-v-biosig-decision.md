@@ -55,7 +55,7 @@ Patent claims are difficult to understand. My example is an exaggeration, but th
        
        [ etc. etc. ]
 
-<img src="/../images/BioSig-patent.jpg" />
+<img src="/images/patent-drawings/BioSig-patent.jpg" />
 
 Patent language is not supposed to be this complicated. The Patent Statute requires claims "particularly pointing out and distinctly claiming" the subject matter of the invention. 35 U.S.C. § 112(b). A claim that fails to "particularly" and "distinctly" identify the invention should be "indefinite" and therefore invalid.  
 
