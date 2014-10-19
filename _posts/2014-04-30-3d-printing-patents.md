@@ -20,7 +20,7 @@ The International Trade Commission addressed these questions today in an opinion
 
 The certain digital models were dental models. Specifically, Align Technology, Inc. has patented a type of invisible braces fabricated by 3D printing. Align accused ClearConnect Operating, LLC, of infringement by scanning teeth in the US, sending the CAD files to Pakistan for processing, and transmitting the finished CAD files back to the US where they were printed.
 
-<img class="big-image" src="/../images/Incrementally-Moving-Teeth-Patent.png" alt="3D Printing Patent for Teeth Alignment" />
+<img class="big-image" src="/images/patent-drawings/Incrementally-Moving-Teeth-Patent.png" alt="3D Printing Patent for Teeth Alignment" />
 
 
 

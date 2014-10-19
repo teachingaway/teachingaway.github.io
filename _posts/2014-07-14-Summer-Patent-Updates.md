@@ -26,7 +26,7 @@ The Supreme Court [rarely](http://writtendescription.blogspot.com/p/patents-scot
 
 <a href="https://twitter.com/juliapowles">@juliapowles</a> summarizes <em>Alice v. CLS</em> in comic form! 
 
-<a href="http://lawcomics.tumblr.com/post/90288947321/law-comics-1-alice-in-patentland-by-julia-powles"><img src="/images/Alice-in-patent-land-Julia-Powles.jpg"></a>
+<a href="http://lawcomics.tumblr.com/post/90288947321/law-comics-1-alice-in-patentland-by-julia-powles"><img src="/images/patent/Alice-in-patent-land-Julia-Powles.jpg"></a>
 
 Prof. Donald Chisum offers a [more detailed analysis](http://patentlyo.com/patent/2014/06/eligibility-implemented-inventions.html) of what constitutes an unpatentable "abstract idea." 
 

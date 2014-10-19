@@ -51,7 +51,7 @@ This guidance includes four sections:
 
 After determining what applicant invented and establishing the broadest reasonable interpretation of the claim in accordance with MPEP § 2103, walk through the three questions in the flowchart below to determine whether the claim is drawn to patent-eligible subject matter. If not, then the claim is <em>prima facie</em> ineligible, and the claim should be rejected using revised form paragraph 7.05.13 (shown in Part IV).
 
-<img src="../images/patentable-subject-matter-flowchart.png" />
+<img src="/images/patent/patentable-subject-matter-flowchart.png" />
 
 <h3>1. Question 1: Is the claimed invention directed to one of the four statutory patent-eligible subject matter categories: process, machine, manufacture, or composition of matter? <sup>1</sup></h3>
 

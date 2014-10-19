@@ -19,7 +19,7 @@ share: true
 ### The Case
 
 Icon, a exercise equipment company, sued Octane, a smaller competitor, for patent infringement. Octane won, but only after spending $1.3 million in legal fees.  Octane asked the trial judge to order Icon to reimburse it for the expense. The trial judge denied the request, applying the strict <em>Brooks Furniture</em> standard. The Federal Circuit affirmed. But the Supreme Court, in a 9-0 decision, overturned the two lower courts.
-<img class="big-image" src="/images/icon-patent.jpg" alt="patent at issue in Octane v. Icon supreme court case" />
+<img class="big-image" src="/images/patent-drawings/icon-patent.jpg" alt="patent at issue in Octane v. Icon supreme court case" />
 
 ### The Patent Statute
 In a patent lawsuit, a court can make the losing party pay the winner’s attorney's fees (called “fee shifting”). The Patent Act allows for fee shifting in “exceptional” cases. In the statutory language, “The court in exceptional cases may award reasonable attorney fees to the prevailing party.” 35 U. S. C. §285. As Justice Sotomayor notes, “This text is patently clear.”

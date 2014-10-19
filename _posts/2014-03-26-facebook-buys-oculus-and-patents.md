@@ -18,7 +18,7 @@ A recent <a href="https://www.google.com/patents/USD701206" target="_blank">desi
 
 Notice all the broken lines in this design patent drawing: 
 
-<img class="big-image" alt="Oculus Rift Design patent" src="/../images/Rift-Design-patent.png" />
+<img class="big-image" alt="Oculus Rift Design patent" src="/images/patent-drawings/Rift-Design-patent.png" />
 
  Broken lines generally lead to stronger design patents by reducing the number of design elements a competitor needs to copy to trigger patent infringement. It is only the solid lines in the design patent that are compared to the competitor's product in the infringement analysis.  ("competitor" and "copy" are used loosely, neither is required for infringement. That is, a non-competitor who sells a similar looking product by sheer coincidence -no copying at all- can still infringe).
 
@@ -30,18 +30,18 @@ System and Method for Creating and Displaying Map Projections related to Real-Ti
 
 &nbsp;
 
-<img alt="oculus patent - reflected map surface views" src="/../images/reflected-map-surface-views.jpg" />
+<img alt="oculus patent - reflected map surface views" src="/images/patent-drawings/reflected-map-surface-views.jpg" />
 
 &nbsp;
 
 "The Surface of Revolution is the Reflected Map Surface." I don't know what means, but it seems like a good marketing slogan for a reflected map surface VR product.
 
-<img class="big-image" alt="Surface of Revolution is the Reflected Map Surface" src="/../images/Surface-of-Revolution-is-the-Reflected-Map-Surface-Patent.jpg" />
+<img class="big-image" alt="Surface of Revolution is the Reflected Map Surface" src="/images/patent-drawings/Surface-of-Revolution-is-the-Reflected-Map-Surface-Patent.jpg" />
 
 <h3>Generating Stories in Time and Space</h3>
 
 System and Method for Generating Stories in Time and Space, <a href="https://www.google.com/patents/US20070132767" target="_blank">patent application 2007/0132767</a>. Another interesting utility patent from Oculus:
 
-<img alt="oculus patent" src="/../images/Terrain-Location-Future-11.jpg" />
+<img alt="oculus patent" src="/images/patent-drawings/Terrain-Location-Future-11.jpg" />
 
-<img  src="/../images/terrain-event-location-Future.jpg" />
+<img  src="/images/patent-drawings/terrain-event-location-Future.jpg" />

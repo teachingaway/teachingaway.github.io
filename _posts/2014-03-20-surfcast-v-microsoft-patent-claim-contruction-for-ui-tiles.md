@@ -16,11 +16,11 @@ The "tile" interface in Windows 8 was so <a href="http://www.theverge.com/2014/
 
 This case is interesting because "tiles" are the UI metaphor at the heart of Windows Phone OS, and to a degree, Windows 8. To protect its investment in UI design, Microsoft has been filing hundreds of design and utility patents on its tile and related aspects of its UI. Here's an example of a Microsoft patent that came up in the Surfcast case:
 
-<img src="/../images/microsoft-tiles-patent.jpg" />
+<img src="/images/patent-drawings/microsoft-tiles-patent.jpg" />
 
 Surfcast, of course, claims to be the true inventor of UI tiles. Here's an image from Surfcast's patent, originally filed in 2000:
 
-<img alt="Surfcast Patent - Tiles" src="/../images/Surfcast-Patent-Tiles3.jpg" />
+<img alt="Surfcast Patent - Tiles" src="/images/patent-drawings/Surfcast-Patent-Tiles3.jpg" />
 
 &nbsp;
 

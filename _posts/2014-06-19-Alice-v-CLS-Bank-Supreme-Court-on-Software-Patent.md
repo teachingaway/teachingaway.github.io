@@ -21,7 +21,7 @@ CLS Bank's patent for intermediated business transactions was invalid because it
 
 > the use of a third party to mitigate settlement risk. Like the risk hedging in *Bilski*, the concept of intermediated settlement is “‘a fundamental economic practice long prevalent in our system of commerce.’”
 
-<img src="/../images/Alice-v-CLS-fig1.png">
+<img src="/images/patent-drawings/Alice-v-CLS-fig1.png">
 
 ## A Framework for Software Patents? 
 
@@ -40,7 +40,7 @@ So we have a framework for asking the question. But *Alice* doesn't provide the 
 
 > the claims at issue amount to “nothing significantly more” than an instruction to apply the abstract idea of intermediated settlement using some unspecified, generic computer. Under our precedents, that is not *“enough”* to transform an abstract idea into a patent-eligible invention.
 
-<img src="/../images/Alice-v-CLS-fig2.png">
+<img src="/images/patent-drawings/Alice-v-CLS-fig2.png">
 
 ## Conclusion: the War Will Go On
 
