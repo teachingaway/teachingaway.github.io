@@ -16,7 +16,7 @@ Trademarks protect brand identity. They reduce the risk of <a href="http://en.wi
 <style>
 ul.toc {background-color: #f2f2f2;}
 ul.toc li {
-	padding-left:1rem;
+	margin-left:1rem;
 	margin-top:5px;
 	list-style-type: circle;
 	// list-style-position: inside;
