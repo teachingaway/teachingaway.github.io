@@ -18,7 +18,7 @@ Oddly, despite the positive reviews, Pioneer recently stopped making the A4, and
 
 Bose is currently suing Memorex and SDI, alleging that 144 models of their speaker systems infringe <a title="Bose Patent" href="https://www.google.com/patents/US20130158693" target="_blank">Bose patent no. 7,277,765</a>. The Bose patent, filed in 2000, is essentially for a type of speaker system that connects to a digital media player. SDI makes the popular "iHome" line of speakers, which seem to be cheaper versions of various Bose speakers. iHome is getting good reviews (I almost bought SDI's iHome "<a title="iHome iW1" href="http://www.amazon.com/iHome-iW1-AirPlay-Wireless-Rechargeable/dp/B005XTBWQY/r" target="_blank">iW1</a>" speaker instead of the Pioneer).
 
-<img class="big-image" alt="bose v. ihome patents" src="/../images/bose-v.-ihome-patents-hand.jpg" />
+<img class="big-image" alt="bose v. ihome patents" src="/images/patent-drawings/bose-v.-ihome-patents-hand.jpg" />
 
 The case is not going well for Bose. In 2012, Bose lost on a major claim construction issue, and the Federal Circuit just affirmed (March 2014). Bose claimed that 144 speaker systems from Memorex and SDI were infringing its '765 patent. This '765 patent claims something about connecting a media device to a speaker system.
 
@@ -38,7 +38,7 @@ Does this mean that the Pioneer A4 will come back on the market? I kinda doubt i
 
 I don't to knock Bose. I like a lot of their speakers, and I listen to most of my music on Bose QuietComfort15 headphones. But sometimes I worry that Bose products come with a steep markup to cover their marketing and legal budget.
 
-<img class="big-image" alt="The nifty connector for the Bose Quietcomfort 15 headphones. I like this feature. " src="/../images/Bose-Headphone-Patent.jpg" />
+<img class="big-image" alt="The nifty connector for the Bose Quietcomfort 15 headphones. I like this feature. " src="/images/patent-drawings/Bose-Headphone-Patent.jpg" />
 
 &nbsp;
 
