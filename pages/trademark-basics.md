@@ -13,6 +13,16 @@ image:
 <p style="big-text">
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
+- <a href="/#selecting-a-name">Selecting a Name</a>
+- <a href="/#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
+
+- <a href="/#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
+- <a href="/#a-Trademark-Can-Be-Any-Symbol-That-Identifies-Your-Brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
+- <a href="/#Trademark-Timeframes">Trademark Timeframes</a>
+- <a href="/#The-Relationship-Between-the-Mark-and-the-Product-is-Central-to-Trademark-Law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
+- <a href="/#"></a>
+- <a href="/#"></a>
+- <a href="/#"></a>
 
 ## Selecting a Name
 
@@ -35,11 +45,11 @@ Use the **™** symbol after an *unregistered* trademark. Use the **®** symbol 
 
 - - - 
 
-## The Benefits of Trademark Registration
+## Benefits of Trademark Registration
 
 Trademark law automatically grants a basic set of rights called "common law" trademark rights. These basic rights can be enhanced by securing a federal trademark registration. Registration is a big improvement over the default common law trademark rights.  A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
-[^1]: Registration is "prima facie" evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+[^1]: Registration is "*prima facie*" evidence; it creates a legal presumption that you are the true trademark owner. Although these presumptions can be overcome, they stack the litigation deck in your favor.
 
 <!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
 
