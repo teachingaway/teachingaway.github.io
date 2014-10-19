@@ -13,16 +13,18 @@ image:
 <p style="big-text">
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
-- <a href="#selecting-a-name">Selecting a Name</a>
-- <a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
+<div class="tox">
+<a href="#selecting-a-name">Selecting a Name</a>
+<a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
+<a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
+<a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
+<a href="#trademark-timeframes">Trademark Timeframes</a>
+<a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
+<a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a>
+<a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a>
+<a href="#clearance-search">Clearance Search</a>
+</div>
 
-- <a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
-- <a href="#a-trademark-can-be-any-symbol-that-identifies-your-brand">A Trademark Can Be Any Symbol That Identifies Your Brand</a>
-- <a href="#trademark-timeframes">Trademark Timeframes</a>
-- <a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product is Central to Trademark Law.</a>
-- <a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a>
-- <a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a>
-- <a href="#clearance-search">Clearance Search</a>
 
 ## Selecting a Name
 
