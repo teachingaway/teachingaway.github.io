@@ -15,7 +15,12 @@ Trademarks protect brand identity. They reduce the risk of <a href="http://en.wi
 
 {{ toc }}
 
-<div class="tox">
+[[_TOC_]]
+ 
+{:toc} 
+
+
+<div class="toc">
 <a href="#selecting-a-name">Selecting a Name</a>
 <a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a>
 <a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a>
