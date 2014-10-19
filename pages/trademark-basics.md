@@ -14,7 +14,8 @@ image:
 Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
 
-<div class="toc">
+<div class="toc" style="padding-left:1rem;">
+<strong>Contents</strong><br/>
 <a href="#selecting-a-name">Selecting a Name</a><br/>
 <a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a><br/>
 <a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a><br/>
