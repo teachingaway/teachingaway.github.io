@@ -102,19 +102,32 @@ h4 {
 .entry-content ul {
     margin-left:0;
     padding-left:0;
+    // list-style:disc;
     }
     
 .entry-content ul ul {
     margin-left:22px;
     }
+    
 .entry-content li {
     margin-top:10px;
     li::marker {color:#888;}
     }
 
+/* Setting color to li disc (commented out because it gets weird effects)
+    .entry-content ul li:before {
+        color:#999; 
+        content:"\2022"; // 2022 is the numerical unicode for &bull; 
+        font-size:1.5em; // set the font-size of the bullet if necessary. Make sure to use em or %
+        padding-right:.25em; // give the bullet some padding from the text Make sure to use em
+        position:relative;
+        top:.1em; // set the vertical position of the bullet if necessary. Make sure to use em or % 
+}
+*/
 
 /** Embedded Tweets */
- 
+// --------------------------------------------------
+
 blockquote.twitter-tweet {
   display: inline-block;
   padding: 16px;
