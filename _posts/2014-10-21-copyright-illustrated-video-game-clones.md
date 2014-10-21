@@ -1,8 +1,8 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Copyright Illustrated in Video Game Clones"
-summary: "The idea-expression dichotomy explained through video game classics."
+title: "Copyright Law Illustrated in Video Game Clones"
+summary: "The idea-expression dichotomy explained by Pac-Man, Donkey Kong and Ruth Bader-Ginsburg."
 tags: [copyright, software]
 author: adler
 image:
