@@ -20,44 +20,110 @@ This two-part post teaches the basics of trademark law and how to register a tra
 
 The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website complicates this simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
-## The Benefits of Trademark Registration
+<p style="big-text">
+Trademarks protect brand identity. They reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision </a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
-Trademark law automatically grants a basic set of rights called "common law" trademark rights. Federal trademark registration enhances these rights in a big way. A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
+<style>
+ul.toc {
+	background-color: #f2f2f2;
+	max-width:75%;
+	}
+ul.toc li {
+	margin-left:2rem;
+	margin-top:1rem;
+	list-style-type: circle;
+}
+</style>
 
-[^1]: Registration is "prima facie" evidence; it creates a legal presumption. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+<ul class="toc">
+<strong>Contents</strong>
+<li><a href="#selecting-a-name">Selecting a Name</a></li>
+<li><a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a></li>
+<li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be Any Symbol that Identifies a Brand</a></li>
+<li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product.</a></li>
+<li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
+<li><a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a></li>
+<li><a href="#clearance-search">Clearance Search</a></li>
+</ul>
 
-<!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
 
-| | Evidence | Description |
-| - | - | - | 
-<i class="icon-lock icon-2x icon-muted"></i> | Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
-<i class="icon-ok-sign icon-2x icon-light"></i> |  Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
-<i class="icon-calendar-empty icon-2x icon-muted"></i> | Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
-<i class="icon-refresh icon-2x icon-light"></i> |  Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
-| | **Rights** | **Description** | 
-| - | - | - | 
-<i class="icon-globe icon-2x icon-muted"></i> | Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law trademark rights are limited to the particular towns and cities where the trademark is actually used.
-<i class="icon-map-marker icon-2x icon-light"></i> | Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
-<i class="icon-certificate icon-2x icon-muted"></i> | Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
-<i class="icon-dollar icon-2x icon-light"></i> | Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
-| <i class="icon-3x">®</i> | <span class="icon-stack"><i class="icon-circle-blank icon-stack-base"></i><i class="icon-2x">R</i></span> | The ® symbol can only be used on a registered trademark. Unregistered trademarks use ™.
-| <i class="icon-group icon-2x icon-light"></i> | Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
+## Selecting a Name
 
-While basic trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
+A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the weaker the trademark. If the word actually *defines* the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
+
+**Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). 
+
+Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx). Think of names that highlight your competitive advantage (Duracell, Whole Foods) or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
+
+Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
+
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance for consumer products. Check out Dan Reeves at Messy Matters for [tech startup naming tips](http://messymatters.com/nominology/). 
+
+**Unique:** After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. The name can't be identical to competitors' names, and ideally shouldn't even be similar. Brainstorm 3 or 4 potential names and Google them (dig beyond the first page of results). If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 
 - - - 
 
-## The Relationship Between the Mark and Product is Central to Trademark Law.
+## Trademark Symbols: ™ and ®
 
-The TM Office frequently rejects applications. The two most common reasons for rejection are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
+Use the **™** symbol after an *unregistered* trademark. Use the **®** symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
+- - - 
+
+## Benefits of Trademark Registration
+
+Trademark law automatically grants a basic set of rights called "common law" trademark rights. These basic rights can be enhanced by securing a federal trademark registration. Registration is a big improvement over the default common law trademark rights.  A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
+
+[^1]: Registration is "*prima facie*" evidence; it creates a legal presumption that you are the true trademark owner. Although these presumptions can be overcome, they stack the litigation deck in your favor.
+
+<!-- http://www.trademarkpanda.com/why-register-your-trademark/ -->
+
+| Evidence | Description |
+| - | - | 
+Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
+Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
+Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
+| **Rights** | **Description** | 
+| - | - | 
+Nation-Wide Rights  |  Registration provides immediate nation-wide rights, while common law rights are limited to the particular towns and cities where the trademark is actually used.
+Counterfeit Imports  | With a trademark registration, you can have Customs [seize](https://www.sparkfun.com/news/1428) [counterfeit](https://www.facebook.com/notes/fluke-corporation/sparkfun-we-hear-you/10151978262765592) imports at the border.
+Incontestability  | After 5 years of registration, a trademark can become "incontestable." An incontestable registration cannot be cancelled (with some exceptions).
+Compensation  |  Infringing a registered trademark results in increased maximum penalties. It allows for treble (3x) damages, and forcing the infringer to pay your attorney's fees. 
+Psychological Benefits  | Registration provides an intangible psychological advantage, especially in front of a jury. 
+
+While basic "common law" trademark rights are granted automatically, registered trademark rights are far superior. Serious brands need to register their trademarks. 
+
+- - - 
+
+## A Trademark Can Be any Symbol that Identifies a Brand
+
+Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any* symbol that identifies a brand. For example, unique product packaging ("trade dress") can be trademarked, as well as sounds or jingles, and even a scent can (in theory) be trademarked. 
+
+### Trade Dress
+
+Trade dress is unique product packaging or product configurations that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
+
+
+For most businesses, a word and a logo will be enough of a trademark. 
+
+- - - 
+
+## Trademark Timeframes
+
+Trademark rights begin when you start using a trademark in commerce (to advertise and sell a product or service). Trademark rights expire (go abandoned) when you stop using the mark in commerce without any intent to restart. That is, a trademark will not expire because of a temporary suspension of a product, but it will expire on a permanent termination of a product or permanent name change. 
+
+- - - 
+
+## The Relationship Between the Mark and the Product is Central to Trademark Law.
+
+The two biggest hurdles to clear in the trademark registration process are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
 | **Word Mark** | **Design Mark** | **Goods/Services** | 
 | FED EX |  <img src="/images/tm-app/fedexlogo.png" style="max-width:75px;">  | Shipping | 
 | APPLE | <img src="/images/tm-app/applelogo.png" style="max-width:65px;"> | Computers| 
 | DROPBOX | <img src="/images/tm-app/dropboxlogo.png" style="max-width:65px;"> | Cloud Storage | 
-
-
 
 Trademark law focuses on the relationship between the "mark" (either word or design) and the "goods." The central question of all trademark law is "how well does the mark help consumers identify the company that sells the goods?" Both "distinctiveness" and "likelihood of confusion" stem from this question. 
  
@@ -68,7 +134,6 @@ The TM Office will compare your trademark to a database of existing trademark re
 The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing trademark registration. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
-
 
 
 ### TM Law: "Distinctiveness"
@@ -112,22 +177,6 @@ Here are some other distinctiveness traps to avoid:
 
 - - - 
 
-## Naming and Branding
-
-From a business perspective, branding concerns often outweigh trademark concerns. This section quickly touches on non-legal branding issues. 
-
-Think of a name that highlights your competitive advantage or describes an experience (YouTube, Kickstarter). Maybe use a verb?  (Sprint). 
-
-Names should be internet friendly. Is the .com domain available? Can you buy it? Is it SEO friendly? (i.e., will your company be the top spot in a Google search for the word?).  
-
-A name should be pronounceable, and use an intuitive spelling. 
-
-Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Coca-Cola, Krispy Kreme). 
-
-Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
-
-
-- - - 
 
 ## Clearance Search
 
@@ -143,7 +192,7 @@ Where to search? Start with google. Then move on to trademark databases. Three g
 
 The EU and WIPO databases are somewhat intuitive. The US database is old and confusing, so I'll offer some tips. Go to the [US TM Office Search page](http://tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk). You should see this: 
 
-<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png"></a>
+<a href="/images/tm-app/search-tess-trademarks.png"><img src="/images/tm-app/search-tess-trademarks.png" class="translucent"></a>
 
 Click on the "free form search" and try using this search pattern: 
 
@@ -161,10 +210,18 @@ Coders might recognize this type of search as a weird cousin of "regular express
 | 036[IC] | Searches for trademarks in International Class 36 | 
 | live[LD]  |  This limits your search results to live trademark registrations and applications.  |  
 
+Putting that together with an example: 
+
+    “Snackattack”[BI] AND “cupcakes”[GS] AND live[LD]
+
+This search string will look for any registered trademarks for the word "snackattack" as used on the product "cupcakes."
+
 _Database Timeouts_ - The US Trademark Database will timeout after  5 idle minutes, and then force you to start your search over again. This is a pain. 
 
-If you have carefully searched all 3 databases, and haven't found any prior registrations similar to your own trademark, its time to start the trademark application. 
 
+- - - 
+
+ 
 - - - 
 
 ## The Trademark Application Process

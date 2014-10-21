@@ -20,7 +20,7 @@ ul.toc {
 	}
 ul.toc li {
 	margin-left:2rem;
-	margin-top:5px;
+	margin-top:1rem;
 	list-style-type: circle;
 	// list-style-position: inside;
 }
@@ -48,7 +48,9 @@ A strong trademark is (a) unique and (b) distinctive rather than descriptive. A 
 
 Consider words that evoke aspects of your product without directly describing it (e.g., Fitbit, Pinterest, Oracle, Red Bull, Spanx). Think of names that highlight your competitive advantage (Duracell, Whole Foods) or evoke an experience (YouTube, Kickstarter, Nest). Consider verbs or verb-like words (Sprint, Pampers, Excel).  Make it memorable. Rhyme and repetition can help (FitBit, SoundCloud, Snapchat, Krispy Kreme, PayPal, Under Armour). 
 
-Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance. 
+Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
+
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance for consumer products. Check out Dan Reeves at Messy Matters for [tech startup naming tips](http://messymatters.com/nominology/). 
 
 **Unique:** After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. The name can't be identical to competitors' names, and ideally shouldn't even be similar. Brainstorm 3 or 4 potential names and Google them (dig beyond the first page of results). If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 
