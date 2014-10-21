@@ -14,7 +14,7 @@ share: true
 ---
 
 
-<p class="big-text">Video game designers can borrow inspiration, but they can't build clones. Unfortunately, it's not easy to draw the line. What's the difference between paying homage and plagiarism? When does a "fast follower" become an infringer? To answer these questions, we will need to navigate a maze of copyright law. Fortunately, we can follow the guidance of luminaries like Pac-Man, Donkey Kong and Ruth Bader-Ginsburg.</p>
+<p class="big-text">Video game designers can borrow inspiration, but they can't build clones. Unfortunately, it's often difficult to draw the line. What's the difference between paying homage and plagiarism? When does a "fast follower" become an infringer? To answer these questions, we will need to navigate a maze of copyright law following guidance from luminaries like Pac-Man, Donkey Kong and Ruth Bader-Ginsburg.</p>
 
 Copyright protects the original creative <em>expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits live or die based on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
@@ -22,17 +22,17 @@ Copyright protects the original creative <em>expression</em> of an idea, but nev
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
-The Copyright Office refused to register the copyright to Atari's Breakout, dismissing the game as a collection of functional rules and basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young (59) Ruth Bader-Ginsburg. Ginsburg appreciated the creativity involved in designing video games, and ordered the Copyright Office to give Atari its due. 
+The Copyright Office refused to register the copyright to Atari's Breakout, dismissing the game as a collection of functional rules and basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young (59) Ruth Bader-Ginsburg. 
 
-While simple shapes and colors are unprotectable, the *selection and arrangement* of simple shapes can be protected by copyright, especially when paired with sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by creative physics: 
+Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by creative physics: 
  
  > The ball's path in Breakout varies depending on which of four sections of the paddle it hits. Its trajectory does not follow from the laws of physics. [*Atari v. Oman*, 979 F.2d 242 (DC CA 1992)](http://scholar.google.com/scholar_case?case=11202168367195629653).
 
 Judge Ginsburg concludes that Breakout includes the types of creative expression that merits copyright protection, and cajoles the Copyright Office into approving Atari's copyright registration. 
 
- > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653)(edited for length).
+ > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653) (edited for length).
 
-**Takeaway**: While Breakout is a game of simple shapes and rules, the combination and arrangement of those shapes and rules was sufficiently creative to merit copyright protection, especially because the rules were based in fictional physics. On the other hand, games that rely more heavily on the laws of physics, like many realistic sports games, may merit weaker copyright protection.  
+**Takeaway**: While Breakout is a game of simple shapes and rules, the arrangement of those shapes was sufficiently creative to merit copyright protection, especially because the game-mechanics were based in fictional physics. On the other hand, games that rely more heavily on the laws of physics, like many realistic sports games, will merit weaker copyright protection.  
  
 <hr class="tall">
 
@@ -42,11 +42,9 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
 
 ## Infringement: Crazy Kong (1982)
 
-Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material (including the characters on the screen and the sound) that is virtually identical" to the Donkey Kong video game. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied everything. Making an identical close is copyright infringement.  
+Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied everything. Predictably, this is copyright infringement.  The more interesting copyright cases below involve games that make at least a minimal effort to differentiate themselves from the originals.
 
-**Takeaway**: identical copying is copyright infringement. 
-
-The more interesting copyright cases involve games that at least make a minimal effort to differentiate themselves from the originals.
+**Takeaway**: identical cloning is copyright infringement. 
 
 
 <hr class="tall">
