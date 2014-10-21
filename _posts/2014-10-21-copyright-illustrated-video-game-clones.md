@@ -1,8 +1,8 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Video Game Copyright Law Explained by Pac-Man, Zombie Chainsaw Decapitations, and Ruth Bader-Ginsburg"
-summary: "Copyright and the idea-expression dichotomy illustrated in video game clones."
+title: "Copyright Law Illustrated: Video Game Clones"
+summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, zombie decapitations, and Ruth Bader-Ginsburg."
 tags: [copyright, software]
 author: adler
 image:
@@ -14,9 +14,9 @@ share: true
 ---
 
 
-<p class="big-text">Video game designers can borrow inspiration, but they can't build clones. Unfortunately, it's often difficult to draw the line. What's the difference between paying homage and plagiarism? When does a "fast follower" become an infringer? To answer these questions, we will need to navigate a maze of copyright law following guidance from luminaries like Pac-Man, Donkey Kong and Ruth Bader-Ginsburg.</p>
+<p class="big-text">Video game copyright lawsuits can have weird results. For example, Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Video game designers that understand basic copyright law can develop games that are more difficult to clone, and also take inspiration from existing games without running afoul of copyright prohibitions.</p>
 
-Copyright protects the original creative <em>expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits live or die based on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
+Copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits live or die based on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg.png" class="medium-image">
 
