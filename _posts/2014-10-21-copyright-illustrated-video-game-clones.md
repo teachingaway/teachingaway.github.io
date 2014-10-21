@@ -1,8 +1,8 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Copyright Law Illustrated in Video Game Clones"
-summary: "The idea-expression dichotomy explained by Pac-Man, Donkey Kong and Ruth Bader-Ginsburg."
+title: "Video Game Copyrights Explained by Pac-Man, Donkey Kong, Zombie Chainsaw Decapitations and Ruth Bader-Ginsburg"
+summary: "Copyright and the idea-expression dichotomy illustrated in video game clones."
 tags: [copyright, software]
 author: adler
 image:
@@ -53,7 +53,7 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 ## K.C. Munchkin: Infringement (1982)
 
-K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The court first filtered out *scenes-a-fair* (i.e., stock video game elements):
+K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The court first filtered out *scènes à faire* (i.e., stock video game elements):
 
  > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K. C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
 
@@ -97,13 +97,13 @@ The creative elements of video games merit stronger copyright protections than t
 
 The court also excluded any "scènes à faire" elements (i.e., stock elements, cliches, stereotypes) from its copyright analysis:
 
- > Almost all of the games, for example, have a vitality bar that runs across the top of the video screen and changes color to indicate the percentage of strength the fighter has left. In addition, most of the games contain similar winner designations to indicate which fighter has won the round. Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable scènes à faire.... Consequently, they are not entitled to copyright protection. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/).
+ > Almost all of the games, for example, have a vitality bar that runs across the top of the video screen and changes color to indicate the percentage of strength the fighter has left. In addition, most of the games contain similar winner designations to indicate which fighter has won the round. Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable scènes à faire.... Consequently, they are not entitled to copyright protection. [*CapCom v. Data East*](/capcom-v-data-east/).
 
 The court also excluded game control sequences from its analysis under the "merger doctrine":  
 
- > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/).
+ > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East*)](/capcom-v-data-east/).
 
-Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/).
+Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." [*CapCom v. Data East*](/capcom-v-data-east/).
 
 Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, special moves and combos. 
 
