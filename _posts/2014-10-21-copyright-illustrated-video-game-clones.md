@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Video Game Copyrights Explained by Pac-Man, Donkey Kong, Zombie Chainsaw Decapitations and Ruth Bader-Ginsburg"
+title: "Video Game Copyrights Explained by Pac-Man, Zombie Chainsaw Decapitations and Ruth Bader-Ginsburg"
 summary: "Copyright and the idea-expression dichotomy illustrated in video game clones."
 tags: [copyright, software]
 author: adler
