@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Video Game Copyrights Explained by Pac-Man, Zombie Chainsaw Decapitations and Ruth Bader-Ginsburg"
+title: "Video Game Copyright Law Explained by Pac-Man, Zombie Chainsaw Decapitations, and Ruth Bader-Ginsburg"
 summary: "Copyright and the idea-expression dichotomy illustrated in video game clones."
 tags: [copyright, software]
 author: adler
@@ -22,7 +22,7 @@ Copyright protects the original creative <em>expression</em> of an idea, but nev
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
-The Copyright Office refused to register the copyright to Atari's Breakout, dismissing the game as a collection of functional rules and basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young (59) Ruth Bader-Ginsburg. 
+The Copyright Office refused to register the copyright to Atari's Breakout, dismissing the game as a collection of functional rules and basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young Ruth Bader-Ginsburg (59). 
 
 Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by creative physics: 
  
