@@ -14,7 +14,7 @@ share: true
 ---
 
 
-<p class="big-text">Video game copyright lawsuits can have weird results. For example, copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Video game designers that understand basic copyright law can develop games that are more difficult to clone, and also take inspiration from existing games without running afoul of copyright prohibitions.</p>
+<p class="big-text">At first glance, video game copyright law can seem arbitrary. For example, a court once decided that copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. However, there is some method to this madness. Video game designers that understand basic copyright law can develop games that are more difficult to clone, and also take inspiration from existing games without running afoul of copyright prohibitions.</p>
 
 Copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits turn on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
@@ -36,7 +36,6 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
  
 <hr class="tall">
 
-<img src="/images/copyright/kong-clones.jpg" class="medium-image">
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
@@ -190,6 +189,9 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 **Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, video game bloggers can apparently make a difference in copyright cases. 
 
 - - - 
+
+<img src="/images/copyright/kong-clones.jpg" class="medium-image">
+
 
 ## Conclusion
 
