@@ -18,7 +18,7 @@ share: true
 
 Copyright protects the original creative <em>expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits live or die based on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
-<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg.png/" class="medium-image">
+<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg.png" class="medium-image">
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
@@ -36,9 +36,9 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
  
 <hr class="tall">
 
-<img src="/images/copyright/kong-clones.jpg/" class="medium-image">
+<img src="/images/copyright/kong-clones.jpg" class="medium-image">
 
-<img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png/" class="medium-image">
+<img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
 ## Infringement: Crazy Kong (1982)
 
@@ -51,7 +51,7 @@ The more interesting copyright cases involve games that at least make a minimal 
 
 <hr class="tall">
 
-<img src="/images/copyright/kc-munchkin-copyright-infringement.jpg/" class="medium-image">
+<img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
 
 ## K.C. Munchkin: Infringement (1982)
 
@@ -69,7 +69,7 @@ Next we'll compare Pac-Man, a maze game with fictional characters, to a sports g
 
 <hr class="tall">
 
-<img src="/images/copyright/karate-champ-no-copyright-infringement.png/" class="medium-image">
+<img src="/images/copyright/karate-champ-no-copyright-infringement.png" class="medium-image">
 
 ## No Infringement of Karate Champ (1988)
 
@@ -88,7 +88,7 @@ Now let's look at a clone of Street Fighter II - a fighting game with a much loo
 
 <hr class="tall">
 
-<img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg/" class="medium-image">
+<img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg" class="medium-image">
 
 ## No Infringement of Street Fighter II (1994)
 
@@ -111,7 +111,7 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <hr class="tall">
 
-<img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg/" class="medium-image" >
+<img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
 ### No Infringement of Golden Tee Golf (2005)
 
@@ -132,7 +132,7 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 <hr class="tall">
 
-<img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg/" class="medium-image" >
+<img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
 
 ### Tetris Infringed by Mino (2012)
 
@@ -156,7 +156,7 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 <hr class="tall">
 
-<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg/" class="medium-image">
+<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
 ## No Infringement of Dawn of the Dead (2008)
  
@@ -169,7 +169,7 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 <hr class="tall">
 
-<img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg/" class="medium-image">
+<img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg" class="medium-image">
 
 ### Copyright Infringement in Triple Town v. Yeti Town (2012)
 
