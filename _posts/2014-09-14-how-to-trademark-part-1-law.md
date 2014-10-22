@@ -58,7 +58,7 @@ Consider words that evoke aspects of your product without directly describing it
 
 Names should be internet friendly. Is the .com domain available? Can you buy it at a reasonable price? Is the name SEO friendly?  A name should be pronounceable and use an intuitive spelling. Does it sound natural in a sentence like "I just tried [name] and now my life is so much better"? 
 
-Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance for consumer products. Check out Dan Reeves at Messy Matters for [tech startup naming tips](http://messymatters.com/nominology/). 
+Alexandra Watkins at [Eat My Words](http://eatmywords.com/tips/is-your-name-lame/#) offers great naming guidance for consumer products. [Dan Reeves' "Nominology"](http://messymatters.com/nominology/) article has more solid naming advice. He suggests reviewing names according to 7 dimensions: Evocativity, Brevity, Greppability, Googlability, Pronounceability, Spellability, and Verbability.
 
 **Unique:** After brainstorming a handful of strong potential trademarks, do a "clearance search" to see if anyone else is already using similar trademarks on similar products. The name can't be identical to competitors' names, and ideally shouldn't even be similar. Brainstorm 3 or 4 potential names and Google them (dig beyond the first page of results). If nothing turns up on Google, then search the [US Registered Trademark Database](tess2.uspto.gov/bin/gate.exe?f=login&p_lang=english&p_d=trmk).
 

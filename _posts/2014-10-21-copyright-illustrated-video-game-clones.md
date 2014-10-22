@@ -14,7 +14,7 @@ share: true
 ---
 
 
-<p class="big-text"><em>Your clones are very impressive. You must be very proud.</em> Obi Wan Kenobi.</p>
+<p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -Obi Wan Kenobi.</p>
 
 Video game copyright law seems arbitrary at first glance. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board in (6x6) was OK. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
 
