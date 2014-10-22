@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Copyright Law Illustrated: Video Game Clones"
+title: "Attack of the Clones: Video Game Litigation Illustrated"
 summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, zombie decapitations, and Ruth Bader-Ginsburg."
 tags: [copyright, software]
 author: adler
@@ -14,7 +14,7 @@ share: true
 ---
 
 
-<p class="big-text">At first glance, video game copyright law can seem arbitrary. For example, a court once decided that copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. However, there is some method to this madness. Video game designers that understand basic copyright law can develop games that are more difficult to clone, and also take inspiration from existing games without running afoul of copyright prohibitions.</p>
+<p class="big-text">At first glance, video game copyright law can seem arbitrary. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the 7 shapes of Tetris is infringement, but copying a zombie-chainsaw decapitation in a mall setting is not a problem. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help designers take inspiration from existing games without crossing the line into illegal cloning.</p>
 
 Copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits turn on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
@@ -41,9 +41,17 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
 
 ## Infringement: Crazy Kong (1982)
 
-Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied everything. Predictably, this is copyright infringement.  The more interesting copyright cases below involve games that make at least a minimal effort to differentiate themselves from the originals.
+Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied everything. Predictably, this is copyright infringement. 
 
-**Takeaway**: identical cloning is copyright infringement. 
+- "Puck Man", an identical clone of Pac-Man, was likewise found to be copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (1983)](http://scholar.google.com/scholar_case?case=3345463532258240978). 
+- "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F. 2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
+- "Scramble", an identical clone of "Scramble" was copyright infringement in [*Stern Electronics v. Kaufman*, 669 F.2d 852 (2nd Cir. 1982)](http://scholar.google.com/scholar_case?case=7204019639108685629). 
+
+**Takeaway**: Identical cloning is copyright infringement. 
+
+The more interesting copyright cases below involve games that make at least a minimal effort to differentiate themselves from the originals.
+
+
 
 
 <hr class="tall">
@@ -54,7 +62,7 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The court first filtered out *scènes à faire* (i.e., stock video game elements):
 
- > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K. C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
+ > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K.C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
 
 The court then looked at Pac-Man's creative expression. A maze-chase game "does not dictate the use of a 'gobbler' and 'ghost monsters.' Those characters are wholly fanciful creations, without reference to the real world." [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724). Finally, comparing only the protectable creative elements, the court found copyright infringement: 
 
@@ -81,7 +89,7 @@ As a result, there was no copyright infringement.  Epyx copied only the "idea" o
 **Takeaway**: There is no copyright protection for common video game karate moves like "upper-lunge punch", "back-foot sweep" and "squatting reverse punch wherein the heel is not on the ground." 
 
 
-Now let's look at a clone of Street Fighter II - a fighting game with a much looser basis in reality than World Karate.  
+Now let's look at a case involving Street Fighter II - a fighting game with a much looser basis in "reality."  
 
 <hr class="tall">
 
@@ -121,7 +129,7 @@ Before comparing the two golf games, the court filtered out the standard golf th
 
  > In presenting a realistic video golf game, one would, by definition, need golf courses, clubs, a selection menu, a golfer, a wind meter, etc. Sand traps and water hazards are a fact of life for golfers, real and virtual. The menu screens are standard to the video arcade game format, as are prompts showing the distance remaining to the hole. As such, the video display is afforded protection only from virtually identical copying. [*Incredible Tech. v. Virtual Tech.*](http://scholar.google.com/scholar_case?case=10633608556007842361). 
 
-Condescending golf announcers are apparently *scènes à faire*. Any golf game can use condescending announcers, but they can't copy the identical condescending phrases. PGA Tour didn't copy the phrases: 
+Condescending golf announcers are apparently *scènes à faire*. Any golf game can use condescending announcers, but they can't copy the identical condescending phrases. Fortunately for PGA Tour, it didn't copy the phrases: 
 
 > "the fairway would be over there" and "I don't think that's going to help a whole lot" in PGA Tour versus "That can only hurt," "You've got to be kidding," and "You can lead a ball to water but ..." from the Golden Tee announcers. [*Incredible Tech. v. Virtual Tech.*](http://scholar.google.com/scholar_case?case=10633608556007842361).
 
@@ -135,11 +143,11 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 Soon after college, Desiree Golden started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
 
- > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012). ](http://scholar.google.com/scholar_case?case=18064882260025243346).
+ > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
 She understood the law, but perhaps not how the law applied to Tetris. When she tried to draw the line between unprotectable game mechanics and protectable creative expression, she drew it in the wrong place, and granted herself far too much leeway to copy from Tetris. 
 
-Here's how the Tetris v. Xio court identified the unprotectable "rules" of Tetris: 
+Here's how the *Tetris v. Xio* court identified the unprotectable "rules" of Tetris: 
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. [*Tetris v. Xio*](http://scholar.google.com/scholar_case?case=18064882260025243346). 
 
@@ -187,6 +195,19 @@ Looking at the remaining protectable game elements, the court decided they were 
 The judge also defers to the opinion of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  In any event, this case was settled before a final decision was reached, and Yeti Town is no longer available in the app store. 
 
 **Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, video game bloggers can apparently make a difference in copyright cases. 
+
+<hr class="tall">
+
+<img src="/images/copyright/bang-v-lotk-copyright.jpg" class="medium-image">
+
+## Bang! Role Playing Card Game Copyrightable
+
+In a recent case involving non-video games, DaVinci's "Bang!" game accused Ziko's "Legend of the Three Kingdoms" of copyright infringement. The parties agreed that the game mechanics were identical, but the game art was entirely different: 
+
+> The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [Da Vinci v. Ziko Games (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
+
+The court determined that the Bang! game mechanics had copyrightable material, and the plaintiff's case survived summary judgment. However, the similarities were not strong enough to warrant a preliminary injunction. The court refused to grant an early order prohibiting Ziko's sale of the LoTK game in the US. 
+
 
 - - - 
 
