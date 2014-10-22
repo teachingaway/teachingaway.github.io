@@ -29,7 +29,9 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
 
 ## Utility Patent
 
-A utility patent secures the right to prevent other people from making, selling or importing a *new and useful technology* in the United States for a period of 20 years after the application date. It is the right to prevent other people from selling the technology, but it does not guarantee that the patent holder herself has the rights to sell the technology.   
+A US utility patent secures the right to prevent other people from making, selling or importing a *new and useful technology* in the United States for a period of 20 years after the application date. It is the right to prevent other people from selling the technology, but it does not guarantee that the patent holder herself has the rights to sell the technology.   
+
+Patents are national rights. A US patent does not automatically grant rights in any other countries. 
 
 <img src="/images/patent-drawings/fusion-hirsch-1970.png">
 
@@ -59,7 +61,7 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 *  **Novelty Search**. The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
 
-*  **Filing**. The patent attorney will draft and file your patent application. 
+*  **Filing**. The patent attorney will draft and file your patent application. Once filed, you can label your technology as "patent pending."  
 
 *  **Publication**. The patent application will be "published" 18 months after it's filed. If a provisional application was filed, the publication takes place 18 months after the provisional. Published patent application are available to the public on the USPTO's database. Publication can be delayed by filing a [non-publication request](/mpep/s1122/), but only if the inventor is sure that she does not want to seek patent protection in foreign countries.  
 
@@ -76,13 +78,13 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 ## Patent Lifespan 
 
-A US **utility patent** lasts for 20 years from the date of the earliest non-provisional patent application. 
+**Utility Patent Lifespan** A US utility patent lasts for 20 years from the date of the earliest non-provisional patent application. 
 
-**Patent Term Adjustment.** Since a patent lifespan is 20 years starting from the *application date*, the longer the application is pending at the Patent Office, the shorter the actual patent lifespan. If the patent application process is delayed the Patent Office may extend the life of the issued patent. [MPEP 2700](/mpep/mpep-2700.html/)
+**Patent Term Adjustment.** The 20 year patent lifespan starts from the *application date*. This means the longer the application is pending at the Patent Office, the shorter the actual patent lifespan. If the patent application process is delayed, applicants can ask the the Patent Office to extend the life of the issued patent. [MPEP 2700](/mpep/mpep-2700.html/).
 
 **Maintenance Fees**. The US Patent Office requires three maintenance fees to be paid: at 3.5 years, 7.5 years, and 11.5 years after the patent's issue date. Failure to pay will result in early expiration. [MPEP 2500](/mpep/mpep-2500.html).
 
-A US **design patent** lasts for 15 years from the issue date. There are no maintenance fees to pay. 
+**Design Patent Lifespan**. A US design patent lasts for 15 years from the issue date. There are no maintenance fees to pay. 
 
 <img src="/images/patent-drawings/bottle-washing-machine-1907.jpg">
 
