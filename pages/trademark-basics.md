@@ -11,6 +11,7 @@ image:
 
 <p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Put differently, trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>. A trademark can be any name, image or slogan used to identify a company. </p>
 
+<!-- 
 <style>
 ul.toc {
 	background-color: #f2f2f2;
@@ -23,6 +24,7 @@ ul.toc li {
 	// list-style-position: inside;
 }
 </style>
+ -->
 
 <ul class="toc">
 <strong>Contents</strong>
