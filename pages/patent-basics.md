@@ -17,12 +17,12 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
 <strong>Contents</strong>
 <li>Types of Patents</li>
  <ul>
- <li>[Utility Patent](#utility-patent)</li>
- <li>[Provisional Patent](#provisional-patent)</li>
- <li>[Design Patents](#design-patents)</li>
- <li>[Plant Patents](#plant-patents)</li>
+ <li><a href="#utility-patent">Utility Patent</a></li>
+ <li><a href="#provisional-patent">Provisional Patent</a></li>
+ <li><a href="#design-patents">Design Patents</a></li>
+ <li><a href="#plant-patents">Plant Patents</a></li>
  </ul>
-<li>[Patent Application Process](#patent-application-process)</li>
+<li><a href="#patent-application-process">Patent Application Process</a></li>
 </ul>
 
 
