@@ -73,7 +73,20 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 - - - 
 
- 
+## Patent Lifespan 
+
+A US **utility patent** lasts for 20 years from the date of the earliest non-provisional patent application. 
+
+**Patent Term Adjustment.** Since a patent lifespan is 20 years starting from the *application date*, the longer the application is pending at the Patent Office, the shorter the actual patent lifespan. If the patent application process is delayed the Patent Office may extend the life of the issued patent. [MPEP 2700](/mpep/mpep-2700.html/)
+
+**Maintenance Fees**. The US Patent Office requires three maintenance fees to be paid: at 3.5 years, 7.5 years, and 11.5 years after the patent's issue date. Failure to pay will result in early expiration. [MPEP 2500](/mpep/mpep-2500.html).
+
+A US **design patent** lasts for 15 years from the issue date. There are no maintenance fees to pay. 
+
+
+
+
+- - -  
 
 ## The [MPEP](../mpep/index.html) in Jekyll. 
 The Manual of Patent Examination Procedure is the guide US patent examiners use to review patent applications. It's a huge book, and the USPTO's web interface is pretty bad, so we made this [MPEP website](../mpep/index.html).
