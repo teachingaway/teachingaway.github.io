@@ -16,7 +16,7 @@ share: true
 
 <p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -Obi Wan Kenobi.</p>
 
-Video game copyright law seems arbitrary at first glance. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board in (6x6) was OK. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
+Video game copyright law seems arbitrary at first glance. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was OK. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
 
 Critically, copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Since video games are collections of ideas and expressions, video game copyright lawsuits turn on whether the clone copied "creative expression" from the original game or just the unprotectable ideas. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
@@ -200,13 +200,13 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 
 <hr class="tall">
 
-<img src="/images/copyright/bang-v-lotk-copyright.jpg" class="medium-image">
+<img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
 ## Bang! Role Playing Card Game Copyrightable
 
-In a recent case involving non-video games, DaVinci's "Bang!" game accused Ziko's "Legend of the Three Kingdoms" of copyright infringement. The parties agreed that the game mechanics were identical, but the game art was entirely different: 
+A recent case involving non-video games further solidifies the idea that game mechanics are copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
 
-> The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [Da Vinci v. Ziko Games (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
+> The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
 
 The court determined that the Bang! game mechanics had copyrightable material, and the plaintiff's case survived summary judgment. However, the similarities were not strong enough to warrant a preliminary injunction. The court refused to grant an early order prohibiting Ziko's sale of the LoTK game in the US. 
 
@@ -233,6 +233,6 @@ Video game copyright cases turn on whether the clone copied "functional" element
 
 **Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock elements or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all unprotectable *scènes à faire*. (It's Frech for "that which must be done"). 
 
-The copyright infringement analysis is more an art than a science. For example, the size of the game board in Tetris (10x20) was copyrightable "expression" while the size of the game board in Triple Town (6x6) was an unprotectable "functional" game mechanic. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
+The copyright infringement analysis is more an art than a science. Why is the size of the Tetris game board in Tetris (10x20) copyrightable "expression" while the size of the  Triple Town game board (6x6) an unprotectable "functional" element? There's no good answer. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
 
