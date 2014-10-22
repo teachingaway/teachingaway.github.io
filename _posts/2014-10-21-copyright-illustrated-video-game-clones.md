@@ -16,7 +16,7 @@ share: true
 
 <p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -Obi Wan Kenobi.</p>
 
-Video game copyright law seems arbitrary at first glance. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was OK. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
+Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. While video game copyright law may seem arbitrary, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
 
 Critically, copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Since video games are collections of ideas and expressions, video game copyright lawsuits turn on whether the clone copied "creative expression" from the original game or just the unprotectable ideas. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
@@ -233,6 +233,6 @@ Video game copyright cases turn on whether the clone copied "functional" element
 
 **Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock elements or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all unprotectable *scènes à faire*. (It's Frech for "that which must be done"). 
 
-The copyright infringement analysis is more an art than a science. Why is the size of the Tetris game board in Tetris (10x20) copyrightable "expression" while the size of the  Triple Town game board (6x6) an unprotectable "functional" element? There's no good answer. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
+The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
 
