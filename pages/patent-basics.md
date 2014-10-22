@@ -13,6 +13,18 @@ share:
 
 Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A _design patent_ is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "_provisional_" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
 
+<ul class="toc">
+<strong>Contents</strong>
+<li>Types of Patents</li>
+ <ul>
+ <li>[Utility Patent](#utility-patent)</li>
+ <li>[Provisional Patent](#provisional-patent)</li>
+ <li>[Design Patents](#design-patents)</li>
+ <li>[Plant Patents](#plant-patents)</li>
+ </ul>
+<li>[Patent Application Process](#patent-application-process)</li>
+</ul>
+
 
 ## Utility Patent
 
@@ -42,19 +54,22 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 
 ## Patent Application Process
 
-* The inventor fills out a detailed "invention disclosure form" describing the new technology. It's often helpful to describe the invention invention in terms of problem-and-solution. Describe the problem the invention solves, and then carefully describe the details of how the invention solves this problem. 
+* **Invention Disclosure**. The inventor fills out a detailed "invention disclosure form" describing the new technology. It's often helpful to describe the invention invention in terms of problem-and-solution. Describe the problem the invention solves, and then carefully describe the details of how the invention solves this problem. 
 
-*  The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
+*  **Novelty Search**. The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
 
-*  The patent attorney will draft and file your patent application. 
+*  **Filing**. The patent attorney will draft and file your patent application. 
 
-*  The patent application will be "published" 18 months after it's filed. If a provisional application was filed, the publication takes place 18 months after the provisional. Published patent application are available to the public on the USPTO's database. Publication can be delayed by filing a [non-publication request](/mpep/s1122/), but only if the inventor is sure that she does not want to seek patent protection in foreign countries.  
+*  **Publication**. The patent application will be "published" 18 months after it's filed. If a provisional application was filed, the publication takes place 18 months after the provisional. Published patent application are available to the public on the USPTO's database. Publication can be delayed by filing a [non-publication request](/mpep/s1122/), but only if the inventor is sure that she does not want to seek patent protection in foreign countries.  
 
-*  About 2 years after the application is filed, the a USPTO Patent Examiner will review the application. The Patent Examiner will generally issue an "Office Action" rejecting the application based on prior art. If the Patent Examiner finds a prior art document that describes the exact invention, she will reject the application under § 102 as [anticipated](../mpep/s2131/) by the prior art. MPEP 2131.  If the Patent Examiner can't find prior art describing the exact invention, but can find a handful of related prior art patents that, in combination, describe the invention, then she will reject the application as [obvious](../mpep/s2141/) under § 103. MPEP 2141. 
+*  **Office Actions**. About 2 years after the application is filed, the a USPTO Patent Examiner will review the application. The Patent Examiner will generally issue an "Office Action" rejecting the application based on prior art. If the Patent Examiner finds a prior art document that describes the exact invention, she will reject the application under § 102 as [anticipated](../mpep/s2131/) by the prior art. MPEP 2131.  If the Patent Examiner can't find prior art describing the exact invention, but can find a handful of related prior art patents that, in combination, describe the invention, then she will reject the application as [obvious](../mpep/s2141/) under § 103. MPEP 2141. 
 
-* The patent attorney can reply to the Office Action by pointing out errors in the Patent Examiner's reasoning or by amending the patent application to claim parts of the invention not described by the prior art. In general, no new material can be added to a patent application after it's filed.  If new material is necessary, the Patent Attorney must file a "continuation in part" application. This resets the clock on prior art, expanding the prior art pool to include more recent documents. 
+* **Patent Prosecution**. The patent attorney can reply to the Office Action by pointing out errors in the Patent Examiner's reasoning or by amending the patent application to claim parts of the invention not described by the prior art. In general, no new material can be added to a patent application after it's filed.  If new material is necessary, the Patent Attorney must file a "continuation in part" application. This resets the clock on prior art, expanding the prior art pool to include more recent documents. 
 
-* If the Patent Examiner cannot find any prior art, she will allow the claims. The inventor pays an "issue fee" and the patent application is on its way to becoming a full patent. 
+* **Allowance and Issue**. If the Patent Examiner cannot find any prior art, she will allow the claims. The inventor pays an "issue fee" and the patent application is on its way to becoming a full patent. 
+
+
+<img src="/images/patent-drawings/3d-printer-1994.png">
 
 - - - 
 

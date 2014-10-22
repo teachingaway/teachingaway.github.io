@@ -21,21 +21,7 @@ This two-part post teaches the basics of trademark law and how to register a tra
 The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website complicates this simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
 
 
-
-<style>
-ul.toc {
-	background-color: #f2f2f2;
-	max-width:85%;
-	}
-ul.toc li {
-	margin-left:2rem;
-	margin-top:.75rem;
-	list-style-type: circle;
-}
-</style>
-
 <ul class="toc">
-<strong>Contents</strong>
 <li><a href="#selecting-a-name">Selecting a Name</a></li>
 <li><a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a></li>
 <li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
