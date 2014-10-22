@@ -1,9 +1,9 @@
 ---
 layout: page
 permalink: /patent-basics/
-title: "Patent law basics"
+title: "Patent Law Basics"
 modified: 2014-06-04 20:33
-tags: [patent, intellectual property law]
+tags: [patent]
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
   credit:
