@@ -23,6 +23,7 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
  <li><a href="#plant-patents">Plant Patents</a></li>
  </ul>
 <li><a href="#patent-application-process">Patent Application Process</a></li>
+<li><a href="#patent-lifespan">Patent Lifespan</a></li>
 </ul>
 
 
@@ -83,7 +84,7 @@ A US **utility patent** lasts for 20 years from the date of the earliest non-pro
 
 A US **design patent** lasts for 15 years from the issue date. There are no maintenance fees to pay. 
 
-
+<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg">
 
 
 - - -  
