@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Attack of the Clones: Video Game Litigation Illustrated"
+title: "Clones Wars: Video Game Litigation Illustrated"
 summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, zombie decapitations, and Ruth Bader-Ginsburg."
 tags: [copyright, software]
 author: adler
@@ -14,9 +14,11 @@ share: true
 ---
 
 
-<p class="big-text">At first glance, video game copyright law can seem arbitrary. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the 7 shapes of Tetris is infringement, but copying a zombie-chainsaw decapitation in a mall setting is not a problem. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help designers take inspiration from existing games without crossing the line into illegal cloning.</p>
+<p class="big-text">Your clones are very impressive. You must be very proud. ~Obi Wan Kenobi.</p>
 
-Copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Video game copyright lawsuits turn on whether or not the clone copied "creative expression" from the original game. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
+Video game copyright law seems arbitrary at first glance. Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the 7 shapes of Tetris is infringement, but copying a zombie-chainsaw decapitation is not a problem. While the rules aren't perfect, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
+
+Critically, copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Since video games are collections of ideas and expressions, video game copyright lawsuits turn on whether the clone copied "creative expression" from the original game or just the unprotectable ideas. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
