@@ -202,7 +202,7 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 
 <img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
-## Bang! Role Playing Card Game Copyrightable
+## Bang! Role Playing Card Game Copyrightable (2014)
 
 A recent case involving non-video games further solidifies the idea that game mechanics are copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
 
