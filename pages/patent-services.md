@@ -13,6 +13,7 @@ share:
 
 Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A _design patent_ is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "_provisional_" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
 
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png">
 
 ## Utility Patent
 
@@ -27,12 +28,17 @@ $7,500- $10,000 | software patent application of average complexity
 
 The total patent application costs depend on a number of factors. If you provide a detailed, well organized invention disclosure, the application process will require less drafting time from the patent attorney, and will result in lower costs to you. 
 
+<img src="/images/patent-drawings/jet-engine-whittle-1946.png">
+
 
 ## Provisional Patents
 
 A provisional patent application is a temporary patent application that nails down a filing date at the Patent Office. If an inventor files a full utility patent application within 1 year after the provisional, the later full application will be treated as though it was filed on the date of the earlier provisional application. 
 
 There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
+
+
+<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png">
 
 ## Design Patents
 
