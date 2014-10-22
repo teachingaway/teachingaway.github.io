@@ -50,6 +50,8 @@ ul.toc li {
 
 ## Selecting a Name
 
+> There are only two hard problems in Computer Science: cache invalidation and naming things.  -- Phil Karlton
+
 A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the weaker the trademark. If the word actually *defines* the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
 
 **Distinctive:** Pick a name that does *not* directly describe your product. Trademark law gives the strongest protection to words that are either made-up (like Xerox, Spotify), or words thats entirely unrelated to your product (e.g.,  Apple, Uber, Caterpillar). 
