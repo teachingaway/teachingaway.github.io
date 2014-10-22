@@ -14,7 +14,7 @@ share: true
 ---
 
 
-<p class="big-text">Copyright protects the creative <em>expression</em> of an idea, but never the <em>idea itself</em>. Copying ideas is always allowed, but copying expression may not be. However, copying expression is allowed if the copy is <em>fair use</em>. Exploring some copyright and appropriation art cases can help solidify these nebulous concepts. </p>
+<p class="big-text">Copyright protects the creative <em>expression</em> of an idea, but never the <em>idea itself</em>. Copying ideas is always allowed, but copying expression is generally prohibited. However, copying expression will still be allowed if the copy is <em>fair use</em>. Exploring some copyright and appropriation art cases can help solidify these nebulous concepts. </p>
 
 Copyright protects creative expression, but not ideas. Lawyers and pedants call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. We call this the **merger rule**. Also, copyright does not protect cliches. Lawyers call this the **scenes a faire** doctrine. 
 
