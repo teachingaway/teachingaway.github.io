@@ -19,6 +19,7 @@ share: true
 Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger knee' was totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. Copyright law can seem arbitrary, but I think there is *some* method to this madness. 
 
 <ul class="toc">
+<p><strong>Contents</strong></p>
 <li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid</a></li>
 <li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
 <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
@@ -138,7 +139,7 @@ The court also excluded any "scènes à faire" elements (i.e., stock elements, c
 
 The court also excluded game control sequences from its analysis under the "merger doctrine":  
 
- > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East*)](/capcom-v-data-east/).
+ > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East*](/capcom-v-data-east/).
 
 Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." [*CapCom v. Data East*](/capcom-v-data-east/).
 
@@ -264,18 +265,41 @@ Video game copyright cases turn on whether the clone copied "functional" element
 
 The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
+
+<img src="/images/copyright/frogger-clones.jpg" class="medium-image">
+
+
 # How to Prevent Cloning
 
-**Copyright Registration**. First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). Register several copyrights covering several different aspects of your game, including the code itself and any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
+## Copyright Registration. 
 
-You can even register copyrights *before* you publish your game, to avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
+First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). Register several copyrights covering several different aspects of your game, including the code itself and any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
 
-**Trademark Registration**. Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
+You can even register copyrights before you publish your game, to avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
 
-We discuss [trademark law in detail](/trademark-basics/), and offer a [walkthrough of the trademark registration process](http://adlervermillion.com/how-to-trademark-part-2-registration-guide/). 
+## Trademark Registration. 
 
-**Patents**. Third, consider patents. This is the most expensive option, but if you are building a truly new and innovative game, a small patent portfolio may be a worthwhile investment. 
+Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
+
+The trademark registration should describe your game play in some detail in its "description of goods and services." A similar-sounding name along side an exact match of the goods and services can be powerful clone deterrent. 
+
+We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](http://adlervermillion.com/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
+
+## Trade Dress
+A trademark registration for the game's "trade dress" can also be useful. Trade Dress can protects a product's packaging as well as a product's unique-and-non-functional shape or appearance.  Tetris was able to leverage it's trade dress in its case against Mino. However, trade dress is a tricky area of law, and should be approached with caution. 
+
+<img src="/images/trademark/tetris-trade-dress-registration.png" class="translucent">
+
+## Patents
+
+Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. If you pay extra to expedite the filing, a patent can issue in just under 1 year. 
+
+For small mobile games, patents may be too expensive. However, if you are building a truly new and innovative game, a small patent portfolio may still be a worthwhile investment. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
 
 <img src="/images/patent-drawings/pong-patent-1972.png">
 
-Finally, remember that an aggressive legal approach can backfire. Consider a public relations campaign before, or in tandem with, any legal action. 
+## Public Relations
+
+Finally, remember that an aggressive legal approach can backfire. Consider a public relations campaign before, or in tandem with, any legal action. A carefully worded copyright infringement letter from a lawyer can be powerful. The letter should accurately describe the law and similarities between the games, and politely (but firmly) demand that the clone be removed from the app store. A cease and desist letter could also suggest changes that the copier could make to the game to avoid an infringement lawsuit. 
+
+For iOS, You can submit a claim through Apple's [iTunes Content Dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/) form. For Android, submit through Google's [Legal Removal Requests](https://support.google.com/legal) page.

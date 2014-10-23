@@ -12,7 +12,7 @@ share:
 This material comes from the [US Copyright Office's "Copyright Compendium"](http://copyright.gov/comp3/comp-index.html),  2014 draft edition. The following sections are relevant to video game copyright registrations. 
 
 <ul class="toc">
-<strong>Contents</strong>
+<p><strong>Contents</strong></p>
 <li><a href="#games">714 Games as Literary Works</a></li>
 <li><a href="#performing-arts">807.7 Video Games as Works of "Performing Arts"</a></li>
 <li><a href="#visual-art-works">900 Visual Art Works</a></li>
