@@ -16,9 +16,35 @@ share: true
 
 <p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -- Obi Wan Kenobi.</p>
 
-Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. While copyright law can appear arbitrary, there is some method to the madness. 
+Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger knee' was totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. Copyright law can seem arbitrary, but I think there is *some* method to this madness. 
 
-Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. Copyright law prohibits copying the *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Since examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
+<ul class="toc">
+<li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid</a></li>
+<li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
+<li><a href="#kc-munchkin-infringement-1982">Pac Man v. KC Munchkin: Copying Creative Expression is Infringement (1982)</a></li>
+<li><a href="#sport-simulation-games">The Problem of Sport Simulation Game Copying</a></li>
+<ul> 
+ <li><a href="#no-infringement-of-karate-champ-1988">Karate Champ (1988)</a></li>
+ <li><a href="#no-infringement-of-street-fighter-ii-1994">Street Fighter II (1994)</a></li>
+ <li><a href="#no-infringement-of-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
+</ul>
+<li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
+<li><a href="#no-infringement-of-dawn-of-the-dead-2008">Dawn of the Dead (2008)</a></li>
+<li><a href="#copyright-infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
+<li><a href="#bang-role-playing-card-game-copyrightable-2014">Game Mechanics Copyrightable: Bang! v. LOTK (2014)</a></li>
+<li><a href="#conclusion">Conclusion </a></li>
+<li><a href="#how-to-prevent-cloning"><strong>How to Prevent Cloning</strong></a></li>
+</ul>
+
+- - - 
+
+## Idea vs. Expression 
+
+Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. Copyright law prohibits copying the *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the idea of a platformer.  Doom can be copyrighted, but  the idea of a first-person shooter is public domain. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game cannot. 
+
+Games vs. genres is a useful starting point, but its not a sharp enough tool to separate *idea* from *expression*, especially if we start to define narrow sub-genres. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. 
+
+Since examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
@@ -43,13 +69,15 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
 
 ## Infringement: Crazy Kong (1982)
 
-Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied everything. Predictably, this is copyright infringement. 
+Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
-- "Puck Man", an identical clone of Pac-Man, was likewise found to be copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (1983)](http://scholar.google.com/scholar_case?case=3345463532258240978). 
+- "Puck Man", an identical clone of Pac-Man, was likewise found to be copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (1983)](http://scholar.google.com/scholar_case?case=3345463532258240978). Artic just copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681).
 - "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F. 2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
 - "Scramble", an identical clone of "Scramble" was copyright infringement in [*Stern Electronics v. Kaufman*, 669 F.2d 852 (2nd Cir. 1982)](http://scholar.google.com/scholar_case?case=7204019639108685629). 
 
 **Takeaway**: Identical cloning is copyright infringement. 
+
+- - - 
 
 The more interesting copyright cases involve games that make at least a minimal effort to differentiate themselves from the originals. To explore these cases, you will need a bit of legalese. Remember that copyright protects creative expression, but not ideas. Lawyers call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Also, copyright does not protect cliches. This is the **scènes à faire** doctrine. 
 
@@ -73,6 +101,8 @@ The court then looked at Pac-Man's creative expression. A maze-chase game "does 
 Next we'll compare Pac-Man, a maze game with fictional characters, to a sports game rooted in non-fiction themes and physics. 
 
 <hr class="tall">
+
+## Sport Simulation Games
 
 <img src="/images/copyright/karate-champ-no-copyright-infringement.png" class="medium-image">
 
@@ -206,8 +236,7 @@ A recent case involving non-video games further solidifies the idea that game me
 
 > The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
 
-The court determined that the Bang! game mechanics had copyrightable material, and the plaintiff's case survived summary judgment. However, the similarities were not strong enough to warrant a preliminary injunction. The court refused to grant an early order prohibiting Ziko's sale of the LoTK game in the US. 
-
+Drawing heavily on recent video game cases, the judge decided that the Bang! game mechanics had copyrightable material, but issued a split order. The judge let the plaintiff’s claim survive an early motion to dismiss the case, but decided that the similarities were not strong enough to warrant a “preliminary injunction.” That is, the judge refused to grant an early order prohibiting Ziko’s sale of the LoTK game in the US. The case is ongoing (as of October 2014), so we will keep watching.
 
 - - - 
 
@@ -233,4 +262,16 @@ Video game copyright cases turn on whether the clone copied "functional" element
 
 The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
+# How to Prevent Cloning
 
+**Copyright Registration**. First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). I'd suggest registration of several copyrights to cover several different aspects of your game, including any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
+
+You can even register copyrights before you publish your game, to avoid a scenario like [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer). 
+
+**Trademark Registration**. Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
+
+**Patents**. Third, consider patents. This is the most expensive option, but if you are building a truly new and innovative game, a small patent portfolio may be a worthwhile investment. 
+
+<img src="/images/patent-drawings/pong-patent-1972.png">
+
+Finally, remember that an aggressive legal approach can backfire. 
