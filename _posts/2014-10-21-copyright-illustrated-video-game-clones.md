@@ -25,8 +25,7 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 <li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid</a></li>
 <li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
 <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
-
-
+<li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
 <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
 <li><a href="#sport-simulation-games">Sports Simulation Games</a></li>
 <ul> 
@@ -109,6 +108,26 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
 
+<hr class="tall">
+
+
+<img src="/images/copyright/midway-galaxian-v-bandai-galaxian.jpg" class="medium-image">
+
+## Galaxian v. Galaxian: Infringement (1982)
+
+Midway made the arcade game *Pac-Man*, and Bandai cloned it with the handheld *Packri Monster*. Midway made the arcade game *Galaxian*, and Bandai cloned it with a handheld game called... *Galaxian*. Let's talk about the Galaxian copyright. 
+
+In his copyright analysis, the judge first separated the unprotectable *idea* of the Galaxian game from its expression. 
+
+> Here, the idea of Midway's Galaxian is relatively simple and easily expressed: it is an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player's ship. With the idea of Midway's Galaxian thus identified, it is clear that Midway's copyright does not in the least preclude the creation of an entire universe of other space video games (e.g., Space Invaders) based on the same, unprotected idea. It is also clear that, in expressing its version of the game idea, there was no necessity for Bandai to mimic Midway's expression of this idea which involves such elements as the particular insectile shape of the aliens, their movements, and the musical theme. [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+
+After filtering out the unprotectable idea, the judge then compared the copyrightable expression. It decided that the "musical themes of the two Galaxian games are fundamentally identical."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+
+Likewise, the aliens were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+
+Finally, the court looked at the game play of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship." [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+
+The judge did not actually decide the copyright issue in this case, but from his language, he seemed inclined to find infringement. 
 
 <hr class="tall">
 
@@ -126,6 +145,7 @@ The court then looked at Pac-Man's creative expression. A maze-chase game "does 
  > The K.C. Munchkin gobbler has several blatantly similar features, including the relative size and shape of the “body,” the V-shaped “mouth,” its distinctive gobbling action (with appropriate sounds), and especially the way in which it disappears upon being captured. An examination of the K.C. Munchkin ghost monsters reveals even more significant visual similarities. In size, shape, and manner of movement, they are virtually identical to their Pac-Man counterparts. K.C. Munchkin’s monsters, for example, exhibit the same peculiar “eye” and “leg” movement. Both games, moreover, express the role reversal and “regeneration” process with such great similarity that an ordinary observer could conclude only that North American copied plaintiffs’ Pac-Man. [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724).
 
 **Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the creative expression of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. Since K.C. Munchkin copied these protectable elements, it was infringing the Pac-Man copyright. 
+
 
 Next we'll compare Pac-Man, a maze game with fictional characters, to a sports game rooted in non-fiction themes and physics. 
 
