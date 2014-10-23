@@ -143,6 +143,12 @@ h4 {
 	margin-left:2rem;
 	margin-top:.75rem;
 	list-style-type: circle;
+	a {
+	    border-bottom:none;
+   	    &:hover {
+   	        border-bottom: 1px dotted lighten(@link-color, 30);
+   	        }
+	    }
     }
     
 .entry-content ul.toc ul {padding-left:1rem;}

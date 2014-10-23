@@ -21,17 +21,17 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 <ul class="toc">
 <li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid</a></li>
 <li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
-<li><a href="#kc-munchkin-infringement-1982">Pac Man v. KC Munchkin: Copying Creative Expression is Infringement (1982)</a></li>
-<li><a href="#sport-simulation-games">The Problem of Sport Simulation Game Copying</a></li>
+<li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
+<li><a href="#sport-simulation-games">Sports Simulation Games</a></li>
 <ul> 
  <li><a href="#no-infringement-of-karate-champ-1988">Karate Champ (1988)</a></li>
  <li><a href="#no-infringement-of-street-fighter-ii-1994">Street Fighter II (1994)</a></li>
  <li><a href="#no-infringement-of-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
 </ul>
-<li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
 <li><a href="#no-infringement-of-dawn-of-the-dead-2008">Dawn of the Dead (2008)</a></li>
+<li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
 <li><a href="#copyright-infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
-<li><a href="#bang-role-playing-card-game-copyrightable-2014">Game Mechanics Copyrightable: Bang! v. LOTK (2014)</a></li>
+<li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Game Mechanics can be Copyrightable (2014)</a></li>
 <li><a href="#conclusion">Conclusion </a></li>
 <li><a href="#how-to-prevent-cloning"><strong>How to Prevent Cloning</strong></a></li>
 </ul>
@@ -167,6 +167,18 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 <hr class="tall">
 
+<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
+
+## No Infringement of Dawn of the Dead (2008)
+ 
+Capcom's Dead Rising game took inspiration from George Romero's 1979 zombie classic "Dawn of the Dead." In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
+
+Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
+
+**Takeaway**: Using chainsaws to kill zombies is scènes à faire; its cliche, not creative copyrightable expression. 
+
+<hr class="tall">
+
 <img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
 
 ### Tetris Infringed by Mino (2012)
@@ -189,17 +201,7 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 **Takeaway**: Don't get your legal advice from blogs?
 
-<hr class="tall">
 
-<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
-
-## No Infringement of Dawn of the Dead (2008)
- 
-Capcom's Dead Rising game took inspiration from George Romero's 1979 zombie classic "Dawn of the Dead." In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
-
-Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
-
-**Takeaway**: Using chainsaws to kill zombies is scènes à faire; its cliche, not creative copyrightable expression. 
 
 
 <hr class="tall">
@@ -264,14 +266,16 @@ The copyright infringement analysis is more an art than a science. The line betw
 
 # How to Prevent Cloning
 
-**Copyright Registration**. First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). I'd suggest registration of several copyrights to cover several different aspects of your game, including any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
+**Copyright Registration**. First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). Register several copyrights covering several different aspects of your game, including the code itself and any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
 
-You can even register copyrights before you publish your game, to avoid a scenario like [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer). 
+You can even register copyrights *before* you publish your game, to avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
 
 **Trademark Registration**. Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
+
+We discuss [trademark law in detail](/trademark-basics/), and offer a [walkthrough of the trademark registration process](http://adlervermillion.com/how-to-trademark-part-2-registration-guide/). 
 
 **Patents**. Third, consider patents. This is the most expensive option, but if you are building a truly new and innovative game, a small patent portfolio may be a worthwhile investment. 
 
 <img src="/images/patent-drawings/pong-patent-1972.png">
 
-Finally, remember that an aggressive legal approach can backfire. 
+Finally, remember that an aggressive legal approach can backfire. Consider a public relations campaign before, or in tandem with, any legal action. 
