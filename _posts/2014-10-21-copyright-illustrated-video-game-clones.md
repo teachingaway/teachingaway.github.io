@@ -38,7 +38,7 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 <li><a href="#copyright-infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
 <li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Game Mechanics are Copyrightable (2014)</a></li>
 <li><a href="#conclusion">Conclusion </a></li>
-<li><a href="#how-to-prevent-cloning"><strong>How to Prevent Cloning</strong></a></li>
+<li><a href="#how-to-prepare-for-the-clones"><strong>How to Prevent Cloning</strong></a></li>
 </ul>
 
 - - - 
