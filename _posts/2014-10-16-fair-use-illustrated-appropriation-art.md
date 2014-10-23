@@ -16,15 +16,11 @@ share: true
 
 <p class="big-text">Copyright protects the creative <em>expression</em> of an idea, but never the <em>idea itself</em>. Copying ideas is always allowed, but copying expression is generally prohibited. However, copying expression will still be allowed if the copy is <em>fair use</em>. Exploring some copyright and appropriation art cases can help solidify these nebulous concepts. </p>
 
-Copyright protects creative expression, but not ideas. Lawyers and pedants call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. We call this the **merger rule**. Also, copyright does not protect cliches. Lawyers call this the **scenes a faire** doctrine. 
-
 Fair use comes up in many types of copyright cases, but "appropriation art" cases are often the most interesting. In appropriation art cases, some creative expression has been copied, but the copying will not be infringement if the new art *transforms* the original. If the secondary use adds value to the original–if the quoted matter is used as raw material, transformed in the creation of new information, new aesthetics, new insights and understandings—then it's type of activity that the fair use doctrine protects for the enrichment of society. [Toward a Fair Use Standard, Pierre Leval](http://www.yalelawtech.org/wp-content/uploads/leval.pdf). 
 
 Copyright law doesn’t give us clear-cut rules like “using less than 10% of an original is fair use” or "copying less than 8 seconds of video is OK." The actual fair use rules are subjective and imprecise. Reviewing some examples can help give you a feel for the rules. 
 
-
 - - - 
-
 
 <img src="/images/copyright/sorry-for-partying-fair-use.jpg" class="medium-image">
 
@@ -37,8 +33,6 @@ Sorry for Partying was fair use because it used only a sliver of the original ph
 Keep these questions in mind as you look at the next images.
 
 <hr class="tall">
-
-
 
 <img src="/images/copyright/leibovitz-v-paramount-fair-use-parody.jpg" class="medium-image">
 

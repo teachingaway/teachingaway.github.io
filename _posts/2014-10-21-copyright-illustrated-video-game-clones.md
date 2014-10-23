@@ -51,9 +51,7 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 **Takeaway**: Identical cloning is copyright infringement. 
 
-The more interesting copyright cases below involve games that make at least a minimal effort to differentiate themselves from the originals.
-
-
+The more interesting copyright cases involve games that make at least a minimal effort to differentiate themselves from the originals. To explore these cases, you will need a bit of legalese. Remember that copyright protects creative expression, but not ideas. Lawyers call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Also, copyright does not protect cliches. This is the **scènes à faire** doctrine. 
 
 
 <hr class="tall">
