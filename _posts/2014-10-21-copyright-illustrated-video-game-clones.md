@@ -22,7 +22,7 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
-<li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid</a></li>
+<li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid (1992)</a></li>
 <li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
 <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
 <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
