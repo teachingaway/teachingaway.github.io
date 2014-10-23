@@ -14,11 +14,11 @@ share: true
 ---
 
 
-<p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -Obi Wan Kenobi.</p>
+<p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -- Obi Wan Kenobi.</p>
 
-Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. While video game copyright law may seem arbitrary, there is a method to the madness. A basic understanding of copyright law can help video game designers develop games that are more difficult to clone, and also help game designers borrow inspiration from existing games without crossing the line into illegal cloning. 
+Copying Chun Li's 'head stomp' is infringement, but copying Sagat’s 'tiger knee' is totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. While copyright law can appear arbitrary, there is some method to the madness. 
 
-Critically, copyright protects the original <em>creative expression</em> of an idea, but never the <em>idea itself</em>, and never any "systems" or "methods of operation" or utilitarian elements. Since video games are collections of ideas and expressions, video game copyright lawsuits turn on whether the clone copied "creative expression" from the original game or just the unprotectable ideas. Our first case is about Atari's Breakout, and whether it has any protectable creative expression at all. 
+Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. Copyright law prohibits copying the *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Since examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
