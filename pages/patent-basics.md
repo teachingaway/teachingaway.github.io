@@ -107,7 +107,7 @@ The default ownership rules for "joint inventors" can be messy. Fortunately, co-
 <img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">
 
 
-## Who are the "Inventors?"?  
+## Who are the "Inventors"?  
 
 If a team of scientists and engineers work on a project, are they all inventors? Since the inventors are the initial owners of a patent, understanding the definition of an "inventor" is critical. “The threshold question in determining inventorship is who conceived the invention. Unless a person contributes to the *conception* of the invention, he is not an inventor." [MPEP 2137.01(II)](mpep/s2137.html#d0e206713). 
 
