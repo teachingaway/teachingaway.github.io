@@ -92,7 +92,7 @@ A plant patent lasts for 20 years from the application date.
 
 **Design Patent Lifespan**. A US design patent lasts for 15 years from the issue date. There are no maintenance fees to pay. 
 
-<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg">
+<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg" class="translucent">
 
 - - - 
 
@@ -102,7 +102,7 @@ In general, a patent is initially owned by its "inventor" or "joint inventors." 
 
 The default ownership rules for "joint inventors" can be messy. Fortunately, co-inventors can sidestep the messy default rules by assigning their ownership interests to a company (perhaps a company where they own an equal share of stock).  
 
-<img src="/images/patent-drawings/log-splitter-1893.jpg">
+<img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">
 
 
 ## Naming the Right "Inventors" 
