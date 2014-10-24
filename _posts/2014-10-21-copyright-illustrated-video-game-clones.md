@@ -103,13 +103,13 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 
 - Meteors is in color, while Asteroids is in black and white.
 
-- The symbols for rocks and spaceships in "Meteors" are shaded to appear three-dimensional, unlike the flat, schematic figures in "Asteroids."
+- The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
 
-- At the beginning of "Meteors," the player's spaceship is shown blasting off the earth, whereas "Asteroids" begins with the player's spaceship in outer space.
+- At the beginning of Meteors, the player's spaceship is shown blasting off the earth, whereas "Asteroids" begins with the player's spaceship in outer space.
 
-- The player's spaceship in "Meteors" fires faster and can fire continuously, unlike the player's spaceship in "Asteroids," which can fire only bursts of projectiles.
+- The player's spaceship in Meteors fires faster and can fire continuously, unlike the player's spaceship in Asteroids, which can fire only bursts of projectiles.
 
-- In "Meteors," after the player's spaceship is destroyed, when the new spaceship appears on the screen, the game resumes at the same pace as immediately before the last ship was destroyed; in "Asteroids" the game resumes at a slower pace.
+- In Meteors, after the player's spaceship is destroyed, when the new spaceship appears on the screen, the game resumes at the same pace as immediately before the last ship was destroyed; in Asteroids the game resumes at a slower pace.
 
 These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
@@ -159,6 +159,8 @@ Next we'll compare Pac-Man, a maze game with fictional characters, to a sports g
 <hr class="tall">
 
 ## Sport Simulation Games
+
+- - - 
 
 ## No Infringement of Karate Champ (1988)
 

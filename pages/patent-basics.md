@@ -14,8 +14,8 @@ share:
 Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A _design patent_ is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "_provisional_" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
 
 <ul class="toc">
-<strong>Contents</strong>
-<li>Types of Patents</li>
+<p>Contents</p>
+<li><strong>Types of Patents</strong></li>
  <ul>
  <li><a href="#utility-patent">Utility Patent</a></li>
  <li><a href="#provisional-patent">Provisional Patent</a></li>
@@ -24,6 +24,7 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
  </ul>
 <li><a href="#patent-application-process">Patent Application Process</a></li>
 <li><a href="#patent-lifespan">Patent Lifespan</a></li>
+<li><a href="#patent-ownership">Patent Ownership</a></li>
 </ul>
 
 
@@ -41,6 +42,9 @@ A provisional patent application is a temporary patent application that nails do
 
 There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
 
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png">
+
+
 ## Design Patents
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
@@ -49,7 +53,9 @@ Design patents protect the "ornamental appearance" of a product. They can protec
 
 ## Plant Patents 
 
-Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html). 
+Plants can be patented. Plant patents protect newly discovered varieties of *asexually reproducing* plants. [MPEP 1600](/mpep/mpep-1600.html). Algae and macro fungi are considered plants, but not bacteria.  Tuber propagated plants cannot be patented. Plants found in nature (uncultivated) cannot be patented. 
+
+A plant patent lasts for 20 years from the application date. 
 
 <img src="/images/patent-drawings/avocado-patent-hass-1935.jpg">
 
@@ -87,6 +93,13 @@ Plants can also be patented. [MPEP 1600](/mpep/mpep-1600.html).
 **Design Patent Lifespan**. A US design patent lasts for 15 years from the issue date. There are no maintenance fees to pay. 
 
 <img src="/images/patent-drawings/bottle-washing-machine-1907.jpg">
+
+- - - 
+
+## Patent Ownership
+
+In general, a patent is initially owned by its "inventor" or "joint inventors."  Companies funding research should be careful to have their employees and contracts sign "invention assignment agreements" to transfer the patent rights over to the company. This assignments should be [recorded at the USPTO](/mpep/s302.html) within 3 months of any patent application filing. [MPEP 302](/mpep/s302.html).
+
 
 
 - - -  
