@@ -45,15 +45,13 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 
 ## Idea vs. Expression 
 
-Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. Copyright law prohibits copying the *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the idea of a platformer.  Doom can be copyrighted, but  the idea of a first-person shooter is public domain. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game cannot. 
+Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the *idea* of a platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument, not the scalpel we need to separate *idea* from *expression*, especially because people can disagree about how narrowly to define the sub-genre that encompasses the public domain game elements.  
 
-Games vs. genres is a useful starting point, but its not a sharp enough tool to separate *idea* from *expression*, especially if we start to define narrow sub-genres. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. 
-
-Since examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
-
-<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
+Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
+
+<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
 Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before Atari could sue for copyright infringement, it needed to register the copyright to Breakout. The Copyright Office initially refused, dismissing the Breakout game as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young Ruth Bader-Ginsburg (59). 
 
@@ -69,10 +67,11 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
  
 <hr class="tall">
 
+## Infringement: Crazy Kong (1982)
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
-## Infringement: Crazy Kong (1982)
+
 
 Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
@@ -88,9 +87,11 @@ The more interesting copyright cases involve games that make at least a minimal 
 
 <hr class="tall">
 
+## No Infringement: Asteroids v. Meteors (1981) 
+
+
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
 
-## No Infringement: Asteroids v. Meteors (1981) 
 
 *"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C-3PO
 
@@ -115,10 +116,11 @@ These changes were enough. "Defendants used plaintiff's idea and those portions 
 
 <hr class="tall">
 
+## Galaxian v. Galaxian: Infringement (1982)
+
 
 <img src="/images/copyright/midway-galaxian-v-bandai-galaxian.jpg" class="medium-image">
 
-## Galaxian v. Galaxian: Infringement (1982)
 
 Midway made the arcade game *Pac-Man*, and Bandai cloned it with the handheld *Packri Monster*. Midway made the arcade game *Galaxian*, and Bandai cloned it with a handheld game called... *Galaxian*. Let's talk about the Galaxian copyright. 
 
@@ -136,10 +138,10 @@ The judge did not actually decide the copyright issue in this case, but from his
 
 <hr class="tall">
 
+## K.C. Munchkin: Infringement (1982)
 
 <img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
 
-## K.C. Munchkin: Infringement (1982)
 
 K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The court first filtered out *scènes à faire* (i.e., stock video game elements):
 
@@ -158,9 +160,9 @@ Next we'll compare Pac-Man, a maze game with fictional characters, to a sports g
 
 ## Sport Simulation Games
 
-<img src="/images/copyright/karate-champ-no-copyright-infringement.png" class="medium-image">
-
 ## No Infringement of Karate Champ (1988)
+
+<img src="/images/copyright/karate-champ-no-copyright-infringement.png" class="medium-image">
 
 "World Karate Championship" (right) is a clone, more or less, of "Karate Champ" (left).  The two games have similar graphics and game play. But unlike Crazy Kong, World Karate Championship was not an identical clone, and unlike KC Munchkin, it copied elements that were patterned on the real-life sport of Karate. 
 
@@ -177,9 +179,11 @@ Now let's look at a case involving Street Fighter II - a fighting game with a mu
 
 <hr class="tall">
 
+## No Infringement of Street Fighter II (1994)
+
+
 <img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg" class="medium-image">
 
-## No Infringement of Street Fighter II (1994)
 
 The creative elements of video games merit stronger copyright protections than the non-fiction elements. While Fighter's History (right) copied most of its details and game play from Street Fighter II, it was careful not to copy the creative game elements: 
 
@@ -200,9 +204,11 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <hr class="tall">
 
+## No Infringement of Golden Tee Golf (2005)
+
+
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
-### No Infringement of Golden Tee Golf (2005)
 
 Incredible Technologies made the popular Golden Tee arcade game (left). 
 Virtual Technologies made PGA Tour (right) with the explicit purpose of cloning Golden Tee. The games and controls were very similar: 
@@ -221,9 +227,11 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 <hr class="tall">
 
+## No Infringement of Dawn of the Dead (2008)
+
+
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
-## No Infringement of Dawn of the Dead (2008)
  
 Capcom's Dead Rising game took inspiration from George Romero's 1979 zombie classic "Dawn of the Dead." In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
 
@@ -233,9 +241,11 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 <hr class="tall">
 
+## Tetris Infringed by Mino (2012)
+
 <img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
 
-### Tetris Infringed by Mino (2012)
+
 
 Soon after college, Desiree Golden started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
 
@@ -260,9 +270,10 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 <hr class="tall">
 
+## Copyright Infringement in Triple Town v. Yeti Town (2012)
+
 <img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg" class="medium-image">
 
-### Copyright Infringement in Triple Town v. Yeti Town (2012)
 
 LolApp cloned the successful Triple Town (left) to make Yeti Town (right). As usual, the copyright analysis starts by filtering out the unprotectable ideas: 
 
@@ -284,9 +295,11 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 
 <hr class="tall">
 
+## Bang! Role Playing Card Game Copyrightable (2014)
+
+
 <img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
-## Bang! Role Playing Card Game Copyrightable (2014)
 
 A recent case involving non-video games further solidifies the idea that game mechanics are copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
 
