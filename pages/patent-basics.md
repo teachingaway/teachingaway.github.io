@@ -100,7 +100,19 @@ A plant patent lasts for 20 years from the application date.
 
 In general, a patent is initially owned by its "inventor" or "joint inventors."  Companies funding research should be careful to have their employees and contracts sign "invention assignment agreements" to transfer the patent rights over to the company. This assignments should be [recorded at the USPTO](/mpep/s302.html) within 3 months of any patent application filing. [MPEP 302](/mpep/s302.html).
 
+The default ownership rules for "joint inventors" can be messy. Fortunately, co-inventors can sidestep the messy default rules by assigning their ownership interests to a company (perhaps a company where they own an equal share of stock).  
 
+<img src="/images/patent-drawings/log-splitter-1893.jpg">
+
+
+## Naming the Right "Inventors" 
+
+If a team of scientists and engineers work on a project, are they all inventors? Since the inventors are the initial owners of a patent, understanding the definition of an "inventor" is critical. “The threshold question in determining inventorship is who conceived the invention. Unless a person contributes to the *conception* of the invention, he is not an inventor." [MPEP 2137.01(II)](mpep/s2137.html#d0e206713). 
+
+An inventor can consider ideas and materials from many sources, such as a suggestion from colleagues or consultants, "so long as he maintains intellectual domination of the work of making the invention down to the successful testing, selecting or rejecting as he goes, even if such suggestion or material proves to be the key that unlocks his problem.” [MPEP 2137.01(III)](mpep/s2137.html#d0e206713). 
+
+Members of a team who merely follow directions from an inventor are not themselves inventors. They may only become inventors if they contribute to the 
+conception of the invention, such as the physical structure or operative steps. Likewise, the inventor does not need to get her hands dirty in the lab to maintain her "inventor" status. She can merely conceive an idea, and then direct underlings to conduct experiments or build prototypes.  *In re DeBaun*, 687 F.2d 459, 463 (CCPA 1982)(“there is no requirement that the inventor be the one to reduce the invention to practice so long as the reduction to practice was done on his behalf”). [MPEP 2137.01(IV)](mpep/s2137.html#d0e206713).
 
 - - -  
 
