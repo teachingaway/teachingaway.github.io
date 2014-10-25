@@ -113,21 +113,19 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 
 These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-### Tricky Trapper v. Mouser
+### No Infringement: Tricky Trapper v. Mouser (1987)
 
 <img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
 
-*I can't find a Tricky Trapper screenshot. Anyone have an image from an Apple II?*
-
-The analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. Frybarger made Tricky Trapper, and IBM released Mouser soon afterwards. Frybarger sued for copyright infringement. The court identified several similarities between the two games, but decided the similarities were part of the game's *idea*, not it's *expression*. [Frybarger v. IBM, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). 
-
-The game board and basic game mechanics were similar in both games, but not protectable:
+The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. IBM's Mouser game was suspiciously similar to Frybarger's Tricky Trapper, so Frybarger sued for copyright infringement. The court noticed several similarities between the two games, but decided the similarities were part of the game's *idea*, not it's *expression*. [Frybarger v. IBM, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). The judge specifically identified some of the basic game mechanics as not protectable:
 
 - **Board:** The screen of each game is filled with straight rows of pivot points on a solid colored background. Some of the pivot points are connected by solid lines.
 
-- **Hero:** There is a single protagonist that moves vertically and horizontally, and rearrange the solid lines to capture bad guys and earn points. 
+- **Hero:** Both games have a single protagonist that moves vertically and horizontally, and rearranges the solid lines to capture bad guys and earn points. 
 
-- **Bad Guys:** There are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
+- **Bad Guys:** In both games, there are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
+
+*Anyone have a Tricky Trapper screenshot from an Apple II? Both images above are from Mouser.* I'd love to know what Tricky Trapper actually looked like. 
 
 <hr class="tall">
 
