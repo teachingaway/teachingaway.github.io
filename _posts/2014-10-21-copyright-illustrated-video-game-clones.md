@@ -113,6 +113,8 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 
 These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
+- - - 
+
 ### No Infringement: Tricky Trapper v. Mouser (1987)
 
 <img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
@@ -248,7 +250,7 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
  
-Capcom's Dead Rising game took inspiration from George Romero's 1979 zombie classic "Dawn of the Dead." In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
+Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie classic *Dawn of the Dead*. In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
 
 Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
 
@@ -259,8 +261,6 @@ Before comparing the game to the original movie, the court filtered out the unpr
 ## Tetris Infringed by Mino (2012)
 
 <img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
-
-
 
 Soon after college, Desiree Golden started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
 
