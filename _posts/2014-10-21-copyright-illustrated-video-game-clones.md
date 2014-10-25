@@ -45,7 +45,7 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 
 ## Idea vs. Expression 
 
-Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the *idea* of a platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument, not the scalpel we need to separate *idea* from *expression*, especially because people can disagree about how narrowly to define the sub-genre that encompasses the public domain game elements.  
+Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the *idea* of a side-scrolling platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument, not the scalpel we need to separate *idea* from *expression*, especially because people can disagree about how narrowly to define the sub-genre that encompasses the public domain game elements.  
 
 Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
 
@@ -113,6 +113,21 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 
 These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
+### Tricky Trapper v. Mouser
+
+<img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
+
+*I can't find a Tricky Trapper screenshot. Anyone have an image from an Apple II?*
+
+The analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. Frybarger made Tricky Trapper, and IBM released Mouser soon afterwards. Frybarger sued for copyright infringement. The court identified several similarities between the two games, but decided the similarities were part of the game's *idea*, not it's *expression*. [Frybarger v. IBM, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). 
+
+The game board and basic game mechanics were similar in both games, but not protectable:
+
+- **Board:** The screen of each game is filled with straight rows of pivot points on a solid colored background. Some of the pivot points are connected by solid lines.
+
+- **Hero:** There is a single protagonist that moves vertically and horizontally, and rearrange the solid lines to capture bad guys and earn points. 
+
+- **Bad Guys:** There are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
 
 <hr class="tall">
 
