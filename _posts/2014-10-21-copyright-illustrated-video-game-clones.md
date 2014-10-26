@@ -18,12 +18,14 @@ share: true
 
 - - - 
 
-Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger knee' was totally fine. Copying the size of the Tetris game board (10x20) was infringement, but copying the size of the Triple Town game board (6x6) was allowed. Copyright law can seem arbitrary, but I think there is *some* method to this madness. 
+Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 copyright infringement case. Copyright law can appear arbitrary, and perhaps sometimes it is. For example, a New Jersey judge decided that copying the size of the Tetris game board (10x20) was infringement, while 4 months later, a Texas judge decided that copying the size of the Triple Town game board (6x6) was allowed. 
+ 
+Overall, I think there is *some* method to the copyright madness, and it's best understood through the lens of the "Idea/Expression Dichotomy" 
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
 <li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid (1992)</a></li>
-<li><a href="#infringement-crazy-kong-1982">Crazy Kong: Identical Clones are Infringement (1982)</a></li>
+<li><a href="#crazy-kong-crazy-infringement1982">Crazy Kong: Crazy Infringement (1982)</a></li>
 <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
 <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
 <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
@@ -35,7 +37,7 @@ Copying Chun Li's 'head stomp' was infringement, but copying Sagat’s 'tiger kn
 </ul>
 <li><a href="#no-infringement-of-dawn-of-the-dead-2008">Dawn of the Dead (2008)</a></li>
 <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
-<li><a href="#copyright-infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
+<li><a href="#infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
 <li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Game Mechanics are Copyrightable (2014)</a></li>
 <li><a href="#conclusion">Conclusion </a></li>
 <li><a href="#how-to-prepare-for-the-clones"><strong>How to Prevent Cloning</strong></a></li>
@@ -67,7 +69,7 @@ Judge Ginsburg concludes that Breakout includes the types of creative expression
  
 <hr class="tall">
 
-## Infringement: Crazy Kong (1982)
+## Crazy Kong: Crazy Infringement (1982)
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
@@ -285,7 +287,7 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 <hr class="tall">
 
-## Copyright Infringement in Triple Town v. Yeti Town (2012)
+## Infringement in Triple Town v. Yeti Town (2012)
 
 <img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg" class="medium-image">
 
