@@ -49,11 +49,13 @@ There are visual differences between the games. The game grid in Triple Town res
 
 The question in this case is not whether the games are similar (they certainly are), but whether that similarity amounts to an infringement of Spry Fox's copyright in Triple Town or an infringement of Triple Town's trademark or trade dress. In its motion to dismiss, 6Waves contends that Spry Fox's complaint fails  [*7] to plausibly allege copyright or trademark infringement.
 
+- - - 
+
 ## III. ANALYSIS
 
 6Waves invokes Fed. R. Civ. P. 12(b)(6), which permits a court to dismiss a complaint for failure to state a claim. The rule requires the court to assume the truth of all of the complaint's factual allegations and credit all reasonable inferences arising from its allegations. Sanders v. Brown, 504 F.3d 903, 910 (9th Cir. 2007). The plaintiff must point to factual allegations that "state a claim to relief that is plausible on its face." Bell Atl. Corp. v. Twombly, 550 U.S. 544, 568, 127 S. Ct. 1955, 167 L. Ed. 2d 929 (2007). If it does so, its complaint survives dismissal as long as there is "any set of facts consistent with the allegations in the complaint" that would entitle the plaintiff to relief. Id. at 563; Ashcroft v. Iqbal, 556 U.S. 662, 679, 129 S. Ct. 1937, 173 L. Ed. 2d 868 (2009) ("When there are well-pleaded factual allegations, a court should assume their veracity and then determine whether they plausibly give rise to an entitlement to relief."). The court typically cannot consider evidence or allegations beyond the four corners of the complaint, although it may rely on a document to which the complaint refers if the document is central to the party's claims or defenses and  [*8] its authenticity is not in question. Marder v. Lopez, 450 F.3d 445, 448 (9th Cir. 2006). The court may also consider evidence subject to judicial notice. United States v. Ritchie, 342 F.3d 903, 908 (9th Cir. 2003).
 
-## A. Copyright Infringement
+### A. Copyright Infringement
 
 A claim of copyright infringement requires a plaintiff to prove that it has a valid copyright on the work in question and that the defendant copied the work. Shaw v. Lindheim, 919 F.2d 1353, 1356 (9th Cir. 1990). Except in the rare case where there is direct evidence that the defendant copied the plaintiff's work, a plaintiff proves copying by showing that the defendant had access to the work and that the two works are substantially similar. Id. For purposes of this motion, there is no dispute that Spry Fox has a valid, registered copyright in Triple Town.
 
@@ -94,13 +96,15 @@ The court's task today, determining whether Spry Fox has plausibly alleged copyr
 
 - - - 
 
-## B. Lanham Act
+### B. Lanham Act
 
 In addition to its copyright claim, Spry Fox invoked section 43(a) of the Lanham Act, which gives a cause of action for "false designation of [the] origin" of goods or "false or misleading representation[s] of fact." 15 U.S.C. § 1125(a). Section 43(a) supports a variety of theories of recovery, including infringement of registered  [*24] and unregistered trademarks, infringement of trade dress, and false advertising. See Goto.com, Inc. v. Walt Disney Co., 202 F.3d 1199, 1204 n.3 (9th Cir. 2000) (trademark and trade dress); Southland Sod Farms v. Stover Seed Co., 108 F.3d 1134, 1139 (9th Cir. 1997) (false advertising). Spry Fox's complaint, however, unambiguously states only a single species of Lanham Act violation: a claim for infringement of its unregistered "Triple Town" trademark.
 
 6Waves argued that the court should dismiss Spry Fox's trademark infringement claim; Spry Fox responded by ignoring that argument and instead defending a claim it never asserted: a claim for trade dress infringement. Trade dress "refers generally to the total image, design, and appearance of a product, and may include features such as size, shape, color, color combinations, texture, or graphics." Clicks Billiards Inc. v. Sixshooters, Inc., 251 F.3d 1252, 1257 (9th Cir. 2001) (internal quotation omitted). The court agrees with 6Waves that no one could read Spry Fox's complaint and understand it to state a claim for trade dress infringement. Moreover, Spry Fox's refusal to address 6Waves' attack on its trademark infringement claim is a tacit  [*25] admission that it cannot sustain the claim.
 
 The court declines to decide whether Spry Fox can state a valid Lanham Act claim. The court will not analyze a trade dress claim that is not part of Spry Fox's complaint, and it will not address 6Waves' effort to dismiss Spry Fox's trademark claim on the merits where Spry Fox itself has declined to do so. Instead, the court will dismiss Spry Fox's trademark claim without prejudice. Spry Fox may, if it chooses, amend its complaint to state a Lanham Act claim. If it does so, however, it must be explicit as to what species of Lanham Act claim it hopes to assert. It must also be mindful of the Ninth Circuit's admonition that the Lanham Act is a poor vehicle for addressing claims that fall squarely within the realm of copyright. See Shaw, 919 F.2d at 1364-65 ("We decline to expand the scope of the Lanham Act to cover cases in which the Federal Copyright Act provides an adequate remedy."). The Lanham Act focuses on protecting consumers and manufacturers from confusion arising from false designations of the origin of goods. While consumers might find Yeti Town and Triple Town to be substantially similar as a matter of copyright law, a starkly different  [*26] standard of similarity applies to Lanham Act claims. See Cleary v. News Corp., 30 F.3d 1255, 1261 (9th Cir. 1994). At least based on the current complaint, a consumer might think of Yeti Town as a Triple Town knockoff, but that consumer would likely recognize that different companies produced the two games.
+
+- - - 
 
 ## IV. CONCLUSION
 

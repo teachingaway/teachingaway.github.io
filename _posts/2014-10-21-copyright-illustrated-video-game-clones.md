@@ -14,11 +14,17 @@ share: true
 ---
 
 
+- - - 
+
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
 - - - 
 
-Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 infringement case. Copyright law can seem arbitrary, and maybe sometimes it is. For example, copying the size of the Tetris game board (10x20) was infringement, while copying the size of the Triple Town game board (6x6) was allowed. The Tetris decision came from a New Jersey judge in 2012, while the Triple Town decision came from a Washington judge 4 months later. That one stumps me. But overall, I think there is *some* method to the copyright madness, and it's best understood through the "Idea/Expression Dichotomy." If that sounds like hifalutin lawyer-talk, it is. What lawyers are trying to say is that copyright doesn't protect the *concept* of a video game, but it can protect the *execution* of a game.  
+Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 infringement case. Copyright law can seem arbitrary, and maybe sometimes it is. For example, copying the size of the Tetris game board (10x20) was infringement, while copying the size of the Triple Town game board (6x6) was allowed. The Tetris decision came from a New Jersey judge in 2012, while the Triple Town decision came from a Washington judge 4 months later. That one stumps me. But overall, I think there is *some* method to the copyright madness. 
+
+The method is about the relationship between the "idea" of the game and the "expression" of the game. In lawyer-talk, it's the "Idea/Expression Dichotomy." In human-talk, it's saying that copyright can't protect the *concept* of a video game, but it can protect the *execution* of a game.  
+
+- - - 
 
 <ul class="toc">
 <p><strong>Contents</strong></p>

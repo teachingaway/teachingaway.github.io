@@ -9,18 +9,18 @@ image:
   creditlink:  
 ---
 
-<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Put differently, trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>. A trademark can be any name, image or slogan used to identify a company. </p>
+<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>.</p>
 
 <ul class="toc">
-<strong>Contents</strong>
+<p><strong>Contents</strong></p>
 <li><a href="#selecting-a-name">On Your Marks:  Choosing a Brand Name </a></li>
 <li><a href="#trademark-symbols--and-"> Mark of the Beast: Trademark Symbols ™ and ® </a></li>
 <li><a href="#benefits-of-trademark-registration"> Mark My Words: Benefits of Trademark Registration </a></li>
-<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand"> A Trademark Can Be Any Symbol that Identifies a Brand </a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand"> Any Symbol that Identifies a Brand can be a Trademark </a></li>
 <li><a href="#trademark-timeframes"> Trademark Timeframes </a></li>
 <li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law"> The Relationship Between the Mark and the Product. </a></li>
-<li><a href="#tm-law-likelihood-of-confusion"> TM Law: Likelihood of Confusion </a></li>
-<li><a href="#tm-law-distinctiveness"> TM Law: Distinctiveness </a></li>
+<li><a href="#tm-law-likelihood-of-confusion"> Likelihood of Confusion </a></li>
+<li><a href="#tm-law-distinctiveness"> Distinctiveness </a></li>
 <li><a href="#clearance-search"> Clearance Search </a></li>
 </ul>
 
