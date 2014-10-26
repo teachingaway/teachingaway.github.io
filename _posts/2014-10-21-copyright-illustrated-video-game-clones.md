@@ -233,21 +233,21 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <hr class="tall">
 
-## Infringement of "Hi-Lo Double Up Joker Poker"
+## Infringement of Hi-Lo Double Up Joker Poker
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
+This is a case about copying a poker video game, which is in many ways like copying a sports simulation game. Both receive a very narrow type of copyright protection - they are essentially only protected against identical copying. This is because it's difficult to determine whether the second game copied from the original, or just copied from the real life sport of Karate or game of poker. 
 
-Although not a "sports" game, this case involved copying a poker video game. 
-[*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). However, video games based on a public domain card game (like poker) are similar to sports simulation video games: both receive a very narrow type of copyright protection. How do we know if someone is copying from "Hi-Lo Double Up Joker Poker" or just copying from the public domain card game *poker*.
+In this case, Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). 
 
-In this case, we knew because the genius defendant didn't bother to remove a "hidden legend" from his version of the game: 
+How do we know if Drew was copying from "Hi-Lo Double Up Joker Poker" or just copying from the public domain card game *poker*? Because Drew didn't bother to remove a "hidden legend" from his version of the game: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. 
 
 [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
-
+**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
 
 <hr class="tall">
 
