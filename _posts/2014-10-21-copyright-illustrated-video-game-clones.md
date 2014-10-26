@@ -51,25 +51,31 @@ The method is about the relationship between the "idea" of the game and the "exp
 
 ## Idea vs. Expression 
 
-Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. At a high level, you can think about genres vs. games. You can copyright "Super Mario Brothers", but not the *idea* of a side-scrolling platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument, not the scalpel we need to separate *idea* from *expression*, especially because people can disagree about how narrowly to define the sub-genre that encompasses the public domain game elements.  
+Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. 
 
-Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Examples are more fun than theory, so let’s start with a case about Atari’s Breakout, and whether it has any protectable “creative expression” at all.
+Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the clone copied any “creative expression” from the original game. Expression vs. idea is, in a way, like game vs. genre. You can copyright the game "Super Mario Brothers", but not the *idea* of a side-scrolling platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to define the genre or sub-genre that encompasses the public-domain game elements. 
+
+We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
-Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before Atari could sue for copyright infringement, it needed to register the copyright to Breakout. The Copyright Office initially refused, dismissing the Breakout game as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. In response, Atari appealed the matter to a young Ruth Bader-Ginsburg (59). 
+Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before Atari could sue for copyright infringement, it needed to register the copyright to Breakout. The Copyright Office refused to register the game. It dismissed Breakout as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. Atari appealed the matter to a young Ruth Bader-Ginsburg (at the time, a 59 year old appellate judge in D.C.). 
 
-Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by creative physics: 
+Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by *creative physics*: 
  
  > The ball's path in Breakout varies depending on which of four sections of the paddle it hits. Its trajectory does not follow from the laws of physics. [*Atari v. Oman*, 979 F.2d 242 (DC CA 1992)](http://scholar.google.com/scholar_case?case=11202168367195629653).
 
-Judge Ginsburg concludes that Breakout includes the types of creative expression that merits copyright protection, and cajoles the Copyright Office into approving Atari's copyright registration. 
 
  > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653) (edited for length).
 
-**Takeaway**: While Breakout is a game of simple shapes and rules, the arrangement of those shapes was sufficiently creative to merit copyright protection, especially because the game-mechanics were based in fictional physics. On the other hand, games that rely more heavily on the laws of physics, like many realistic sports games, will merit weaker copyright protection.  
+Since Breakout includes the types of creative expression that merits copyright protection, Judge Ginsburg cajoled the Copyright Office into approving Atari's copyright registration. 
+
+
+**Takeaway**: The arrangement of simple shapes and colors in a video game, even a simple video game, is the type of *creative expression* that merits copyright protection. 
+
+**Takeaway**: Game-mechanics based in fictional physics are more creative than games based in real-world physics (like realistic sports games), and therefore receive greater copyright protection.  
  
 <hr class="tall">
 
@@ -227,6 +233,24 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <hr class="tall">
 
+## Infringement of "Hi-Lo Double Up Joker Poker"
+
+<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
+
+
+Although not a "sports" game, this case involved copying a poker video game. 
+[*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). However, video games based on a public domain card game (like poker) are similar to sports simulation video games: both receive a very narrow type of copyright protection. How do we know if someone is copying from "Hi-Lo Double Up Joker Poker" or just copying from the public domain card game *poker*.
+
+In this case, we knew because the genius defendant didn't bother to remove a "hidden legend" from his version of the game: 
+
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. 
+
+[*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+
+
+<hr class="tall">
+
 ## No Infringement of Golden Tee Golf (2005)
 
 
@@ -355,6 +379,7 @@ The copyright infringement analysis is more an art than a science. The line betw
 
 - - - 
 
+
 <img src="/images/copyright/frogger-clones.jpg" class="medium-image">
 
 - - - 
@@ -397,4 +422,6 @@ While clones can be infuriating, it's important to remember that aggressive lega
 
 The first legal action for apps may involve sending a DMCA takedown notice to the appropriate app store. For iOS, You can submit a claim through Apple's [iTunes Content Dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/) form. For Android, submit through Google's [Legal Removal Requests](https://support.google.com/legal) page.
 
+- - - 
 
+Images via [Arcade Flyer Archive](http://flyers.arcade-museum.com/) and [International Arcade Museum](http://www.arcade-museum.com/)
