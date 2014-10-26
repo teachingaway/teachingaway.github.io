@@ -32,7 +32,7 @@ The method is about the relationship between the "idea" of the game and the "exp
 <li><a href="#crazy-kong-crazy-infringement1982">Crazy Kong: Crazy Infringement (1982)</a></li>
 <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
 <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
-<li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1982)</a></li>
+<li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
 <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
 <li><a href="#sport-simulation-games">Sports Simulation Games</a></li>
 <ul> 
