@@ -13,15 +13,15 @@ image:
 
 <ul class="toc">
 <strong>Contents</strong>
-<li><a href="#selecting-a-name">Selecting a Name</a></li>
-<li><a href="#trademark-symbols--and-">Trademark Symbols: ™ and ®</a></li>
-<li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
-<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be Any Symbol that Identifies a Brand</a></li>
-<li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
-<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the Mark and the Product.</a></li>
-<li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
-<li><a href="#tm-law-distinctiveness">TM Law: Distinctiveness</a></li>
-<li><a href="#clearance-search">Clearance Search</a></li>
+<li><a href="#selecting-a-name">On Your Marks:  Choosing a Brand Name </a></li>
+<li><a href="#trademark-symbols--and-"> Mark of the Beast: Trademark Symbols ™ and ® </a></li>
+<li><a href="#benefits-of-trademark-registration"> Mark My Words: Benefits of Trademark Registration </a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand"> A Trademark Can Be Any Symbol that Identifies a Brand </a></li>
+<li><a href="#trademark-timeframes"> Trademark Timeframes </a></li>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law"> The Relationship Between the Mark and the Product. </a></li>
+<li><a href="#tm-law-likelihood-of-confusion"> TM Law: Likelihood of Confusion </a></li>
+<li><a href="#tm-law-distinctiveness"> TM Law: Distinctiveness </a></li>
+<li><a href="#clearance-search"> Clearance Search </a></li>
 </ul>
 
 
@@ -78,7 +78,8 @@ While basic "common law" trademark rights are granted automatically, registered 
 
 ## A Trademark Can Be any Symbol that Identifies a Brand
 
-Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any* symbol that identifies a brand. For example, unique product packaging ("trade dress") can be trademarked, as well as sounds or jingles, and even a scent can (in theory) be trademarked. 
+Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any symbol* that identifies a brand, including animation, unique product packaging ("trade dress"), as well as sounds or jingles, and even a scent can (in theory) be trademarked. 
+
 
 ### Trade Dress
 
@@ -93,9 +94,10 @@ For most businesses, a word and a logo will be enough of a trademark.
 
 Trademark rights begin when you start using a trademark in commerce (to advertise and sell a product or service). Trademark rights expire (go abandoned) when you stop using the mark in commerce without any intent to restart. That is, a trademark will not expire because of a temporary suspension of a product, but it will expire on a permanent termination of a product or permanent name change. 
 
+
 - - - 
 
-## The Relationship Between the Mark and the Product is Central to Trademark Law.
+## The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.
 
 The two biggest hurdles to clear in the trademark registration process are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
@@ -153,7 +155,21 @@ Here are some other distinctiveness traps to avoid:
 
 * _laudatory_ self-praise makes a weak trademark. [TMEP 1209.03(k)](/tmep/tmep-1200.html#TMEP-1200d1e7858). Marks like "Best Beer" are likely to be rejected by the trademark office as merely descriptive of beer.    
  
+- - - 
 
+### Acquired Distinctiveness
+
+A mark that would not ordinarily be distinctive, such as a descriptive mark or a product configuration, can *become* distinctive through marketing and eventual customer recognition. When customers eventually come to associate a particular word or symbol with your brand, it has "acquired distinctiveness." 
+
+Since measuring "acquired distinctiveness" is difficult, the Trademark Office takes a shortcut -- it assumes that any (non-generic) mark that has been in use for 5 years has acquired distinctiveness. 
+
+- - -
+
+### Famous Marks and Dilution
+
+When a trademark becomes "famous", it is awarded an even higher level of protection. Famous marks are extremely well known household brands like "Coke" or "Apple." These famous marks are protected not only against trademark infringement (competitors using similar marks on similar products), but also against dilution (using similar marks on *any* product). 
+
+ 
 - - - 
 
 
