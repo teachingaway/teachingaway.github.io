@@ -14,11 +14,11 @@ share: true
 ---
 
 
-<p class="big-text"><em>“Your clones are very impressive. You must be very proud.”</em> -- Obi Wan Kenobi.</p>
+<p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
 - - - 
 
-Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 copyright infringement case. Copyright law can appear arbitrary, and perhaps sometimes it is. For example, a New Jersey judge decided that copying the size of the Tetris game board (10x20) was infringement, while 4 months later, a Texas judge decided that copying the size of the Triple Town game board (6x6) was allowed. 
+Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 infringement case. Copyright law can appear arbitrary, and perhaps sometimes it is. For example, a New Jersey judge decided that copying the size of the Tetris game board (10x20) was infringement, while 4 months later, a Texas judge decided that copying the size of the Triple Town game board (6x6) was allowed. 
  
 Overall, I think there is *some* method to the copyright madness, and it's best understood through the lens of the "Idea/Expression Dichotomy" 
 
@@ -95,7 +95,7 @@ The more interesting copyright cases involve games that make at least a minimal 
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
 
 
-*"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C-3PO
+*"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
 
 Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. The judge enumerated 22 similarities and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
@@ -294,9 +294,9 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 LolApp cloned the successful Triple Town (left) to make Yeti Town (right). As usual, the copyright analysis starts by filtering out the unprotectable ideas: 
 
-> The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. *Spry Fox v. LolApps* (WD WA 2012). 
+> The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
 
-In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard. [*Spry Fox v. LolApps* (WD WA 2012)](https://pdf.yt/d/GXzLJQoYSlV1mdmC). 
+In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard. [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
 
 The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. [*Spry Fox v. LolApps* (WD WA 2012)](https://pdf.yt/d/GXzLJQoYSlV1mdmC).  
 

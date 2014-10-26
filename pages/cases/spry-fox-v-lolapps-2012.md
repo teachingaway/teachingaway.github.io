@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /case/
+permalink: /spry-fox-v-lolapps-2012/
 title: "case"
 image:
   feature: /wide/default-image.png
