@@ -18,9 +18,7 @@ share: true
 
 - - - 
 
-Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 infringement case. Copyright law can appear arbitrary, and perhaps sometimes it is. For example, a New Jersey judge decided that copying the size of the Tetris game board (10x20) was infringement, while 4 months later, a Texas judge decided that copying the size of the Triple Town game board (6x6) was allowed. 
- 
-Overall, I think there is *some* method to the copyright madness, and it's best understood through the lens of the "Idea/Expression Dichotomy" 
+Copying Chun Li's 'head stomp' would be infringement, but copying Sagat’s 'tiger knee' would not, according to judge William Orrick in a 1994 infringement case. Copyright law can appear arbitrary, and maybe sometimes it is. For example, copying the size of the Tetris game board (10x20) was infringement, while copying the size of the Triple Town game board (6x6) was allowed. The Tetris decision came from a New Jersey judge in 2012, while the Triple Town decision came from a Washington State judge 4 months later. That one stumps me. But overall, I think there is *some* method to the copyright madness, and it's best understood through the "Idea/Expression Dichotomy." If that sounds like hifalutin lawyer-talk, it is. What lawyers are trying to say is that copyright doesn't protect the *concept* of a video game, but it can protect the *execution* of a game.  
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
