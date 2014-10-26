@@ -9,7 +9,7 @@ image:
 share: 
 ---
 
-<p style="big-text">LolApps cloned the successful Triple Town (left) to make Yeti Town (right). Spry Fox, maker of Triple Town sued copyright infringement. LOLApps asked the judge to dismiss the copyright infringement claims as meritless. In the decision below, the judge refused to dismiss the copyright claims, and allowed the case to proceed. <em>Spry Fox, LLC v. LOLApps, Inc.</em>, 104 USPQ.2d (BNA) 1299 (WD WA 2012). </p>
+<p class="big-text">LolApps cloned the successful Triple Town (left) to make Yeti Town (right). Spry Fox, maker of Triple Town sued copyright infringement. LOLApps asked the judge to dismiss the copyright infringement claims as meritless. In the decision below, the judge refused to dismiss the copyright claims, and allowed the case to proceed. <em>Spry Fox, LLC v. LOLApps, Inc.</em>, 104 USPQ.2d (BNA) 1299 (WD WA 2012). </p>
 
 
 <img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg" class="medium-image">

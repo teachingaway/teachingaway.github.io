@@ -296,15 +296,15 @@ LolApp cloned the successful Triple Town (left) to make Yeti Town (right). As us
 
 > The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
 
-In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard. [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
+In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/). 
 
-The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. [*Spry Fox v. LolApps* (WD WA 2012)](https://pdf.yt/d/GXzLJQoYSlV1mdmC).  
+The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).  
 
 Looking at the remaining protectable game elements, the court decided they were likely infringing. 
 
- > In Triple Town, the antagonist is a bear. In Yeti Town, the antagonist is a yeti... bears and yetis are both wild creatures... [*Spry Fox v. LolApps* (WD WA 2012)](https://pdf.yt/d/GXzLJQoYSlV1mdmC).  
+ > In Triple Town, the antagonist is a bear. In Yeti Town, the antagonist is a yeti... bears and yetis are both wild creatures... [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).  
  
- > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s. [*Spry Fox v. LolApps* (WD WA 2012)](https://pdf.yt/d/GXzLJQoYSlV1mdmC).
+ > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).
  
 The judge also defers to the opinion of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  In any event, this case was settled before a final decision was reached, and Yeti Town is no longer available in the app store. 
 

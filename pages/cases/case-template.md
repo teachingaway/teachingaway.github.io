@@ -11,7 +11,7 @@ share:
 
 
 
-<p style="big-text"> </p>
+<p class="big-text"> </p>
 
 
 
