@@ -90,19 +90,20 @@ Judge Denise Cote awarded defendant Find the Best its attorney's fees in a  deci
 
 > but for FTB’s financial resources and resolve, Lumen’s predatory behavior would likely have proceeded unchecked. 
 
-Here's the entire decision: 
+The entire attorneys fee's decision follows.
 
-**Lumen View Technology, LLC,  v. Findthebest.com,  Inc.**
+- - -  
+
+### Lumen View Technology, LLC,  v. Findthebest.com,  Inc.
 
 13-cv-3599 (DLC). 2014 U.S. Dist. LEXIS 150444 (SDNY October 23, 2014)
 
 COUNSEL: 
 
-*For Plaintiff*: Damian Wasserbauer, Aeton Law Partners LLP, Middletown, CT. 
+> *For Plaintiff*: Damian Wasserbauer, Aeton Law Partners LLP, Middletown, CT. 
 
-*For Defendant*: [Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA](http://www.leventhallaw.com/about-joe-leventhal/).
+> *For Defendant*: [Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA](http://www.leventhallaw.com/about-joe-leventhal/).
 
-- - - 
 
 DENISE COTE, District Judge [\*1]:  
 
