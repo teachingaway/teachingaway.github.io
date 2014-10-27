@@ -91,7 +91,9 @@ When registering a banner advertisement with an online application the applicant
 As a general rule, applicants should not select the box marked “entire motion picture.” If the advertisement contains a copyrightable series of images, but does not impart an impression of motion, or if the work lacks sufficient authorship as a “motion picture,” the registration specialist will communicate with the applicant and request that the authorship be described as “audiovisual material” rather than “entire motion picture.”
 
 Examples:
+
 - Michael Williams submits an application to register his claim in a banner advertisement that he created for a local activist organization. The authorship is described as “audiovisual material.” The deposit consists of short, textual phrases that alternate and zoom in and out with a mouse click. Michael’s original song plays in the background. The claim to copyright in this work will be accepted because the work, as a whole, contains a sufficient amount of copyrightable authorship.
+
 - Mika Roberts submits an application to register her claim in a banner advertisement that she created for a local religious organization. The ad consists of a line of scrolling continuous text that is a long quote from the Bible. In the background, a public domain religious hymn plays. The registration specialist will refuse to register this claim. Although there is a series of images, the work contains an insufficient amount of original material support to base a copyright claim.
 
 ### 807.7(E) Slide Presentations
@@ -111,8 +113,11 @@ Games often include both copyrightable and uncopyrightable elements. The copyigh
 When completing an application for this type of work, applicants should describe the specific elements of the game that the applicant intends to register, such as the text, the artwork on a playing board, and/or the original sculptural elements of game pieces. Applicants should not assert a claim in “game” or “game design,” because it is generally understood that the game as a whole encompasses the ideas underlying the game. For the same reason, applicants should not assert a claim in the methods for playing the game.
 
 Examples:
+
 - Gloria Glam files an application to register a new board game. In her application she asserts a claim in “text and board artwork.” The game board contains intricate designs and the instructions consist of two pages of text. The registration specialist will register the claim.
+
 - Garfield Grant files an application for a new type of soccer playing field. The deposit material contains text and a set of technical drawings. The registration specialist will refuse to register the playing field itself, but will register the drawings and text that describe the field. The registration will extend only to the actual descriptive text and drawings and not to the design for the field itself.
+
 - Glenn Garner files an application to register a “new game of chess, consisting of a new way to play the game, new playing pieces, and a new board with three levels.” The registration specialist may register any descriptive text and the design of the playing pieces if they contain a sufficient amount of creative expression. However, the specialist will refuse to register the idea for and method of playing the new game, as well as the idea of playing the game on a board split into three levels.
 
 For information on how to register purely literary aspects of a game, see Chapter 700, Section 714. For information concerning the deposit requirements for games, see Chapter 1500, Sections 1509.1(B) and 1509.3(A)(7).
@@ -126,8 +131,11 @@ The U.S. Copyright Office will register visual art works that depict a character
 When completing an application to register such works, the applicant should use an appropriate term to describe the authorship embodied in the deposit material, such as “2-D artwork,” “photograph,” or “text.” Applicants should not refer to or assert claims in “character,” “character concept, idea, or style,” or a character’s generalized personality, conduct, temperament, or costume. If the applicant uses these terms, the registration specialist may ask the applicant to remove them from the claim. Likewise, if the deposit material contains a well-known or recognizable character, the specialist may ask the applicant to exclude that preexisting material from the claim if the applicant fails to complete the Limitation of Claim portion of the application.
 
 Examples:
+
 - Charles Crest creates a sketch of a field mouse with a straw hat and a mischievous grin. He intends to use the sketch in an animated film. He files an application that asserts a claim in “two-dimensional artwork” and “character.” The registration specialist may ask Charles to limit the claim to the artwork and to remove the term “character” from the application.
+
 - Chris Crow creates a series of drawings featuring a stylized flamingo in several poses and wearing different hats. He files an application to register his drawings under the title “Concept Drawings for Character Designs” and he asserts a claim in “two-dimensional artwork.” The registration specialist may register the claim and may send the applicant a warning letter noting that the registration covers only the specific sketches included in the deposit.
+
 - Chloe Crown creates a series of drawings depicting several well- known comic book characters. She files an application that asserts a claim in “character redesigns” or “new versions of characters.” The registration specialist may ask Chloe if she has permission to prepare these derivative works and to clarify the derivative authorship that she contributed to the preexisting material.
 
 

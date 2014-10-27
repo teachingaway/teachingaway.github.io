@@ -15,7 +15,7 @@ share: true
 
 - - - 
 
-This is a DRAFT of an article I'm working on. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway). 
+This is a DRAFT article. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway). 
 
 - - - 
 
@@ -60,13 +60,13 @@ At copyright's core is the notion that no one can monopolize an "idea." Copyrigh
 
 Sometimes expression vs. idea is as simple as  game vs. genre. You can copyright the game "Super Mario Brothers", but not the *idea* of a side-scrolling platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to define the genre or sub-genre that encompasses the public-domain game elements. 
 
-I'd summarize the copyright rule as "the video game elements you can encapsulate in a few sentences are the unprotectable 'ideas'." Here are some examples, quoting from court decisions: 
+You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" behind some famous video games: 
 
 - **Idea of Galaxian**: "an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player’s ship."
 
 - **Idea of Asteroids**: "a video game in which the player commands a spaceship through a barrage of space rocks and enemy spaceships." 
 
-- **Idea of Pac-**Man: "a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points." 
+- **Idea of Pac-Man**: "a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points." 
 
 - **Idea of Karate Champ**: "a martial arts karate combat game conducted between two combatants, and presided over by a referee, all of which are represented by visual images, and providing a method of scoring accomplished by full and half point scores for each player, and utilizing dots to depict full point scores and half point scores." 
 
@@ -77,6 +77,24 @@ I'd summarize the copyright rule as "the video game elements you can encapsulate
 We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
 
 - - - 
+
+
+## The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)
+
+<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
+
+Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality."  (The "taint of originality" standard is better known as the "modicum of creativity" standard. [*Feist v. Rural Telephone*](http://scholar.google.com/scholar_case?case=1195336269698056315)).
+
+Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing, and that's what the defendant produced. The defendant copied nearly everything, right down to the [Mountweazellian](http://www.newyorker.com/magazine/2005/08/29/not-a-word?currentPage=all) easter egg: 
+
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
+
+
+<hr class="tall">
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
@@ -100,11 +118,15 @@ Since Breakout includes the types of creative expression that merits copyright p
  
 <hr class="tall">
 
+# Identical Cloning is Always Infringement
+
+Selling an identical clone is going to be copyright infringement. This is a no-brainer. 
+
+<hr class="tall">
+
 ## Crazy Kong: Crazy Infringement (1982)
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
-
-
 
 Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
@@ -114,17 +136,18 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 **Takeaway**: Identical cloning is copyright infringement. 
 
+
+
 - - - 
 
 The more interesting copyright cases involve games that make at least a minimal effort to differentiate themselves from the originals. To explore these cases, you will need a bit of legalese. Remember that copyright protects creative expression, but not ideas. Lawyers call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Also, copyright does not protect cliches. This is the **scènes à faire** doctrine. 
 
 <hr class="tall">
 
+
 ## No Infringement: Asteroids v. Meteors (1981) 
 
-
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
-
 
 *"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
 
@@ -164,7 +187,7 @@ The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v
 
 <hr class="tall">
 
-## Galaxian v. Galaxian: Infringement (1982)
+## Galaxian v. Galaxian: Porting is Infringement (1982)
 
 
 <img src="/images/copyright/midway-galaxian-v-bandai-galaxian.jpg" class="medium-image">
@@ -176,9 +199,7 @@ In his copyright analysis, the judge first separated the unprotectable *idea* of
 
 > Here, the idea of Midway's Galaxian is relatively simple and easily expressed: it is an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player's ship. With the idea of Midway's Galaxian thus identified, it is clear that Midway's copyright does not in the least preclude the creation of an entire universe of other space video games (e.g., Space Invaders) based on the same, unprotected idea. It is also clear that, in expressing its version of the game idea, there was no necessity for Bandai to mimic Midway's expression of this idea which involves such elements as the particular insectile shape of the aliens, their movements, and the musical theme. [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580). 
 
-After filtering out the unprotectable idea, the judge then compared the copyrightable expression. It decided that the "musical themes of the two Galaxian games are fundamentally identical."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
-
-Likewise, the aliens were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+After filtering out the unprotectable idea, the judge then compared the copyrightable expression. He decided that the "*musical* themes of the two Galaxian games are fundamentally identical."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). Likewise, the *alien enemies* were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
 
 Finally, the court looked at the game play of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship." [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
 
@@ -276,27 +297,16 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <hr class="tall">
 
-## Infringement of Hi-Lo Double Up Joker Poker (1986)
 
-<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
-In this case, Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality."  (Fortunately, the Supreme Court replaced the "taint of originality" standard with the "modicum of creativity" standard in [*Feist v. Rural Telephone*](http://scholar.google.com/scholar_case?case=1195336269698056315)).
-
-Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing, and that's what the defendant produced. The defendant copied nearly everything, right down to the [Mountweazellian](http://www.newyorker.com/magazine/2005/08/29/not-a-word?currentPage=all) easter egg: 
-
-> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
-
-Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
-
-**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
 
 <hr class="tall">
+
 
 ## No Infringement of Golden Tee Golf (2005)
 
 
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
-
 
 Incredible Technologies made the popular Golden Tee arcade game (left). Virtual Technologies made PGA Tour (right) with the explicit purpose of cloning Golden Tee. The games and controls were very similar: 
 
@@ -321,17 +331,15 @@ Early video games systems didn't give designers many pixels to work with. That m
  
 "Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." Frybarger v. IBM. 
 
+Modern video game graphics are a little different. With high-resolution graphics and vivid colors, any similarities between games should be eyed with closer suspicion. 
 
-Modern video game graphics are a little different. With zillions of pixels and colors, any similarities between games should be eyed with closer suspicion. 
 
 <hr class="tall">
 
 ## No Infringement of Dawn of the Dead (2008)
 
-
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
- 
 Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie classic *Dawn of the Dead*. In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
 
 Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
