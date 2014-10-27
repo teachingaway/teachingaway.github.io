@@ -88,7 +88,7 @@ When an amateur patent troll asserts a weak patent, it may make more sense for a
 
 # Epilogue: Patent Troll Ordered to Pay $300,000 Compensation to Find The Best (10/23/2014)
 
-Judge Denise Cote awarded defendant Find the Best its attorney's fees in a  decision issued October 23, 2014. Find the Best asked for $150,000 in compensation, and Judge Cote decided to double it. My favorite quote: 
+Patent Troll "Lumen View" started this case back in May of 2013. Find the Best fought back, and the troll lost on most every point. Find the Best recently asked for $150,000 in compensation for the legal expenses involved in defending the frivolous lawsuit. Judge Denise Cote decided to **double it**, awarding $300,000. My favorite quote: 
 
 > but for FTB’s financial resources and resolve, Lumen’s predatory behavior would likely have proceeded unchecked. 
 
