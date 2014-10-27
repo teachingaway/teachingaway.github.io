@@ -12,8 +12,8 @@ admission3:
 admission4:
 admission5: 
 image:
-  feature: /wide/default-image.png
-  credit: company folders
+  feature: /wide/eric-zeke-phone-office.jpg
+  credit: Michael Meysarosh
   creditlink: 
 
 ---
