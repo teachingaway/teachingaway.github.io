@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-<em>Lumen View v. FindTheBest.com</em> is not the usual troll vs. startup story. Instead of paying to settle, FindTheBest hired a <a href="http://www.leventhallaw.com/about-joe-leventhal/">litigator</a> and launched a public, aggressive and ultimately successful defense. On Friday November 22, 2013, the Honorable Denise Cote invalidated Lumen View's patent, and threw out Lumen View's case. There are a few lessons here for startups who receive similar demand letters.
+<em>Lumen View v. FindTheBest.com</em> is not the usual troll vs. startup story. Instead of paying to settle, FindTheBest hired a <a href="http://www.leventhallaw.com/about-joe-leventhal/">litigator</a> and launched a public, aggressive and ultimately successful defense. On Friday November 22, 2013, the Honorable Denise Cote invalidated Lumen View's patent, and threw out Lumen View's case. There are a few lessons here for startups  receiving similar patent troll demand letters.
 
 <h3>The Parties</h3>
 
@@ -20,7 +20,7 @@ FindThebest (FTB) is a startup that helps shoppers compare things in categories 
 
 <h3>The Demand</h3>
 
-In May of 2013, LV sent a <a href="http://adlervermillion.com/PDF/2013-LumenView-v-FindTheBest-PatentLitigation/2013.05.30-LVsDemandLetter.pdf">demand letter</a> accusing FTB of infringing LV’s patent on a type of “bilateral decision-making.” LV demanded a $50,000 payout.
+In May of 2013, LV sent a <a href="/PDF/lumenview-v-ftb/2013.05.30-LVsDemandLetter.pdf">demand letter</a> accusing FTB of infringing LV’s patent on a type of “bilateral decision-making.” LV demanded a $50,000 payout.
 
 The demand letter was standard fare, including threatening boilerplate like: "Plaintiff is prepared for full-scale litigation to enforce its rights," and "You must act immediately to preserve potentially relevant electronic evidence" or else "we will not hesitate to seek sanctions." etc.
 
@@ -84,7 +84,7 @@ When an amateur patent troll asserts a weak patent, it may make more sense for a
 
 <hr class="tall">
 
-# Update: Patent Troll Ordered to Pay $300,000 Compensation to Find The Best (10/23/2014)
+# Epilogue: Patent Troll Ordered to Pay $300,000 Compensation to Find The Best (10/23/2014)
 
 Here's Judge Cote's attorney's fees decision from October 23, 2014. 
 
