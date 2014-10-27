@@ -12,7 +12,9 @@ comments: true
 share: true
 ---
 
-Update: Judge Orders Patent Troll to [Pay $300,000 Compensation to Find The Best](#epilogue-patent-troll-ordered-to-pay-300000-compensation-to-find-the-best-10232014) (10/23/2014). 
+**Update**: Judge Orders Patent Troll to [Pay $300,000 Compensation to Find The Best](#epilogue-patent-troll-ordered-to-pay-300000-compensation-to-find-the-best-10232014) (10/23/2014). 
+
+- - - 
 
 <em>Lumen View v. FindTheBest.com</em> is not the usual troll vs. startup story. Instead of paying to settle, FindTheBest hired a <a href="http://www.leventhallaw.com/about-joe-leventhal/">litigator</a> and launched a public, aggressive and ultimately successful defense. On Friday November 22, 2013, the Honorable Denise Cote invalidated Lumen View's patent, and threw out Lumen View's case. There are a few lessons here for startups  receiving similar patent troll demand letters.
 
