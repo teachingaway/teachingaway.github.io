@@ -23,7 +23,7 @@ This is a DRAFT of an article I'm working on. Any comments would be great -  [@t
 
 - - - 
 
-Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borring inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, and then 4 months later a different court found that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary. But looking at a dozen cases over 3 decades, I think we can find *some* method to the madness. 
+Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, and then 4 months later a different court found that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary. But looking at a dozen cases over 3 decades, I think we can find *some* method to the madness. 
 
 
 - - - 
@@ -70,7 +70,7 @@ I'd summarize the copyright rule as "the video game elements you can encapsulate
 
 - **Idea of Karate Champ**: "a martial arts karate combat game conducted between two combatants, and presided over by a referee, all of which are represented by visual images, and providing a method of scoring accomplished by full and half point scores for each player, and utilizing dots to depict full point scores and half point scores." 
 
-- **Idea of Tetris**: "Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. ... The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. " 
+- **Idea of Tetris**: "Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. ... The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over." 
 
 - **Idea of Triple Town**: "a hierarchical matching game... in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects." 
 
@@ -298,8 +298,7 @@ Since Drew copied everything down to the copyright traps, the judge predictably 
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
 
-Incredible Technologies made the popular Golden Tee arcade game (left). 
-Virtual Technologies made PGA Tour (right) with the explicit purpose of cloning Golden Tee. The games and controls were very similar: 
+Incredible Technologies made the popular Golden Tee arcade game (left). Virtual Technologies made PGA Tour (right) with the explicit purpose of cloning Golden Tee. The games and controls were very similar: 
 
  > The size and shape of PGA Tour Golf's control panel, and the placement of its trackball and buttons, are nearly identical to those of Golden Tee. The "shot shaping" choices are depicted in a similar way and in the same sequence. Although the software on the two games is dissimilar, both allow a player to simulate a straight shot, a fade, a slice, a draw, a hook, etc. by the direction in which the trackball is rolled back and pushed forward. [*Incredible Technologies v. Virtual Technologies*, 400 F. 3d 1007 (7th Cir. 2005)](http://scholar.google.com/scholar_case?case=10633608556007842361). 
 
