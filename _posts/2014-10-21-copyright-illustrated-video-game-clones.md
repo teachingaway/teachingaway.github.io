@@ -13,9 +13,9 @@ comments: true
 share: true
 ---
 
-- - - 
 
-This is a DRAFT article. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway). 
+
+**This is a DRAFT article. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway).**
 
 - - - 
 
@@ -76,25 +76,8 @@ You should be able to encapsulate the "idea" of a video game in a few sentences.
 
 We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
 
-- - - 
-
-
-## The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)
-
-<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
-
-Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality."  (The "taint of originality" standard is better known as the "modicum of creativity" standard. [*Feist v. Rural Telephone*](http://scholar.google.com/scholar_case?case=1195336269698056315)).
-
-Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing, and that's what the defendant produced. The defendant copied nearly everything, right down to the [Mountweazellian](http://www.newyorker.com/magazine/2005/08/29/not-a-word?currentPage=all) easter egg: 
-
-> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
-
-Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
-
-**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
-
-
 <hr class="tall">
+
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
@@ -136,7 +119,32 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 **Takeaway**: Identical cloning is copyright infringement. 
 
+<hr class="tall">
 
+
+## The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)
+
+<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
+
+Kramer made *Hi-Lo Double Up Joker Poker*. Drew's Distributing and Lynch Enterprises made *Joker Poker 54* soon afterwards. Kramer sued for copyright infringement. 
+
+[*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality." (Better known as the "modicum of creativity" standard).
+
+Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing. 
+
+The defendant made some superficial changes to the game, changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
+
+These minor changes were not enough to save Drews/Lynch 
+, and that's what the defendant produced. The defendant copied nearly every detail, right down to the easter egg: 
+
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+
+Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+
+**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
 
 - - - 
 
