@@ -82,21 +82,25 @@ Finally, if you receive a <a href="http://adlervermillion.com/blog/wp-content/up
 
 When an amateur patent troll asserts a weak patent, it may make more sense for a startup to defend itself than to pay out a quick settlement.
 
-- - - 
+<hr class="tall">
 
-# Find The Best Wins $300,000 in Attorneys Fees from Patent Troll
+# 10/23/2014 Update: Find The Best Wins $300,000 in Attorneys Fees from Patent Troll 
 
 Here's Judge Cote's attorney's fees decision from October 23, 2014. 
 
 **Lumen View Technology, LLC,  v. Findthebest.com,  Inc.**
 
-13-cv-3599 (DLC)  
+13-cv-3599 (DLC). 2014 U.S. Dist. LEXIS 150444 (SDNY October 23, 2014)
 
-2014 U.S. Dist. LEXIS 150444 (SDNY October 23, 2014)
+COUNSEL: 
 
-COUNSEL: *For Plaintiff*: Damian Wasserbauer, Aeton Law Partners LLP, Middletown, CT. *For Defendant*: Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA.
+*For Plaintiff*: Damian Wasserbauer, Aeton Law Partners LLP, Middletown, CT. 
 
-DENISE COTE, District Judge:
+*For Defendant*: Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA.
+
+- - - 
+
+DENISE COTE, District Judge:  
 
 [\*1] Defendant Findthebest.com, Inc. (“FTB”) seeks an award of attorneys’ fees and costs from Lumen View Technology, LLC (“Lumen”) on the ground that this case is exceptional under 35 U.S.C. § 285 (“Section 285”). For the following reasons, the defendant is awarded attorneys’ fees and costs, as well as an enhancement.
 
