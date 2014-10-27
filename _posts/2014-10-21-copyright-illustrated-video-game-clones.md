@@ -62,17 +62,17 @@ Sometimes expression vs. idea is as simple as  game vs. genre. You can copyright
 
 I'd summarize the copyright rule as "the video game elements you can encapsulate in a few sentences are the unprotectable 'ideas'." Here are some examples, quoting from court decisions: 
 
-- Galaxian: "an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player’s ship."
+- **Idea of Galaxian**: "an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player’s ship."
 
-- Asteroids: "a video game in which the player commands a spaceship through a barrage of space rocks and enemy spaceships." 
+- **Idea of Asteroids**: "a video game in which the player commands a spaceship through a barrage of space rocks and enemy spaceships." 
 
--  Pac-Man: "a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points." 
+- **Idea of Pac-**Man: "a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points." 
 
-- Karate Champ: "a martial arts karate combat game conducted between two combatants, and presided over by a referee, all of which are represented by visual images, and providing a method of scoring accomplished by full and half point scores for each player, and utilizing dots to depict full point scores and half point scores." 
+- **Idea of Karate Champ**: "a martial arts karate combat game conducted between two combatants, and presided over by a referee, all of which are represented by visual images, and providing a method of scoring accomplished by full and half point scores for each player, and utilizing dots to depict full point scores and half point scores." 
 
-- Tetris: "Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. ... The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. " 
+- **Idea of Tetris**: "Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. ... The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. " 
 
-- Triple Town: "a hierarchical matching game... in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects." 
+- **Idea of Triple Town**: "a hierarchical matching game... in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects." 
 
 We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
 
