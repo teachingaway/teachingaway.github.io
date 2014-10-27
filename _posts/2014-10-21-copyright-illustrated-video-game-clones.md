@@ -1,7 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
-title: "Clones Wars: Video Game Litigation Illustrated"
+title: "A Game of Clones: Video Game Litigation Illustrated"
 summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, Donkey Kong, and Ruth Bader-Ginsburg."
 tags: [copyright, software]
 author: adler
@@ -23,7 +23,7 @@ This is a DRAFT article. Any comments would be great -  [@teachingaway](http://w
 
 - - - 
 
-Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, and then 4 months later a different court found that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary. But looking at a dozen cases over 3 decades, I think we can find *some* method to the madness. 
+Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary. But looking at a dozen cases over 3 decades, I think we can find *some* method to the madness. 
 
 
 - - - 
@@ -56,9 +56,9 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 ## Idea vs. Expression 
 
-At copyright's core is the notion that no one can monopolize an "idea." Copyright law allows — perhaps even encourages — copying ideas. Ideas are always free to use and modify. What copyright law *prohibits* is copying the  *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
+Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. What copyright law *prohibits* is copying the  *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
 
-Sometimes expression vs. idea is as simple as  game vs. genre. You can copyright the game "Super Mario Brothers", but not the *idea* of a side-scrolling platformer.  Doom can be copyrighted, but not the idea of a first-person shooter. Kingdom Rush or Plants vs. Zombies can be copyrighted, but the *idea* of a tower defense game is public domain. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to define the genre or sub-genre that encompasses the public-domain game elements. 
+To oversimplify, you can think about expression vs. idea as game vs. genre. You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to define the genre or sub-genre that encompasses the public-domain game elements. 
 
 You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" behind some famous video games: 
 
@@ -298,13 +298,7 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 <hr class="tall">
 
 
-
-
-<hr class="tall">
-
-
 ## No Infringement of Golden Tee Golf (2005)
-
 
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
@@ -400,17 +394,35 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 
 <hr class="tall">
 
-## Bang! Role Playing Card Game Copyrightable (2014)
 
+## Bang! Role Playing Card Game Copyrightable (2014)
 
 <img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
 
-A recent case involving non-video games further solidifies the idea that game mechanics are copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
+A recent case involving non-video games further solidifies the idea that game mechanics can be copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
 
 > The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
 
-Drawing heavily on recent video game cases, the judge decided that the Bang! game mechanics had copyrightable material, but issued a split order. The judge let the plaintiff’s claim survive an early motion to dismiss the case, but decided that the similarities were not strong enough to warrant a “preliminary injunction.” That is, the judge refused to grant an early order prohibiting Ziko’s sale of the LoTK game in the US. The case is ongoing (as of October 2014), so we will keep watching.
+Drawing on video game cases, the judge decided that the Bang! *game mechanics* were not copyrightable. "The similar uses of life points, distance between players, action cards, and rewards and punishments do not constitute actionable copying." [*Da Vinci v. Ziko Games*](http://scholar.google.com/scholar_case?case=5597788239119337082)
+
+However, the Bang! characters and capabilities are copyrightable: 
+
+ > the corresponding characters in the two games have substantially similar capabilities. Each character card in both games has a name, picture, and a description of the character's capabilities and life points. The defendants allegedly copied these capabilities and life points, simply changing the names and artwork. The questions are whether these character elements are protected and whether translating the Bang! characters from a Wild West to an ancient China theme infringes that protection.
+
+ > Given the similarities between the attributes of the characters in Bang! and in LOTK, a reasonable factfinder could conclude that the characters of the two games are substantially similar despite the transposition and translation from the Wild-West theme of Bang! to the ancient China theme of LOTK.
+
+Character *roles*, unlike game rules, are copyrightable: 
+
+ > The players in both games play virtually identical roles. ... such roles and their expression are not merely rules that prescribe what the players may do; the roles and their expression also describe how the players may do it. If the roles describe the content of the players' interactions in ways that are sufficiently original or creative to merit copyright protection, players' roles can be protectable. 
+
+The judge contrasted the fictional Bang! game with the realistic golf simulation case (Incredible Tech. v. Virtual Tech). If two golf simulation games are similar, its probably because both games are copying from the sport of golf. If two fictional role playing games are similar, the second may have copied from the first: 
+
+ > There is a limited number of ways for the game designer to show a golfer, a course, a swing, and the ultimate goal: putting the ball in the hole. Such limits do not apply to role-playing games like Bang!. There are nearly infinite ways of expressing the concepts of player elimination or a contest between authorities and their opponents. Instead of choosing a different manner of expressing these concepts, the defendants copied into LOTK protectable elements of DaVinci's original and creative expression in Bang!
+ 
+For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. 
+
+The case is ongoing (as of October 2014), so we will keep watching.
 
 - - - 
 
@@ -484,4 +496,4 @@ The first legal action for apps may involve sending a DMCA takedown notice to th
 
 - - - 
 
-Images via [Arcade Flyer Archive](http://flyers.arcade-museum.com/) and [International Arcade Museum](http://www.arcade-museum.com/)
+Images via [Arcade Flyer Archive](http://flyers.arcade-museum.com/),  [International Arcade Museum](http://www.arcade-museum.com/), and [World of Spectrum](http://www.worldofspectrum.org/). 
