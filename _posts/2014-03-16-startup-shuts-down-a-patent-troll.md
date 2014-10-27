@@ -86,7 +86,11 @@ When an amateur patent troll asserts a weak patent, it may make more sense for a
 
 # Epilogue: Patent Troll Ordered to Pay $300,000 Compensation to Find The Best (10/23/2014)
 
-Here's Judge Cote's attorney's fees decision from October 23, 2014. 
+Judge Denise Cote awarded defendant Find the Best its attorney's fees in a  decision issued October 23, 2014. Find the Best asked for $150,000 in compensation, and Judge Cote decided to double it. My favorite quote: 
+
+> but for FTB’s financial resources and resolve, Lumen’s predatory behavior would likely have proceeded unchecked. 
+
+Here's the entire decision: 
 
 **Lumen View Technology, LLC,  v. Findthebest.com,  Inc.**
 
@@ -96,7 +100,7 @@ COUNSEL:
 
 *For Plaintiff*: Damian Wasserbauer, Aeton Law Partners LLP, Middletown, CT. 
 
-*For Defendant*: Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA.
+*For Defendant*: [Joseph S. Leventhal, The Leventhal Law Firm, APC, San Diego, CA](http://www.leventhallaw.com/about-joe-leventhal/).
 
 - - - 
 
@@ -114,7 +118,7 @@ The ‘073 Patent was issued on November 29, 2011, and is entitled a “System a
 
 Lumen became the exclusive licensee of ‘073 Patent on March 1, 2012, which was approximately a week after Lumen was formed. Lumen filed its complaint (the “Complaint”) against FTB on May 29, 2013, alleging that FTB infringed the ‘073 Patent. The Complaint was one of at least twenty substantially similar patent infringement complaints filed by Lumen against various companies in 2012 and 2013.
 
-On September 24, FTB moved for judgment on the pleadings on the ground that the ‘073 Patent was invalid. The motion was fully submitted on October 18. On November 22, this Court held that the ‘073 Patent claimed an abstract idea, which was not patentable under the codified Patent Act, 35 U.S.C. § 101. Lumen View Tech. LLC v. Findthebest.com, Inc., 13cv3599 (DLC), 2013 WL 6164341, at *16 (S.D.N.Y. Nov. 22, 2013). Lumen appealed this decision to the Federal Circuit. The Federal Circuit stayed the case pending the Supreme Court decision in Alice Corp. Pty. Ltd. v. CLS Bank Int’l, 134 S. Ct. 2347 (2014). The Court issued its decision in Alice on July 19. Lumen [\*3] voluntarily dismissed the appeal to the Federal Circuit on September 12, 2014.
+On September 24, FTB moved for judgment on the pleadings on the ground that the ‘073 Patent was invalid. The motion was fully submitted on October 18. On November 22, this Court held that the ‘073 Patent claimed an abstract idea, which was not patentable under the codified Patent Act, 35 U.S.C. § 101. *Lumen View Tech. LLC v. Findthebest.com, Inc.*, 13cv3599 (DLC), 2013 WL 6164341, at \*16 (S.D.N.Y. Nov. 22, 2013). Lumen appealed this decision to the Federal Circuit. The Federal Circuit stayed the case pending the Supreme Court decision in *Alice Corp. Pty. Ltd. v. CLS Bank Int’l*, 134 S. Ct. 2347 (2014). The Court issued its decision in Alice on July 19. Lumen [\*3] voluntarily dismissed the appeal to the Federal Circuit on September 12, 2014.
 
 ## II. FTB’s Motion for Attorneys’ Fees
 
@@ -124,7 +128,7 @@ FTB made a submission as to the amount of attorneys’ fees and costs on July 18
 
 ## III. FTB’S RICO Complaint
 
-There is related litigation between FTB and Lumen. On September 16, 2013, FTB filed a complaint against Lumen alleging violations of the federal Racketeering Influenced and Corrupt Organizations Act (“RICO”). FTB’s counsel began its work on the RICO claim on August 1, 2013. FTB filed an amended complaint on November 22. Lumen filed a motion to dismiss on December 23. Lumen’s December 23 motion to dismiss was granted on May 19, 2014. [\*5] Findthebest.com, Inc. v. Lumen View Tech. LLC, 13cv6521 (DLC), 2014 WL 2050610 (S.D.N.Y. May 19, 2014). Both Lumen and FTB agree that the fees and costs associated with this related litigation may not be recovered here.
+There is related litigation between FTB and Lumen. On September 16, 2013, FTB filed a complaint against Lumen alleging violations of the federal Racketeering Influenced and Corrupt Organizations Act (“RICO”). FTB’s counsel began its work on the RICO claim on August 1, 2013. FTB filed an amended complaint on November 22. Lumen filed a motion to dismiss on December 23. Lumen’s December 23 motion to dismiss was granted on May 19, 2014. [\*5] *Findthebest.com, Inc. v. Lumen View Tech. LLC*, 13cv6521 (DLC), 2014 WL 2050610 (S.D.N.Y. May 19, 2014). Both Lumen and FTB agree that the fees and costs associated with this related litigation may not be recovered here.
 
 ## DISCUSSION
 
