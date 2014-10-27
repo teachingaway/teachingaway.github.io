@@ -63,11 +63,12 @@ FindTheBest made its case convincing by packaging complicated patent issue in si
 
 <blockquote>Having two or more parties input preference data is not inventive. Matchmakers have been doing this for millennia. Nor is an unspecified closeness of fit process an inventive idea. It is merely a mathematical manifestation of the underlying process behind matchmaking: determining good matches.</blockquote>
 
-Lumen View’s papers were more disjointed. There was no strong frame or an overarching theme, and the argument was peppered with awkward types like "FTB’s mere arguments about humanity do not present a scintilla of evidence necessary to invalidate any patent."
+Lumen View’s papers were more disjointed. There was no strong frame or an overarching theme, and the argument was peppered with awkward typos like "FTB’s mere arguments about humanity do not present a scintilla of evidence necessary to invalidate any patent."
 
 ### Conclusion
 
 And so, on Friday, a tech startup trounced a patent troll, invalidating its patent only 6 months after the case was filed. Judge Cote concludes,
+
 <blockquote>Claim 1 of the ‘073 patent claims an abstract idea, which is patent ineligible subject matter under Section 101 of the codified Patent Act.  The dependent claims are invalid as well. FindTheBest’s September 24, 2013 motion for judgment on the pleadings is granted.  The Clerk of Court shall enter judgment for the defendant and close the case.</blockquote>
 
 ### Legal Costs
