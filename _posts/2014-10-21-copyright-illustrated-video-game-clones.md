@@ -76,6 +76,8 @@ I'd summarize the copyright rule as "the video game elements you can encapsulate
 
 We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
 
+- - - 
+
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
@@ -278,13 +280,13 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
-In this case, Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). The judge first decided that the plaintiff's game, though similar to poker, "demonstrated more than a 'taint of originality.'"  (Fortunately, the Supreme Court superceded the "taint of originality" standard with the "modicum of creativity" standard in [*Feist v. Rural Telephone*, 499 US 340 (1991)](http://scholar.google.com/scholar_case?case=1195336269698056315)).
+In this case, Kramer made *Hi-Lo Double Up Joker Poker*, and Drew Industries released *Joker Poker 54* soon afterwards. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150). The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality."  (Fortunately, the Supreme Court replaced the "taint of originality" standard with the "modicum of creativity" standard in [*Feist v. Rural Telephone*](http://scholar.google.com/scholar_case?case=1195336269698056315)).
 
-How do we know if the defendant Drew was copying from "Hi-Lo Double Up Joker Poker" or just copying from the public domain card game *poker*? Because Drew didn't bother to remove a "hidden legend" from his version of the game: 
+Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing, and that's what the defendant produced. The defendant copied nearly everything, right down to the [Mountweazellian](http://www.newyorker.com/magazine/2005/08/29/not-a-word?currentPage=all) easter egg: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
-That wasn't the brightest move. Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
 **Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
 
