@@ -9,7 +9,7 @@ image:
 share: 
 ---
 
-<p class="big-text">Capcom's <em>Dead Rising</em> game took inspiration from George Romero's 1979 zombie classic <em>Dawn of the Dead</em>. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. However, before comparing the game to the original movie, the court first filters out the unprotectable <em>scènes à faire</em> (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, <em>all</em> of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement.</p>
+<p class="big-text">Capcom's <em>Dead Rising</em> game took inspiration from George Romero's 1979 zombie classic <em>Dawn of the Dead</em>. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies.  However, these similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement.</p>
 
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="big-image">
 
