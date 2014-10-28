@@ -21,13 +21,8 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary, but a few concepts will help sort this madness. 
+Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, and then four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary, but looking at a few examples will help sort out the madness. 
 
-- **Identical Twins.**  An clone that's basically identical to the original game is always going to be copyright infringement. Easy.  What if you change the name from Donkey Kong to Crazy Kong? Still copyright infringement. 
-
-- **Fraternal Twins.** A "substantially similar" clone will be copyright infringement, even if it's not identical to the original game. This is where copyright law gets interesting and murky. Copyright infringement isn't just about how much of the original game was copied, it's about what types of games elements were copied. 
-
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the "idea/expression dichotomy." This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Finally, copyright never protects cliches. This is the **scènes à faire** doctrine (French for "that which must be done").  After we filter away the ideas and the cliches, we ask whether enough "creative expression" was copied to make the clone "substantially similar" to the original. Examples might be helpful. 
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
@@ -53,34 +48,13 @@ Copyright protects *creative expression*, but never *ideas*. Lawyers call this t
 <li><a href="#how-to-prepare-for-the-clones"><strong>How to Prevent Cloning</strong></a></li>
 </ul>
 
-- - - 
-
-## Idea vs. Expression 
-
-Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. To oversimplify, you can think about "expression vs. idea" as "game vs. genre." You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to draw the genre or sub-genre that defines the public-domain game elements. 
-
-You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" of some video games: 
-
-- **Idea of Galaxian**: "an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player’s ship."
-
-- **Idea of Asteroids**: "a video game in which the player commands a spaceship through a barrage of space rocks and enemy spaceships." 
-
-- **Idea of Pac-Man**: "a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points." 
-
-- **Idea of Karate Champ**: "a martial arts karate combat game conducted between two combatants, and presided over by a referee, all of which are represented by visual images, and providing a method of scoring accomplished by full and half point scores for each player, and utilizing dots to depict full point scores and half point scores." 
-
-- **Idea of Tetris**: "Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. ... The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over." 
-
-- **Idea of Triple Town**: "a hierarchical matching game... in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects." 
-
-- - - 
 
 
 <hr class="tall">
 
-# Identical Cloning is Always Infringement
+# Identical Twins: Always Infringement
 
-Selling an identical clone is going to be copyright infringement. This is a no-brainer. 
+A clone that's basically identical to the original game is always going to be copyright infringement. Changing the name from "Donkey Kong" to Crazy Kong" will not fool a Federal Judge. 
 
 <hr class="tall">
 
