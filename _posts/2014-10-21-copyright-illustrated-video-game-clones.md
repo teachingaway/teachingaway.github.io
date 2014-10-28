@@ -110,7 +110,7 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 For more creative and original games, the question isn't whether the games are identical, it's whether the clone is "substantially similar" to the original. This is where copyright law gets murky. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Copyright can't protect **functional elements**, systems or methods of operation (we need patents for that type of protection). Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Copyright can't protect **useful articles** like a trackball controller. Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
 
 The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might be helpful. 
 
@@ -238,7 +238,7 @@ The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v
 
 <hr class="tall">
 
-## Sports Games
+# Sports Games
 
 Video Games that simulate existing sports (baseball, soccer karate) get a very thin type of copyright protection. Its a copyright that can stop an identical clones, but not much else.  
 
@@ -289,12 +289,12 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
 
-**Comment**: I've never played Figher's History, but it looks like a god damn Street Fighter II ripoff. I'd call it copyright infringement. 
+**Comment**: I've never played Fighter's History, but it looks like a god damn Street Fighter II ripoff. I'd call it copyright infringement. 
 
 <hr class="tall">
 
 
-## No Infringement of Golden Tee Golf (2005)
+## Trackball Control Not Copyrightable: Golden Tee Golf (2005)
 
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
@@ -310,6 +310,8 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 > "the fairway would be over there" and "I don't think that's going to help a whole lot" in PGA Tour versus "That can only hurt," "You've got to be kidding," and "You can lead a ball to water but ..." from the Golden Tee announcers. [*Incredible Tech. v. Virtual Tech.*](http://scholar.google.com/scholar_case?case=10633608556007842361).
 
+Useful articles, like the trackball control, are not copyrightable. A useful article is defined in the copyright act as "an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information." The trackball system of operating the game was considered a useful article, and therefore not subject to copyright protection.
+
 **Takeaway**: Video game controls (like a trackball) and instructions are entitled to very little, if any, copyright protection. 
 
 
@@ -317,41 +319,18 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 
 ## Interlude: In Early Video Game Cases, Designers Had More Leeway to Copy Because Design Options were Limited by Primitive Technology. 
 
-Early video games systems didn't give designers many pixels to work with. That means games were more likely to look similar. E.g., if a designer only has 192 pixels and 25 colors to draw with, she shouldn't be penalized for drawing a character that happens to look like Mario. As a result of these early technical limitations, designers were given more leeway to copy from previous games. 
- 
-"Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." Frybarger v. IBM. 
+The technical limitations of early video games systems didn't give game designers many pixels to work with. If one character looked like another, was it because of copying, or just because designers were limited to sprites using only a handful of pixels and colors? In the early days of video games, perhaps spaceships could only be expressed as blocky little triangles. As a result, early designers were given more leeway to copy from previous games. This is related to the "merger doctrine." 
 
-Modern video game graphics are a little different. With high-resolution graphics and vivid colors, any similarities between games should be eyed with closer suspicion. 
+ > "Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
 
+The judge was basically saying that because video game technology was so crappy back then, changing just a few pixels would be enough to avoid copyright infringement. 
 
-<hr class="tall">
-
-
-## No Infringement: Sharpshooter v. Police Trainer 2
-
-<img src="/images/copyright/police-trainer-2-title.jpg" class="medium-image">
-
-Boyer designed the game "Sharpshooter" and then recognized some similarities in Team Play's "Police Trainer 2." He accused Team play of copyright infringement, specifically claiming that Police Trainer 2 stole: (1) a shooting challenge in which targets float out of a cylindrical opening in the floor; (2) a shooting challenge in which targets are randomly arranged, and a player must remember which are which and only shoot certain targets; (3) a shooting challenge in which targets randomly "pop" out of cylindrical openings for the player to shoot; and (4) silver iconic objects that appear next to each completed challenge as a progress indicator.
-
-Sadly for Boyer, the judge decided that all 4 items of "allegedly misappropriated graphical art" were either uncopyrightable ideas or *scene a faire*. "In each instance, they are subject to copyright protection only from virtually identical copying." [*Team Play v. Boyer*, 391 F. Supp. 2d 695 (ND Ill 2005)](http://scholar.google.com/scholar_case?case=3622100013857292984). 
-
-In her comparison, the judge decided that team play's copying wasn't that type of "identical copying" that would trigger infringement. 
-
-1. Police Trainer 2's "Balloons" Challenge v. Sharpshooter's "Floating Balls" Challenge
-
-2. Police Trainer's "Memory" Challenge v. Sharpshooter's "Memory" Challenge"
-
-3. Police Trainer's "Whack the Criminal" v. Sharpshooter's "Shoot the Alien"
-
-4. Police Trainer's Icons in "Select Rank Exam" v. Sharpshooter's Icons in "Ultimate Challenge"
-
-[Note: Need images for these comparisons. The copies in the opinion are just black photocopied blobs.]
-
+Video game technology has obviously advanced since Mouser, and so we need to be careful when relying on old video game cases.  With so many more design options available, any similarities between games should be viewed with greater suspicion. 
 
 <hr class="tall">
 
 
-## No Infringement of Dawn of the Dead (2008)
+## Games Can Infringe Movies, But Dead Rising Didn't (2008)
 
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
@@ -359,7 +338,7 @@ Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie cl
 
 Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
 
-**Takeaway**: Using chainsaws to kill zombies is scènes à faire; its cliche, not creative copyrightable expression. 
+**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*; its cliche, not creative copyrightable expression. 
 
 <hr class="tall">
 
