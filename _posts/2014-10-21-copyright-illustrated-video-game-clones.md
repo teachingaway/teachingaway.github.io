@@ -334,11 +334,11 @@ Video game technology has obviously advanced since Mouser, and so we need to be 
 
 <img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
 
-Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie classic *Dawn of the Dead*. In its copyright analysis, the court noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
+Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie classic *Dawn of the Dead*. In its copyright analysis, the judge noted several similarities. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. 
 
-Before comparing the game to the original movie, the court filtered out the unprotectable scènes à faire (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." *Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008). Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. 
+Before comparing the game to the original movie, the court filtered out the unprotectable *scènes à faire* (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. [*Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008)](/capcom-v-mkr-2008/).
 
-**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*; its cliche, not creative copyrightable expression. 
+**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*; its cliche, not copyrightable expression. 
 
 <hr class="tall">
 

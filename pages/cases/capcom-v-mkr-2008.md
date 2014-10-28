@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /capcom-v-mkr-2008/
-title: "Capcom v. MKR: No Copyright Infringement in Video Game vs. Movie"
+title: "Capcom v. MKR: DeadRising Does Not Infringe Dawn of the Dead"
 image:
   feature: /wide/default-image.png
   credit: Company Folders
@@ -9,29 +9,35 @@ image:
 share: 
 ---
 
+<p class="big-text">Capcom's <em>Dead Rising</em> game took inspiration from George Romero's 1979 zombie classic <em>Dawn of the Dead</em>. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies. Both works also parody rampant consumerism and critique sensational journalism. However, before comparing the game to the original movie, the court first filters out the unprotectable <em>scènes à faire</em> (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, <em>all</em> of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement.</p>
 
-
-<p class="big-text"> </p>
-
-<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="medium-image">
+<img src="/images/copyright/dawn-of-the-dead-v-dead-rising-no-copyright-infringement.jpg" class="big-image">
 
 
 Capcom v. MKR Group – ND CA 2008
 
-<p>CAPCOM CO., LTD, et al., Plaintiffs/Third-Party Defendants, <br>
+<p>CAPCOM CO., LTD, et al., <br>
+Plaintiffs/Third-Party Defendants, <br>
+<br>
 v.<br>
-THE MKR GROUP, INC., Defendant/Third-Party Plaintiff.<br><br>
+<br>
+THE MKR GROUP, INC., <br>
+Defendant/Third-Party Plaintiff.<br><br>
 2008 U.S. Dist. LEXIS 83836 / NO. C 08-0904 RS<br>
-THE NORTHERN DISTRICT OF CALIFORNIA, SAN JOSE DIVISION<br>
+Northern District of California, San Jose Division<br>
 October 10, 2008, Decided <br><br>
 Opinion: Richard Seeborg, United States Magistrate Judge.<br>
 </p>
 
 **ORDER GRANTING MOTION TO DISMISS COUNTERCLAIMS**
 
+- - - 
+
 # I. INTRODUCTION
 
 This intellectual property rights dispute,  [\*2] plucked from the world of marauding zombies, pits the owners of the rights to a well known film against the makers of a popular video game. Specifically, the video game maker, plaintiffs/third party defendants Capcom Co., Ltd.,  et al. (collectively, “Capcom”), moves to dismiss the amended counterclaims and third party complaint (“the counterclaims”) brought by the film owner defendant/third party plaintiff, The MKR Group, Inc. (“MKR”), pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure. Those counterclaims aver copyright and trademark infringement, as well as state and common law violations. MKR opposes the motion. Because the copyrighted and allegedly infringing works are not substantially similar under the applicable extrinsic test, the motion to dismiss the copyright counterclaim will be granted. MKR’s trademark infringement counterclaim is also subject to dismissal because the three source identifying elements fail to rise to the level of a violation of the Lanham Act. Finally, the remaining state and common law counterclaims must be dismissed as they are preempted by federal copyright and trademark law. In light of the nature and grounds for these dismissals, leave  [\*3] to amend would be futile and the counterclaims are therefore dismissed with prejudice.
+
+- - - 
 
 # II. BACKGROUND
 
@@ -57,6 +63,8 @@ FOOTNOTE 2 In 2007, the California legislature repealed Cal. Bus. & Prof. Code �
 
 On June 11, 2008, Capcom filed the instant motion, contending that: (1) MKR fails to state a claim for copyright infringement in its first counterclaim because MKR’s alleged copyrighted work and Capcom’s allegedly infringing work are not substantially similar as a matter of law; (2) MKR fails to state a claim for violation of the Lanham Act in its second counterclaim because it represents nothing more than the copyright claim improperly labeled as a separate trademark action; and (3) MKR’s claim for relief under Cal. Bus. & Prof. Code § 17200 in its third counterclaim as well as its claim for common law trademark infringement, unfair competition, misappropriation, and dilution in its fourth counterclaim fail as a matter of law because they are preempted pursuant to § 301 of the Copyright Act.
 
+- - - 
+
 # III. LEGAL STANDARD
 
 A complaint may be dismissed as a matter of law pursuant to Rule 12(b)(6) for one of two reasons: (1)  [\*8] lack of a cognizable legal theory or (2) insufficient facts under a cognizable legal theory. SmileCare Dental Group v. Delta Dental Plan of Cal., Inc., 88 F.3d 780, 783 (9th Cir. 1996). For purposes of a motion to dismiss, all allegations of material fact in the complaint are taken as true and construed in the light most favorable to the non-moving party. Parks Sch. of Bus., Inc. v. Symington, 51 F.3d 1480, 1484 (9th Cir. 1995).
@@ -64,6 +72,8 @@ A complaint may be dismissed as a matter of law pursuant to Rule 12(b)(6) for on
 “A complaint should not be dismissed unless it appears beyond doubt the plaintiff can prove no set of facts in support of his claim that would entitle him to relief.” Clegg v. Cult Awareness Network, 18 F.3d 752, 754 (9th Cir. 1994). The court, however, “is not required to accept legal conclusions cast in the form of factual allegations if those conclusions cannot reasonably be drawn from the facts alleged.” Id. at 754-55. A court does “not require heightened fact pleading of specifics, but only enough facts to state a claim to relief that is plausible on its face.” Twombly, 127 S. Ct. at 1974. A court’s review is limited to the face of the complaint, documents the complaint references, and matters about which the court may take judicial notice. Anderson v. Clow (In re Stac Elecs. Sec. Litig.), 89 F.3d 1399, 1405 n.4 (9th Cir. 1996).
 
 Motions [\*9] to dismiss generally are viewed with disfavor and are to be granted rarely. See Gilligan v. Jamco Dev. Corp., 108 F.3d 246, 249 (9th Cir. 1997). Leave to amend must be granted unless it is clear that amendments cannot cure the complaint’s deficiencies. Lucas v. Dep’t of Corr., 66 F.3d 245, 248 (9th Cir. 1995). Nevertheless, when amendment would be futile, dismissal may be ordered with prejudice. Dumas v. Kipp, 90 F.3d 386, 393 (9th Cir. 1996).
+
+- - - 
 
 # IV. DISCUSSION
 
