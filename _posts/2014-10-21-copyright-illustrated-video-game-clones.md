@@ -58,9 +58,9 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. What copyright law *prohibits* is copying the  *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
 
-To oversimplify, you can think about expression vs. idea as game vs. genre. You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to define the genre or sub-genre that encompasses the public-domain game elements. 
+To oversimplify, you can think about "expression vs. idea" as "game vs. genre." You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to draw the genre or sub-genre that defines the public-domain game elements. 
 
-You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" behind some famous video games: 
+You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" of some video games: 
 
 - **Idea of Galaxian**: "an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player’s ship."
 
@@ -78,7 +78,7 @@ We'll need a scalpel to surgically dissect video games and separate their public
 
 <hr class="tall">
 
-# Copyright Require's a "Modicum of Creativity." 
+# Copyright Requires Only a "Modicum of Creativity" 
 
 Copyright only protects works of "creative authorship." How creative? Any modicum of creativity will suffice. As one court put it, just the "taint of originality" is enough.  Even simple games like Breakout and video poker meet the minimum creativity requirements for a copyright.  
 
