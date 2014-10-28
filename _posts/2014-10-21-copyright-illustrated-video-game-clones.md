@@ -317,7 +317,7 @@ Useful articles, like the trackball control, are not copyrightable. A useful art
 
 <hr class="tall">
 
-## Interlude: In Early Video Game Cases, Designers Had More Leeway to Copy Because Design Options were Limited by Primitive Technology. 
+## Interlude: Early Video Game Cases Gave Designers More Leeway to Copy Because Primitive Technology Limited their Design Options. 
 
 The technical limitations of early video games systems didn't give game designers many pixels to work with. If one character looked like another, was it because of copying, or just because designers were limited to sprites using only a handful of pixels and colors? In the early days of video games, perhaps spaceships could only be expressed as blocky little triangles. As a result, early designers were given more leeway to copy from previous games. This is related to the "merger doctrine." 
 
@@ -350,13 +350,13 @@ Soon after college, Desiree Golden started a video game company called Xio Inter
 
  > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
-She understood the law, but perhaps not how the law applied to Tetris. When she tried to draw the line between unprotectable game mechanics and protectable creative expression, she drew it in the wrong place, and granted herself far too much leeway to copy from Tetris. 
+She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to draw the line between the "idea" of Tetris and it's protectable creative expression, gave herself too much leeway to copy from the original game. 
 
-Here's how the *Tetris v. Xio* court identified the unprotectable "rules" of Tetris: 
+Here's how the Judge identified the unprotectable *idea* of Tetris: 
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. [*Tetris v. Xio*](http://scholar.google.com/scholar_case?case=18064882260025243346). 
 
-The *idea* of a falling-block puzzle game is not protectable. However, the *creative expression* of that idea as Tetris is protectable. The court decided that the style of the pieces and the way they move through space was protectable creative expression: 
+The *idea* of a falling-block puzzle game is not protectable. However, the *creative expression* of that idea as Tetris is protectable. The judge decided that the style of the pieces and the way they move through space was protectable creative expression: 
 
  > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game. [*Tetris v. Xio*](http://scholar.google.com/scholar_case?case=18064882260025243346). 
 
@@ -364,31 +364,30 @@ Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 
 
 **Takeaway**: Don't get your legal advice from blogs?
 
-
-
-
 <hr class="tall">
+
 
 ## Infringement in Triple Town v. Yeti Town (2012)
 
 <img src="/images/copyright/tripletown-v-yeti-town-copyright-infringement.jpg" class="medium-image">
 
+Spry Fox made Triple Town (left), LolApp made Yeti Town (right). Spry Fox noticed some suspicious similarities, and sued for copyright infringement.  As usual, the copyright analysis starts by filtering out the unprotectable ideas: 
 
-LolApp cloned the successful Triple Town (left) to make Yeti Town (right). As usual, the copyright analysis starts by filtering out the unprotectable ideas: 
+> The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. 
 
-> The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
+In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard.
 
-In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/). 
+The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. 
 
-The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).  
+Looking at the remaining protectable game elements, the court decided they were probably infringing. 
 
-Looking at the remaining protectable game elements, the court decided they were likely infringing. 
-
- > In Triple Town, the antagonist is a bear. In Yeti Town, the antagonist is a yeti... bears and yetis are both wild creatures... [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).  
+ > In Triple Town, the antagonist is a bear. In Yeti Town, the antagonist is a yeti... bears and yetis are both wild creatures....
  
- > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s. [*Spry Fox v. LolApps*](/spry-fox-v-lolapps-2012/).
+ > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s.
  
-The judge also defers to the opinion of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  In any event, this case was settled before a final decision was reached, and Yeti Town is no longer available in the app store. 
+The judge also defers to the opinion of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
+
+In any event, this case was settled before a final decision was reached. The settlement details are confidential, but Yeti Town is no longer available in the app store. 
 
 **Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, video game bloggers can apparently make a difference in copyright cases. 
 
@@ -400,27 +399,27 @@ The judge also defers to the opinion of video game bloggers: "The bloggers, who 
 <img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
 
-A recent case involving non-video games further solidifies the idea that game mechanics can be copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game mechanics were identical, but the game art was entirely different: 
+A recent case involving non-video games further solidifies the idea that game mechanics can be copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game *mechanics* were identical, but the game *art* was entirely different: 
 
-> The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)(punctuation omitted). 
+> The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. 
 
-Drawing on video game cases, the judge decided that the Bang! *game mechanics* were not copyrightable. "The similar uses of life points, distance between players, action cards, and rewards and punishments do not constitute actionable copying." [*Da Vinci v. Ziko Games*](http://scholar.google.com/scholar_case?case=5597788239119337082)
+Drawing on video game cases, the judge decided that the Bang! *game rules* were not copyrightable. "The similar uses of life points, distance between players, action cards, and rewards and punishments do not constitute actionable copying." The character *roles*, unlike game rules, were copyrightable: 
 
-However, the Bang! characters and capabilities are copyrightable: 
+ > The players in both games play virtually identical roles. ... such roles and their expression are not merely rules that prescribe what the players may do; the roles and their expression also describe how the players may do it. If the roles describe the content of the players' interactions in ways that are sufficiently original or creative to merit copyright protection, players' roles can be protectable. 
+ 
+The Bang! characters and capabilities were also copyrightable: 
 
  > the corresponding characters in the two games have substantially similar capabilities. Each character card in both games has a name, picture, and a description of the character's capabilities and life points. The defendants allegedly copied these capabilities and life points, simply changing the names and artwork. The questions are whether these character elements are protected and whether translating the Bang! characters from a Wild West to an ancient China theme infringes that protection.
 
  > Given the similarities between the attributes of the characters in Bang! and in LOTK, a reasonable factfinder could conclude that the characters of the two games are substantially similar despite the transposition and translation from the Wild-West theme of Bang! to the ancient China theme of LOTK.
 
-Character *roles*, unlike game rules, are copyrightable: 
 
- > The players in both games play virtually identical roles. ... such roles and their expression are not merely rules that prescribe what the players may do; the roles and their expression also describe how the players may do it. If the roles describe the content of the players' interactions in ways that are sufficiently original or creative to merit copyright protection, players' roles can be protectable. 
 
-The judge contrasted the fictional Bang! game with the realistic golf simulation case (Incredible Tech. v. Virtual Tech). If two golf simulation games are similar, its probably because both games are copying from the sport of golf. If two fictional role playing games are similar, the second may have copied from the first: 
+The judge contrasted the fictional Bang! game with the realistic golf simulation case. If two golf simulation games are similar, its probably because both games are copying from the sport of golf. If two fictional role playing games are similar, the second may have copied from the first: 
 
  > There is a limited number of ways for the game designer to show a golfer, a course, a swing, and the ultimate goal: putting the ball in the hole. Such limits do not apply to role-playing games like Bang!. There are nearly infinite ways of expressing the concepts of player elimination or a contest between authorities and their opponents. Instead of choosing a different manner of expressing these concepts, the defendants copied into LOTK protectable elements of DaVinci's original and creative expression in Bang!
  
-For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. 
+For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)
 
 The case is ongoing (as of October 2014), so we will keep watching.
 
