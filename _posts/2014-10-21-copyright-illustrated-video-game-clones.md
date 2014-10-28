@@ -109,21 +109,21 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 - - - 
 
-## No Infringement: Asteroids v. Meteors (1981) 
+## Copying Ideas is Not Infringement: Asteroids v. Meteors (1981) 
 
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
 
 *"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
 
-Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. The judge enumerated 22 similarities and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
+Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
+
+Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of Asteroids vs. Meteors, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
 The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-The court also noted 9 differences, which seem to mainly involve more advanced graphics. Here are a few examples:  
+The court also noted 9 differences, which seem to mainly involve the more advanced graphics in Meteors. Here are some examples:  
 
-- Meteors is in color, while Asteroids is in black and white.
-
-- The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
+- Meteors is in color, while Asteroids is in black and white. The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
 
 - At the beginning of Meteors, the player's spaceship is shown blasting off the earth, whereas "Asteroids" begins with the player's spaceship in outer space.
 
@@ -131,9 +131,33 @@ The court also noted 9 differences, which seem to mainly involve more advanced g
 
 - In Meteors, after the player's spaceship is destroyed, when the new spaceship appears on the screen, the game resumes at the same pace as immediately before the last ship was destroyed; in Asteroids the game resumes at a slower pace.
 
-These changes were enough. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D.Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
+These changes were enough, at the time, to avoid infringement. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-- - - 
+**Takeaway**: Don't take too much away from Asteroids v. Meteors. I think it was decided incorrectly. To my eye, these two games are "substantially similar." 
+
+<hr class="tall"> 
+
+
+## K.C. Munchkin: Infringement (1982)
+
+<img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
+
+
+K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The judge first separated the unprotectable "idea" of Pac-Man: 
+
+ > PAC-MAN is a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
+
+The court then filtered out *scènes à faire* (i.e., stock video game elements):
+
+ > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K.C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
+
+The court then looked at Pac-Man's creative expression. A maze-chase game "does not dictate the use of a 'gobbler' and 'ghost monsters.' Those characters are wholly fanciful creations, without reference to the real world." [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724). Finally, comparing only the protectable creative elements, the court found copyright infringement: 
+
+ > The K.C. Munchkin gobbler has several blatantly similar features, including the relative size and shape of the “body,” the V-shaped “mouth,” its distinctive gobbling action (with appropriate sounds), and especially the way in which it disappears upon being captured. An examination of the K.C. Munchkin ghost monsters reveals even more significant visual similarities. In size, shape, and manner of movement, they are virtually identical to their Pac-Man counterparts. K.C. Munchkin’s monsters, for example, exhibit the same peculiar “eye” and “leg” movement. Both games, moreover, express the role reversal and “regeneration” process with such great similarity that an ordinary observer could conclude only that North American copied plaintiffs’ Pac-Man. [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724).
+
+**Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the creative expression of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. Since K.C. Munchkin copied these protectable elements, it was infringing the Pac-Man copyright. 
+
+
 
 ### No Infringement: Tricky Trapper v. Mouser (1987)
 
@@ -151,11 +175,10 @@ The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v
 
 <hr class="tall">
 
+
 ## Galaxian v. Galaxian: Porting is Infringement (1982)
 
-
 <img src="/images/copyright/midway-galaxian-v-bandai-galaxian.jpg" class="medium-image">
-
 
 Midway made the arcade game *Pac-Man*, and Bandai cloned it with the handheld *Packri Monster*. Midway made the arcade game *Galaxian*, and Bandai cloned it with a handheld game called... *Galaxian*. Let's talk about the Galaxian copyright. 
 
@@ -185,29 +208,7 @@ After separating out the functional elements, the judge compared the remaining c
  > In viewing the two games solely with reference to their copyrightable features, one is struck by the almost complete absence of substantial similarities. The Hyperball playing field contains three columns of thunderbolts. Rapid Fire has only two columns of aliens carrying shields which pass ammunition to two guns. Nothing like the aliens, shields, ammunition or guns appears on the Hyperball playing field. The thunderbolts and aliens are roughly the same color, but there the similarity ends. Hyperball's thunderbolts point toward an oval area on which the logo "Energy Center" appears. Below that the word "Hyperball" in lighted block letters appears, and below that "Hyperball" is again written in stylized italics. The Rapid Fire playing field contains no oval area but rather variously colored dotted lines that radiate out from a dotted line in the shape of a semicircle, with the words "Force Field" written in a gothic style below the semi-circle. Hyperball has several "bombs" arrayed along the side of the playing field, but none of the various colored dotted lines that are on the Rapid Fire field. But even more important than these specific dissimilarities is the overall difference in the aesthetic impressions generated by the two games. Hyperball displays thunderbolts; the player's adversary is an impersonal natural force represented by geometric figures. Rapid Fire displays enemy creatures, humanoid in appearance. The Rapid Fire player's enemy is more personalized and not simply a geometric shape. [*Williams Electronics, Inc. v. Bally Manufacturing*](http://scholar.google.com/scholar_case?case=16687668448643130747).
 
 
-<hr class="tall">
 
-## K.C. Munchkin: Infringement (1982)
-
-<img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
-
-
-K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The judge first separated the unprotectable "idea" of Pac-Man: 
-
- > PAC-MAN is a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
-
-The court then filtered out *scènes à faire* (i.e., stock video game elements):
-
- > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K.C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
-
-The court then looked at Pac-Man's creative expression. A maze-chase game "does not dictate the use of a 'gobbler' and 'ghost monsters.' Those characters are wholly fanciful creations, without reference to the real world." [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724). Finally, comparing only the protectable creative elements, the court found copyright infringement: 
-
- > The K.C. Munchkin gobbler has several blatantly similar features, including the relative size and shape of the “body,” the V-shaped “mouth,” its distinctive gobbling action (with appropriate sounds), and especially the way in which it disappears upon being captured. An examination of the K.C. Munchkin ghost monsters reveals even more significant visual similarities. In size, shape, and manner of movement, they are virtually identical to their Pac-Man counterparts. K.C. Munchkin’s monsters, for example, exhibit the same peculiar “eye” and “leg” movement. Both games, moreover, express the role reversal and “regeneration” process with such great similarity that an ordinary observer could conclude only that North American copied plaintiffs’ Pac-Man. [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724).
-
-**Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the creative expression of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. Since K.C. Munchkin copied these protectable elements, it was infringing the Pac-Man copyright. 
-
-
-Next we'll compare Pac-Man, a maze game with fictional characters, to a sports game rooted in non-fiction themes and physics. 
 
 <hr class="tall">
 
