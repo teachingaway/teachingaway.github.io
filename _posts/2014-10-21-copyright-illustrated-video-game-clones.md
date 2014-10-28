@@ -343,23 +343,29 @@ Modern video game graphics are a little different. With high-resolution graphics
 
 <hr class="tall">
 
-## No Infringement of Police Trainer 2
+
+## No Infringement: Sharpshooter v. Police Trainer 2
 
 <img src="/images/copyright/police-trainer-2-title.jpg" class="medium-image">
 
-Boyer designed the game "Sharpshooter", and recognized some similarities in Team Play's "Police Trainer 2." Specifically, he claimed Police Trainer 2 stole: 
-
-1. a shooting challenge in which targets float out of a cylindrical opening in the floor; 
-
-2. a shooting challenge in which targets are randomly arranged, and a player must remember which are which and only shoot certain targets; 
-
-3. a shooting challenge in which targets randomly "pop" out of cylindrical openings for the player to shoot; and 
-
-4.silver iconic objects that appear next to each completed challenge as a progress indicator.
-
+Boyer designed the game "Sharpshooter" and then recognized some similarities in Team Play's "Police Trainer 2." He accused Team play of copyright infringement, specifically claiming that Police Trainer 2 stole: (1) a shooting challenge in which targets float out of a cylindrical opening in the floor; (2) a shooting challenge in which targets are randomly arranged, and a player must remember which are which and only shoot certain targets; (3) a shooting challenge in which targets randomly "pop" out of cylindrical openings for the player to shoot; and (4) silver iconic objects that appear next to each completed challenge as a progress indicator.
 
 Sadly for Boyer, the judge decided that all 4 items of "allegedly misappropriated graphical art" were either uncopyrightable ideas or *scene a faire*. "In each instance, they are subject to copyright protection only from virtually identical copying." [*Team Play v. Boyer*, 391 F. Supp. 2d 695 (ND Ill 2005)](http://scholar.google.com/scholar_case?case=3622100013857292984). 
 
+In her comparison, the judge decided that team play's copying wasn't that type of "identical copying" that would trigger infringement. 
+
+1. Police Trainer 2's "Balloons" Challenge v. Sharpshooter's "Floating Balls" Challenge
+
+2. Police Trainer's "Memory" Challenge v. Sharpshooter's "Memory" Challenge"
+
+3. Police Trainer's "Whack the Criminal" v. Sharpshooter's "Shoot the Alien"
+
+4. Police Trainer's Icons in "Select Rank Exam" v. Sharpshooter's Icons in "Ultimate Challenge"
+
+[Note: Need images for these comparisons. The copies in the opinion are just black photocopied blobs.]
+
+
+<hr class="tall">
 
 
 ## No Infringement of Dawn of the Dead (2008)
