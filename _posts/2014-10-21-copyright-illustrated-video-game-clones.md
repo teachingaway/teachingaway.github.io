@@ -84,20 +84,19 @@ Elcon made a straight-up identical Donkey Kong clone. According to the judge, Cr
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
-Kramer made *Hi-Lo Double Up Joker Poker* (Old Reliable). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54*. Kramer sued for copyright infringement. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150).
+Kramer made *Hi-Lo Double Up Joker Poker* (Old Reliable). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54*. Kramer sued for copyright infringement. 
 
 This case is very different from Crazy Kong because the video game was basically just poker played on a computer. Kramer can't copyright poker, or a video game that's pure poker, because pure poker is public domain. It's been around forever. 
 
 However, *Hi-Lo Double Up Joker Poker* wasn't pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. A game with just a "taint of originality" is only entitled to a very thin type of copyright protection -- protection that only works against nearly identical clones. 
 
-Joker Poker 54 was a nearly identical clone. The changes were superficial, like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
+Joker Poker 54 was a nearly identical clone. The changes were superficial, like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." 
 
 These superficial changes were not enough to save Joker Poker 54, especially because it copied every other detail of the original game, right down to the easter egg: 
 
-> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
 
-
-The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
 
 **Pro tip**: If you're pirating someone else's game, don't put a pirate on your promo material. 
 
@@ -122,11 +121,11 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 *"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
 
-Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
+Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. 
 
-Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of *Asteroids v. Meteors*, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
+Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of *Asteroids v. Meteors*, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." .
 
-The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
+The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." 
 
 The court also noted 9 differences, which seem to mainly involve the more advanced graphics in Meteors. Here are some examples:  
 
@@ -138,7 +137,7 @@ The court also noted 9 differences, which seem to mainly involve the more advanc
 
 - In Meteors, after the player's spaceship is destroyed, when the new spaceship appears on the screen, the game resumes at the same pace as immediately before the last ship was destroyed; in Asteroids the game resumes at a slower pace.
 
-These changes were enough, at the time, to avoid infringement. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
+These changes were enough, at the time, to avoid infringement. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
 **Takeaway**: Copying a game's "ideas" is not infringement. But don't take too much away from Asteroids v. Meteors. I think the judge lumped too much creative expression in with "ideas" and gave too much weight to the minor changes Meteor's made to its graphics. 
 
@@ -148,7 +147,6 @@ These changes were enough, at the time, to avoid infringement. "Defendants used 
 ## Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)
 
 <img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
-
 
 K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means the court needed to "filter out" the unprotectable elements before looking for substantial similarity and copyright infringement. The judge first separated the unprotectable **idea** of Pac-Man: 
 
@@ -185,9 +183,9 @@ With the "idea" out of the way, the Judge dug into Bandai for copying so much of
 
 The judge reviewed the expert opinion of two music professors, and agreed that the "*musical* themes of the two Galaxian games are fundamentally identical."  Likewise, the *alien enemies* were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen." 
 
-Finally, the judge looked at the **game play** of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship."  
+Finally, the judge looked at the **game play** of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship."  [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580).
 
-**Procedural Note**: Galaxian v. Galaxian is an order on a "motion for summary judgment." This is a type of early motion where a litigant basically says "my case is so strong that we don't need a trial, and I should win right now." While the judge thought Midway had a strong case for copyright infringement, it was not so strong that Midway could win on a "motion for summary judgment." [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580).
+**Procedural Note**: Galaxian v. Galaxian is an order on a "motion for summary judgment." This is a type of early motion where a litigant basically says "my case is so strong that we don't need a trial, and I should win right now." While the judge thought Midway had a strong case for copyright infringement, it was not so strong that Midway could win on a "motion for summary judgment." 
 
 **Takeaway**: Defending a spaceship against swarming alien bad guys is an unprotectable idea. The particular insectile shape of the aliens and their attack patterns and animations are protectable "creative expression." 
 
@@ -275,17 +273,17 @@ The *creative* elements of video games merit stronger copyright protections than
 
 While Fighter's History (right) copied most of its details and game play from Street Fighter II, it was careful not to copy the creative game elements: 
 
- > For example, although Guile and Matlok both have spiky hair and wear similar clothing, they are not identical to one another. Guile is a military figure who wears military garb and has a military base as his home stage. Matlok is a “punkrocker” whose characterization is underscored by his tough appearance and “breakdance” type moves. Their magic projectiles, while similar in appearance, are not identical. In keeping with his personality, Matlok throws a spinning compact disc, the form of which is apparent in some video sequences. Guile, on the other hand, throws a Ch’i mental energy ball and shouts “sonic boom” upon its release. This is in keeping with his military persona. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/). 
+ > For example, although Guile and Matlok both have spiky hair and wear similar clothing, they are not identical to one another. Guile is a military figure who wears military garb and has a military base as his home stage. Matlok is a “punkrocker” whose characterization is underscored by his tough appearance and “breakdance” type moves. Their magic projectiles, while similar in appearance, are not identical. In keeping with his personality, Matlok throws a spinning compact disc, the form of which is apparent in some video sequences. Guile, on the other hand, throws a Ch’i mental energy ball and shouts “sonic boom” upon its release. This is in keeping with his military persona. 
 
-The judge also excluded any **scènes à faire** elements (i.e., stock elements, cliches, stereotypes) from its copyright analysis. The judge discussed the "vitality bar" and the winner designation. "Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable *scènes à faire*." [*CapCom v. Data East*](/capcom-v-data-east/). 
+The judge also excluded any **scènes à faire** elements (i.e., stock elements, cliches, stereotypes) from its copyright analysis. The judge discussed the "vitality bar" and the winner designation. "Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable *scènes à faire*." 
 
 The court also excluded game control sequences from its analysis under the **merger doctrine**:  
 
- > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East*](/capcom-v-data-east/).
+ > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. 
 
-Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." [*CapCom v. Data East*](/capcom-v-data-east/).
+Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." 
 
-Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, [special moves](/various-special-moves) and combos. 
+Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/). Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, [special moves](/various-special-moves) and combos. 
 
 **Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
 
@@ -320,6 +318,8 @@ Useful articles, like the trackball control, are not copyrightable. A useful art
 ## Interlude: Early Video Game Cases Gave Designers More Leeway to Copy Because Primitive Technology Limited their Design Options. 
 
 The technical limitations of early video games systems didn't give game designers many pixels to work with. If one character looked like another, was it because of copying, or just because designers were limited to sprites using only a handful of pixels and colors? In the early days of video games, perhaps spaceships could only be expressed as blocky little triangles. As a result, early designers were given more leeway to copy from previous games. This is related to the "merger doctrine." 
+
+ > ... most of these similarities are inevitable, given the requirements of the idea of a game involving a spaceship combatting space rocks and given the technical demands of the medium of a video game. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
  > "Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
 
