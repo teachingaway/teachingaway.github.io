@@ -67,7 +67,11 @@ A plant patent lasts for 20 years from the application date.
 
 * **Invention Disclosure**. The inventor fills out a detailed "invention disclosure form" describing the new technology. It's often helpful to describe the invention invention in terms of problem-and-solution. Describe the problem the invention solves, and then carefully describe the details of how the invention solves this problem. 
 
-* * **A Comment on Non-Disclosure Agreement**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep all client information confidential anyway. Likewise, most [Venture ](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/), [Capitalists](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) with not sign an NDA with you. This isn't because of their ethics obligations, it's just because they don't want to deal with the hassle (and they have the money). Lawyers and VC's aside, everyone else should be signing reasonable-scope NDAs. This is particularly important before a patent application is filed. Patent applications should ideally be on file before any "public" disclosure (though there is a 1 year grace period). 
+* * **A Comment on Non-Disclosure Agreements**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep important client information confidential anyway. 
+
+* * Likewise, most [venture ](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/) [capitalists](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) with not sign an NDA with you. This isn't because of their ethics obligations, it's just because they don't want to deal with the hassle (and they hold the money). 
+
+* * Lawyers and VC's aside, everyone else should be signing reasonable-scope NDAs. This is particularly important before a patent application is filed. Patent applications should ideally be on file before any "public" disclosure (though there is a 1 year grace period). 
 
 *  **Novelty Search**. The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
 
