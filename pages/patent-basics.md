@@ -63,11 +63,22 @@ A plant patent lasts for 20 years from the application date.
 
 - - -
 
+## Engaging a Patent Lawyer
+
+* **Approaching a Patent Lawyer**. Good patent lawyers are busy, and do not have the bandwidth to work with every potential client. The best clients are experts in their field of invention, and have made substantial progress toward solving a real-world problem. The worst clients are dilettantes who have only just come up with an "idea."  To make your initial inquiry stand out, tell the patent lawyer about your field of invention and relevant expertise. Don't disclose the secret sauce, just give an overview. E.g., 
+
+> I've got a masters from Stanford in Biotechnology and have been working in the field for 5 years. I've solved problem X using technology Y.
+
+The patent lawyer will quickly know whether she is the right lawyer for your invention, and if not, whether she can refer you to an appropriate lawyer. 
+
+* **Non-Disclosure Agreements**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep important client information confidential anyway. Likewise, most [venture ](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/) [capitalists](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) with not sign an NDA. This isn't because of their ethics obligations, it's just because they don't want to deal with the hassle. Lawyers and VC's aside, everyone else should be signing reasonable-scope NDAs. This is particularly important before a patent application is filed.
+
+
 ## Patent Application Process
 
 * **Invention Disclosure**. The inventor fills out a detailed "invention disclosure form" describing the new technology. It's often helpful to describe the invention invention in terms of problem-and-solution. Describe the problem the invention solves, and then carefully describe the details of how the invention solves this problem. 
 
-* **A Comment on Non-Disclosure Agreements**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep important client information confidential anyway. Likewise, most [venture ](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/) [capitalists](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) with not sign an NDA. This isn't because of their ethics obligations, it's just because they don't want to deal with the hassle. Lawyers and VC's aside, everyone else should be signing reasonable-scope NDAs. This is particularly important before a patent application is filed. 
+ 
 
 *  **Novelty Search**. The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
 
