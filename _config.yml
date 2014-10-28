@@ -78,6 +78,7 @@ highlighter: true
 markdown:    kramdown
 kramdown: 
 
+  
 # https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
 
