@@ -35,23 +35,26 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#fraternal-twins-is-the-clone-substantially-similar-to-the-original">Fraternal Twins: Is the Clone “Substantially Similar” to the Original?</a></li>
 <ul>
  <li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
- <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
- <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
+ <li><a href="#copying-creative-expression-is-infringement-pac-man-v-kc-munchkin-1982">Copying Creative Expression is Infringement: KC Munchkin (1982)</a></li>
+ <li><a href="#porting-is-infringement-galaxian-v-galaxian-1982">Porting is Infringement: Galaxian v. Galaxian (1982)</a></li>
  <li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
+ <li><a href="#no-infringement-tricky-trapper-v-mouser-1987">No Infringement: Tricky Trapper v. Mouser (1987)</a></li>
 </ul>
-<li><a href="#sport-simulation-games">Sports Simulation Games</a></li>
 
+<li><a href="#sports-games">Sports Games</a></li>
 <ul> 
  <li><a href="#no-infringement-of-karate-champ-1988">Karate Champ (1988)</a></li>
  <li><a href="#no-infringement-of-street-fighter-ii-1994">Street Fighter II (1994)</a></li>
-
- <li><a href="#no-infringement-of-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
+ <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
 </ul>
-<li><a href="#no-infringement-of-dawn-of-the-dead-2008">Dawn of the Dead (2008)</a></li>
+
+<li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn’t (2008)</a></li>
 <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
 <li><a href="#infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
 <li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Game Mechanics are Copyrightable (2014)</a></li>
+
 <li><a href="#conclusion">Conclusion </a></li>
+
 <li><a href="#how-to-prepare-for-the-clones"><strong>How to Prevent Cloning</strong></a></li>
 </ul>
 
