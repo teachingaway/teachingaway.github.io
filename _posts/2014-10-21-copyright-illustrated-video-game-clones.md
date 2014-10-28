@@ -65,7 +65,7 @@ A clone that's basically identical to the original game is always going to be co
 Elcon made a straight-up identical Donkey Kong clone. According to the judge, Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
 - "Puck Man", an identical clone of Pac-Man, was likewise found to be copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978). Artic just copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681).
-- "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F. 2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
+- "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F.2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
 - "Scramble", an identical clone of "Scramble" was copyright infringement in [*Stern Electronics v. Kaufman*, 669 F.2d 852 (2nd Cir. 1982)](http://scholar.google.com/scholar_case?case=7204019639108685629). 
 
 **Takeaway**: Identical cloning is copyright infringement. 
@@ -98,10 +98,16 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 <hr class="tall"> 
 
-The more interesting copyright cases involve games that make at least a minimal effort to differentiate themselves from the originals. To explore these cases, you will need a bit of legalese. Remember that copyright protects creative expression, but not ideas. Lawyers call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Also, copyright does not protect cliches. This is the **scènes à faire** doctrine. 
 
+# Fraternal Twins: Is the Clone "Substantially Similar" to the Original? 
 
+For more creative and original games, the question isn't whether the games are identical, it's whether the clone is "substantially similar" to the original. This is where copyright law gets murky. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
+
+The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might be helpful. 
+
+- - - 
 
 ## No Infringement: Asteroids v. Meteors (1981) 
 
