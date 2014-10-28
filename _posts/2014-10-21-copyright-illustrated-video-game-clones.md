@@ -78,18 +78,23 @@ We'll need a scalpel to surgically dissect video games and separate their public
 
 <hr class="tall">
 
+# Copyright Require's a "Modicum of Creativity." 
+
+Copyright only protects works of "creative authorship." How creative? Any modicum of creativity will suffice. As one court put it, just the "taint of originality" is enough.  Even simple games like Breakout and video poker meet the minimum creativity requirements for a copyright.  
+
 
 ## Even Simple Video Games are Copyrightable: Breakout (1992)
 
 <img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
 
-Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before Atari could sue for copyright infringement, it needed to register the copyright to Breakout. The Copyright Office refused to register the game. It dismissed Breakout as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. Atari appealed the matter to a young Ruth Bader-Ginsburg (at the time, a 59 year old appellate judge in D.C.). 
+Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before anyone can sue for copyright infringement, they need a  *registered copyright.* While Atari had applied for its Breakout copyright registration, the Copyright Office refused to grant it. The Copyright Office dismissed Breakout as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. Atari appealed the matter to a young Ruth Bader-Ginsburg (at the time, a 59 year old appellate judge in D.C.). 
 
-Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by *creative physics*: 
+Ruth Bader-Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by *creative physics*: 
  
  > The ball's path in Breakout varies depending on which of four sections of the paddle it hits. Its trajectory does not follow from the laws of physics. [*Atari v. Oman*, 979 F.2d 242 (DC CA 1992)](http://scholar.google.com/scholar_case?case=11202168367195629653).
 
-
+The representation of game objects were also creative design choices worthy of copyright protection.
+ 
  > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653) (edited for length).
 
 Since Breakout includes the types of creative expression that merits copyright protection, Judge Ginsburg cajoled the Copyright Office into approving Atari's copyright registration. (In fact, this was the second time Ruth Bader Ginsburg told the Copyright Office to register the Breakout copyright. The first was in [*Atari v. Oman*, 888 F. 2d 878 (DC CA 1989)](http://scholar.google.com/scholar_case?case=16631771208846018552)). 
@@ -337,6 +342,25 @@ Modern video game graphics are a little different. With high-resolution graphics
 
 
 <hr class="tall">
+
+## No Infringement of Police Trainer 2
+
+<img src="/images/copyright/police-trainer-2-title.jpg" class="medium-image">
+
+Boyer designed the game "Sharpshooter", and recognized some similarities in Team Play's "Police Trainer 2." Specifically, he claimed Police Trainer 2 stole: 
+
+1. a shooting challenge in which targets float out of a cylindrical opening in the floor; 
+
+2. a shooting challenge in which targets are randomly arranged, and a player must remember which are which and only shoot certain targets; 
+
+3. a shooting challenge in which targets randomly "pop" out of cylindrical openings for the player to shoot; and 
+
+4.silver iconic objects that appear next to each completed challenge as a progress indicator.
+
+
+Sadly for Boyer, the judge decided that all 4 items of "allegedly misappropriated graphical art" were either uncopyrightable ideas or *scene a faire*. "In each instance, they are subject to copyright protection only from virtually identical copying." [*Team Play v. Boyer*, 391 F. Supp. 2d 695 (ND Ill 2005)](http://scholar.google.com/scholar_case?case=3622100013857292984). 
+
+
 
 ## No Infringement of Dawn of the Dead (2008)
 
