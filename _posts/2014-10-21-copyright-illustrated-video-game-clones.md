@@ -54,7 +54,7 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 # Identical Twins: Always Infringement
 
-A clone that's basically identical to the original game is always going to be copyright infringement. Changing the name from "Donkey Kong" to Crazy Kong" will not fool a Federal Judge. 
+A clone that's basically identical to the original game is always going to be copyright infringement. Changing the name from "Donkey Kong" to "Crazy Kong" will not fool a Federal Judge. 
 
 <hr class="tall">
 
@@ -62,7 +62,7 @@ A clone that's basically identical to the original game is always going to be co
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
-Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
+Elcon made a straight-up identical Donkey Kong clone. According to the judge, Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong didn't just copy game mechanics or unprotectable ideas. Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
 - "Puck Man", an identical clone of Pac-Man, was likewise found to be copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978). Artic just copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681).
 - "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F. 2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
@@ -77,31 +77,30 @@ Elcon made a straight-up Donkey Kong clone called "Crazy Kong." Crazy Kong "embo
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
-Kramer made *Hi-Lo Double Up Joker Poker*. Drew's Distributing and Lynch Enterprises made *Joker Poker 54* soon afterwards. Kramer sued for copyright infringement. 
+Kramer made *Hi-Lo Double Up Joker Poker* (Old Reliable). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54*. Kramer sued for copyright infringement. [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
-[*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150).
+This case is very different from Crazy Kong because the video game was basically just poker played on a computer. Kramer can't copyright poker, or a video game that's pure poker, because pure poker is public domain. It's been around forever. 
 
-The judge first decided that the plaintiff's game, though similar to standard poker, demonstrated more than a mere "taint of originality." (Better known as the "modicum of creativity" standard).
+However, *Hi-Lo Double Up Joker Poker* wasn't pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. A game with just a "taint of originality" is only entitled to a very thin type of copyright protection -- protection that only works against nearly identical clones. 
 
-Since Plaintiff's poker video game was so similar to standard poker, it was entitled to a very narrow type of copyright protection. However, a near identical clone would still be infringing. 
+Joker Poker 54 was a nearly identical clone. The changes were superficial, like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
 
-The defendant made some superficial changes to the game, changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
-
-These minor changes were not enough to save Drews/Lynch 
-, and that's what the defendant produced. The defendant copied nearly every detail, right down to the easter egg: 
+These superficial changes were not enough to save Joker Poker 54, especially because it copied every other detail of the original game, right down to the easter egg: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy. [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
 
-Since Drew copied everything down to the copyright traps, the judge predictably found the games to be "virtually identical." And while there were some differences, the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
+The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*](http://scholar.google.com/scholar_case?case=5294172034546412150).
 
-**Pro tip:** If you're pirating someone else's game, don't put a pirate on your promo material. 
+**Pro tip**: If you're pirating someone else's game, don't put a pirate on your promo material. 
 
-- - - 
+**Takeaway**: Video Games based on existing real-life games or sports will receive a very thin type of copyright protection. They can stop identical clones, but not much else.  
+
+<hr class="tall"> 
 
 The more interesting copyright cases involve games that make at least a minimal effort to differentiate themselves from the originals. To explore these cases, you will need a bit of legalese. Remember that copyright protects creative expression, but not ideas. Lawyers call this the **idea/expression dichotomy.** The policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Also, copyright does not protect cliches. This is the **scènes à faire** doctrine. 
 
-<hr class="tall">
+
 
 
 ## No Infringement: Asteroids v. Meteors (1981) 
