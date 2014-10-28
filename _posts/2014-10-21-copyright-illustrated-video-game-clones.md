@@ -26,18 +26,25 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
-<li><a href="#idea-vs-expression"> Idea vs. Expression</a></li>
-<li><a href="#even-simple-video-games-are-copyrightable-breakout-1992"> Breakout v. Arkanoid (1992)</a></li>
-<li><a href="#crazy-kong-crazy-infringement1982">Crazy Kong: Crazy Infringement (1982)</a></li>
-<li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
-<li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
-<li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
-<li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
+<li><a href="#identical-twins">Identical Twins</a></li>
+<ul>
+ <li><a href="#crazy-kong-crazy-infringement1982">Crazy Kong: Crazy Infringement (1982)</a></li>
+ <li><a href="#infringement-of-hi-lo-double-up-joker-poker-1986">Hi Lo Double Up Joker Poker (1986)</a></li>
+</ul>
+
+<li><a href="#fraternal-twins">Fraternal Twins</a></li>
+<ul>
+ <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
+ <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
+ <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
+ <li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
+</ul>
 <li><a href="#sport-simulation-games">Sports Simulation Games</a></li>
+
 <ul> 
  <li><a href="#no-infringement-of-karate-champ-1988">Karate Champ (1988)</a></li>
  <li><a href="#no-infringement-of-street-fighter-ii-1994">Street Fighter II (1994)</a></li>
-  <li><a href="#infringement-of-hi-lo-double-up-joker-poker-1986">Hi Lo Double Up Joker Poker (1986)</a></li>
+
  <li><a href="#no-infringement-of-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
 </ul>
 <li><a href="#no-infringement-of-dawn-of-the-dead-2008">Dawn of the Dead (2008)</a></li>
