@@ -21,15 +21,13 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. 
+Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary, but a few concepts will help sort this madness. 
 
-Copyright infringement cases can seem arbitrary, but a few concepts will help sort this madness. 
-
-- **Identical Twins.**  An clone that's basically identical to the original game is always going to be copyright infringement. This is the easy part.  What if you change the name from Donkey Kong to Crazy Kong? Still infringement. 
+- **Identical Twins.**  An clone that's basically identical to the original game is always going to be copyright infringement. Easy.  What if you change the name from Donkey Kong to Crazy Kong? Still copyright infringement. 
 
 - **Fraternal Twins.** A "substantially similar" clone will be copyright infringement, even if it's not identical to the original game. This is where copyright law gets interesting and murky. Copyright infringement isn't just about how much of the original game was copied, it's about what types of games elements were copied. 
 
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the "idea/expression dichotomy." This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Finally, copyright never protects cliches. This is the scènes à faire doctrine (French for "that which must be done").
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the "idea/expression dichotomy." This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Finally, copyright never protects cliches. This is the **scènes à faire** doctrine (French for "that which must be done").  After we filter away the ideas and the cliches, we ask whether enough "creative expression" was copied to make the clone "substantially similar" to the original. Examples might be helpful. 
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
@@ -59,12 +57,7 @@ Copyright protects *creative expression*, but never *ideas*. Lawyers call this t
 
 ## Idea vs. Expression 
 
-Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. What copyright law *prohibits* is copying the  *original creative expression* of an idea. 
-
-
-Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
-
-To oversimplify, you can think about "expression vs. idea" as "game vs. genre." You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to draw the genre or sub-genre that defines the public-domain game elements. 
+Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. To oversimplify, you can think about "expression vs. idea" as "game vs. genre." You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to draw the genre or sub-genre that defines the public-domain game elements. 
 
 You should be able to encapsulate the "idea" of a video game in a few sentences. Anything more than that, and you're probably starting to describe the copyrightable "expression."  Here are some examples judges describing the unprotectable "idea" of some video games: 
 
@@ -80,36 +73,9 @@ You should be able to encapsulate the "idea" of a video game in a few sentences.
 
 - **Idea of Triple Town**: "a hierarchical matching game... in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects." 
 
-We'll need a scalpel to surgically dissect video games and separate their public-domain ideas from their copyrighted expression. And since examples are more fun than theory, so let’s start with a case about Atari’s Breakout. It's not really a case about *Breakout* vs. *Arkanoid*, it's a case about whether a simple video game like *Breakout* has any protectable “creative expression” at all.
-
-<hr class="tall">
-
-# Copyright Requires Only a "Modicum of Creativity" 
-
-Copyright only protects works of "creative authorship." How creative? Any modicum of creativity will suffice. As one court put it, just the "taint of originality" is enough.  Even simple games like Breakout and video poker meet the minimum creativity requirements for a copyright.  
+- - - 
 
 
-## Even Simple Video Games are Copyrightable: Breakout (1992)
-
-<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
-
-Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before anyone can sue for copyright infringement, they need a  *registered copyright.* While Atari had applied for its Breakout copyright registration, the Copyright Office refused to grant it. The Copyright Office dismissed Breakout as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. Atari appealed the matter to a young Ruth Bader-Ginsburg (at the time, a 59 year old appellate judge in D.C.). 
-
-Ruth Bader-Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by *creative physics*: 
- 
- > The ball's path in Breakout varies depending on which of four sections of the paddle it hits. Its trajectory does not follow from the laws of physics. [*Atari v. Oman*, 979 F.2d 242 (DC CA 1992)](http://scholar.google.com/scholar_case?case=11202168367195629653).
-
-The representation of game objects were also creative design choices worthy of copyright protection.
- 
- > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653) (edited for length).
-
-Since Breakout includes the types of creative expression that merits copyright protection, Judge Ginsburg cajoled the Copyright Office into approving Atari's copyright registration. (In fact, this was the second time Ruth Bader Ginsburg told the Copyright Office to register the Breakout copyright. The first was in [*Atari v. Oman*, 888 F. 2d 878 (DC CA 1989)](http://scholar.google.com/scholar_case?case=16631771208846018552)). 
-
-
-**Takeaway**: The arrangement of simple shapes and colors in a video game, even a simple video game, is the type of *creative expression* that merits copyright protection. 
-
-**Takeaway**: Game-mechanics based in fictional physics are more creative than games based in real-world physics (like realistic sports games), and therefore receive greater copyright protection.  
- 
 <hr class="tall">
 
 # Identical Cloning is Always Infringement
@@ -541,3 +507,34 @@ The first legal action for apps may involve sending a DMCA takedown notice to th
 - - - 
 
 Images via [Arcade Flyer Archive](http://flyers.arcade-museum.com/),  [International Arcade Museum](http://www.arcade-museum.com/), and [World of Spectrum](http://www.worldofspectrum.org/). 
+
+
+
+<hr class="tall">
+
+# Copyright Requires Only a "Modicum of Creativity" 
+
+Copyright only protects works of "creative authorship." How creative? Any modicum of creativity will suffice. As one court put it, just the "taint of originality" is enough.  Even simple games like Breakout and video poker meet the minimum creativity requirements for a copyright.  
+
+
+## Even Simple Video Games are Copyrightable: Breakout (1992)
+
+<img src="/images/copyright/atari-breakout-copyrightable-subject-matter-ginsburg-arkanoid.jpg" class="medium-image">
+
+Atari, maker of "Breakout" (left) was unhappy with Romstar's "Arkanoid" game (right). But before anyone can sue for copyright infringement, they need a  *registered copyright.* While Atari had applied for its Breakout copyright registration, the Copyright Office refused to grant it. The Copyright Office dismissed Breakout as a mere collection of functional rules, basic shapes and colors, and lacking any creative authorship. Atari appealed the matter to a young Ruth Bader-Ginsburg (at the time, a 59 year old appellate judge in D.C.). 
+
+Ruth Bader-Ginsburg appreciated the creativity involved in designing video games. While simple shapes and colors are unprotectable, Atari's *selection and arrangement* of simple shapes were copyrightable, especially because they were paired with creative sound effects. And while game mechanics based on pure physics are public domain, the Breakout game mechanics are governed by *creative physics*: 
+ 
+ > The ball's path in Breakout varies depending on which of four sections of the paddle it hits. Its trajectory does not follow from the laws of physics. [*Atari v. Oman*, 979 F.2d 242 (DC CA 1992)](http://scholar.google.com/scholar_case?case=11202168367195629653).
+
+The representation of game objects were also creative design choices worthy of copyright protection.
+ 
+ > The abstract representation in Breakout is neither an "obvious" nor an "inevitable" choice. Nor is the coordination of a square "ball" and a rectangular shrinking paddle a "time-honored" or "conventional" combination. The same may be said of the choice of colors, the placement and design of the scores, the changes in speed, the use of sounds, and the synchronized graphics and sounds which accompany the ball's bounces behind the wall. [*Atari v. Oman*](http://scholar.google.com/scholar_case?case=11202168367195629653) (edited for length).
+
+Since Breakout includes the types of creative expression that merits copyright protection, Judge Ginsburg cajoled the Copyright Office into approving Atari's copyright registration. (In fact, this was the second time Ruth Bader Ginsburg told the Copyright Office to register the Breakout copyright. The first was in [*Atari v. Oman*, 888 F. 2d 878 (DC CA 1989)](http://scholar.google.com/scholar_case?case=16631771208846018552)). 
+
+
+**Takeaway**: The arrangement of simple shapes and colors in a video game, even a simple video game, is the type of *creative expression* that merits copyright protection. 
+
+**Takeaway**: Game-mechanics based in fictional physics are more creative than games based in real-world physics (like realistic sports games), and therefore receive greater copyright protection.  
+ 
