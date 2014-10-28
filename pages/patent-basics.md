@@ -17,18 +17,22 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
 <p><strong>Contents</strong></p>
 <li><a href="#types-of-patents">Types of Patents</a></li>
 <ul>
-  <li><a href="#utility-patent">Utility Patent</a></li>
-  <li><a href="#provisional-patents">Provisional Patents</a></li>
-  <li><a href="#design-patents">Design Patents</a></li>
-  <li><a href="#plant-patents">Plant Patents</a></li>
+ <li><a href="#utility-patent">Utility Patent</a></li>
+ <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
+ <li><a href="#design-patents">Design Patents</a></li>
+ <li><a href="#plant-patents">Plant Patents</a></li>
 </ul>
 
 <li><a href="#hiring-a-patent-lawyer">Hiring a Patent Lawyer</a></li>
 <li><a href="#patent-application-process">Patent Application Process</a></li>
 <li><a href="#patent-lifespan">Patent Lifespan</a></li>
 <li><a href="#patent-ownership">Patent Ownership</a></li>
-<li><a href="#who-are-the-inventors">Who are the "Inventors"?</a></li>
-<li><a href="#the-mpep-in-jekyll">The MPEP in Jekyll.</a></li>
+<li><a href="#who-are-the-inventors">Who are the “Inventors”?</a></li>
+<li><a href="#prior-art">Prior Art</a></li>
+<ul>
+ <li><a href="#novelty">Novelty</a></li>
+ <li><a href="#obviousness">Obviousness</a></li>
+</ul>
 </ul>
 
 
@@ -123,6 +127,7 @@ The default ownership rules for "joint inventors" can be messy. Fortunately, co-
 
 <img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">
 
+- - - 
 
 # Who are the "Inventors"?  
 
@@ -132,6 +137,44 @@ An inventor can consider ideas and materials from many sources, such as a sugges
 
 Members of a team who merely follow directions from an inventor are not themselves inventors. They may only become inventors if they contribute to the 
 conception of the invention, such as the physical structure or operative steps. Likewise, the inventor does not need to get her hands dirty in the lab to maintain her "inventor" status. She can merely conceive an idea, and then direct underlings to conduct experiments or build prototypes.  *In re DeBaun*, 687 F.2d 459, 463 (CCPA 1982)(“there is no requirement that the inventor be the one to reduce the invention to practice so long as the reduction to practice was done on his behalf”). [MPEP 2137.01(IV)](mpep/s2137.html#d0e206713).
+
+- - - 
+
+# Patentable Subject Matter
+
+Patents are only issued to people who invent a "new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof..." 35 USC 101. [MPEP 2104](mpep/s2104.html). 
+
+
+- - - 
+
+# Prior Art 
+
+Prior art generally refers to a "printed publication" describing the technology that became public before the date of the patent application. Any public use or sale of the technology before the date of the patent application can also be prior art. 35 USC 102. [MPEP 706.02](/mpep/s706.html#d0e58220).
+
+
+- - - 
+
+## Novelty 
+
+
+- - - 
+
+## Obviousness
+
+
+- - - 
+
+### New Use for an Existing Product
+
+In general, a new use for an existing product is not patentable. In limited circumstances, a new use for an existing structure based on newly discovered  properties of the structure might be patentable as a process of use. [MPEP 2112](/mpep/s2112.html/#d0e201422)
+
+### New Use for an Existing Process
+
+A new use for an existing process can be patented, but the prosecution may be difficult, and the resulting patent likely to provide narrow protections. 
+
+### Using a Conventional Process to Make a Non-Obvious Process
+
+There is no per se rule here. Sometimes a conventional process can be patented if it is limited to making or using a nonobvious product. The test for obviousness under 35 U.S.C. 103 requires a highly fact-dependent analysis involving taking the claimed subject matter as a whole and comparing it to the prior art. “A process yielding a novel and nonobvious product may nonetheless be obvious; conversely, a process yielding a well-known product may yet be nonobvious.” [MPEP 2116](mpep/s2116.html#d0e201660)(citing, *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.*, 336 F.3d 1322, 1327 (Fed. Cir. 2003).
 
 - - -  
 
