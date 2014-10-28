@@ -67,6 +67,8 @@ A plant patent lasts for 20 years from the application date.
 
 * **Invention Disclosure**. The inventor fills out a detailed "invention disclosure form" describing the new technology. It's often helpful to describe the invention invention in terms of problem-and-solution. Describe the problem the invention solves, and then carefully describe the details of how the invention solves this problem. 
 
+* **Non-Disclosure Agreement**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep all client information confidential anyway. Inventors and founders should get all their employees and independent contractors to sign NDA's, especially before a patent application is filed. However, note that most Venture Capitalists with not sign an NDA with you. See, e.g., [Mark Suster](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/), [Brad Feld](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html), 
+
 *  **Novelty Search**. The patent attorney may or may not conduct a "novelty search." A novelty search is a search of the USPTO patent database (and potentially other databases) for prior art. 
 
 *  **Filing**. The patent attorney will draft and file your patent application. Once filed, you can label your technology as "patent pending."  
