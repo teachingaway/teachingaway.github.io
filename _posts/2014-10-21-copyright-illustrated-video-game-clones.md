@@ -21,12 +21,15 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-- - - 
+Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. 
 
-Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, but four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary. But looking at a dozen cases over 3 decades, I think we can find *some* method to the madness. 
+Copyright infringement cases can seem arbitrary, but a few concepts will help sort this madness. 
 
+- **Identical Twins.**  An clone that's basically identical to the original game is always going to be copyright infringement. This is the easy part.  What if you change the name from Donkey Kong to Crazy Kong? Still infringement. 
 
-- - - 
+- **Fraternal Twins.** A "substantially similar" clone will be copyright infringement, even if it's not identical to the original game. This is where copyright law gets interesting and murky. Copyright infringement isn't just about how much of the original game was copied, it's about what types of games elements were copied. 
+
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the "idea/expression dichotomy." This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the expression must also remain free. This is the **merger rule**. Finally, copyright never protects cliches. This is the scènes à faire doctrine (French for "that which must be done").
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
@@ -56,7 +59,10 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 ## Idea vs. Expression 
 
-Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. What copyright law *prohibits* is copying the  *original creative expression* of an idea. Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
+Copyright law allows — even encourages — copying ideas. No one can monopolize an idea. What copyright law *prohibits* is copying the  *original creative expression* of an idea. 
+
+
+Since video games are collections of both ideas and expressions, the question of copyright infringement turns on whether the cloner copied any “creative expression” from the original game. 
 
 To oversimplify, you can think about "expression vs. idea" as "game vs. genre." You can copyright the game *Super Mario Brothers*, but not the *idea* of a side-scrolling platformer.  *Doom* can be copyrighted, but not the *idea* of a first-person shooter. Kingdom Rush yes, tower defense no. Games vs. genres is a useful starting point, but it's a blunt instrument. Reasonable people can disagree about how narrowly to draw the genre or sub-genre that defines the public-domain game elements. 
 
