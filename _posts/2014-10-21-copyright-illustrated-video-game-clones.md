@@ -338,7 +338,7 @@ Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie cl
 
 Before comparing the game to the original movie, the court filtered out the unprotectable *scènes à faire* (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. [*Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008)](/capcom-v-mkr-2008/).
 
-**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*; its cliche, not copyrightable expression. 
+**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*. It's cliche, not copyrightable expression. 
 
 <hr class="tall">
 
@@ -348,21 +348,21 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 Soon after college, Desiree Golden started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
 
- > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+ > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
 
-She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to draw the line between the "idea" of Tetris and it's protectable creative expression, gave herself too much leeway to copy from the original game. 
+She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to draw the line between the "idea" of Tetris and its protectable creative expression, she gave herself too much leeway to copy from the original game. 
 
 Here's how the Judge identified the unprotectable *idea* of Tetris: 
 
- > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. [*Tetris v. Xio*](http://scholar.google.com/scholar_case?case=18064882260025243346). 
+ > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. 
 
-The *idea* of a falling-block puzzle game is not protectable. However, the *creative expression* of that idea as Tetris is protectable. The judge decided that the style of the pieces and the way they move through space was protectable creative expression: 
+These basic *ideas* involved in a falling-block puzzle game were not protectable. However, the *creative expression* of those ideas as Tetris was protectable. The selection of the 7 basic Tetris shapes was protectable expression. The style of the pieces and the way they move through space was protectable creative expression: 
 
- > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game. [*Tetris v. Xio*](http://scholar.google.com/scholar_case?case=18064882260025243346). 
+ > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game.  
 
-Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 x 20) and the way the shapes moved through the board, it infringed the Tetris copyright. 
+Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 x 20) and the way the shapes moved through the board, it infringed the Tetris copyright. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
-**Takeaway**: Don't get your legal advice from blogs?
+**Takeaway**: Copyright infringement law is not easy. Desiree Golden seems like a smart young woman who did good research, and still got it wrong.  
 
 <hr class="tall">
 
@@ -413,8 +413,6 @@ The Bang! characters and capabilities were also copyrightable:
 
  > Given the similarities between the attributes of the characters in Bang! and in LOTK, a reasonable factfinder could conclude that the characters of the two games are substantially similar despite the transposition and translation from the Wild-West theme of Bang! to the ancient China theme of LOTK.
 
-
-
 The judge contrasted the fictional Bang! game with the realistic golf simulation case. If two golf simulation games are similar, its probably because both games are copying from the sport of golf. If two fictional role playing games are similar, the second may have copied from the first: 
 
  > There is a limited number of ways for the game designer to show a golfer, a course, a swing, and the ultimate goal: putting the ball in the hole. Such limits do not apply to role-playing games like Bang!. There are nearly infinite ways of expressing the concepts of player elimination or a contest between authorities and their opponents. Instead of choosing a different manner of expressing these concepts, the defendants copied into LOTK protectable elements of DaVinci's original and creative expression in Bang!
@@ -431,20 +429,22 @@ The case is ongoing (as of October 2014), so we will keep watching.
 
 ## Conclusion
 
-Video game copyright cases turn on whether the clone copied "functional" elements (tolerated) or "creative" elements (verboten). When looking for similarities between the clone and the original game, we need to mentally "filter out" the unprotectable game elements using several different techniques: 
+Video game copyright cases turn on whether the clone copied "ideas" (tolerated) or "creative" elements (verboten). Before looking for similarities between the clone and the original, we need to mentally "filter out" the unprotectable game elements using several different techniques: 
 
 **Idea-Expression Dichotomy**.  First we filter out the unprotectable "ideas" from the protectable expression. 
 
-- The *idea* of a karate style fighting game can't be copyrighted. 
-- The *expression* of E. Honda’s "100 hand slap" can be protected by copyright. 
 - The *idea* of a maze-chase game can't be copyrighted.  
 - The *expression* of a chomping gobbler antagonized by colorful ghosts can be protected by copyright.
+- The *idea* of a karate style fighting game can't be copyrighted. 
+- The *expression* of E. Honda’s "100 hand slap" can be protected by copyright.
 
-**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge", and the policy favoring free ideas drags both idea and expression into the public domain. Basic game-play and controls, especially in realistic sports games, are often "merged" with the idea of the game itself and therefore ineligible for copyright protection.
+**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge", and neither will be copyrightable. 
 
-**Functional Elements**. Copyright does not “extend to any idea, procedure, process, system, method of operation...” 17 USC § 102(b). Game mechanics are often unprotectable as functional or "methods of operation." 
+**Realistic Simulations**. The more a game simulates real life, the less copyright protection it will receive. The more creative and abstract the game elements, the stronger the copyright protection. 
 
-**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock elements or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all unprotectable *scènes à faire*. (It's Frech for "that which must be done"). 
+**Useful Articles**. Copyright does not “extend to any idea, procedure, process, system, method of operation...” 17 USC § 102(b). Game controls like a trackball are unprotectable as useful articles or "methods of operation." 
+
+**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock characters or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all unprotectable *scènes à faire*. 
 
 The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
