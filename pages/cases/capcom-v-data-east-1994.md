@@ -15,6 +15,15 @@ share:
 
 <img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg" class="big-image">
 
+<ul class="toc">
+<p><strong>Contents</strong></p>
+<li><a href="#i-background">I. Background</a></li>
+<li><a href="#ii-analysis">II. Analysis</a></li>
+<li><a href="#appendix">Appendix: Characters</a></li>
+<li><a href="#various-special-moves">Appendix: Special Moves</a></li>
+</ul>
+
+
 - - - 
 
 *Capcom U.S.A., Inc. v. Data East Corp.,* 1994 U.S. Dist. LEXIS 5306  (Northern District of California, March 16, 1994). 

@@ -26,15 +26,15 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
-<li><a href="#identical-twins">Identical Twins</a></li>
+<li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a></li>
 <ul>
- <li><a href="#crazy-kong-crazy-infringement1982">Crazy Kong: Crazy Infringement (1982)</a></li>
- <li><a href="#infringement-of-hi-lo-double-up-joker-poker-1986">Hi Lo Double Up Joker Poker (1986)</a></li>
+ <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
+ <li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">Hi Lo Double Up Joker Poker (1986)</a></li>
 </ul>
 
-<li><a href="#fraternal-twins">Fraternal Twins</a></li>
+<li><a href="#fraternal-twins-is-the-clone-substantially-similar-to-the-original">Fraternal Twins: Is the Clone “Substantially Similar” to the Original?</a></li>
 <ul>
- <li><a href="#no-infringement-asteroids-v-meteors-1981">No Infringement: Asteroids v. Meteors (1981)</a></li>
+ <li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
  <li><a href="#kc-munchkin-infringement-1982">KC Munchkin: Copying Creative Expression (1982)</a></li>
  <li><a href="#galaxian-v-galaxian-infringement-1982">Infringement: Galaxian v. Galaxian (1982)</a></li>
  <li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
@@ -110,7 +110,7 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 For more creative and original games, the question isn't whether the games are identical, it's whether the clone is "substantially similar" to the original. This is where copyright law gets murky. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Copyright can't protect **functional elements**, systems or methods of operation (we need patents for that type of protection). Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
 
 The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might be helpful. 
 
@@ -124,7 +124,7 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of Asteroids vs. Meteors, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
+Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of *Asteroids v. Meteors*, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
 The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
@@ -140,64 +140,57 @@ The court also noted 9 differences, which seem to mainly involve the more advanc
 
 These changes were enough, at the time, to avoid infringement. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-**Takeaway**: Don't take too much away from Asteroids v. Meteors. I think it was decided incorrectly. To my eye, these two games are "substantially similar." 
+**Takeaway**: Copying a game's "ideas" is not infringement. But don't take too much away from Asteroids v. Meteors. I think the judge lumped too much creative expression in with "ideas" and gave too much weight to the minor changes Meteor's made to its graphics. 
 
 <hr class="tall"> 
 
 
-## K.C. Munchkin: Infringement (1982)
+## Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)
 
 <img src="/images/copyright/kc-munchkin-copyright-infringement.jpg" class="medium-image">
 
 
-K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means we need to "filter out" the unprotectable elements before looking for copyright infringement. The judge first separated the unprotectable "idea" of Pac-Man: 
+K.C. Munchkin was an early Pac-Man clone, but not an identical copy. This means the court needed to "filter out" the unprotectable elements before looking for substantial similarity and copyright infringement. The judge first separated the unprotectable **idea** of Pac-Man: 
 
- > PAC-MAN is a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
+ > PAC-MAN is a maze-chase game in which the player scores points by guiding a central figure through various passageways of a maze and at the same time avoiding collision with certain opponents or pursuit figures which move independently about the maze. Under certain conditions, the central figure may temporarily become empowered to chase and overtake the opponents, thereby scoring bonus points. 
 
-The court then filtered out *scènes à faire* (i.e., stock video game elements):
+The court then filtered out the unprotectable **scènes à faire** (i.e., stock video game elements):
 
- > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K.C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone. [*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
+ > The maze and scoring table are standard game devices, and the tunnel exits are nothing more than the commonly used "wrap around" concept adapted to a maze-chase game. Similarly, the use of dots provides a means by which a player's performance can be gauged and rewarded with the appropriate number of points, and by which to inform the player of his or her progress. Given their close connection with the underlying game, K.C. Munchkin's maze design, scoring table, and "dots" are sufficiently different to preclude a finding of infringement on that basis alone.
 
-The court then looked at Pac-Man's creative expression. A maze-chase game "does not dictate the use of a 'gobbler' and 'ghost monsters.' Those characters are wholly fanciful creations, without reference to the real world." [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724). Finally, comparing only the protectable creative elements, the court found copyright infringement: 
+The court then looked at Pac-Man's protectable **creative expression**. A maze-chase game "does not dictate the use of a 'gobbler' and 'ghost monsters.' Those characters are wholly fanciful creations, without reference to the real world." Finally, comparing only the protectable creative elements, the court found copyright infringement: 
 
- > The K.C. Munchkin gobbler has several blatantly similar features, including the relative size and shape of the “body,” the V-shaped “mouth,” its distinctive gobbling action (with appropriate sounds), and especially the way in which it disappears upon being captured. An examination of the K.C. Munchkin ghost monsters reveals even more significant visual similarities. In size, shape, and manner of movement, they are virtually identical to their Pac-Man counterparts. K.C. Munchkin’s monsters, for example, exhibit the same peculiar “eye” and “leg” movement. Both games, moreover, express the role reversal and “regeneration” process with such great similarity that an ordinary observer could conclude only that North American copied plaintiffs’ Pac-Man. [*Atari v. Philips*](http://scholar.google.com/scholar_case?case=16433139020722034724).
+ > The K.C. Munchkin gobbler has several blatantly similar features, including the relative size and shape of the “body,” the V-shaped “mouth,” its distinctive gobbling action (with appropriate sounds), and especially the way in which it disappears upon being captured. An examination of the K.C. Munchkin ghost monsters reveals even more significant visual similarities. In size, shape, and manner of movement, they are virtually identical to their Pac-Man counterparts. K.C. Munchkin’s monsters, for example, exhibit the same peculiar “eye” and “leg” movement. Both games, moreover, express the role reversal and “regeneration” process with such great similarity that an ordinary observer could conclude only that North American copied plaintiffs’ Pac-Man. 
+ 
+[*Atari v. Philips*, 672 F.2d 607 (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).
 
-**Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the creative expression of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. Since K.C. Munchkin copied these protectable elements, it was infringing the Pac-Man copyright. 
-
-
-
-### No Infringement: Tricky Trapper v. Mouser (1987)
-
-<img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
-
-The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. IBM's Mouser game was suspiciously similar to Frybarger's Tricky Trapper, so Frybarger sued for copyright infringement. The court noticed several similarities between the two games, but decided the similarities were part of the game's *idea*, not it's *expression*. [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). The judge specifically identified some of the basic game mechanics as not protectable:
-
-- **Board:** The screen of each game is filled with straight rows of pivot points on a solid colored background. Some of the pivot points are connected by solid lines.
-
-- **Hero:** Both games have a single protagonist that moves vertically and horizontally, and rearranges the solid lines to capture bad guys and earn points. 
-
-- **Bad Guys:** In both games, there are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
-
-*Anyone have a Tricky Trapper screenshot from an Apple II? Both images above are from Mouser. I'd love to know what Tricky Trapper actually looked like.* 
+**Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the *creative expression* of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. 
 
 <hr class="tall">
 
 
-## Galaxian v. Galaxian: Porting is Infringement (1982)
+## Porting is Infringement: Galaxian v. Galaxian (1982)
 
 <img src="/images/copyright/midway-galaxian-v-bandai-galaxian.jpg" class="medium-image">
 
-Midway made the arcade game *Pac-Man*, and Bandai cloned it with the handheld *Packri Monster*. Midway made the arcade game *Galaxian*, and Bandai cloned it with a handheld game called... *Galaxian*. Let's talk about the Galaxian copyright. 
+Midway made the arcade game *Pac-Man*, and Bandai cloned it with the handheld *Packri Monster*. Midway made the arcade game *Galaxian*, and Bandai cloned it with a handheld game called... *Galaxian*. Let's talk about Galaxian. 
 
-In his copyright analysis, the judge first separated the unprotectable *idea* of the Galaxian game from its expression. 
+As always, the judge first separated the unprotectable *idea* of the Galaxian game from its *expression*. 
 
-> Here, the idea of Midway's Galaxian is relatively simple and easily expressed: it is an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player's ship. With the idea of Midway's Galaxian thus identified, it is clear that Midway's copyright does not in the least preclude the creation of an entire universe of other space video games (e.g., Space Invaders) based on the same, unprotected idea. It is also clear that, in expressing its version of the game idea, there was no necessity for Bandai to mimic Midway's expression of this idea which involves such elements as the particular insectile shape of the aliens, their movements, and the musical theme. [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+> Here, the idea of Midway's Galaxian is relatively simple and easily expressed: it is an outer space video game in which the player controls a rocket ship defending itself against a swarm of computer-controlled attacking aliens who attempt to bomb and collide with the player's ship. 
 
-After filtering out the unprotectable idea, the judge then compared the copyrightable expression. He decided that the "*musical* themes of the two Galaxian games are fundamentally identical."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). Likewise, the *alien enemies* were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen."  [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+With the "idea" out of the way, the Judge dug into Bandai for copying so much of Galaxian's creative expression: 
 
-Finally, the court looked at the game play of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship." [*Midway v. Bandai*](http://scholar.google.com/scholar_case?case=7889409527461466580). 
+ > It is also clear that, in expressing its version of the game idea, there was no necessity for Bandai to mimic Midway's expression of this idea which involves such elements as the particular insectile shape of the aliens, their movements, and the musical theme.  
 
-The judge did not actually decide the copyright issue in this case, but from his language, he seemed inclined to find infringement. 
+The judge reviewed the expert opinion of two music professors, and agreed that the "*musical* themes of the two Galaxian games are fundamentally identical."  Likewise, the *alien enemies* were similar. "The Bandai aliens are unmistakably insectile as are those in Midway's game. In addition, Bandai's insect characters bear a close resemblance to Midway's, both having brightly lighted eyes and two-toned bodies." The backgrounds were similar (both set in space), and both games had "the same sort of sequential lighting of the stars, creating the same illusion that the characters are moving through space toward the top of the screen." 
+
+Finally, the judge looked at the **game play** of both Galaxians, and found them similar as well. "Bandai game's play and sequence of images is extremely similar to Midway's. Thus, the Bandai aliens fly in a pack and peel off to attack singly or in small groups. As they attack, they invert, as do the Midway creatures. Bandai's aliens also appear to flap their wings as they fly and attempt to collide with the player's ship."  
+
+**Procedural Note**: Galaxian v. Galaxian is an order on a "motion for summary judgment." This is a type of early motion where a litigant basically says "my case is so strong that we don't need a trial, and I should win right now." While the judge thought Midway had a strong case for copyright infringement, it was not so strong that Midway could win on a "motion for summary judgment." [*Midway v. Bandai*, 546 F.Supp. 125 (D. NJ 1982)](http://scholar.google.com/scholar_case?case=7889409527461466580).
+
+**Takeaway**: Defending a spaceship against swarming alien bad guys is an unprotectable idea. The particular insectile shape of the aliens and their attack patterns and animations are protectable "creative expression." 
+
 
 
 <hr class="tall">
@@ -208,18 +201,47 @@ The judge did not actually decide the copyright issue in this case, but from his
 
 Williams Electronics made Hyperball, a pinball machine with built-in video game elements. Soon after its release, Bally made Rapid Fire, another pinball machine with video game elements. 
 
-In separating the unprotectable *ideas* from the copyrightable *expression*, the judge decided that, "many elements of Hyperball are unprotected. The color, shapes and placements of the targets, ball cannon, grip handles, and indicator lights on the targets, the use of lettered targets to assist the player in scoring, and the shape of the speaker and back box" were functional and non-protectable. In addition, "The colors, shapes and locations of these items have no conceptual significance apart from the role they play in the mechanical operation of the game." [*Williams Electronics, Inc. v. Bally Manufacturing*, 568 F.Supp. 1274 (ND Ill 1983)](http://scholar.google.com/scholar_case?case=16687668448643130747).
+The judge first separated the unprotectable *ideas* from the copyrightable *expression*, and found that "many elements of Hyperball are unprotected. The color, shapes and placements of the targets, ball cannon, grip handles, and indicator lights on the targets, the use of lettered targets to assist the player in scoring, and the shape of the speaker and back box" were functional and non-protectable. In addition, "The colors, shapes and locations of these items have no conceptual significance apart from the role they play in the mechanical operation of the game." 
 
-After separating out the functional elements, the judge compared the remaining copyrightable elements, and determined that there was no similarity, and therefore no copyright infringement. 
+After separating out the functional elements, the judge compared the remaining copyrightable elements. He started by comparing some specific details: 
 
- > In viewing the two games solely with reference to their copyrightable features, one is struck by the almost complete absence of substantial similarities. The Hyperball playing field contains three columns of thunderbolts. Rapid Fire has only two columns of aliens carrying shields which pass ammunition to two guns. Nothing like the aliens, shields, ammunition or guns appears on the Hyperball playing field. The thunderbolts and aliens are roughly the same color, but there the similarity ends. Hyperball's thunderbolts point toward an oval area on which the logo "Energy Center" appears. Below that the word "Hyperball" in lighted block letters appears, and below that "Hyperball" is again written in stylized italics. The Rapid Fire playing field contains no oval area but rather variously colored dotted lines that radiate out from a dotted line in the shape of a semicircle, with the words "Force Field" written in a gothic style below the semi-circle. Hyperball has several "bombs" arrayed along the side of the playing field, but none of the various colored dotted lines that are on the Rapid Fire field. But even more important than these specific dissimilarities is the overall difference in the aesthetic impressions generated by the two games. Hyperball displays thunderbolts; the player's adversary is an impersonal natural force represented by geometric figures. Rapid Fire displays enemy creatures, humanoid in appearance. The Rapid Fire player's enemy is more personalized and not simply a geometric shape. [*Williams Electronics, Inc. v. Bally Manufacturing*](http://scholar.google.com/scholar_case?case=16687668448643130747).
+ > In viewing the two games solely with reference to their copyrightable features, one is struck by the almost complete absence of substantial similarities. The Hyperball playing field contains three columns of thunderbolts. Rapid Fire has only two columns of aliens carrying shields which pass ammunition to two guns. Nothing like the aliens, shields, ammunition or guns appears on the Hyperball playing field. The thunderbolts and aliens are roughly the same color, but there the similarity ends. Hyperball's thunderbolts point toward an oval area on which the logo "Energy Center" appears. Below that the word "Hyperball" in lighted block letters appears, and below that "Hyperball" is again written in stylized italics. The Rapid Fire playing field contains no oval area but rather variously colored dotted lines that radiate out from a dotted line in the shape of a semicircle, with the words "Force Field" written in a gothic style below the semi-circle. Hyperball has several "bombs" arrayed along the side of the playing field, but none of the various colored dotted lines that are on the Rapid Fire field. 
+
+The judge also compared the overall impression of the two games: 
+
+ > But even more important than these specific dissimilarities is the overall difference in the aesthetic impressions generated by the two games. Hyperball displays thunderbolts; the player's adversary is an impersonal natural force represented by geometric figures. Rapid Fire displays enemy creatures, humanoid in appearance. The Rapid Fire player's enemy is more personalized and not simply a geometric shape. 
+
+The differences between the specific details and between the overall impressions were enough to differentiate Rapid Fire from Hyperball. There was no "substantial similarity" and therefore no copyright infringement. [*Williams Electronics, Inc. v. Bally Manufacturing*, 568 F.Supp. 1274 (ND Ill 1983)](http://scholar.google.com/scholar_case?case=16687668448643130747).
+
+**Takeaway**: A "pinball machine with video game elements" is an unprotectable idea. Rapid Fire copied that idea, as it's allowed to do. The way Hyperball expresses that idea is copyrightable, but Rapid Fire didn't copy the expression. 
+
+<hr class="tall">
 
 
+### No Infringement: Tricky Trapper v. Mouser (1987)
+
+<img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
+
+The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. IBM's Mouser game was suspiciously similar to Frybarger's Tricky Trapper, so Frybarger sued for copyright infringement. The court noticed several similarities between the two games, but decided that IBM had only copied from the game's *idea*, not its *expression*. The judge specifically identified some of the basic game mechanics as not protectable:
+
+- **Board:** The screen of each game is filled with straight rows of pivot points on a solid colored background. Some of the pivot points are connected by solid lines.
+
+- **Hero:** Both games have a single protagonist that moves vertically and horizontally, and rearranges the solid lines to capture bad guys and earn points. 
+
+- **Bad Guys:** In both games, there are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
+
+
+[*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). 
+
+*Anyone have a Tricky Trapper screenshot from an Apple II? Both images above are from Mouser. I'd love to know what Tricky Trapper actually looked like.* 
 
 
 <hr class="tall">
 
-## Sport Simulation Games
+## Sports Games
+
+Video Games that simulate existing sports (baseball, soccer karate) get a very thin type of copyright protection. Its a copyright that can stop an identical clones, but not much else.  
+
 
 - - - 
 
@@ -242,30 +264,32 @@ Now let's look at a case involving Street Fighter II - a fighting game with a mu
 
 <hr class="tall">
 
-## No Infringement of Street Fighter II (1994)
 
+## No Infringement of Street Fighter II (1994)
 
 <img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg" class="medium-image">
 
-
-The creative elements of video games merit stronger copyright protections than the non-fiction elements. Because of this, the judge gave Street Fighter II a narrow scope of copyright protection: 
+The *creative* elements of video games merit stronger copyright protections than the *non-fiction* elements. Since Street Fighter II was largely based on non-fiction karate (IMO, a debatable premise), the judge gave the game a narrow scope of copyright protection: 
 
  > ... there is no question that the games involved in those three cases -– Pac-Man, Galaxian and Donkey Kong –- were far more fanciful than many of the elements presented in Street Fighter II.
 
 While Fighter's History (right) copied most of its details and game play from Street Fighter II, it was careful not to copy the creative game elements: 
 
-> For example, although Guile and Matlok both have spiky hair and wear similar clothing, they are not identical to one another. Guile is a military figure who wears military garb and has a military base as his home stage. Matlok is a “punkrocker” whose characterization is underscored by his tough appearance and “breakdance” type moves. Their magic projectiles, while similar in appearance, are not identical. In keeping with his personality, Matlok throws a spinning compact disc, the form of which is apparent in some video sequences. Guile, on the other hand, throws a Ch’i mental energy ball and shouts “sonic boom” upon its release. This is in keeping with his military persona. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/). 
+ > For example, although Guile and Matlok both have spiky hair and wear similar clothing, they are not identical to one another. Guile is a military figure who wears military garb and has a military base as his home stage. Matlok is a “punkrocker” whose characterization is underscored by his tough appearance and “breakdance” type moves. Their magic projectiles, while similar in appearance, are not identical. In keeping with his personality, Matlok throws a spinning compact disc, the form of which is apparent in some video sequences. Guile, on the other hand, throws a Ch’i mental energy ball and shouts “sonic boom” upon its release. This is in keeping with his military persona. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/). 
 
+The judge also excluded any **scènes à faire** elements (i.e., stock elements, cliches, stereotypes) from its copyright analysis. The judge discussed the "vitality bar" and the winner designation. "Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable *scènes à faire*." [*CapCom v. Data East*](/capcom-v-data-east/). 
 
-The judge also excluded any "*scènes à faire*" elements (i.e., stock elements, cliches, stereotypes) from its copyright analysis. The judge discussed the "vitality bar" and the winner designation. "Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable *scènes à faire*. [*CapCom v. Data East*](/capcom-v-data-east/). 
-
-The court also excluded game control sequences from its analysis under the "merger doctrine":  
+The court also excluded game control sequences from its analysis under the **merger doctrine**:  
 
  > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. [*CapCom v. Data East*](/capcom-v-data-east/).
 
 Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." [*CapCom v. Data East*](/capcom-v-data-east/).
 
-Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, special moves and combos. 
+Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, [special moves](/various-special-moves) and combos. 
+
+**Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
+
+**Comment**: I've never played Figher's History, but it looks like a god damn Street Fighter II ripoff. I'd call it copyright infringement. 
 
 <hr class="tall">
 
