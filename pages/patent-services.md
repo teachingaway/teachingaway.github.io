@@ -135,15 +135,12 @@ We review patent portfolios for Venture Capital Funds and small M&A deals.
 
 - - - 
 
-## Appealing Patent Examiner Rejections: "Ex Parte Appeals" 
+## Appealing Patent Examiner Rejections: Ex Parte Appeals
 
 - - - 
 
-## Invalidating Competitor's Patents: Covered Business Method Review
+## Invalidating Patents: Covered Business Method Review & Inter Partes Review
 
-- - - 
-
-## Invalidating Competitor's Patents: Inter Partes Review
 
 
 
@@ -152,6 +149,8 @@ We review patent portfolios for Venture Capital Funds and small M&A deals.
 # Patent Licensing and Technology Transfer
 
 <hr class="tall">
+
+
 
 # Patent Litigation
 
