@@ -117,7 +117,7 @@ Product configuration - the shape of a product itself - is more difficult to reg
 The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
 
 
-Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii) Distinctiveness and Product Packaging Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1424). For example, the overall shape of the Scope "outlast" a mouthwash container with a cap was inherently distinctive. *In re Procter & Gamble Co.*, 105 USPQ.2d 1119 (TTAB 2012).  
+Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii)](/tmep/tmep-1200.html#TMEP-1200d1e1424). That is, a peculiar or non-standard package design can satisfy the distinctiveness requirements without any evidence of brand recognition. For example, the overall shape of the Scope "outlast" a mouthwash container with a cap was inherently distinctive. *In re Procter & Gamble Co.*, 105 USPQ.2d 1119 (TTAB 2012).  
 
 <img src="/images/trademark/scope-outlast-trade-dress.jpg" class="translucent">
 
