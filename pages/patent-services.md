@@ -11,15 +11,16 @@ image:
 share: 
 ---
 
-<ul class="toc">
-  <li><a href="#utility-patent-applications">Utility Patent Applications</a>
+<div class="toc">
     <ul>
-      <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
-    </ul>
-  </li>
+        <li><a href="#utility-patent-applications">Utility Patent Applications</a>
+            <ul>
+                <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
+            </ul>
+    </li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
-<li><a href="#international-and-pct-patent-applications">International and “PCT” Patent Applications</a></li>
+<li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
 <li><a href="#patent-opinions">Patent Opinions</a><ul>
 <li><a href="#patentability-opinions">Patentability Opinions</a></li>
@@ -29,14 +30,12 @@ share:
 </li>
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
 <li><a href="#covered-business-method-review">Covered Business Method Review</a></li>
-<li><a href="#title"> </a></li>
 </ul>
 </li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
 <li><a href="#patent-litigation">Patent Litigation</a></li>
 </ul>
 </div>
-</p>
 
 
 
