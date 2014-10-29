@@ -58,6 +58,8 @@ The total patent application costs depend on a number of factors. If you provide
 
 When time is of the essence, we can press the US Patent Office to move faster (for a fee). While patents generally take 2-3 years for approval, I've seen examiners approve patents in as little as **9 months**. 
 
+A "Prioritized Examination" expedites the patent process to about 1 year. While a prioritized application requires the inventor to abide by certain limitations, they are not particularly onerous, especially if time is of the essence. The additional filing fee is generally $2,000 (reduced to $1,000 for "micro-entities").  
+
 <img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
 
 - - - 
