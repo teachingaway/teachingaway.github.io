@@ -25,7 +25,7 @@ image:
 </ul>
 
 
-## Selecting a Name
+# On Your Marks:  Selecting a Name
 
 *"There are only two hard problems in Computer Science: cache invalidation and naming things."*  -- Phil Karlton
 
@@ -44,13 +44,13 @@ Names should be internet friendly. Is the .com domain available? Can you buy it 
 
 - - - 
 
-## Trademark Symbols: ™ and ®
+# Trademark Symbols: ™ and ®
 
 Use the **™** symbol after an *unregistered* trademark. Use the **®** symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
 - - - 
 
-## Benefits of Trademark Registration
+# Benefits of Trademark Registration
 
 Trademark law automatically grants a basic set of rights called "common law" trademark rights. These basic rights can be enhanced by securing a federal trademark registration. Registration is a big improvement over the default common law trademark rights.  A registration is strong evidence[^1] of your exclusive trademark rights, it increases the penalties for infringement, and provides official government recognition of your brand identity. 
 
@@ -76,12 +76,12 @@ While basic "common law" trademark rights are granted automatically, registered 
 
 - - - 
 
-## A Trademark Can Be any Symbol that Identifies a Brand
+# A Trademark Can Be any Symbol that Identifies a Brand
 
 Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any symbol* that identifies a brand, including animation, unique product packaging ("trade dress"), as well as sounds or jingles, and even a scent can (in theory) be trademarked. For most businesses, basic word and logo trademarks will provide sufficient protection. 
 
 
-### Trade Dress
+## Trade Dress
 
 Trade dress is unique product packaging or product configurations that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
 
@@ -92,14 +92,14 @@ Trade dress is unique product packaging or product configurations that distingui
 
 - - - 
 
-## Trademark Timeframes
+# Trademark Timeframes
 
 Trademark rights begin when you start using a trademark in commerce (to advertise and sell a product or service). Trademark rights expire (go abandoned) when you stop using the mark in commerce without any intent to restart. That is, a trademark will not expire because of a temporary suspension of a product, but it will expire on a permanent termination of a product or permanent name change. 
 
 
 - - - 
 
-## The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.
+# The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.
 
 The two biggest hurdles to clear in the trademark registration process are _Likelihood of Confusion_ and _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark. For example, think of "apple" as a mark used for the product "computers," or FedEx as a mark used for "delivery" services.  To complicate matters, a "mark" can refer to either a "design mark" or a "word mark." Here's a table to help sort this out:   
 
@@ -110,7 +110,7 @@ The two biggest hurdles to clear in the trademark registration process are _Like
 
 Trademark law focuses on the relationship between the "mark" (either word or design) and the "goods." The central question of all trademark law is "how well does the mark help consumers identify the company that sells the goods?" Both "distinctiveness" and "likelihood of confusion" stem from this question. 
  
-### TM Law: Likelihood of Confusion
+## TM Law: Likelihood of Confusion
 
 The TM Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, they will send you an "office action" rejecting your application for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be" to reject an application for likelihood of confusion. [TMEP 1207.01(a)](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
@@ -119,7 +119,7 @@ The TM Office will refuse your application if your mark, as used on your goods/s
 [^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
-### TM Law: "Distinctiveness"
+## TM Law: "Distinctiveness"
 
 A trademark should be "distinctive" as opposed to merely "descriptive" or worse, "generic." [TMEP 1209](/tmep/tmep-1200.html#TMEP-1200d1e6980). A word is generic if it defines the particular product it's being used to sell. Generic words are reserved for the public domain, and cannot be trademarked. For example, every coffee shop is allowed to use the word "coffee" in its marketing. The TM Office will not grant any single coffee shop the exclusive rights to use such a generic term. If you apply for a trademark that defines–or even closely describes–your product, the TM Office will reject it.
 
@@ -159,7 +159,7 @@ Here are some other distinctiveness traps to avoid:
  
 - - - 
 
-### Acquired Distinctiveness
+## Acquired Distinctiveness
 
 A mark that would not ordinarily be distinctive, such as a descriptive mark or a product configuration, can *become* distinctive through marketing and eventual customer recognition. When customers eventually come to associate a particular word or symbol with your brand, it has "acquired distinctiveness." 
 
@@ -167,15 +167,20 @@ Since measuring "acquired distinctiveness" is difficult, the Trademark Office ta
 
 - - -
 
-### Famous Marks and Dilution
+## Famous Marks and Dilution
 
 When a trademark becomes "famous", it is awarded an even higher level of protection. Famous marks are extremely well known household brands like "Coke" or "Apple." These famous marks are protected not only against trademark infringement (competitors using similar marks on similar products), but also against dilution (using similar marks on *any* product). 
 
  
 - - - 
 
+# Use in Commerce: Mark to Market
 
-## Clearance Search
+Federal trademark registration requires use in "interstate commerce." Trademark use that takes place entirely within a state will not support a federal trademark registration. 
+
+- - - 
+
+# Clearance Search
 
 Run your proposed names through a trademark "clearance" search before settling on a final name. Search for existing trademarks and registrations, but don't limit the search to _identical_ marks. Search for _similar_ marks. Search for marks that are similar enough that they are "likely to cause consumer confusion" (as discussed above, and at [TMEP  1207.01](http://adlervermillion.com/tmep/tmep-1200.html#TMEP-1200d1e5044)). 
 

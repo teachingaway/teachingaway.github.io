@@ -35,7 +35,7 @@ Perhaps the most important benefit is that your trademark will show up in tradem
 
 An "Intent to Use" trademark application is ineligible for the Supplemental Register. 
 
-<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="medium-image">
+<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
 
 ### Argue Inherent Distinctiveness
 
