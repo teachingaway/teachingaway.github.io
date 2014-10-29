@@ -9,7 +9,7 @@ image:
   creditlink:  
 ---
 
-<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>.</p>
+<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace</a> <a href="http://www.nytimes.com/2004/03/21/magazine/get-out-of-my-namespace.html?pagewanted=all">collision</a>.</p>
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
@@ -39,7 +39,7 @@ image:
 
 # On Your Marks:  Selecting a Name
 
-*"There are only two hard problems in Computer Science: cache invalidation and naming things."*  -- Phil Karlton
+*"There are only two hard problems in Computer Science: cache invalidation and naming things."  -- Phil Karlton*
 
 
 A strong trademark is (a) unique and (b) distinctive rather than descriptive. A trademark is "descriptive" if it describes the product it's used to sell. The more closely the trademark describes the product being sold, the weaker the trademark. If the word actually *defines* the product, it is "generic" and cannot be trademarked. Uniqueness and distinctiveness are introduced briefly below, and then in more detail under the headings "Distinctiveness" and "Likelihood of Confusion." 
@@ -58,7 +58,7 @@ Names should be internet friendly. Is the .com domain available? Can you buy it 
 
 # Trademark Symbols: ™ and ®
 
-Use the **™** symbol after an *unregistered* trademark. Use the **®** symbol after a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
+Use the **™** symbol with *unregistered* trademark. Use the **®** symbol with a *registered* trademark. These trademark symbols  tell your customers and competitors that you are claiming trademark rights in your brand name or logo or slogan. 
 
 - - - 
 
