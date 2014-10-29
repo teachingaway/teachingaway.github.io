@@ -55,7 +55,7 @@ International fees are paid in Swiss Francs, but exchange rate to USD is about 1
 
 ### Portfolio Management and Brand Monitoring
 
-We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portoflio. 
+We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
 
 
 ## Domain Name Disputes
