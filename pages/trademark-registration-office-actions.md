@@ -9,10 +9,8 @@ image:
   creditlink:  
 ---
 
-<p class="big-text"></p>
-
-
-The Trademark Office frequently rejects trademark applications for _Likelihood of Confusion_ with an existing registration, and for _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark.
+<p class="big-text">
+The Trademark Office frequently rejects trademark applications for _Likelihood of Confusion_ with an existing registration, and for _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark.</p>
 
 - - - 
 
@@ -36,6 +34,8 @@ First, you can move the mark to the "supplemental register" for 5 years. On the 
 Perhaps the most important benefit is that your trademark will show up in trademark searches, and Trademark Examiners may find it and use it to reject third party trademark applications for marks that are similar to yours. 
 
 An "Intent to Use" trademark application is ineligible for the Supplemental Register. 
+
+<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="medium-image">
 
 ### Argue Inherent Distinctiveness
 
