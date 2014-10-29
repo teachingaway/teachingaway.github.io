@@ -13,15 +13,23 @@ image:
 
 <ul class="toc">
 <p><strong>Contents</strong></p>
-<li><a href="#selecting-a-name">On Your Marks:  Choosing a Brand Name </a></li>
-<li><a href="#trademark-symbols--and-"> Mark of the Beast: Trademark Symbols ™ and ® </a></li>
-<li><a href="#benefits-of-trademark-registration"> Mark My Words: Benefits of Trademark Registration </a></li>
-<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand"> Any Symbol that Identifies a Brand can be a Trademark </a></li>
-<li><a href="#trademark-timeframes"> Trademark Timeframes </a></li>
-<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law"> The Relationship Between the Mark and the Product. </a></li>
-<li><a href="#tm-law-likelihood-of-confusion"> Likelihood of Confusion </a></li>
-<li><a href="#tm-law-distinctiveness"> Distinctiveness </a></li>
-<li><a href="#clearance-search"> Clearance Search </a></li>
+<li><a href="#on-your-marks-selecting-a-name">On Your Marks: Selecting a Name</a></li>
+<li><a href="#trademark-symbols-tm-and">Trademark Symbols: ™ and ®</a></li>
+<li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be any Symbol that Identifies a Brand</a><ul>
+<li><a href="#trade-dress">Trade Dress</a></li>
+</ul>
+</li>
+<li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.</a><ul>
+<li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
+<li><a href="#tm-law-distinctiveness">TM Law: "Distinctiveness"</a></li>
+<li><a href="#acquired-distinctiveness">Acquired Distinctiveness</a></li>
+<li><a href="#famous-marks-and-dilution">Famous Marks and Dilution</a></li>
+</ul>
+</li>
+<li><a href="#use-in-commerce-mark-to-market">Use in Commerce: Mark to Market</a></li>
+<li><a href="#clearance-search">Clearance Search</a></li>
 </ul>
 
 
