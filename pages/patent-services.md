@@ -12,6 +12,7 @@ share:
 ---
 
 <div class="toc">
+    <p>Table of Contents</p>
     <ul>
         <li><a href="#utility-patent-applications">Utility Patent Applications</a>
             <ul>
@@ -107,9 +108,19 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 
 # Patent Trial and Appeal Board Proceedings
 
-## Covered Business Method Review
+- - - 
 
-## 
+## Appealing Patent Examiner Rejections: "Ex Parte Appeals" 
+
+- - - 
+
+## Invalidating Competitor's Patents: Covered Business Method Review
+
+- - - 
+
+## Invalidating Competitor's Patents: Inter Partes Review
+
+
 
 <hr class="tall">
 
