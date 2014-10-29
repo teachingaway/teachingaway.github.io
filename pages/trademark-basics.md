@@ -73,7 +73,7 @@ Trademark law automatically grants a basic set of rights called "common law" tra
 | Evidence | Description |
 | - | - | 
 Exclusive Rights | You have the exclusive right to use the trademark to sell the specified goods & services.
-Validity | Not every word or symbol can be a valid trademark. For example, generic words are not valid trademarks. A trademark registration is evidence that your trademark is valid.  
+Validity | A trademark registration is evidence that your trademark is valid, as opposed to *generic* or otherwise invalid.   
 Start Date  |  Trademark rights go to the first company to use the trademark (with some exceptions).  A registration is evidence of your "date of first use" of the trademark.
 Continuous Use |  Trademark rights end when you stop using the trademark to sell your goods or services. A trademark registration is evidence that you have not abandoned the trademark.
 | **Rights** | **Description** | 
@@ -96,7 +96,7 @@ Trademarks are generally words or logos. Slogans and short phrases are also comm
 
 A "design mark" simply refers to a logo or design used to identify a particular brand. A design mark can incorporate stylized letters, or just be a drawing without any recognizable letters or symbols. 
 
-Historical Note: The Bass trademark was the first UK trademark registration. It issued in 1876, and is still active today (in modified form). 
+For example, Bass Ale's red triangle is a famous design mark. It's been in continuous use since 1856, and was in fact the very first trademark registered in the UK (UK registration no. 0000001). It was registered in the US in 1912, with the far more mundane registration no 88,266.
 
 <img src="/images/trademark/bass-first-uk-trademark-1876.jpg" class="translucent">
 
@@ -104,6 +104,25 @@ Historical Note: The Bass trademark was the first UK trademark registration. It 
 
 Trade dress is unique product packaging or product configurations that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
 
+Trade dress must be (1) distinctive and (2) non-functional. 
+
+Trade dress is functional, and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [MPEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
+
+
+[TMEP 1202.02(b) Distinctiveness of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1367)
+
+
+Product configuration and product packaging are treated somewhat differently. Product configuration - the shape of a product itself - is more difficult to register. This is because product configuration is *never inherently distinctive*. This means that product configuration trade dress can only be registered with evidence of "acquired distinctiveness."  
+
+Establishing "acquired distinctiveness" (aka "secondary meaning") in trade dress is *always a battle*.  Acquired distinctiveness in trade dress requires substantial evidence of heavy marketing and wide brand recognition. 
+
+The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
+
+<img src="/images/trademark/haig-pinched-decanter-trade-dress.jpg" class="translucent">
+
+
+
+Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii) Distinctiveness and Product Packaging Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1424). 
 
 <img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
 
