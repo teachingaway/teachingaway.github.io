@@ -78,7 +78,7 @@ While basic "common law" trademark rights are granted automatically, registered 
 
 ## A Trademark Can Be any Symbol that Identifies a Brand
 
-Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any symbol* that identifies a brand, including animation, unique product packaging ("trade dress"), as well as sounds or jingles, and even a scent can (in theory) be trademarked. 
+Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any symbol* that identifies a brand, including animation, unique product packaging ("trade dress"), as well as sounds or jingles, and even a scent can (in theory) be trademarked. For most businesses, basic word and logo trademarks will provide sufficient protection. 
 
 
 ### Trade Dress
@@ -86,7 +86,9 @@ Trademarks are generally words or logos. Slogans and short phrases are also comm
 Trade dress is unique product packaging or product configurations that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
 
 
-For most businesses, a word and a logo will be enough of a trademark. 
+<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
+
+
 
 - - - 
 
