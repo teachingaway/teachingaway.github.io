@@ -44,9 +44,7 @@ share:
 
 # Utility Patent Applications
 
-A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. 
-
-Here are some ballpark cost estimates to prepare and file utility patent applications
+A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. A small portfolio of related patents can be a potent business tool. Here are some ballpark cost estimates to prepare and file utility patent applications
 
 Estimaged Cost | Type of Application
 - | - 
@@ -61,7 +59,7 @@ The total patent application costs depend on a number of factors. If you provide
 
 When time is of the essence, we can press the US Patent Office to move faster (for a fee). While patents generally take 2-3 years for approval, I've seen examiners approve patents in as little as **9 months**. 
 
-A "Prioritized Examination" expedites the patent process to about 1 year. While a prioritized application requires the inventor to abide by certain limitations, they are not particularly onerous, especially if time is of the essence. The additional filing fee is generally $2,000 (reduced to $1,000 for "micro-entities").  
+A "Prioritized Examination" expedites the patent process to about 1 year. While a prioritized application requires the inventor to abide by certain limitations, they are not particularly onerous, especially if speed is critical. The additional "small entity" filing fee is generally $2,000 (reduced to $1,000 for "micro-entities").  
 
 <img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
 
@@ -90,18 +88,39 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 
 # International and "PCT" Patent Applications
 
+<img src="/images/patent-drawings/camera-fassin-1948.png" class="translucent">
+
+- - - 
+
+## National Stage U.S. Patent Prosecution
+
+
 <hr class="tall">
 
 # Patent Due Diligence
+
+We review patent portfolios for Venture Capital Funds and small M&A deals. 
 
 
 <hr class="tall">
 
 # Patent Opinions
 
+
+
+<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
+
+- - - 
+
 ## Patentability Opinions 
 
+- - - 
+
+
 ## Validity Opinions
+
+- - - 
+
 
 ## Non-infringement Opinions
 
@@ -109,6 +128,10 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 <hr class="tall">
 
 # Patent Trial and Appeal Board Proceedings
+
+
+<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+
 
 - - - 
 
@@ -132,4 +155,10 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 
 # Patent Litigation
 
+- - - 
 
+## Patent Enforcement in Federal Court
+
+- - - 
+
+## Patent Troll Defense in Federal Court
