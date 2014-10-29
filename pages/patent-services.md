@@ -11,14 +11,16 @@ image:
 share: 
 ---
 
+
+
+
 <div class="toc">
-    <p>Table of Contents</p>
-    <ul>
-        <li><a href="#utility-patent-applications">Utility Patent Applications</a>
-            <ul>
-                <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
-            </ul>
-    </li>
+<p>Table of Contents</p>
+<ul>
+<li><a href="#utility-patent-applications">Utility Patent Applications</a><ul>
+<li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
+</ul>
+</li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
 <li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
@@ -30,15 +32,15 @@ share:
 </ul>
 </li>
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
-<li><a href="#covered-business-method-review">Covered Business Method Review</a></li>
+<li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: "Ex Parte Appeals"</a></li>
+<li><a href="#invalidating-competitors-patents-covered-business-method-review">Invalidating Competitor's Patents: Covered Business Method Review</a></li>
+<li><a href="#invalidating-competitors-patents-inter-partes-review">Invalidating Competitor's Patents: Inter Partes Review</a></li>
 </ul>
 </li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
 <li><a href="#patent-litigation">Patent Litigation</a></li>
 </ul>
 </div>
-
-
 
 # Utility Patent Applications
 
