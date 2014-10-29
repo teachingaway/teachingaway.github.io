@@ -16,18 +16,22 @@ image:
 <li><a href="#on-your-marks-selecting-a-name">On Your Marks: Selecting a Name</a></li>
 <li><a href="#trademark-symbols-tm-and">Trademark Symbols: ™ and ®</a></li>
 <li><a href="#benefits-of-trademark-registration">Benefits of Trademark Registration</a></li>
-<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be any Symbol that Identifies a Brand</a><ul>
-<li><a href="#trade-dress">Trade Dress</a></li>
+<li><a href="#a-trademark-can-be-any-symbol-that-identifies-a-brand">A Trademark Can Be any Symbol that Identifies a Brand</a></li>
+<ul>
+  <li><a href="#design-mark">Design Marks</a></li>
+  <li><a href="#trade-dress">Trade Dress</a></li>
 </ul>
-</li>
+
 <li><a href="#trademark-timeframes">Trademark Timeframes</a></li>
-<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.</a><ul>
-<li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
-<li><a href="#tm-law-distinctiveness">TM Law: "Distinctiveness"</a></li>
-<li><a href="#acquired-distinctiveness">Acquired Distinctiveness</a></li>
-<li><a href="#famous-marks-and-dilution">Famous Marks and Dilution</a></li>
-</ul>
+<li><a href="#the-relationship-between-the-mark-and-the-product-is-central-to-trademark-law">The Relationship Between the "Mark" and the "Product" is Central to Trademark Law.</a>
 </li>
+<ul>
+ <li><a href="#tm-law-likelihood-of-confusion">TM Law: Likelihood of Confusion</a></li>
+ <li><a href="#tm-law-distinctiveness">TM Law: "Distinctiveness"</a></li>
+ <li><a href="#acquired-distinctiveness">Acquired Distinctiveness</a></li>
+ <li><a href="#famous-marks-and-dilution">Famous Marks and Dilution</a></li>
+</ul>
+
 <li><a href="#use-in-commerce-mark-to-market">Use in Commerce: Mark to Market</a></li>
 <li><a href="#clearance-search">Clearance Search</a></li>
 </ul>
@@ -88,6 +92,13 @@ While basic "common law" trademark rights are granted automatically, registered 
 
 Trademarks are generally words or logos. Slogans and short phrases are also common trademarks. But a trademark can be *any symbol* that identifies a brand, including animation, unique product packaging ("trade dress"), as well as sounds or jingles, and even a scent can (in theory) be trademarked. For most businesses, basic word and logo trademarks will provide sufficient protection. 
 
+## Design Mark 
+
+A "design mark" simply refers to a logo or design used to identify a particular brand. A design mark can incorporate stylized letters, or just be a drawing without any recognizable letters or symbols. 
+
+Historical Note: The Bass trademark was the first UK trademark registration. It issued in 1876, and is still active today (in modified form). 
+
+<img src="/images/trademark/bass-first-uk-trademark-1876.jpg" class="translucent">
 
 ## Trade Dress
 
