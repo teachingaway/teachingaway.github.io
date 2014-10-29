@@ -52,13 +52,13 @@ $7,500- $10,000 | software patent application of average complexity
 
 The total patent application costs depend on a number of factors. If you provide a detailed, well organized invention disclosure, the application process will require less drafting time from the patent attorney, and will result in lower costs to you. 
 
-<img src="/images/patent-drawings/engine-starting-lansing-1932.png">
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
 
 ## Expedited Patent Applications
 
 When time is of the essence, we can press the US Patent Office to move faster (for a fee). While patents generally take 2-3 years for approval, I've seen examiners approve patents in as little as **9 months**. 
 
-<img src="/images/patent-drawings/jet-engine-whittle-1946.png">
+<img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
 
 - - - 
 
@@ -68,7 +68,7 @@ A provisional patent application is a temporary patent application that nails do
 
 There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
 
-<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png">
+<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
 - - - 
 
@@ -78,7 +78,7 @@ Design patents protect the "ornamental appearance" of a product. They can protec
 
 Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in legal fees. Then tack on another $280 fee when the patent issues (about a year after filing). For several related design patents, the legal fees per patent will decrease. 
 
-<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png">
+<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png" class="translucent">
 
 
 <hr class="tall">
