@@ -102,29 +102,29 @@ For example, Bass Ale's red triangle is a famous design mark. It's been in conti
 
 ## Trade Dress
 
-Trade dress is unique product packaging or product configurations that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. 
+Trade dress is unique product packaging or a product configuration that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. Trade dress must be (1) distinctive and (2) non-functional. 
 
-Trade dress must be (1) distinctive and (2) non-functional. 
+<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
 
-Trade dress is functional, and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [MPEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
+### Trade Dress Must be Distinctive
 
+Trade dress must be distinctive. That is, it must stand out from the crowd in a way that consumers would recognize as a branding element.  [TMEP 1202.02(b) Distinctiveness of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1367). Product configuration and product packaging are treated somewhat differently. 
 
-[TMEP 1202.02(b) Distinctiveness of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1367)
-
-
-Product configuration and product packaging are treated somewhat differently. Product configuration - the shape of a product itself - is more difficult to register. This is because product configuration is *never inherently distinctive*. This means that product configuration trade dress can only be registered with evidence of "acquired distinctiveness."  
-
-Establishing "acquired distinctiveness" (aka "secondary meaning") in trade dress is *always a battle*.  Acquired distinctiveness in trade dress requires substantial evidence of heavy marketing and wide brand recognition. 
-
-The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
+Product configuration - the shape of a product itself - is more difficult to register. This is because product configuration is *never inherently distinctive*. This means that product configuration trade dress can only be registered with evidence of "acquired distinctiveness."  Establishing "acquired distinctiveness" (aka "secondary meaning") in trade dress is *always a battle*.  Acquired distinctiveness in trade dress requires substantial evidence of heavy marketing and wide brand recognition. 
 
 <img src="/images/trademark/haig-pinched-decanter-trade-dress.jpg" class="translucent">
 
+The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
 
 
 Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii) Distinctiveness and Product Packaging Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e1424). 
 
-<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
+### Trade Dress Must be Non-Functional
+
+Trade dress is considered "functional", and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [MPEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
+
+
+
 
 
 
