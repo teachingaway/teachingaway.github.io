@@ -31,7 +31,7 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)</a></li>
 </ul>
 </li>
-<li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games “Substantially Similar”?</a><ul>
+<li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games "Substantially Similar"?</a><ul>
 <li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
 <li><a href="#copying-creative-expression-is-infringement-pac-man-v-kc-munchkin-1982">Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)</a></li>
 <li><a href="#porting-is-infringement-galaxian-v-galaxian-1982">Porting is Infringement: Galaxian v. Galaxian (1982)</a></li>
@@ -47,22 +47,20 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Trackball Control Not Copyrightable: Golden Tee Golf (2005)</a></li>
 </ul>
 </li>
-<li><a href="#recent-video-game-copying-cases">Recent Video Game Copying Cases</a>
-<ul>
-  <li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
-  <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
-  <li><a href="#infringement-in-triple-town-v-yeti-town-2012">Infringement in Triple Town v. Yeti Town (2012)</a></li>
-  <li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Role Playing Card Game Copyrightable (2014)</a></li>
+<li><a href="#recent-video-game-copying-cases">Recent Video Game Copying Cases</a><ul>
+<li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
+<li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
+<li><a href="#infringement-in-triple-town-v-yeti-town-2012">Infringement in Triple Town v. Yeti Town (2012)</a></li>
+<li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Role Playing Card Game Copyrightable (2014)</a></li>
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
-<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a>
-  <ul>
-  <li><a href="#copyright-registration">Copyright Registration.</a></li>
-  <li><a href="#trademark-registration">Trademark Registration.</a></li>
-  <li><a href="#trade-dress">Trade Dress</a></li>
-  <li><a href="#patents">Patents</a></li>
-  <li><a href="#enforcement-and-public-relations">Enforcement and Public  Relations</a></li>
+<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
+<li><a href="#copyright-registration">Copyright Registration.</a></li>
+<li><a href="#trademark-registration">Trademark Registration.</a></li>
+<li><a href="#trade-dress">Trade Dress</a></li>
+<li><a href="#patents">Patents</a></li>
+<li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
 </ul>
 </li>
 <li><a href="#copyright-requires-only-a-modicum-of-creativity">Copyright Requires Only a "Modicum of Creativity"</a><ul>
@@ -72,7 +70,6 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 </li>
 </ul>
 </div>
-
 
 
 <hr class="tall">
