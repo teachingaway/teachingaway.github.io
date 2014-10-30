@@ -15,7 +15,7 @@ share:
 
 
 <div class="toc">
-<p>Table of Contents</p>
+<p>Contents</p>
 <ul>
 <li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
@@ -124,12 +124,14 @@ Foreign patent filings can be expensive. Ballpark around $5,000 per application 
 
 ## National Stage U.S. Patent Prosecution
 
+We help file the United States "national stage" applications for for PCT applications, including amending claims to comply with local United States patent law. 
+
 
 <hr class="tall">
 
 # Patent Due Diligence
 
-We review patent portfolios for Venture Capital Funds and small M&A deals. 
+We review patent portfolios for Venture Capital Funds and small M&A deals. This may involve checking for proper ownership and assignment documents, reviewing claims for quality drafting, reviewing patent opinions, inbound or outbound license agreements and any patent litigation, whether ongoing or settled. 
 
 <img src="/images/patent-drawings/gold-separator-dana-1902.png" class="translucent">
 
@@ -161,22 +163,23 @@ An "**invalidity**" opinion tests the strength of the third-party patent. Does i
 
 A "**non-infringement**" opinion compares the "claims" of the third-party patent to the technology you are using, and gauges whether you are likely to be infringing. 
 
-Legal opinions rarely provide conclusive certainty because patent analysis , but they can  
-
+Legal opinions rarely provide conclusive certainty because patent analysis often turns on subjective issues where reasonable people can differ. However, patent opinions can help *reduce uncertainty* more carefully define legal risks.  
 
 <hr class="tall">
 
 
-
 # Patent Trial and Appeal Board Proceedings
 
+The Patent Trial and Appeal Board ("PTAB") is an administrative court within the USPTO. It hears (a) "ex parte" appeals from inventors who believe a patent examiner has improperly rejected a patent application, and (b) "inter partes" disputes between a patent owner and a third party. 
 
 <img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
-
 
 - - - 
 
 ## Appealing Patent Examiner Rejections: Ex Parte Appeals
+
+Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
+
 
 - - - 
 
@@ -200,6 +203,8 @@ To improve cost efficiency, we can help review old patents and trim away intelle
 <hr class="tall">
 
 # Patent Litigation
+
+We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms (more expensive, but with more available litigation staff). 
 
 - - - 
 

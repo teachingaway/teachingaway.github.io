@@ -31,15 +31,9 @@ Patents come in 3 major flavors: utility, design, and provisional. If we just sa
 <li><a href="#patentable-subject-matter">Patentable Subject Matter</a></li>
 <li><a href="#prior-art">Prior Art</a><ul>
 <li><a href="#novelty">Novelty</a></li>
-<li><a href="#obviousness">Obviousness</a><ul>
-<li><a href="#new-use-for-an-existing-product">New Use for an Existing Product</a></li>
-<li><a href="#new-use-for-an-existing-process">New Use for an Existing Process</a></li>
-<li><a href="#using-a-conventional-process-to-make-a-non-obvious-process">Using a Conventional Process to Make a Non-Obvious Process</a></li>
+<li><a href="#obviousness">Obviousness</a></li>
 </ul>
 </li>
-</ul>
-</li>
-<li><a href="#the-mpep-in-jekyll">The MPEP in Jekyll.</a></li>
 </ul>
 </div>
 
