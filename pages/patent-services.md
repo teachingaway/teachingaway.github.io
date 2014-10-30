@@ -98,7 +98,12 @@ Design patents protect the "ornamental appearance" of a product. They can protec
 
 Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in legal fees. Then tack on another $280 fee when the patent issues (about a year after filing). For several related design patents, the legal fees per patent will decrease. 
 
-<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png" class="translucent">
+<img src="/images/patent-drawings/fender-guitar-design-patent-1951.png" class="translucent">
+
+Many types of technology can benefit from both design and utility patents. For example, anyone developing technology with an innovative user interface should consider both utility and design patents. 
+
+<img src="/images/patent-drawings/eames-chair-design-and-utility-patent-1947.png" class="translucent">
+
 
 
 <hr class="tall">
@@ -126,12 +131,14 @@ Foreign patent filings can be expensive. Ballpark around $5,000 per application 
 
 We review patent portfolios for Venture Capital Funds and small M&A deals. 
 
+<img src="/images/patent-drawings/gold-separator-dana-1902.png" class="translucent">
+
 
 <hr class="tall">
 
 # Patent Opinions
 
-
+We review patents and technology and issue actionable legal opinions to guide business decisions. In addition to careful legal analysis, our reports are carefully organized and summarized in plain language. 
 
 <img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
@@ -139,18 +146,27 @@ We review patent portfolios for Venture Capital Funds and small M&A deals.
 
 ## Patentability Opinions 
 
+A patentability opinion reviews a new technology and identifies the components that are likely to be patentable. We first review the technology for "patentable subject matter" - whether it contains the type of technology that can be patented. We can also analyze a limited field of prior art documents, and determine whether they would likely block a new patent for your technology (that is, whether your technology is "novel" and "non-obvious" in view of the prior art documents). 
+
+**Prior Art Search.** A full patentability opinion would include a careful prior art search and analysis of the results. However, such a search can be slow, expensive, and inconclusive. Instead, we often recommend "hiring" the patent office to do the search (either the USPTO or the PCT office). This is cheaper and more conclusive, but the results (positive or negative) are likely to become public record. 
+
 - - - 
 
 
-## Validity Opinions
+## Defensive Opinions: Invalidity and Non-Infringement
 
-- - - 
+If you receive a demand letter from a patent owner, or someone requests a license fee for a technology you developed in-house, you may want to obtain an "invalidity" and/or "non-infringement" opinion on the third-party patent. 
 
+An "**invalidity**" opinion tests the strength of the third-party patent. Does it meet the requirements for patentability? Is there prior art that renders it obvious? 
 
-## Non-infringement Opinions
+A "**non-infringement**" opinion compares the "claims" of the third-party patent to the technology you are using, and gauges whether you are likely to be infringing. 
+
+Legal opinions rarely provide conclusive certainty because patent analysis , but they can  
 
 
 <hr class="tall">
+
+
 
 # Patent Trial and Appeal Board Proceedings
 

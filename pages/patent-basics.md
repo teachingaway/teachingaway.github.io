@@ -13,27 +13,35 @@ share:
 
 Patents come in 3 major flavors: utility, design, and provisional. If we just say "patent" we're probably talking about a utility patent - a patent on a new and useful technology. A _design patent_ is a similar animal, but protects the "ornamental appearance" of a new design. Finally, a "_provisional_" is shorthand for a "provisional patent application." Its not a patent at all, its just a type of temporary patent application that nails down a filing date at the Patent Office. 
 
-<ul class="toc">
-<p><strong>Contents</strong></p>
-<li><a href="#types-of-patents">Types of Patents</a></li>
+<div class="toc">
+<p>Contents</p>
 <ul>
- <li><a href="#utility-patent">Utility Patent</a></li>
- <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
- <li><a href="#design-patents">Design Patents</a></li>
- <li><a href="#plant-patents">Plant Patents</a></li>
+<li><a href="#types-of-patents">Types of Patents</a><ul>
+<li><a href="#utility-patent">Utility Patent</a></li>
+<li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
+<li><a href="#design-patents">Design Patents</a></li>
+<li><a href="#plant-patents">Plant Patents</a></li>
 </ul>
-
+</li>
 <li><a href="#hiring-a-patent-lawyer">Hiring a Patent Lawyer</a></li>
 <li><a href="#patent-application-process">Patent Application Process</a></li>
 <li><a href="#patent-lifespan">Patent Lifespan</a></li>
 <li><a href="#patent-ownership">Patent Ownership</a></li>
-<li><a href="#who-are-the-inventors">Who are the “Inventors”?</a></li>
-<li><a href="#prior-art">Prior Art</a></li>
-<ul>
- <li><a href="#novelty">Novelty</a></li>
- <li><a href="#obviousness">Obviousness</a></li>
+<li><a href="#who-are-the-inventors">Who are the "Inventors"?</a></li>
+<li><a href="#patentable-subject-matter">Patentable Subject Matter</a></li>
+<li><a href="#prior-art">Prior Art</a><ul>
+<li><a href="#novelty">Novelty</a></li>
+<li><a href="#obviousness">Obviousness</a><ul>
+<li><a href="#new-use-for-an-existing-product">New Use for an Existing Product</a></li>
+<li><a href="#new-use-for-an-existing-process">New Use for an Existing Process</a></li>
+<li><a href="#using-a-conventional-process-to-make-a-non-obvious-process">Using a Conventional Process to Make a Non-Obvious Process</a></li>
 </ul>
+</li>
 </ul>
+</li>
+<li><a href="#the-mpep-in-jekyll">The MPEP in Jekyll.</a></li>
+</ul>
+</div>
 
 
 # Types of Patents
@@ -115,7 +123,7 @@ The patent lawyer will quickly know whether she is the right lawyer for your inv
 
 **Design Patent Lifespan**. A US design patent lasts for 15 years from the issue date. There are no maintenance fees to pay. 
 
-<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg" class="translucent">
+
 
 - - - 
 
@@ -125,7 +133,6 @@ In general, a patent is initially owned by its "inventor" or "joint inventors." 
 
 The default ownership rules for "joint inventors" can be messy. Fortunately, co-inventors can sidestep the messy default rules by assigning their ownership interests to a company (perhaps a company where they own an equal share of stock).  
 
-<img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">
 
 - - - 
 
@@ -186,4 +193,6 @@ Some important sections are [Obviousness](../mpep/s2141.html), [written descript
 
 - - - 
 
+<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg" class="translucent">
 
+<img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">
