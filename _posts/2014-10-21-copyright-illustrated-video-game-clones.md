@@ -31,7 +31,7 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)</a></li>
 </ul>
 </li>
-<li><a href="#fraternal-twins-is-the-clone-substantially-similar-to-the-original">Fraternal Twins: Is the Clone "Substantially Similar" to the Original?</a><ul>
+<li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games “Substantially Similar”?</a><ul>
 <li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
 <li><a href="#copying-creative-expression-is-infringement-pac-man-v-kc-munchkin-1982">Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)</a></li>
 <li><a href="#porting-is-infringement-galaxian-v-galaxian-1982">Porting is Infringement: Galaxian v. Galaxian (1982)</a></li>
@@ -124,7 +124,7 @@ The judge called the two games "virtually identical" and noted that the dissimil
 <hr class="tall"> 
 
 
-# Fraternal Twins: Is the Clone "Substantially Similar" to the Original? 
+# Fraternal Twins: Are the Games "Substantially Similar"?
 
 For more creative and original games, the question isn't whether the games are identical, it's whether the clone is "substantially similar" to the original. This is where copyright law gets murky. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
