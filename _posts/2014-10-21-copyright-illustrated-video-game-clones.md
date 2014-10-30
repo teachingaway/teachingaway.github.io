@@ -47,7 +47,6 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Trackball Control Not Copyrightable: Golden Tee Golf (2005)</a></li>
 </ul>
 </li>
-<li><a href="#interlude-early-video-game-cases-gave-designers-more-leeway-to-copy-because-primitive-technology-limited-their-design-options">Interlude: Early Video Game Cases Gave Designers More Leeway to Copy Because Primitive Technology Limited their Design Options.</a></li>
 <li><a href="#recent-video-game-copying-cases">Recent Video Game Copying Cases</a><ul>
 <li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
 <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
@@ -334,7 +333,7 @@ Useful articles, like the trackball control, are not copyrightable. A useful art
 
 <hr class="tall">
 
-# Interlude: Early Video Game Cases Gave Designers More Leeway to Copy Because Primitive Technology Limited their Design Options. 
+# Recent Video Game Copying Cases
 
 The technical limitations of early video games systems didn't give game designers many pixels to work with. If one character looked like another, was it because of copying, or just because designers were limited to sprites using only a handful of pixels and colors? In the early days of video games, perhaps spaceships could only be expressed as blocky little triangles. As a result, early designers were given more leeway to copy from previous games. This is related to the "merger doctrine." 
 
@@ -351,7 +350,7 @@ Video game technology has obviously advanced since Mouser, and so we need to be 
 
 <hr class="tall">
 
-# Recent Video Game Copying Cases
+
 
 
 ## Games Can Infringe Movies, But Dead Rising Didn't (2008)
@@ -385,9 +384,11 @@ These basic *ideas* involved in a falling-block puzzle game were not protectable
  > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game.  
 
 
- > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. Thus, I find this to be protectible expression that Xio infringed.
+ > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. 
 
- > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  Xio argues that because garbage lines add a limitation on a player and ghost lines and preview pieces aid the player, they are rules of the game. I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
+Xino also copied the visual cues from Tetris: 
+
+ > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
 
 
 Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like *garbage lines*, *ghost pieces* and *preview pieces*. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
