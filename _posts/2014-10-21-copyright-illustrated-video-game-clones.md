@@ -55,14 +55,13 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 </li>
-<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
-<li><a href="#copyright-registration">Copyright Registration.</a><ul>
-<li><a href="#trademark-registration">Trademark Registration.</a></li>
-<li><a href="#trade-dress">Trade Dress</a></li>
-<li><a href="#patents">Patents</a></li>
-<li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
-</ul>
-</li>
+<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a>
+  <ul>
+  <li><a href="#copyright-registration">Copyright Registration.</a></li>
+  <li><a href="#trademark-registration">Trademark Registration.</a></li>
+  <li><a href="#trade-dress">Trade Dress</a></li>
+  <li><a href="#patents">Patents</a></li>
+  <li><a href="#enforcement-and-public-relations">Enforcement and Public  Relations</a></li>
 </ul>
 </li>
 <li><a href="#copyright-requires-only-a-modicum-of-creativity">Copyright Requires Only a "Modicum of Creativity"</a><ul>
@@ -488,13 +487,13 @@ The copyright infringement analysis is more an art than a science. The line betw
 
 # How to Prepare for the Clones
 
-### Copyright Registration. 
+## Copyright Registration. 
 
 First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). Register several copyrights covering several different aspects of your game, including the code itself and any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
 
 You can even register copyrights before you publish your game, to avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
 
-### Trademark Registration. 
+## Trademark Registration. 
 
 Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
 
@@ -502,13 +501,13 @@ The trademark registration should describe your game play in some detail in its 
 
 We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](http://adlervermillion.com/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
 
-### Trade Dress
+## Trade Dress
 
 A trademark registration for the game's "trade dress" can also be useful. Trade Dress can protects a product's packaging as well as a product's unique-and-non-functional shape or appearance.  Tetris was able to leverage it's trade dress in its case against Mino. However, trade dress is a tricky area of law, and should be approached with caution. 
 
 <img src="/images/trademark/tetris-trade-dress-registration.png" class="translucent">
 
-### Patents
+## Patents
 
 Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. If you pay extra to expedite the filing, a patent can issue in just under 1 year. 
 
@@ -518,7 +517,7 @@ For small mobile games, patents may be too expensive. However, if you are buildi
 
 
 
-### Enforcement and Public Relations
+## Enforcement and Public Relations
 
 While clones can be infuriating, it's important to remember that aggressive legal tactics can backfire. Consider a public relations campaign before, or in tandem with, any legal action. A carefully worded copyright infringement letter from a lawyer can be powerful, especially when it makes you look like the reasonable party. The letter should accurately describe the law and similarities between the games, and politely (but firmly) demand that the clone be removed from the app store. 
 
