@@ -24,39 +24,52 @@ share: true
 Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger knee' would just be borrowing inspiration. In 2012, one court decided that copying the size of the Tetris game board (10x20) was infringement, and then four months later, a different court decided that copying the size of the Triple Town game board (6x6) was allowed. Copyright infringement cases can seem arbitrary, but looking at a few examples will help sort out the madness. 
 
 
-<ul class="toc">
-<p><strong>Contents</strong></p>
-<li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a></li>
+<div class="toc">
 <ul>
- <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
- <li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">Hi Lo Double Up Joker Poker (1986)</a></li>
+<li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a><ul>
+<li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
+<li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)</a></li>
 </ul>
-
-<li><a href="#fraternal-twins-is-the-clone-substantially-similar-to-the-original">Fraternal Twins: Is the Clone “Substantially Similar” to the Original?</a></li>
-<ul>
- <li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
- <li><a href="#copying-creative-expression-is-infringement-pac-man-v-kc-munchkin-1982">Copying Creative Expression is Infringement: KC Munchkin (1982)</a></li>
- <li><a href="#porting-is-infringement-galaxian-v-galaxian-1982">Porting is Infringement: Galaxian v. Galaxian (1982)</a></li>
- <li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a></li>
- <li><a href="#no-infringement-tricky-trapper-v-mouser-1987">No Infringement: Tricky Trapper v. Mouser (1987)</a></li>
+</li>
+<li><a href="#fraternal-twins-is-the-clone-substantially-similar-to-the-original">Fraternal Twins: Is the Clone "Substantially Similar" to the Original?</a><ul>
+<li><a href="#copying-ideas-is-not-infringement-asteroids-v-meteors-1981">Copying Ideas is Not Infringement: Asteroids v. Meteors (1981)</a></li>
+<li><a href="#copying-creative-expression-is-infringement-pac-man-v-kc-munchkin-1982">Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)</a></li>
+<li><a href="#porting-is-infringement-galaxian-v-galaxian-1982">Porting is Infringement: Galaxian v. Galaxian (1982)</a></li>
+<li><a href="#no-infringement-hyperball-v-rapid-fire-1983">No Infringement: Hyperball v. Rapid Fire (1983)</a><ul>
+<li><a href="#no-infringement-tricky-trapper-v-mouser-1987">No Infringement: Tricky Trapper v. Mouser (1987)</a></li>
 </ul>
-
-<li><a href="#sports-games">Sports Games</a></li>
-<ul> 
- <li><a href="#no-infringement-of-karate-champ-1988">Karate Champ (1988)</a></li>
- <li><a href="#no-infringement-of-street-fighter-ii-1994">Street Fighter II (1994)</a></li>
- <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Golden Tee Golf (2005)</a></li>
+</li>
 </ul>
-
-<li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn’t (2008)</a></li>
+</li>
+<li><a href="#sports-games">Sports Games</a><ul>
+<li><a href="#no-infringement-of-karate-champ-1988">No Infringement of Karate Champ (1988)</a></li>
+<li><a href="#no-infringement-of-street-fighter-ii-1994">No Infringement of Street Fighter II (1994)</a></li>
+<li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Trackball Control Not Copyrightable: Golden Tee Golf (2005)</a></li>
+<li><a href="#interlude-early-video-game-cases-gave-designers-more-leeway-to-copy-because-primitive-technology-limited-their-design-options">Interlude: Early Video Game Cases Gave Designers More Leeway to Copy Because Primitive Technology Limited their Design Options.</a></li>
+<li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
 <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
-<li><a href="#infringement-in-triple-town-v-yeti-town-2012">Triple Town v. Yeti Town (2012)</a></li>
-<li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Game Mechanics are Copyrightable (2014)</a></li>
-
-<li><a href="#conclusion">Conclusion </a></li>
-
-<li><a href="#how-to-prepare-for-the-clones"><strong>How to Prevent Cloning</strong></a></li>
+<li><a href="#infringement-in-triple-town-v-yeti-town-2012">Infringement in Triple Town v. Yeti Town (2012)</a></li>
+<li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Role Playing Card Game Copyrightable (2014)</a></li>
+<li><a href="#conclusion">Conclusion</a></li>
 </ul>
+</li>
+<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
+<li><a href="#copyright-registration">Copyright Registration.</a><ul>
+<li><a href="#trademark-registration">Trademark Registration.</a></li>
+<li><a href="#trade-dress">Trade Dress</a></li>
+<li><a href="#patents">Patents</a></li>
+<li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#copyright-requires-only-a-modicum-of-creativity">Copyright Requires Only a "Modicum of Creativity"</a><ul>
+<li><a href="#even-simple-video-games-are-copyrightable-breakout-1992">Even Simple Video Games are Copyrightable: Breakout (1992)</a></li>
+<li><a href="#no-infringement-sharpshooter-v-police-trainer-2">No Infringement: Sharpshooter v. Police Trainer 2</a></li>
+</ul>
+</li>
+</ul>
+</div>
 
 
 
@@ -326,9 +339,12 @@ The technical limitations of early video games systems didn't give game designer
 
  > "Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
 
-The judge was basically saying that because video game technology was so crappy back then, changing just a few pixels would be enough to avoid copyright infringement. 
+The Tricky Trapper judge was giving the defendant some leeway in copying, because some degree of similarity was probably due to the constraints of limited video game technology in the 1980s. At the time, changing just a few pixels would be enough to avoid copyright infringement. 
 
-Video game technology has obviously advanced since Mouser, and so we need to be careful when relying on old video game cases.  With so many more design options available, any similarities between games should be viewed with greater suspicion. 
+Video game technology has obviously advanced since Mouser, and so we need to be careful when relying on old video game cases.  With so many more design options available, any similarities between games should be viewed with greater suspicion. The 2012 case of Tetris v. Mino started to acknowledge the effect of more advanced videogame technology on copying: 
+
+ > Tellingly, the court noted that its holding was in part mandated by the limited abilities of computers in 1988: "Furthermore, the use of the Commodore computer for a karate game intended for home consumption is subject to various constraints inherent in the use of that computer. Among the constraints are the use of sprites, and a somewhat limited access to color, together with limitations upon the use of multiple colors in one visual image." [*Tetris v. Xio Interactive* (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+
 
 <hr class="tall">
 
@@ -359,13 +375,19 @@ Here's how the Judge identified the unprotectable *idea* of Tetris:
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. 
 
-These basic *ideas* involved in a falling-block puzzle game were not protectable. However, the *creative expression* of those ideas as Tetris was protectable. The selection of the 7 basic Tetris shapes was protectable expression. The style of the pieces and the way they move through space was protectable creative expression: 
+These basic *ideas* involved in a falling-block puzzle game were not protectable. But the *creative expression* of those ideas as Tetris was. The selection of the 7 basic Tetris shapes was protectable expression. The style of the pieces and the way they move through space was protectable creative expression: 
 
  > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game.  
 
-Since Mino copied the exact same 7 Tetris shapes, the same board dimensions (10 x 20) and the way the shapes moved through the board, it infringed the Tetris copyright. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
-**Takeaway**: Copyright infringement law is not easy. Desiree Golden seems like a smart young woman who did good research, and still got it wrong.  
+ > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. Thus, I find this to be protectible expression that Xio infringed.
+
+ > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  Xio argues that because garbage lines add a limitation on a player and ghost lines and preview pieces aid the player, they are rules of the game. I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
+
+
+Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like *garbage lines*, *ghost pieces* and *preview pieces*. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+
+**Takeaway**: Copyright infringement law is not easy. Desiree Golden seems like a smart young woman who did some pretty careful copyright research and still came to the wrong conclusion about how much she could copy from Tetris.  
 
 <hr class="tall">
 

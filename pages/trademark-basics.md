@@ -125,7 +125,7 @@ Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii)](/tmep/
 
 Trade dress is considered "functional", and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [MPEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
 
-
+<img src="/images/trademark/coke-bottle-design-mark-1977.png" class="translucent">
 
 
 
