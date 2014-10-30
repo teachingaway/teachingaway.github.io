@@ -210,6 +210,8 @@ We litigate patent disputes in federal court in the Southern District of NY (Man
 
 ## Patent Enforcement in Federal Court
 
+If you believe a competitor is infringing your patent, we can help investigate the status of your patent and the competitor's infringing technology. After careful due diligence, we can send a demand letter and negotiate a license deal or settlement agreement. If that fails, we litigate patent disputes in federal court. 
+
 - - - 
 
 ## Patent Troll Defense in Federal Court
