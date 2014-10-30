@@ -17,13 +17,15 @@ share:
 <div class="toc">
 <p>Table of Contents</p>
 <ul>
-<li><a href="#utility-patent-applications">Utility Patent Applications</a><ul>
+<li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
+<li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
 <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
-</ul>
-</li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
 <li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
+<li><a href="#national-stage-us-patent-prosecution">National Stage U.S. Patent Prosecution</a></li>
+</ul>
+</li>
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
 <li><a href="#patent-opinions">Patent Opinions</a><ul>
 <li><a href="#patentability-opinions">Patentability Opinions</a></li>
@@ -32,17 +34,23 @@ share:
 </ul>
 </li>
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
-<li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: "Ex Parte Appeals"</a></li>
-<li><a href="#invalidating-competitors-patents-covered-business-method-review">Invalidating Competitor's Patents: Covered Business Method Review</a></li>
-<li><a href="#invalidating-competitors-patents-inter-partes-review">Invalidating Competitor's Patents: Inter Partes Review</a></li>
+<li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
+<li><a href="#invalidating-patents-covered-business-method-review-inter-partes-review">Invalidating Patents: Covered Business Method Review &amp; Inter Partes Review</a></li>
 </ul>
 </li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
-<li><a href="#patent-litigation">Patent Litigation</a></li>
+<li><a href="#patent-portfolio-management">Patent Portfolio Management</a></li>
+<li><a href="#patent-litigation">Patent Litigation</a><ul>
+<li><a href="#patent-enforcement-in-federal-court">Patent Enforcement in Federal Court</a></li>
+<li><a href="#patent-troll-defense-in-federal-court">Patent Troll Defense in Federal Court</a></li>
+</ul>
+</li>
 </ul>
 </div>
 
-# Utility Patent Applications
+# Patent Applications and Patent Prosecution 
+
+## Utility Patent Applications
 
 A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. A small portfolio of related patents can be a potent business tool. Here are some ballpark cost estimates to prepare and file utility patent applications
 
@@ -61,21 +69,30 @@ When time is of the essence, we can press the US Patent Office to move faster (f
 
 A "Prioritized Examination" expedites the patent process to about 1 year. While a prioritized application requires the inventor to abide by certain limitations, they are not particularly onerous, especially if speed is critical. The additional "small entity" filing fee is generally $2,000 (reduced to $1,000 for "micro-entities").  
 
+Starting the patent process with a "PCT" application can also expedite the process. Patent Cooperation Treaty ("PCT") refers to a type of international patent process that tends to move much faster than a straight US utility patent. The first reply to a PCT application tends to come in 3 or 4 months, as opposed to 15-18 months for a straight US Utility patent. A positive PCT response (called a "search report") is a particularly useful tool for early stage companies raising venture capital.  
+
+
 <img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
 
 - - - 
 
-# Provisional Patent Applications
+## Provisional Patent Applications
 
-A provisional patent application is a temporary patent application that nails down a filing date at the Patent Office. If an inventor files a full utility patent application within 1 year after the provisional, the later full application will be treated as though it was filed on the date of the earlier provisional application. 
+A provisional patent application is a temporary patent application that nails down an early "filing date" at the Patent Office. If an inventor files a full non-provisional utility patent application within 1 year after the provisional, the later full application will be treated as though filed on the provisional's earlier date. 
 
-There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
+Provisional applications provide several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay a portion of the legal costs for a year, and use this year to test the market for the new technology. Provisionals are not public, and will only be published if they are used to support a utility patent application. 
 
+**Thorough Provisionals.** We recommend filing thorough provisional patent applications. A thoroughly drafted provisional will not require major modification at the full non-utility patent stage. This reduces the cost of the non-provisional, and also reduces the risk that the provisional will be "non-enabling." The cost for a thorough provisional application tends to be about 75% of filing the full non-provisional utility patent application. 
+
+**Shortform Provisional**. For about $2,000, we can take your invention disclosure, make some basic edits and adjustments, and file it as a provisional patent application. 
+
+**Unedited Provisional**. For about $1,000, we can file your invention disclosure as a provisional patent application. This does not include any editing or review of the technology disclosure. Although this can be a cost-efficient mechanism for securing an early "filing date", there is a substantial risk that an unedited provisional application will be "non-enabling" when it comes time to file the full non-provisional utility patent application. 
+ 
 <img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
 - - - 
 
-# Design Patent Applications
+## Design Patent Applications
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
@@ -86,7 +103,15 @@ Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in 
 
 <hr class="tall">
 
-# International and "PCT" Patent Applications
+## International and "PCT" Patent Applications
+
+The PCT process involves slightly higher up-front costs, but speeds up the patent process and reduces long run patent management costs. 
+
+PCT applications tend to move faster than US utility patent applications. Once filed, a PCT examiner issues a "search report" in about 3-4 months. If the PCT examiner doesn't find any problematic prior art, the search report can be taken to various national patent offices (including the USPTO), where the PCT report will be highly persuasive, and the patent application often approved without further argument from the national-stage patent examiner. 
+
+Foreign patent filings can be expensive. Ballpark around $5,000 per application per country. The "Patent Cooperation Treaty" or PCT is a cost effective system for *starting* the international patent process, and delaying some of the "national stage" (per country) fees for up to 30 months. 
+
+
 
 <img src="/images/patent-drawings/camera-fassin-1948.png" class="translucent">
 
@@ -150,7 +175,13 @@ We review patent portfolios for Venture Capital Funds and small M&A deals.
 
 <hr class="tall">
 
+# Patent Portfolio Management
 
+We can help optimize patent portfolios, review deadlines, pay maintenance fees, and ensure that proper assignment and ownership documents have been filed at the USPTO. 
+
+To improve cost efficiency, we can help review old patents and trim away intellectual property that is no longer aligned with business goals. This can  substantially reduce maintenance fees and management costs. 
+
+<hr class="tall">
 
 # Patent Litigation
 
