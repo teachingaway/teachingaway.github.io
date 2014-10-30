@@ -47,14 +47,15 @@ Copying Chun Li's 'head stomp' would be stealing, but copying Sagat’s 'tiger k
 <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Trackball Control Not Copyrightable: Golden Tee Golf (2005)</a></li>
 </ul>
 </li>
-<li><a href="#recent-video-game-copying-cases">Recent Video Game Copying Cases</a><ul>
-<li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
-<li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
-<li><a href="#infringement-in-triple-town-v-yeti-town-2012">Infringement in Triple Town v. Yeti Town (2012)</a></li>
-<li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Role Playing Card Game Copyrightable (2014)</a></li>
-<li><a href="#conclusion">Conclusion</a></li>
+<li><a href="#recent-video-game-copying-cases">Recent Video Game Copying Cases</a>
+<ul>
+  <li><a href="#games-can-infringe-movies-but-dead-rising-didnt-2008">Games Can Infringe Movies, But Dead Rising Didn't (2008)</a></li>
+  <li><a href="#tetris-infringed-by-mino-2012">Tetris Infringed by Mino (2012)</a></li>
+  <li><a href="#infringement-in-triple-town-v-yeti-town-2012">Infringement in Triple Town v. Yeti Town (2012)</a></li>
+  <li><a href="#bang-role-playing-card-game-copyrightable-2014">Bang! Role Playing Card Game Copyrightable (2014)</a></li>
 </ul>
 </li>
+<li><a href="#conclusion">Conclusion</a></li>
 <li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a>
   <ul>
   <li><a href="#copyright-registration">Copyright Registration.</a></li>
@@ -457,7 +458,7 @@ The case is ongoing (as of October 2014), so we will keep watching.
 
 - - - 
 
-## Conclusion
+# Conclusion
 
 Video game copyright cases turn on whether the clone copied "ideas" (tolerated) or "creative" elements (verboten). Before looking for similarities between the clone and the original, we need to mentally "filter out" the unprotectable game elements using several different techniques: 
 
