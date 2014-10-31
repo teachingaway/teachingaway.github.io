@@ -382,7 +382,7 @@ These basic *ideas* about a falling-block puzzle game were not protectable, but 
 
  > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. 
 
-The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris." This seems wrong to me. There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). "Selecting" all 7 seems more like *idea* than *expression*. Imagine a falling puzzle game with trominos or pentominos. Sure its possible, but would you really want to play it? 
+The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris." This seems wrong to me. There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). Selecting all of them seems more like *idea* than *expression*. Imagine a falling puzzle game with trominos (left) or pentominos (right). Sure it's possible, but would you really want to play it? 
 
 <img src="/images/copyright/tetris-trominos-and-pentominos.png" class="translucent">
 
@@ -442,13 +442,12 @@ The Bang! characters and capabilities were also copyrightable:
 
  > Given the similarities between the attributes of the characters in Bang! and in LOTK, a reasonable factfinder could conclude that the characters of the two games are substantially similar despite the transposition and translation from the Wild-West theme of Bang! to the ancient China theme of LOTK.
 
-The judge contrasted the fictional Bang! game with the realistic golf simulation case. If two golf simulation games are similar, its probably because both games are copying from the sport of golf. If two fictional role playing games are similar, the second may have copied from the first: 
+The judge contrasted the fictional Bang! game with the realistic golf simulation case: 
 
  > There is a limited number of ways for the game designer to show a golfer, a course, a swing, and the ultimate goal: putting the ball in the hole. Such limits do not apply to role-playing games like Bang!. There are nearly infinite ways of expressing the concepts of player elimination or a contest between authorities and their opponents. Instead of choosing a different manner of expressing these concepts, the defendants copied into LOTK protectable elements of DaVinci's original and creative expression in Bang!
  
-For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082).
+For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." Since the plaintiff's copyright claims were plausible, and so they survived the preliminary motion to dismiss and the case goes on. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082). 
 
-The case is ongoing (as of October 2014), so we will keep watching.
 
 - - - 
 
@@ -496,9 +495,9 @@ You can even register copyrights before you publish your game, to avoid a  [Ridi
 
 Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
 
-The trademark registration should describe your game play in some detail in its "description of goods and services." A similar-sounding name along side an exact match of the goods and services can be powerful clone deterrent. 
+The trademark registration should describe your game play in some detail in its "description of goods and services." If a clone uses a similar-sounding name along side an exact match of the goods and services, you will likely have a strong case for trademark infringement. 
 
-We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](http://adlervermillion.com/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
+We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
 
 ## Trade Dress
 
@@ -512,9 +511,9 @@ Patents are the most expensive option, but provide the most valuable protection.
 
 For small mobile games, patents may be too expensive. However, if you are building a truly new and innovative game, a small patent portfolio may still be a worthwhile investment. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
 
-<img src="/images/patent-drawings/pong-patent-1972.png">
+<img src="/images/patent-drawings/pong-patent-1972.png" class="translucent">
 
-<img src="/images/patent-drawings/monopoly-patent-darrow-1935.png">
+<img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent">
 
 
 ## Enforcement and Public Relations
