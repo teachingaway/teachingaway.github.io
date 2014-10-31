@@ -384,7 +384,7 @@ These basic *ideas* about a falling-block puzzle game were not protectable, but 
 
 The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris." This seems wrong to me. There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). "Selecting" all 7 seems more like *idea* than *expression*. Imagine a falling puzzle game with trominos or pentominos. Sure its possible, but would you really want to play it? 
 
-<img src="/images/copyright/tetris-trominos-and-pentominos.png" class="transparent">
+<img src="/images/copyright/tetris-trominos-and-pentominos.png" class="translucent">
 
 More persuasively, the judge decided that the Tetris visual cues were creative expression: 
 
@@ -393,7 +393,7 @@ More persuasively, the judge decided that the Tetris visual cues were creative e
 
 Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like *garbage lines*, *ghost pieces* and *preview pieces*. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
-**Takeaway**: Copyright infringement law is not easy. Desiree Golden seems like a smart young woman who did some pretty careful copyright research and still came to the wrong conclusion about how much she could copy from Tetris.  
+**Takeaway**: Copyright infringement law is not easy. Even careful developers can get it wrong, and reasonable people can disagree about where to draw the line between idea and expression. 
 
 <hr class="tall">
 
