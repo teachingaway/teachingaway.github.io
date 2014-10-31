@@ -376,14 +376,17 @@ Here's how the judge identified the unprotectable *idea* of Tetris:
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. 
 
-These basic *ideas* involved in a falling-block puzzle game were not protectable. But the *creative expression* of those ideas as Tetris was. The selection of the 7 basic Tetris shapes was protectable expression. The style of the pieces and the way they move through space was protectable creative expression: 
+These basic *ideas* about a falling-block puzzle game were not protectable, but the *creative expression* of these ideas as Tetris was. 
 
  > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game.  
 
-
  > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. 
 
-Xino also copied the visual cues from Tetris: 
+The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris." This seems wrong to me. There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). "Selecting" all 7 seems more like *idea* than *expression*. Imagine a falling puzzle game with trominos or pentominos. Sure its possible, but would you really want to play it? 
+
+<img src="/images/copyright/tetris-trominos-and-pentominos.png" class="transparent">
+
+More persuasively, the judge decided that the Tetris visual cues were creative expression: 
 
  > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
 

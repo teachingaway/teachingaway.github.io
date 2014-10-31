@@ -44,7 +44,7 @@ This section briefly covers Utility Patents, Provisional Patent Applications, De
 
 ## Utility Patent
 
-A US utility patent secures the right to prevent other people from making, selling or importing a *new and useful technology* in the United States for a period of 20 years after the application date. It is the right to prevent other people from selling the technology, but it does not guarantee that the patent holder herself has the rights to sell the technology.   
+A US utility patent grants the right to prevent other people from making, selling or importing a *new and useful technology* in the United States for a period of 20 years after the application date. It is the right to *exclude* only. That is, it grants the right to prevent others from selling the technology, but it does *not* guarantee that the patent holder herself has the rights to sell the technology.   
 
 Patents are national rights. A US patent does not automatically grant rights in any other countries. 
 
