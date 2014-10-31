@@ -65,11 +65,6 @@ The Leahy-Smith America Invents Act (AIA) establishes several new trial proceedi
 <li class="level_2"><a href="#h-60">APPENDIX D: Testimony Guidelines</a></li>
 </ul>
 
-<p>Table of Tables</p>
-<ul>
- <li><a href="#t-1">Due Date Appendix</a></li>
- <li><a href="#t-2">Due Date Appendix</a></li>
-</ul>
 </div  > <!-- End APPENDIX Table of Contents Div -->
  
  <span class="printed_page" id="page-48756" data-page="48756"> </span>
@@ -418,8 +413,7 @@ The Leahy-Smith America Invents Act (AIA) establishes several new trial proceedi
 
 <p id="p-209" data-page="48769">A motion for observation on cross-examination provides the petitioner with a mechanism to draw the Board's attention to relevant cross-examination testimony of a reply witness, since no further substantive paper is permitted after the reply. The observation must be a concise statement of the relevance of the precisely identified testimony to a precisely identified argument or portion of an exhibit. Each observation should not exceed a single, short paragraph. The patent owner may respond to the observation. Any response must be equally concise and specific.</p>
  <div class="table_wrapper"><table>
-<caption class="table_title" id="t-1">Due Date Appendix <a href="#table_of_tables" class="back_to_table_index">Back to Top</a>
-</caption>
+<caption class="table_title" id="t-1">Due Date Appendix</caption>
 <tbody>
 <tr>
  <td class="">DUE DATE 1:</td>
@@ -539,8 +533,7 @@ The Leahy-Smith America Invents Act (AIA) establishes several new trial proceedi
 
 <p id="p-226" data-page="48769">A motion for observation on cross-examination provides the petitioner with a mechanism to draw the Board's attention to relevant cross-examination testimony of a reply witness, since no further substantive paper is permitted after the reply. The observation must be a concise statement of the relevance of the precisely identified testimony to a precisely identified argument or portion of an exhibit. Each observation should not exceed a single, short paragraph. The patent owner may respond to the observation. Any response must be equally concise and specific.</p>
  <div class="table_wrapper"><table>
-<caption class="table_title" id="t-2">Due Date Appendix <a href="#table_of_tables" class="back_to_table_index">Back to Top</a>
-</caption>
+<caption class="table_title" id="t-2">Due Date Appendix</caption>
 <tbody>
 <tr>
  <td class="">DUE DATE 1:</td>

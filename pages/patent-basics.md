@@ -132,18 +132,18 @@ The default ownership rules for "joint inventors" can be messy. Fortunately, co-
 
 # Who are the "Inventors"?  
 
-If a team of scientists and engineers work on a project, are they all inventors? Since the inventors are the initial owners of a patent, understanding the definition of an "inventor" is critical. “The threshold question in determining inventorship is who conceived the invention. Unless a person contributes to the *conception* of the invention, he is not an inventor." [MPEP 2137.01(II)](mpep/s2137.html#d0e206713). 
+If a team of scientists and engineers work on a project, are they all inventors? Since the inventors are the initial owners of a patent, understanding the definition of an "inventor" is critical. “The threshold question in determining inventorship is who conceived the invention. Unless a person contributes to the *conception* of the invention, he is not an inventor." [MPEP 2137.01(II)](/mpep/s2137.html#d0e206713). 
 
-An inventor can consider ideas and materials from many sources, such as a suggestion from colleagues or consultants, "so long as he maintains intellectual domination of the work of making the invention down to the successful testing, selecting or rejecting as he goes, even if such suggestion or material proves to be the key that unlocks his problem.” [MPEP 2137.01(III)](mpep/s2137.html#d0e206713). 
+An inventor can consider ideas and materials from many sources, such as a suggestion from colleagues or consultants, "so long as he maintains intellectual domination of the work of making the invention down to the successful testing, selecting or rejecting as he goes, even if such suggestion or material proves to be the key that unlocks his problem.” [MPEP 2137.01(III)](/mpep/s2137.html#d0e206713). 
 
 Members of a team who merely follow directions from an inventor are not themselves inventors. They may only become inventors if they contribute to the 
-conception of the invention, such as the physical structure or operative steps. Likewise, the inventor does not need to get her hands dirty in the lab to maintain her "inventor" status. She can merely conceive an idea, and then direct underlings to conduct experiments or build prototypes.  *In re DeBaun*, 687 F.2d 459, 463 (CCPA 1982)(“there is no requirement that the inventor be the one to reduce the invention to practice so long as the reduction to practice was done on his behalf”). [MPEP 2137.01(IV)](mpep/s2137.html#d0e206713).
+conception of the invention, such as the physical structure or operative steps. Likewise, the inventor does not need to get her hands dirty in the lab to maintain her "inventor" status. She can merely conceive an idea, and then direct underlings to conduct experiments or build prototypes.  *In re DeBaun*, 687 F.2d 459, 463 (CCPA 1982)(“there is no requirement that the inventor be the one to reduce the invention to practice so long as the reduction to practice was done on his behalf”). [MPEP 2137.01(IV)](/mpep/s2137.html#d0e206713).
 
 - - - 
 
 # Patentable Subject Matter
 
-Patents are only issued to people who invent a "new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof..." 35 USC 101. [MPEP 2104](mpep/s2104.html). 
+Patents are only issued to people who invent a "new and useful process, machine, manufacture, or composition of matter, or any new and useful improvement thereof..." 35 USC 101. [MPEP 2104](/mpep/s2104.html). 
 
 
 - - - 
@@ -167,15 +167,16 @@ Prior art generally refers to a "printed publication" describing the technology 
 
 ### New Use for an Existing Product
 
-In general, a new use for an existing product is not patentable. In limited circumstances, a new use for an existing structure based on newly discovered  properties of the structure might be patentable as a process of use. [MPEP 2112](/mpep/s2112.html/#d0e201422)
+In general, a new use for an existing product is not patentable. In limited circumstances, a new use for an existing structure based on newly discovered  properties of the structure might be patentable as a process of use. [MPEP 2112](/mpep/s2112.html/#d0e201422). 
 
 ### New Use for an Existing Process
 
-A new use for an existing process can be patented, but the prosecution may be difficult, and the resulting patent likely to provide narrow protections. 
+A new use for an existing process can be patented, but the prosecution may be difficult, and the resulting patent likely to provide only narrow protections. 
+[MPEP 2112.02](/mpep/s2112.html/#d0e201360). 
 
-### Using a Conventional Process to Make a Non-Obvious Process
+### Using a Conventional Process to Make a Non-Obvious Product
 
-There is no per se rule here. Sometimes a conventional process can be patented if it is limited to making or using a nonobvious product. The test for obviousness under 35 U.S.C. 103 requires a highly fact-dependent analysis involving taking the claimed subject matter as a whole and comparing it to the prior art. “A process yielding a novel and nonobvious product may nonetheless be obvious; conversely, a process yielding a well-known product may yet be nonobvious.” [MPEP 2116](mpep/s2116.html#d0e201660)(citing, *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.*, 336 F.3d 1322, 1327 (Fed. Cir. 2003).
+There is no per se rule here. Sometimes a conventional process can be patented if it is limited to making or using a nonobvious product. The test for obviousness under 35 U.S.C. 103 requires a highly fact-dependent analysis involving taking the claimed subject matter as a whole and comparing it to the prior art. “A process yielding a novel and nonobvious product may nonetheless be obvious; conversely, a process yielding a well-known product may yet be nonobvious.” [MPEP 2116](/mpep/s2116.html#d0e201660) (citing, *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.*, 336 F.3d 1322, 1327 (Fed. Cir. 2003).
 
 - - -  
 

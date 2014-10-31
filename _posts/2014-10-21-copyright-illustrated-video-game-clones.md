@@ -366,7 +366,7 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 <img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
 
-Soon after college, Desiree Golden started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
+Desiree Golden, just out of college, started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
 
  > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
 
@@ -445,7 +445,7 @@ The judge contrasted the fictional Bang! game with the realistic golf simulation
 
  > There is a limited number of ways for the game designer to show a golfer, a course, a swing, and the ultimate goal: putting the ball in the hole. Such limits do not apply to role-playing games like Bang!. There are nearly infinite ways of expressing the concepts of player elimination or a contest between authorities and their opponents. Instead of choosing a different manner of expressing these concepts, the defendants copied into LOTK protectable elements of DaVinci's original and creative expression in Bang!
  
-For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082)
+For context, this is a very early decision in the case. The judge isn't answering the question of whether there is copyright infringement. He is answering the question of whether the plaintiff's copyright claims are *so weak* they can be thrown out on a preliminary "motion to dismiss." The answer was that the copyright claims were plausible, and so they survived the preliminary motion to dismiss. [*Da Vinci v. Ziko Games* (SD Texas 2014)](http://scholar.google.com/scholar_case?case=5597788239119337082).
 
 The case is ongoing (as of October 2014), so we will keep watching.
 
@@ -513,6 +513,7 @@ For small mobile games, patents may be too expensive. However, if you are buildi
 
 <img src="/images/patent-drawings/pong-patent-1972.png">
 
+<img src="/images/patent-drawings/monopoly-patent-darrow-1935.png">
 
 
 ## Enforcement and Public Relations
