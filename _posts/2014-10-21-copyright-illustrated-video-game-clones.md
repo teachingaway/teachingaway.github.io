@@ -391,7 +391,7 @@ More persuasively, the judge decided that the Tetris visual cues were creative e
  > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
 
 
-Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like *garbage lines*, *ghost pieces* and *preview pieces*. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like garbage lines, ghost pieces and preview pieces. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
 **Takeaway**: Copyright infringement law is not easy. Even careful developers can get it wrong, and reasonable people can disagree about where to draw the line between idea and expression. 
 
@@ -406,21 +406,19 @@ Spry Fox made Triple Town (left), LolApp made Yeti Town (right). Spry Fox notice
 
 > The idea underlying Triple Town is that of a hierarchical matching game, one in which players create objects that are higher in the hierarchy by matching three objects that are lower in the hierarchy. Frustrating the player’s efforts are antagonist objects; aiding the player are objects that destroy unwanted or ill-placed objects. Spry Fox’s copyright gives it no monopoly over this idea. 
 
-In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. The use of points and “coins” to reward a player’s progress is standard. The display of visual game tips in the margins of the game screen is also standard. Finally, the notion of an in-game marketplace where the player can redeem coins for game advantages is standard.
+In addition to the unprotectable idea, Triple Town used some unprotectable *scènes à faire*. This included using points and coins to reward progress, visual game tips in the margins, and incorporating an in-game marketplace for buying upgrades. This is all standard video game fare, not copyrightable expression. The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." 
 
-The court also filtered out unprotectable game mechanics. Using a six-by-six game grid is not an expressive choice. "A grid that is too small would make the game trivial; a grid that  is too large would make it pointless." Similarly, the pricing structure in Triple Town’s marketplace, along with its strategic limits on how many advantages a player can purchase, are functional considerations. 
-
-Looking at the remaining protectable game elements, the court decided they were probably infringing. 
+Looking at the remaining protectable game elements, the court decided they were probably infringing:
 
  > In Triple Town, the antagonist is a bear. In Yeti Town, the antagonist is a yeti... bears and yetis are both wild creatures....
  
  > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s.
  
-The judge also defers to the opinion of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
+The judge also weighs to the wisdom of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
 
 In any event, this case was settled before a final decision was reached. The settlement details are confidential, but Yeti Town is no longer available in the app store. 
 
-**Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, video game bloggers can apparently make a difference in copyright cases. 
+**Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, some judges will listen to video game bloggers? 
 
 <hr class="tall">
 
