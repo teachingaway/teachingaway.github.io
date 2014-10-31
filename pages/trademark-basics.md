@@ -117,13 +117,13 @@ Product configuration - the shape of a product itself - is more difficult to reg
 The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
 
 
-Product *packaging* can be inherently distinctive.  [MPEP 1202.02(b)(ii)](/tmep/tmep-1200.html#TMEP-1200d1e1424). That is, a peculiar or non-standard package design can satisfy the distinctiveness requirements without any evidence of brand recognition. For example, the overall shape of the Scope "outlast" a mouthwash container with a cap was inherently distinctive. *In re Procter & Gamble Co.*, 105 USPQ.2d 1119 (TTAB 2012).  
+Product *packaging* can be inherently distinctive.  [TMEP 1202.02(b)(ii)](/tmep/tmep-1200.html#TMEP-1200d1e1424). That is, a peculiar or non-standard package design can satisfy the distinctiveness requirements without any evidence of brand recognition. For example, the overall shape of the Scope "outlast" a mouthwash container with a cap was inherently distinctive. *In re Procter & Gamble Co.*, 105 USPQ.2d 1119 (TTAB 2012).  
 
 <img src="/images/trademark/scope-outlast-trade-dress.jpg" class="translucent">
 
 ### Trade Dress Must be Non-Functional
 
-Trade dress is considered "functional", and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [MPEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
+Trade dress is considered "functional", and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [TMEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
 
 <img src="/images/trademark/coke-bottle-design-mark-1977.png" class="translucent">
 

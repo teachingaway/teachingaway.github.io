@@ -370,9 +370,9 @@ Desiree Golden, just out of college, started a video game company called Xio Int
 
  > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
 
-She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to draw the line between the "idea" of Tetris and its protectable creative expression, she gave herself too much leeway to copy from the original game. 
+She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to separate the unprotectable *idea* of Tetris and its protectable creative expression, she gave herself too much leeway to copy. 
 
-Here's how the Judge identified the unprotectable *idea* of Tetris: 
+Here's how the judge identified the unprotectable *idea* of Tetris: 
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. 
 

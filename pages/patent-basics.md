@@ -162,6 +162,10 @@ Prior art generally refers to a "printed publication" describing the technology 
 
 ## Obviousness
 
+<img src="/images/patent-drawings/graham-v-john-deere-patent-clamp-for-vibrating-shank.png">
+
+([Graham Patent from *Graham v. John Deere*, 383 US 1 (1966)](http://scholar.google.com/scholar_case?case=9105652591497305710).)
+
 
 - - - 
 
@@ -176,7 +180,7 @@ A new use for an existing process can be patented, but the prosecution may be di
 
 ### Using a Conventional Process to Make a Non-Obvious Product
 
-There is no per se rule here. Sometimes a conventional process can be patented if it is limited to making or using a nonobvious product. The test for obviousness under 35 U.S.C. 103 requires a highly fact-dependent analysis involving taking the claimed subject matter as a whole and comparing it to the prior art. “A process yielding a novel and nonobvious product may nonetheless be obvious; conversely, a process yielding a well-known product may yet be nonobvious.” [MPEP 2116](/mpep/s2116.html#d0e201660) (citing, *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.*, 336 F.3d 1322, 1327 (Fed. Cir. 2003).
+There is no *per se* rule here. Sometimes a conventional process can be patented if it is limited to making or using a nonobvious product. The test for obviousness under 35 U.S.C. 103 requires a highly fact-dependent analysis involving taking the claimed subject matter as a whole and comparing it to the prior art. “A process yielding a novel and nonobvious product may nonetheless be obvious; conversely, a process yielding a well-known product may yet be nonobvious.” [MPEP 2116](/mpep/s2116.html#d0e201660) (citing, *TorPharm, Inc. v. Ranbaxy Pharmaceuticals, Inc.*, 336 F.3d 1322, 1327 (Fed. Cir. 2003).
 
 - - -  
 
