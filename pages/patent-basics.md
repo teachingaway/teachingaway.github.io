@@ -155,16 +155,23 @@ Prior art generally refers to a "printed publication" describing the technology 
 
 - - - 
 
-## Novelty 
+## Novelty and Anticipation
+
+Patents must be novel. That is, the technology must not have been precisely described in any prior art. [MPEP 2141](/mpep/s2141.html). Stated differently, a patent claim is anticipated if a single piece of prior art describes "every element" of the claim.
+
+This is usually an easy question to answer. However, novelty alone is not enough for a patent. The technology must also be "non-obviousness." 
 
 
 - - - 
 
 ## Obviousness
 
-<img src="/images/patent-drawings/graham-v-john-deere-patent-clamp-for-vibrating-shank.png">
+To qualify for a patent, a technology must be "non-obvious." That is, at the time the application was filed, would the technology have been obvious to an ordinary engineer or scientist in the field? If so, it's obvious and cannot be patented. [MPEP 2141](/mpep/s2141.html#d0e209300).
 
-([Graham Patent from *Graham v. John Deere*, 383 US 1 (1966)](http://scholar.google.com/scholar_case?case=9105652591497305710).)
+
+<img src="/images/patent-drawings/graham-v-john-deere-patent-clamp-for-vibrating-shank.png" class="translucent">
+
+(Graham Patent from [*Graham v. John Deere*, 383 US 1 (1966)](http://scholar.google.com/scholar_case?case=9105652591497305710).)
 
 
 - - - 
