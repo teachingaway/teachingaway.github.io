@@ -183,16 +183,36 @@ Patent examiner's are generally smart people, but they work under intense time p
 
 - - - 
 
-## Invalidating Patents: Covered Business Method Review & Inter Partes Review
+## Invalidating Patents at the USPTO: Covered Business Method Review & Inter Partes Review
+
+The Patent Trial and Appeal Board offers some fast and inexpensive tools for invalidating patents. 
+
+**Recently Issued Patents: Post Grant Review**. Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. 
+
+There is some "estoppel" risk involved in a PGR. If you file a PGR and lose, then trying to take a second bite at the invalidity apple in Federal Court will be difficult. Put differently, a patent that survives a PGR becomes much stronger. Any grounds for invalidity you assert in a PGR, or "reasonably could have asserted", cannot be brought up again later in federal court. 
 
 
+**Financial Patents: CBM**. Patents related to financial products and services are subject to a procedure called "Covered Business Method Review" ("CBM"). If you have been accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter), consider filing a CBM in reply. 
+
+CBM is fast, often reaching a findal decision within 12-18 months. This is about half the time it would take in most federal courts.  CBM is also substantially cheaper than federal court. 
+
+There is less "estoppel" risk in a CBM, as compared to Post-Grant Review. If you file a CBM and lose, you cannot go to federal court to reargue the invalidity grounds you *actually asserted* at the CBM (while PGR will also estop you from later asserting invalidity arguments that "reasonably could have been" asserted at the PGR). 
+
+**Inter Partes Review**: An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. 
+
+
+
+
+**Ex Parte Reexamination**: 
 
 
 <hr class="tall">
 
 # Patent Licensing and Technology Transfer
 
+
 <hr class="tall">
+
 
 # Patent Portfolio Management
 
