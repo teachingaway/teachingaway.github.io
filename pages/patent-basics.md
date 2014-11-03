@@ -200,5 +200,3 @@ Some important sections are [Obviousness](../mpep/s2141.html), [written descript
 - - - 
 
 <img src="/images/patent-drawings/bottle-washing-machine-1907.jpg" class="translucent">
-
-<img src="/images/patent-drawings/log-splitter-1893.jpg" class="translucent">

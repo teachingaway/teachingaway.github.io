@@ -17,9 +17,10 @@ We litigate IP disputes, secure patents, and counsel clients on trademark, copyr
 
 <div class="toc">
 <ul>
-<li><a href="#patents-wzxhzdk0defending-research-developmentwzxhzdk1">Patents: <em>Defending Research &amp; Development</em></a></li>
-<li><a href="#trademarks-wzxhzdk2brand-protectionwzxhzdk3">Trademarks: <em>Brand Protection</em></a></li>
-<li><a href="#copyright-wzxhzdk4defending-creative-workswzxhzdk5">Copyright: <em>Defending Creative Works</em></a></li>
+<li><a href="#patents-defending-research-development">Patents: <em>Defending Research &amp; Development</em></a></li>
+<li><a href="#trademarks-brand-protection">Trademarks: <em>Brand Protection</em></a></li>
+<li><a href="#copyright-defending-creative-works">Copyright: <em>Defending Creative Works</em></a></li>
+<li><a href="#trade-secrets">Trade Secrets</em></a></li>
 <li><a href="#ip-litigation">IP Litigation</a><ul>
 <li><a href="#patent-and-trademark-office-litigation">Patent and Trademark Office Litigation</a></li>
 <li><a href="#domain-name-disputes">Domain Name Disputes</a></li>
@@ -54,7 +55,11 @@ We discuss [basic trademark law here](/trademark-basics/), and describe our [tra
 ## Copyright:  <em>Defending Creative Works</em>
 
 Copyright law helps creative professionals and software developers protect their art and code. We write <a href="http://www.copyrightcodex.com/">Copyright Codex</a>, a free treatise on copyright law that has been recognized by law schools like Stanford and Duke. 
-        
+
+## Trade Secrets
+
+We help clients establish trade secret strategies to protect confidential information that may not fit neatly into the patent or copyright regimes. 
+
 ## IP Litigation
 
 We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We contain litigation costs through efficient staffing and modern discovery technology. 
@@ -66,6 +71,10 @@ We have successfully handled disputes including patents, trade secrets, and cont
 We have won trademark appeals at the Trademark Trial and Appeal board, and have deep experience in both "ex parte" (arguing against a trademark examiner's rejection) and "inter partes" (arguing against another trademark owner) disputes. 
 
 We can also help dispose of invalid patents at Patent Trial and Appeal Board hearings. This includes "Post-Grant Review", "Covered Business Method Patent Review" and "Inter Partes Review." 
+
+### Trade Secret and Non-Compete Litigation 
+
+We have experience litigating trade secret and non-compete cases in the Manhattan Commercial Division of New York State court. This includes fast-paced "Temporary Restraining Order" hearings and "Preliminary Injunction Hearings." 
 
 ### Domain Name Disputes
 
