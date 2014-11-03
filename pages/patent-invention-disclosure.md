@@ -16,7 +16,7 @@ Invention Disclosure is the first step of the patent application process. The in
 This "invention disclosure form" is intended to help you organize the details of your new technology. Use your time efficiently. Not every question is relevant to every invention. If something seems irrelevant, leave it blank on the first pass. 
 
 
-<img src="/images/patent-drawings/satellite-structure-baumann-1958.png">
+<img src="/images/patent-drawings/satellite-structure-baumann-1958.png" class="translucent">
 
 
 - - - 
@@ -60,6 +60,7 @@ Describe the new technology in detail, and carefully highlight any portions that
 ## Drawings
 
 **Physical Products**. If you are providing drawings for the application, please provide drawings: 
+
 - Showing the *final* assembled product. Include front, back and side views if necessary. 
 - An *exploded view* showing how the major components connect. 
 - Some detailed views of the most important *components*, and detailed views of any important *interactions* between components. 
@@ -67,7 +68,7 @@ Describe the new technology in detail, and carefully highlight any portions that
  
 **Flow Charts**. Whenever a multi-step process is involved, flow charts will be helpful. 
 
-<img src="/images/patent-drawings/jet-engine-whittle-1946.png">
+<img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
 
 
 
