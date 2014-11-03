@@ -13,11 +13,24 @@ share:
 
 
 
-We litigate IP disputes, secure patents, and counsel clients on trademark, copyright, and technology licensing issues. We have won several domain name disputes (called "UDRP" arbitrations) against URL squatters. 
+We litigate IP disputes, secure patents, and counsel clients on trademark, copyright, and technology licensing issues. 
+
+<div class="toc">
+<ul>
+<li><a href="#patents-wzxhzdk0defending-research-developmentwzxhzdk1">Patents: <em>Defending Research &amp; Development</em></a></li>
+<li><a href="#trademarks-wzxhzdk2brand-protectionwzxhzdk3">Trademarks: <em>Brand Protection</em></a></li>
+<li><a href="#copyright-wzxhzdk4defending-creative-workswzxhzdk5">Copyright: <em>Defending Creative Works</em></a></li>
+<li><a href="#ip-litigation">IP Litigation</a><ul>
+<li><a href="#patent-and-trademark-office-litigation">Patent and Trademark Office Litigation</a></li>
+<li><a href="#domain-name-disputes">Domain Name Disputes</a></li>
+</ul>
+</li>
+</ul>
+</div>
 
 ## Patents:  <em>Defending Research & Development</em>
 
-Our patent practice combines rigorous data analytics with deep patent law experience. As a result, we develop cost-efficient patent portfolio's for growing technology companies. 
+Our patent practice combines rigorous data analytics with deep patent law experience. As a result, we develop cost-efficient patent portfolio's for growing technology companies. We discuss [basic patent law here](/patent-basics/), and describe our [patent services here](/patent-services/).
 
 A carefully structured portfolio can generate licensing deals, venture capital, and discourage others from aiming a patent lawsuit at your company. Patents can also be abused. However, on balance, patents tend to make business sense. Paul Graham of Y-Combinator argues that technology companies should secure patents for [several reasons](http://www.paulgraham.com/softwarepatents.html), 
 
@@ -29,12 +42,13 @@ Graham also argues that patents help explain disruptive technology in terms that
 
 [Paul Graham, "Are Software Patents Evil?"](http://www.paulgraham.com/softwarepatents.html)
 
-**Costs?** Estimate $10,000 for a US patent, including all Patent Office fees. However, patent costs vary widely, depending on the technology and strategy. 
 
 
 ## Trademarks:  <em>Brand Protection</em>
 
-From identity development, to trademark registration and enforcement, we work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct direct clients toward unique and easily defensible identities.
+From identity development, to trademark registration and enforcement, we work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct direct clients toward unique and easily defensible identities. 
+
+We discuss [basic trademark law here](/trademark-basics/), and describe our [trademark services here](/trademark-services/).
 
 
 ## Copyright:  <em>Defending Creative Works</em>
@@ -53,11 +67,8 @@ We have won trademark appeals at the Trademark Trial and Appeal board, and have 
 
 We can also help dispose of invalid patents at Patent Trial and Appeal Board hearings. This includes "Post-Grant Review", "Covered Business Method Patent Review" and "Inter Partes Review." 
 
+### Domain Name Disputes
 
+We have won several domain name disputes (called "UDRP" arbitrations) against URL squatters. 
 
-## Design Patents
-
-Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
-
-Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in legal fees. Then tack on another $280 fee when the patent issues (about a year after filing). For several related design patents, the legal fees per patent will decrease. 
-
+We also assist with negotiating, buying and transferring domain names. 
