@@ -98,9 +98,9 @@ Elcon made a straight-up identical Donkey Kong clone. According to the judge, Cr
 
 Kramer made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
 
-The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, or a video game that replicates pure poker. However, *Hi-Lo Double Up Joker Poker* wasn't quite pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. This minimal copyright protect only works against nearly identical clones. 
+The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, or a video game that replicates pure poker. However, *Hi-Lo Double Up Joker Poker* wasn't quite pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. This minimal copyright protection works only against nearly identical clones. 
 
-The judge decided that *Joker Poker 54* was a nearly identical clone. The defendant had made some changes, but they were superficial, like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." 
+The judge decided that *Joker Poker 54* was a nearly identical clone. The defendant had made some superficial changes like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." 
 
 These superficial changes were not enough to save *Joker Poker 54*, especially because it copied every other detail of the original game, right down to the easter egg: 
 
@@ -488,28 +488,26 @@ You can even register copyrights before you publish your game, to avoid a  [Ridi
 
 ## Trademark Registration. 
 
-Second, register the US Trademark in the name of your game. This is more expensive, but it provides broader rights. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
+Second, register the US Trademark in the name of your game. This is more expensive than copyright registration, but it provides broader type of right. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
 
 The trademark registration should describe your game play in some detail in its "description of goods and services." If a clone uses a similar-sounding name along side an exact match of the goods and services, you will likely have a strong case for trademark infringement. 
 
 We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
 
-## Trade Dress
-
-A trademark registration for the game's "trade dress" can also be useful. Trade Dress can protects a product's packaging as well as a product's unique-and-non-functional shape or appearance.  Tetris was able to leverage it's trade dress in its case against Mino. However, trade dress is a tricky area of law, and should be approached with caution. 
-
-<img src="/images/trademark/tetris-trade-dress-registration.png" class="translucent">
 
 ## Patents
 
-Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. If you pay extra to expedite the filing, a patent can issue in just under 1 year. 
+Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. For an extra fee, the timeframe can be expedited to about 1 year. 
 
-For small mobile games, patents may be too expensive. However, if you are building a truly new and innovative game, a small patent portfolio may still be a worthwhile investment. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
+For small mobile games, patents may be too expensive. However, studios building truly innovative games can benefit from an investment in a small patent portfolio. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
 
 <img src="/images/patent-drawings/pong-patent-1972.png" class="translucent">
 
+- - - 
+
 <img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent">
 
+- - - 
 
 ## Enforcement and Public Relations
 
