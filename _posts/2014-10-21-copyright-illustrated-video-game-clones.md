@@ -55,7 +55,6 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 <li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
 <li><a href="#copyright-registration">Copyright Registration.</a></li>
 <li><a href="#trademark-registration">Trademark Registration.</a></li>
-<li><a href="#trade-dress">Trade Dress</a></li>
 <li><a href="#patents">Patents</a></li>
 <li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
 </ul>
