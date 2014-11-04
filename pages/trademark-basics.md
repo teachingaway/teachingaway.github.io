@@ -211,6 +211,7 @@ Since measuring "acquired distinctiveness" is difficult, the Trademark Office ta
 
 When a trademark becomes "famous", it is awarded an even higher level of protection. Famous marks are extremely well known household brands like "Coke" or "Apple." These famous marks are protected not only against trademark infringement (competitors using similar marks on similar products), but also against dilution (using similar marks on *any* product). 
 
+<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
  
 - - - 
 

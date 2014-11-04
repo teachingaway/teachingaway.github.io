@@ -70,10 +70,6 @@ Most of our trademark applications are approved and registered without any addit
 
 International fees are paid in Swiss Francs, but exchange rate to USD is about 1:1. 
 
-- - - 
-
-<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
-
 
 - - - 
 
