@@ -72,7 +72,7 @@ International fees are paid in Swiss Francs, but exchange rate to USD is about 1
 
 - - - 
 
-<img src="/images/patent-drawings/coca-cola-trademark-registration-1893.png" class="translucent">
+<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
 
 
 - - - 
