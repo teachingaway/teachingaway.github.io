@@ -13,7 +13,24 @@ image:
 
 Trademark protect brand identity. They reduce the risk of [namespace collision](http://en.wikipedia.org/wiki/Naming_collision). A trademark can be any name, image or slogan used to identify a company. 
 
-## Trademarks:  *Brand Protection*
+<div class="toc">
+<ul>
+<li><a href="#trademarks-brand-protection">Trademarks: Brand Protection</a></li>
+<li><a href="#costs-for-us-trademark-application">Costs for US Trademark Application</a></li>
+<li><a href="#costs-for-international-trademark-applications">Costs for International Trademark Applications</a><ul>
+<li><a href="#portfolio-management-and-brand-monitoring">Portfolio Management and Brand Monitoring</a></li>
+</ul>
+</li>
+<li><a href="#domain-name-disputes">Domain Name Disputes</a></li>
+<li><a href="#trademark-opposition-and-cancellation-proceedings">Trademark Opposition and Cancellation Proceedings</a></li>
+<li><a href="#trademark-registration-appeals-at-the-uspto">Trademark Registration Appeals at the USPTO</a></li>
+<li><a href="#trademark-non-infringement-opinions">Trademark Non-Infringement Opinions</a></li>
+</ul>
+</div>
+
+- - - 
+
+## Trademarks: Brand Protection
 
 Our attorneys understand modern identity development, trademark registration and enforcement. We understand the fluid nature of branding for the internet, and we guide clients toward unique and defensible brand identities.
 
@@ -53,22 +70,39 @@ Most of our trademark applications are approved and registered without any addit
 
 International fees are paid in Swiss Francs, but exchange rate to USD is about 1:1. 
 
+- - - 
+
+<img src="/images/patent-drawings/coca-cola-trademark-registration-1893.png" class="translucent">
+
+
+- - - 
+
 ### Portfolio Management and Brand Monitoring
 
 We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
 
+- - - 
 
 ## Domain Name Disputes
 
 We have extensive experience litigating domain name arbitration matters. These arbitrations, called "UDRP" disputes, are often a cost-effective method of removing domain name squatters from your rightful internet domain. 
 
+- - - 
+
+
 ## Trademark Opposition and Cancellation Proceedings
 
 We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These proceedings are like a type of "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed ("opposition proceeding") or whether an existing trademark registration should be cancelled ("cancellation proceeding"). 
 
+- - - 
+
+
 ## Trademark Registration Appeals at the USPTO
 
 We have won several trademark registration appeals, even where the original attorney could not secure a trademark registration. 
+
+- - - 
+
 
 ## Trademark Non-Infringement Opinions
 
