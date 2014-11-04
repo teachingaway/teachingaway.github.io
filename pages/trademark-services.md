@@ -17,10 +17,8 @@ Trademark protect brand identity. They reduce the risk of [namespace collision](
 <ul>
 <li><a href="#trademarks-brand-protection">Trademarks: Brand Protection</a></li>
 <li><a href="#costs-for-us-trademark-application">Costs for US Trademark Application</a></li>
-<li><a href="#costs-for-international-trademark-applications">Costs for International Trademark Applications</a><ul>
+<li><a href="#costs-for-international-trademark-applications">Costs for International Trademark Applications</a></li>
 <li><a href="#portfolio-management-and-brand-monitoring">Portfolio Management and Brand Monitoring</a></li>
-</ul>
-</li>
 <li><a href="#domain-name-disputes">Domain Name Disputes</a></li>
 <li><a href="#trademark-opposition-and-cancellation-proceedings">Trademark Opposition and Cancellation Proceedings</a></li>
 <li><a href="#trademark-registration-appeals-at-the-uspto">Trademark Registration Appeals at the USPTO</a></li>
@@ -73,7 +71,7 @@ International fees are paid in Swiss Francs, but exchange rate to USD is about 1
 
 - - - 
 
-### Portfolio Management and Brand Monitoring
+## Portfolio Management and Brand Monitoring
 
 We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
 
