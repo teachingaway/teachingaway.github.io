@@ -60,12 +60,16 @@ We help corporate clients manage their trademark portfolios and renewal deadline
 
 ## Domain Name Disputes
 
-We have extensive experience litigating domain name arbitration matters. 
+We have extensive experience litigating domain name arbitration matters. These arbitrations, called "UDRP" disputes, are often a cost-effective method of removing domain name squatters from your rightful internet domain. 
 
 ## Trademark Opposition and Cancellation Proceedings
 
-We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. 
+We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These proceedings are like a type of "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed ("opposition proceeding") or whether an existing trademark registration should be cancelled ("cancellation proceeding"). 
 
 ## Trademark Registration Appeals at the USPTO
 
 We have won several trademark registration appeals, even where the original attorney could not secure a trademark registration. 
+
+## Trademark Non-Infringement Opinions
+
+A trademark non-infringement opinion carefully analyzes your trademark to an existing trademark registration or common law trademark. If the analysis determines your mark is not infringing, it offers some piece of mind against future lawsuits, and demonstrates that you are operating in good faith. Even if a court eventually determines that your brand is infringing a trademark, the existence of the legal analysis and opinion can reduce the penalties. “A party who acts in reasonable reliance on the advice of counsel regarding a close question of trademark law generally does not act in bad faith.” [*Sands, Taylor & Wood Co. v. Quaker Oats Co.*, 978 F.2d 947 (7th Cir. 1992)](http://scholar.google.com/scholar_case?case=15288369877381273970).
