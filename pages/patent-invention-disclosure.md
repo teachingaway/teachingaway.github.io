@@ -116,15 +116,11 @@ Name of Invention:
 
 For each inventor, provide: 
 
-Full Name:
-
-Address:
-
-Telephone:
-
-E-mail:
-
-Citizenship: 
+- Full Name:
+- Address:
+- Telephone:
+- E-mail:
+- Citizenship: 
 
 - - - 
 

@@ -48,7 +48,7 @@ A US utility patent grants the right to prevent other people from making, sellin
 
 Patents are national rights. A US patent does not automatically grant rights in any other countries. 
 
-<img src="/images/patent-drawings/fusion-hirsch-1970.png">
+<img src="/images/patent-drawings/fusion-hirsch-1970.png" class="translucent">
 
 ## Provisional Patent Applications
 
@@ -56,14 +56,14 @@ A provisional patent application is a temporary patent application that nails do
 
 There are several benefits. Its often cheaper to file a provisional application than prepare a complete patent application. This allows an inventor to delay some legal costs for a year, and use this year to test the market for the new technology. 
 
-<img src="/images/patent-drawings/engine-starting-lansing-1932.png">
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
 
 
 ## Design Patents
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
-<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png">
+<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png" class="translucent">
 
 ## Plant Patents 
 
@@ -71,7 +71,7 @@ Plants can be patented. Plant patents protect newly discovered varieties of *ase
 
 A plant patent lasts for 20 years from the application date. 
 
-<img src="/images/patent-drawings/avocado-patent-hass-1935.jpg">
+<img src="/images/patent-drawings/avocado-patent-hass-1935.jpg" class="translucent">
 
 <hr class="tall">
 
@@ -103,7 +103,7 @@ The patent lawyer will quickly know whether she is the right lawyer for your inv
 * **Allowance and Issue**. If the Patent Examiner cannot find any prior art, she will allow the claims. The inventor pays an "issue fee" and the patent application is on its way to becoming a full patent. 
 
 
-<img src="/images/patent-drawings/3d-printer-1994.png">
+<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
 - - - 
 
