@@ -13,7 +13,7 @@ image:
 
 Trademark protect brand identity. They reduce the risk of [namespace collision](http://en.wikipedia.org/wiki/Naming_collision). A trademark can be any name, image or slogan used to identify a company. 
 
-## Trademarks:  <em>Brand Protection</em>
+## Trademarks:  *Brand Protection*
 
 Our attorneys understand modern identity development, trademark registration and enforcement. We understand the fluid nature of branding for the internet, and we guide clients toward unique and defensible brand identities.
 
