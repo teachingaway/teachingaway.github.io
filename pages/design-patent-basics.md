@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /design-patent-law/
-title: "Design Patents"
+title: "Design Patent Law"
 modified: 2014-06-09 17:08
 tags: [patent]
 image:
@@ -11,8 +11,6 @@ image:
 share: 
 ---
 
-
-# UI Design Patents
 
 Product designers and digital user interface designers will occasionally run into design patents. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can come in handy. 
 
