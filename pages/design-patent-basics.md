@@ -2,7 +2,6 @@
 layout: page
 permalink: /design-patent-basics/
 title: "The Law of Design Patents"
-modified: 2014-06-04 20:33
 tags: [patent]
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
@@ -11,13 +10,9 @@ image:
 share:
 ---
 
-**User Interface Design Patents**
 
-[[TOC]]
 
-# UI Design Patents
-
-While design patents are complicated and controversial, they do exist, and designers will sometimes have to deal with them. This article discusses design patent system as it exists, while conveniently ignoring the controversy. Basically, I’m going to explain the machine, not rage against it. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can be handy. 
+Product designers and digital user interface designers will occasionally run into design patents. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can come in handy. 
 
 Imagine a designer who just solved a pesky UI annoyance with an innovative interface element or animation. She smiles, knowing that users will love it, and even grandma will immediately understand it. She Googles around, and no one else has thought of it before. 
 
