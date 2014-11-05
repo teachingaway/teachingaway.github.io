@@ -1,15 +1,18 @@
-﻿---
+---
 layout: page
-permalink: /design-patent-basics/
-title: "The Law of Design Patents"
+permalink: /design-patent-law/
+title: "Design Patents"
+modified: 2014-06-09 17:08
 tags: [patent]
 image:
-  feature: /wide/transmission-patent-gray-blueprint.jpg
-  credit: 
+  feature: /wide/default-image.png
+  credit: company folders
   creditlink: 
+share: 
 ---
 
 
+# UI Design Patents
 
 Product designers and digital user interface designers will occasionally run into design patents. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can come in handy. 
 
