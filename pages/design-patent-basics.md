@@ -5,8 +5,8 @@ title: "The Law of Design Patents"
 tags: [patent]
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 ---
 
 

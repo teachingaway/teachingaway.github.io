@@ -3,10 +3,12 @@ layout: page
 permalink: /user-interface-design-patents/
 title: "User Interface Design Patents"
 tags: [design patent, patent]
+modified: 2014-06-09 17:08
 image:
-  feature: /wide/transmission-patent-gray-blueprint.jpg
-  credit: 
-  creditlink:  
+  feature: /wide/default-image.png
+  credit: company folders
+  creditlink: 
+share: 
 ---
 
 
