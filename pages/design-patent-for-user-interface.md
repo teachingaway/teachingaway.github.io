@@ -12,13 +12,7 @@ share:
 ---
 
 
-# UI Design Patents
-
-Product designers and digital user interface designers will occasionally run into design patents. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can come in handy. 
-
-Imagine a designer who just solved a pesky UI annoyance with an innovative interface element or animation. She smiles, knowing that users will love it, and even grandma will immediately understand it. She Googles around, and no one else has thought of it before. 
-
-Solving complicated UI problems creates real value. Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Lets start with public domain and the Creative Commons (some rights reserved), then scroll on over to design patents. 
+Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. Solving complicated UI problems creates real value. Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Lets start with public domain and the Creative Commons (some rights reserved), then scroll on over to design patents. 
 
 **Public Domain**. Not every UI design is eligible for a patent, and not every *eligible* design *needs* to be patented. Most UI elements and patterns are already in the public domain, and new UI designs can be donated to the community. 
 
@@ -28,7 +22,7 @@ Public domain is easy, but its not automatic. To ensure a design is dedicated to
 
 ## Responsible Use / Twitter IPA. 
 
-When I promised I wasn’t going to touch the patent controversy, I pretty much lied. Patent trolls are are a serious problem, particularly in the software world. Patent problems tend to arise when designers and inventors lose control of their patents, and the patents eventually fall into the clutches of trolls. Some simple legal tools, like Twitter’s Innovator’s Patent Agreement, can prevent trolls from abusing  patents. Twitter’s [IPA](https://blog.twitter.com/2012/introducing-innovators-patent-agreement) prohibits weaponizing patents without the inventors consent, and the [Defensive Patent License](http://defensivepatentlicense.drupalgardens.com/) prohibits offensive patent litigation against anyone who decides to join the DPL pool.
+Patent trolls can be a serious problem, particularly in the software world. These patent problems tend to arise when designers and inventors lose control of their patents, and the patents eventually fall into the clutches of trolls. Some simple legal tools, like Twitter’s Innovator’s Patent Agreement, can prevent trolls from abusing  patents. Twitter’s [IPA](https://blog.twitter.com/2012/introducing-innovators-patent-agreement) prohibits weaponizing patents without the inventors consent, and the [Defensive Patent License](http://defensivepatentlicense.drupalgardens.com/) prohibits offensive patent litigation against anyone who decides to join the DPL pool.
 
 Twitter’s IPA is like the security systems installed in early [nuclear weapons](http://www.newyorker.com/online/blogs/newsdesk/2014/01/strangelove-for-real.html). "If the United States went to war, two people would be necessary to unlock a nuclear weapon, each of them provided with half the code." With the IPA, two people are required to launch a patent lawsuit: the owner and the inventor. This is a critical safety mechanism because inventors are rarely interested in filing frivolous lawsuits. In fact, most frivolous lawsuits seem to come from small patent-assertion companies that buy up patents several years after they’re issued. 
 
