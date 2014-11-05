@@ -175,6 +175,9 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 ## Technology Design Patents
 
+<img src="/images/design-patent/Rift-Design-patent.png" class="translucent"> 
+
+
 ## Vehicles 
 
 <img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent"> 
@@ -224,20 +227,17 @@ Facebook is more aggressive with its dashed lines. [D’621](http://www.google.c
 
 <img src="/images/design-patent/facebook-status-update-ui-design-patent.png" class="translucent">  
 
-[Facebook goes even fur](http://www.google.com/patents/USD653671)ther for its [chat-box UI](http://www.google.com/patents/USD685384) design patents. In this patent, the only solid lines are for a small portion of the speech bubble, and for the box around the avatar’s face. 
+Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘[666](https://www.google.com/patents/USD668666) design patent (left) protects UI with a bottom row of icons. Other than the 4 icons, everything else is drawn in dashed lines. Apple’s [D’864](http://www.google.com/patents/usd660864) patent (right) is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
 
-<img src="/images/design-patent/facebook-chatbox-design-patent.png" class="translucent">  
+<figure class="half">
 
-Facebook patented several other aspects of its [user](http://www.google.com/patents/USD671551) [interface](http://www.google.com/patents/USD653671)[ layout.](http://www.google.com/patents/USD653671)
-
-Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘[666](https://www.google.com/patents/USD668666) design patent protects UI with a bottom row of icons. Other than the 4 icons, everything else is drawn in dashed lines: 
-
-<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row.png" class="translucent">  
-
-Apple’s [D’864](http://www.google.com/patents/usd660864) patent is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
+<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row.png" class="translucent"> 
 
 <img src="/images/design-patent/ios-ipad-home-screen-design-patent.jpg" class="translucent">
 
+</figure>
+
+ 
 **Google** has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (Don't try this at home)
 
 <figure class="half">
@@ -297,7 +297,7 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 ### Fonts and Typography 
 
-Fonts can be patented. Adobe regularly secures design patents for its fonts. 
+Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts (although copyright will protect the *software* that draws fonts). 
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
@@ -306,10 +306,11 @@ Fonts can be patented. Adobe regularly secures design patents for its fonts.
 
 # Design Patent Strategies
 
+Since design patents provide a potent legal right, and are relatively affordable, they should play a role in the IP portfolio of nearly any company with consumer-facing products. For certain products, design patents can be combined with utility patents, with copyright registrations, and/or with trade dress registrations to round out the intellectual property portfolio. 
+
 ## Design Patent Strategies for Industrial Design 
 
-
-<img src="/images/design-patent/Rift-Design-patent.png" class="translucent"> 
+When developing a product, think about which design features are new and innovative, and which design features will entice consumers to make a purchase. Where there is overlap, a design patent may be appropriate. 
 
 
 ## Digital User Interface Design Patent Strategies
@@ -336,9 +337,6 @@ Drill down into the design. How granular can you make the custom elements before
 
 If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
 
-**Animated UI Elements**. Animated UI elements are some of the most effective and engaging tools. [Smart animations](http://azumbrunnen.me/blog/transitions-in-ux-design/) help users understand transitions and keep focused on what’s important. For example animated scrolling, collapsing forms, progressive disclosure, pull to refresh, [pull to create new entry](http://realmacsoftware.com/clear/), and animating changes in focus have all become standard building blocks. (Adrian Zumbrunnen’s subtly animated [toggle menu](http://azumbrunnen.me/blog/transitions-in-ux-design/) is also fantastic).
-
-For animated UI elements, use multiple drawings to depict different states. Animated and Interactive UI elements are candidates for *utility* patents as well as design patents.  
 
 # Conclusion
 

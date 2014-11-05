@@ -124,7 +124,7 @@ Facebook is more aggressive with its dashed lines. [D’621](http://www.google.c
 
 <img src="/images/design-patent/facebook-status-update-ui-design-patent.png" class="translucent">  
 
-[Facebook goes even fur](http://www.google.com/patents/USD653671)ther for its [chat-box UI](http://www.google.com/patents/USD685384) design patents. In this patent, the only solid lines are for a small portion of the speech bubble, and for the box around the avatar’s face. 
+[Facebook goes even further](http://www.google.com/patents/USD653671) for its [chat-box UI](http://www.google.com/patents/USD685384) design patents. In this patent, the only solid lines are for a small portion of the speech bubble, and for the box around the avatar’s face. 
 
 <img src="/images/design-patent/facebook-chatbox-design-patent.png" class="translucent">  
 
