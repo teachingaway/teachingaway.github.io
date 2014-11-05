@@ -12,7 +12,9 @@ share:
 ---
 
 
-Product designers and digital user interface designers will occasionally run into design patents. Whether you want to patent a new design, or you’re on the business end of a lawsuit, a little background knowledge can come in handy. This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
+Product designers and digital user interface designers will occasionally run into design patents. If you're investing resources in developing a new product design or interface, some design patent knowledge might come in handy. If you ever find yourself on the receiving end of a design patent lawsuit, a little background knowledge can help contain the damage. 
+
+This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
 
 # 1. Law of Design Patents
 
@@ -44,9 +46,11 @@ In litigation, defendants frequently use prior art to reduce the potency of the 
 
 Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. 
 
-**Infringement Consequences**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profi*t](http://www.law.cornell.edu/uscode/text/35/289).”
+**Infringement Consequences**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profit*](http://www.law.cornell.edu/uscode/text/35/289).”
 
 The design patent owner may also be awarded an "injunction" – a court order forbidding the defendant from selling any products that use the plaintiff’s patented design.
+
+- - - 
 
 ## Design Patent Drawings
 
@@ -73,6 +77,8 @@ Apple’s D’087 patent uses *solid* lines to depict the shape of its microphon
 The microphone in Apple’s patent is drawn in *solid* lines. So Samsung can only infringe if its product incorporates a microphone with the same rounded-rectangle shape. Samsung argued this point at trial, and highlighted the differences between the Samsung microphone shape and the Apple microphone shape. This would be a winning strategy for Samsung, if the shapes were actually different. The jury thought Samsung’s microphone was just another rounded-rectangle. Maybe if Samsung’s microphone was a pure rectangle it could have avoided design patent infringement. 
 
 Apple’s D’087 patent could have been even stronger by showing the microphone in dashed lines. If the microphone was shown in dashed lines, a competitors phone would be infringing if it used the design shown in solid lines, regardless of what shape it used for its microphone or home button. In short, dashed lines make design patents stronger by making it easier to prove infringement.  
+
+- - - 
 
 ## Design Patents Compared to Other Intellectual Property
 
@@ -115,8 +121,10 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 - - - 
 
+# Examples of Design Patents
 
-# 2. UI Design Patent Examples
+
+## UI Design Patent Examples
 
 Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. Check out the examples below. I picked these images as teaching examples, not because they are particularly brilliant designs or even valid patents. They are just examples of how companies are using design patents to protect their UI. 
 
@@ -129,6 +137,8 @@ Design patents can protect user interface icons, layouts, fonts, UI controls, tr
     * **D14/485 Generated Image**: Design for electronically produced symbol for computer that may be viewed on a computer screen.
 
         * **D14/486 Drop down menu or full screen menu type**: Design for image that fills the entire display area of a computer screen or within a strictly defined area therein. 
+
+- - - 
 
 ### UI Layouts
 
@@ -165,6 +175,8 @@ Apple’s [D’864](http://www.google.com/patents/usd660864) patent is similarly
 
 Google has also patented the layout of its search results, of Google Maps elements like its "[teardrop shaped marker icon](https://www.google.com/patents/USD621413)", and of Android design elements like its [chat bubbles](https://www.google.com/patents/USD685384). Google even a patent on the layout of [Google Patents](https://www.google.com/patents/USD591304). 
 
+- - - 
+
 ### Animated UI Elements 
 
 Design patents can protect animations and transitions as well as layouts. The way a layout adapts to a new context or to user input is often a key UI innovation. 
@@ -189,6 +201,8 @@ Most of the design patent is dashed lines. This carefully defines the patent rig
 
 Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3) and activated (fig.4). Many other animated UI design patents can be claimed with a similar series of drawings. 
 
+- - - 
+
 ### Controls, Icons, Typography. 
 
 Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. 
@@ -203,64 +217,10 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
-## Design Patents in Action: Apple v. Samsung
-
-Apple had a portfolio of over 1300 iPhone-related patents when it filed its complaint against Samsung. But Apple’s lawsuit only accused Samsung of infringing 7 of them. Apple selected these 4 design patents and 3 utility patents to capture the user interface and user experience (see Charles Mauro’s [excellent essay](http://www.mauronewmedia.com/blog/apple-v-samsung-implications-for-product-design-user-interface-ux-design-software-development-and-the-future-of-high-technology-consumer-products/) for details):
-
-- [‘889 patent](https://www.google.com/patents/USD504889): iPad design patent
-
-- [‘087 patent](https://www.google.com/patents/USD593087): iPhone design patent (Hardware, No GUI)
-
-- [‘677 patent](https://www.google.com/patents/USD618677?dq=apple+677&hl=en&sa=X&ei=YZ6cUuifGczIsASVoIKoAQ&ved=0CDkQ6AEwAA): iPhone with black color claimed (Hardware, No GUI)
-
-- [‘305 patent](https://www.google.com/patents/USD604305): GUI for a display screen (GUI, No Hardware)
-
-Likewise, the 3 *utility patents* are also about Apple’s user interface. Specifically, these patents claim various gestures (finger motions) used to input iPhone commands:
-
-- [‘381](http://www.google.com/patents/US7469381) patent: touchscreen interactions
-
-- [‘915](http://www.google.com/patents/US7844915) patent: using an API to scroll through documents
-
-- [‘163](http://www.google.com/patents/US7864163) patent: tap-to-zoom
-
-Apple’s ‘305 design patent protects design of the iOS home screen. Its a fairly detailed design patent, its in color, and there are very few broken lines. It should be hard for Apple to prove infringement, but they managed to use the color and detail to their advantage. Here’s how Apple used the ‘305 patent in its opening statement: 
-
-<img src="/images/design-patent/ios-v-galaxy-design-patent.jpg" class="translucent">  
-
-Here’s how Samsung tried to differentiate its UI in its opening statement: 
-
-<img src="/images/design-patent/ios-v-samsung-os-design-patent-compare-annotated.jpg" class="translucent">  
-
-Apple v. Samsung wasn’t just about UI patents. There were several industrial design patents at issue. Apple’s D’087 patent covered the shape of the front of its iPhone. Here’s the slide from Apple’s opening argument: 
-
-<img src="/images/design-patent/iphone-v-vibrant-hardware-design-patent.jpg" class="translucent">  
+- - - 
 
 
-And here’s Samsung’s response, in 3 slides: 
-
-<img src="/images/design-patent/iphone-hardware-v-samsung-design-patent-differences.jpg" class="translucent">  
-
-<img src="/images/design-patent/iphone-design-patent-v-samsung-bezel-design-differences.jpg" class="translucent">  
-
-<img src="/images/design-patent/iphone-lozenge-v-samsung-vibrant-and-infuse-design-patent-compare.jpg" class="translucent">  
-
-Apple also asserted its D’889 patent, covering the design of its iPad. Here’s Apple’s slide: 
-
-<img src="/images/design-patent/ipad-v-galaxy-tab-design-patent-compare.jpg" class="translucent">  
-
-And here’s Samsung’s response. First, Samsung used a slide comparing Apple’s patent to some prior art: 
-
-<img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" class="translucent">  
-
-Samsung then calls out the back of its tablet as being made from a multi-piece housing and including a "band" of some sort: 
-
-<img src="/images/design-patent/ipad-design-patent-v-galaxy-tab-single-piece-housing.jpg" class="translucent">  
-
-<img src="/images/design-patent/iphone-v-samsung-hardware-back-design-patent-compare.jpg" class="translucent">  
-
-Apple’s use of both hardware and UI design patents gave it a substantial advantage over Samsung, and resulted in a resounding victory. Tech startups can use a similar strategy, at a smaller scale, to protect their investment in creating innovative UI and hardware designs. 
-
-# 3. Design Patent Strategies for Tech Startups
+# Design Patent Strategies for Tech Startups
 
 Major tech companies like Apple, Samsung and Microsoft pursue UI design patents in a big way. [Microsoft](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fsamsung+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fmicrosoft+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29) is aggressively growing its portfolio of 1,600 UI design patents. [Apple](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Ffacebook+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fapple+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29) and [Samsung](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fapple+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fsamsung+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29) have patented hundreds more. Other companies take a more focused approach. [Facebook](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fadobe+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Ffacebook+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29), [Google](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Ffacebook+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fgoogle+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29), [Adobe](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fgoogle+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fadobe+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29), [Nest](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fsamsung+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fnest+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29), and [Autodesk](http://patft.uspto.gov/netacgi/nph-Parser?Sect1=PTO2&Sect2=HITOFF&u=%2Fnetahtml%2FPTO%2Fsearch-adv.htm&r=0&f=S&l=50&d=PTXT&RS=%28AN%2Fmicrosoft+AND+%28%28%28%28%28%28%28%28%28%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486%29+OR+CCL%2FD14%2F487%29+OR+CCL%2FD14%2F488%29+OR+CCL%2FD14%2F489%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F490%29+OR+CCL%2FD14%2F491%29+OR+CCL%2FD14%2F492%29+OR+CCL%2FD14%2F493%29+OR+CCL%2FD14%2F494%29%29&Refine=Refine+Search&Refine=Refine+Search&Query=AN%2Fautodesk+AND+%28CCL%2FD14%2F485+OR+CCL%2FD14%2F486+OR+CCL%2FD14%2F487+OR+CCL%2FD14%2F488+OR+CCL%2FD14%2F489+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F490+OR+CCL%2FD14%2F491+OR+CCL%2FD14%2F492+OR+CCL%2FD14%2F493+OR+CCL%2FD14%2F494%29) each have a handful. 
 
@@ -270,7 +230,9 @@ A company’s unique UI design may be one of its most valuable assets. Without d
 
 Design patents can be used in combination with utility patents, trademarks and copyrights. These different types of intellectual property provide overlapping protections and result in more robust protection and opportunities for enforcement. 
 
-**When to Start the Design Patent Process**. 
+- - - 
+
+## When to Start the Design Patent Process
 
 Start thinking about design patents as your startup moves from generic frameworks to custom UI elements. A lean startup launching a [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) from pre-packaged frameworks like [Bootstrap](http://getbootstrap.com/) might not have  much *new* design to protect. But when it starts to customize its user interface–especially with innovative design elements or layouts–it should start thinking about design patents. 
 
@@ -286,143 +248,17 @@ If you have existing *utility *patent applications, you can use them as a spring
 
 For animated UI elements, use multiple drawings to depict different states. Animated and Interactive UI elements are candidates for *utility* patents as well as design patents.  
 
-**Conclusion**
+# Conclusion
 
-UI Design is awesome. But the Patent Office doesn’t understand UI design very well. Just look at its [website](http://www.uspto.gov/patents/).  
+Creating engaging design can be a slow, iterative, and research intensive process.  If you’re investing resources, and you want some degree of reasonable protection, consider a handful of design patents. 
 
-Developing an engaging UI is slow and expensive. If you’re investing resources, and you want some degree of reasonable protection, consider a handful of UI design patents. Remember to take precautions to prevent future abuse. 
+- - - 
 
-<hr class="tall">
 
-**Further Reading:**
 
-[Apple v. Samsung: Impact and Implications for Product Design, User Interface Design (UX), Software Development and the Future of High-Technology Consumer Products](http://www.mauronewmedia.com/blog/apple-v-samsung-implications-for-product-design-user-interface-ux-design-software-development-and-the-future-of-high-technology-consumer-products/), Charles Mauro (November 27, 2012). 
-
-Bressler Group - [How to Protect UI Design Patents](http://www.bresslergroup.com/blog/how-protect-ui-design-patents).
-
-Designing for Humans - [Patent Skills for User Experience Design](http://www.designingforhumans.com/idsa/2012/12/patent-skills-for-user-experience-design.html). 
-
-**_Patent Law_**
-
-[Virtual Designs](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2265733), DuMont & Janis - 2013
-
-[USPTO Design Patent Report](http://www.uspto.gov/web/offices/ac/ido/oeip/taf/design.pdf) - 2013 (interesting data in annoying PDF format). 
-
-Kenneth Carter, "[Form Following Function Keys, Design Patentability of Computer-Generated Icons, the Virtual Article of Manufacture](http://kennethrcarter.com/vita/pubs/NOTEAELJ17.htm)." (1988?). 
-
-*[Ex parte Strijland*,](http://ipmall.info/hosted_resources/commissioner_decisions/cd_86.pdf)[ 26 USPQ2d 1259 (BPAI 1992)](http://ipmall.info/hosted_resources/commissioner_decisions/cd_86.pdf). 
-
-Tracy-Gene Durkin, "[What is Next in Design Patents for On-Screen Icons?](http://www.patentlyo.com/patent/2013/03/page/2/)" Patently-O Blog, March 6, 2013. 
-
-Pamela Samuelson, [Survey on the Patent/Copyright Interface for Computer Programs](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1251&context=facpubs) 17 AIPLA Q. J. 256 (1989). 
-
-**_User Interface Design_**
-
-Josh Miller’s [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
-
-Suzanne Martin, [Effective Visual Communication for Graphical User Interfaces](http://web.cs.wpi.edu/~matt/courses/cs563/talks/smartin/int_design.html) (1993). 
-
-[Detailed discussion on Tweetbot 3 UI](http://www.macstories.net/reviews/tweetbot-3-review-human-after-all/). 
-
-[Transitions in UX Design](http://azumbrunnen.me/blog/transitions-in-ux-design/), by Adrian Zumbrunnen (Sep 25, 2013). 
-
-[Transitional Interfaces](https://medium.com/design-ux/926eb80d64e3), Pasquale D’Silva. 
-
-[Subjective-C](http://subjc.com/), a study of innovative iOS interfaces
-
-[Brief Rant on the Future of Interaction Design](http://worrydream.com/ABriefRantOnTheFutureOfInteractionDesign/), Bret Victor (Nov 2011)(UI Designer for Facebook’s Paper). 
-
-[Magic Ink - Information Software and the Graphical Interface](http://worrydream.com/MagicInk), Bret Victor (March 2006)(Long).   
-
-[Cognitive Overhead](http://techcrunch.com/2013/04/20/cognitive-overhead/). 
-
-[User Onboarding](http://www.useronboard.com/) - great commentary. Check out [Evernote](http://www.useronboard.com/how-evernote-onboards-new-users/). 
-
-[Outdated UX Patterns](http://sideproject.io/outdated-ux-patterns/).
-
-[Google search for iOS Design Details](http://brianlovin.svbtle.com/design-details-google-search-for-ios). 
-
-<hr class="tall">
-
-**Quotes:**
-
-"Intellectual-property doctrine isn’t a straightforward application of the ethical principle ‘Thou shalt not steal.’ At its core is the notion that there are certain situations where you *can* steal." (NOTE:   Malcolm Gladwell, Something Borrowed (The New Yorker, 11/22/2004). ) 
-
-<hr class="tall">
-
-**Not Needed: **
-
-Apple’s [‘480](https://www.google.com/patents/USD689480) design patent protects an aspect of the iOS user interface. It shows a group of icons being revealed by a break in the home screen. 
-
-![image alt text](image_27.png)
-
-"As far as the customer is concerned, [the interface ](http://en.wikipedia.org/wiki/Jef_Raskin)*[i*s](http://en.wikipedia.org/wiki/Jef_Raskin)[ the product](http://en.wikipedia.org/wiki/Jef_Raskin)." 
+"As far as the customer is concerned, [the interface ](http://en.wikipedia.org/wiki/Jef_Raskin)[*is*](http://en.wikipedia.org/wiki/Jef_Raskin)[ the product](http://en.wikipedia.org/wiki/Jef_Raskin)." 
 
 But since the best UI designs tend to be [invisible](http://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible), UI design patents are a tricky animal. 
 
-Not every product needs "unique." Some designers shortcut painstaking design research and A/B testing by just imitating a popular design experience. When you intend to donate an original design concept to the public conversation, imitation is sincere flattery. Other products may remix and riff off your original designs. But the boundary between riffing and ripping-off is hard to define. Design patents, used carefully, can facilitate a design conversation while discouraging design plagiarism. 
-
-Designers should also learn the fundamentals of design patent law  because they may one day be on the receiving end of an infringement lawsuit. A basic understanding will help contain the damage. 
-
-<hr class="tall">
-
-### Standardization
-
-Some UI elements work best when they become standardized across products. Other elements can drive sales by maintaining a unique experience. Who should decide? 
-
-When a technology becomes essential to a field of technology, special licensing rules apply (it must be licensed out at a "fair and reasonable" rate, whatever that means). 
-
-"Success in interaction design is largely a matter of following established patterns, so people can apply what they already know to new contexts."  *[Designing for Easy Interactio*n](http://alistapart.com/article/designing-for-easy-interaction). 
-
-Generally, you need to secure your intellectual property rights early, either just before or just after you ship. If you secure them early, you can choose not to use them. But if you dither at the start, and someone steals your thunder, you may find its too late to secure any rights at all. 
-
-When is a design element proprietary? When should it be donated to the public pool of available design elements? How much of someone else’s interface can you borrow before you’re just stealing their work? Plagiarism is a murky offense, "best understood not as a sharply defined operation, like beheading, but as a whole range of activities, more like cooking, which varies from deliberate poisoning to the school cafeteria to mother's own" *James R. Kincaid*, The New Yorker 1997.
-
-imitation is the sincerest form of flattery. 
-
-In the right circumstances, UI designers can use design patents to protect their investment in developing unique and engaging UI elements.
-
-Incumbents like Apple will not hesitate to "[steal](http://techcrunch.com/2013/06/10/ios-7-steals-mailboxs-gestures-sunrises-layout-bb10s-back-button-weboss-multitasking/)" or “[remix](http://www.theverge.com/2013/6/11/4418188/apple-ios-7-design-influences)” interesting UI designs from energetic startups.   [[Scamper Ghost game](http://junkyardsam.com/kingcopied/)] On one hand, design patents can discourage big companies from taking a free-ride on your design work. But design patents are a tool that can be misused. 
-
-**Gestures development. **"What do I conclude? Gestures will form a valuable addition to our repertoire of interaction techniques. But they need time to be better developed, for us to understand how best to deploy them and for standard conventions to develop so that the same gestures mean the same things in different systems. And we need to develop the supporting infrastructure to handle guides, feedback, error correction, and the other consequences of gestures, some of which can use well-known procedures, some of which will be novel." 
-
-<hr class="tall">
-
-**Trolls**. 
-
-The vast majority of design patents are used as a tool to prevent serious design fraud, not to harass legitimate competitors. Patent abuse makes the news, but imagine the headline "*Designer Declines Opportunity to File Patent Law; Decides to Compete on Product’s Merit.*" Most patent owners are responsible. But responsible patent use is too mundane for headlines. This is not to defend patent trolls, just to put them in their place: an obnoxious parasite on a host of responsible patent owners. 
-
-Design patents can solidify an innovative design element into long-term asset. Used responsibly, design patents can generate modest revenue  without obstructing innovation or design dialogue. 
-
-I hope this article can help designers join the majority of responsible patent owners who only go to court reluctantly, and only to prevent the most egregious knockoffs and abusive plagiarism. 
-
-**Solid vs. Dashed**.  To hammer home this solid vs. dashed line distinction, lets look at patent [D694,043 ](https://www.google.com/patents/USD694043)for this mat. D’043 uses broken lines to depict some yuppies standing on the mat. I don’t know why they’re depicted, but it doesn’t matter. Since they’re depicted in broken lines, a competitor will infringe the patent by copying the mat, regardless of whether any yuppies are standing on it.  
-
-<img src="/images/design-patent/">
-
-(hat tip to [Prof. Burstein ](https://twitter.com/design_law)for [blogging](http://design-law.tumblr.com/post/68370826640/issued-this-week-d694-043-for-a) this). 
-
-<hr class="tall">
-
-**Notes: **
-
-"user interaction design" 
-
-Drawings for dynamic user interactions show a series of static images like a "flip book" or storyboard.
-
-Apple’s strategy of using design patents to protect user interface elements worked with astonishing success in Apple’s [billion dollar ](http://www.patentlyo.com/patent/2012/08/apple-wins-105-billion-verdict.html)[win](http://arstechnica.com/tech-policy/2012/08/jury-returns-verdict-in-apple-v-samsung/) over Samsung. (NOTE:   (later reduced to $600 million, then bumped back up to $900 million, with several issues still on appeal)) But Apple isn’t the only company using this strategy. Google, Facebook, Microsoft, Adobe have hundreds of design patents on user interface (UI) elements as well as other components of their overall user experience (UX). 
-
-## Twitter’s Innovator’s Patent Agreement. 
-
-Designers can also use new legal concepts like Twitter’s "Innovator’s Patent Agreement" to permanently prohibit the abuse of their inventions, regardless of who might buy up the future patent rights. 
-
-**Old Intro**
-
-In short, designers should have some ownership rights in their designs, but also some rights to build on the design work of their peers. Balancing these competing interests is difficult, so I’m not going to try. 
-
-This article focuses on UI/UX design patents because they raise interesting patent issues. Which new designs should become part of the standard UI vocabulary? Which ones can be proprietary? 
-
-And some UI ideas might be so good that they should be standardized across products to welcomes new users with a gentler learning curve. 
-
-Designing a simple and engaging UI is difficult, but done correctly, it generates a big competitive advantage. And while the patent system knows how to deal with an invention that’s more complicated than the prior generation, it doesn’t quite know how to reward the inventive genius needed to make a technology that’s simpler than the previous generation. 
+Not every product needs to be "unique." Some designers shortcut painstaking design research and A/B testing by just imitating a popular design experience. When you intend to donate an original design concept to the public conversation, imitation is sincere flattery. Other products may remix and riff off your original designs. But the boundary between riffing and ripping-off is hard to define. Design patents, used carefully, can facilitate a design conversation while discouraging design plagiarism. 
 

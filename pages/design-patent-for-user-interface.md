@@ -12,7 +12,9 @@ share:
 ---
 
 
-Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. Solving complicated UI problems creates real value. Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Lets start with public domain and the Creative Commons (some rights reserved), then scroll on over to design patents. 
+Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. Solving complicated UI problems creates real value. 
+
+Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Lets start with public domain and the Creative Commons (some rights reserved), then scroll on over to design patents. 
 
 **Public Domain**. Not every UI design is eligible for a patent, and not every *eligible* design *needs* to be patented. Most UI elements and patterns are already in the public domain, and new UI designs can be donated to the community. 
 
@@ -28,7 +30,7 @@ Twitter’s IPA is like the security systems installed in early [nuclear weapons
 
 This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
 
-# 1. Law of Design Patents
+# Law of Design Patents
 
 Design patents protect the *appearance* of a design, and the protection lasts for *15 years*. They are relatively inexpensive, easy to enforce, and infringement can result in monetary penalties.  
 
@@ -44,11 +46,11 @@ A design will only be non-patentable if its overall appearance is "dictated by f
 
 **Easy Litigation**. Design patents are easy to enforce. The legal issues simply involve comparing the plaintiff’s design patent drawings to the defendant’s product. It doesn’t take an expensive team of experts to detect infringement or bring a case to trial. (NOTE:  Although expensive experts are often used in high-stakes design patent litigation, they are not necessarily required. And of course, lawyers are still expensive. ) A judge or jury can simply compare the pictures in the plaintiff’s design patent to the defendant’s product.
 
-**Infringement**. A design patent is infringed if "an ordinary observer, familiar with the prior art designs, would be deceived into believing that the accused product is the same as the patented design." *[Richardson v. Stanley Work*s](http://scholar.google.com/scholar_case?case=4065677538492368378). 
+**Infringement**. A design patent is infringed if "an ordinary observer, familiar with the prior art designs, would be deceived into believing that the accused product is the same as the patented design." *[Richardson v. Stanley Works*](http://scholar.google.com/scholar_case?case=4065677538492368378). 
 
-**Prior Art**. Prior art is relevant to this comparison. The differences between the claimed design and the allegedly infringing design "are viewed in light of the prior art." Since the ordinary observer is viewing the designs in light of the prior art, her attention will be “drawn to those aspects of the claimed design that differ from the prior art.”  *[Crocs v. Int’l Trade Commissio*n](http://scholar.google.com/scholar_case?case=8466727333574506240). 
+**Prior Art**. Prior art is relevant to this comparison. The differences between the claimed design and the allegedly infringing design "are viewed in light of the prior art." Since the ordinary observer is viewing the designs in light of the prior art, her attention will be “drawn to those aspects of the claimed design that differ from the prior art.”  *[Crocs v. Int’l Trade Commission*](http://scholar.google.com/scholar_case?case=8466727333574506240). 
 
-The closer the plaintiff’s design patent is to any prior art designs, the harder it is to show the defendant’s product is infringing. Where the prior art is similar to the design patent, even small differences between the design patent and the defendant’s design become important. "The ordinary observer, however, will likely attach importance to those differences depending on the overall effect of those differences on the design." *[Crocs v. Int’l Trade Commissio*n](http://scholar.google.com/scholar_case?case=8466727333574506240). 
+The closer the plaintiff’s design patent is to any prior art designs, the harder it is to show the defendant’s product is infringing. Where the prior art is similar to the design patent, even small differences between the design patent and the defendant’s design become important. "The ordinary observer, however, will likely attach importance to those differences depending on the overall effect of those differences on the design." *[Crocs v. Int’l Trade Commission*](http://scholar.google.com/scholar_case?case=8466727333574506240). 
 
 In litigation, defendants frequently use prior art to reduce the potency of the plaintiff’s design patents. When Apple alleged that Samsung’s Galaxy tab infringed an iPad design patent, Samsung replied by digging up examples of prior art tablets. 
 
@@ -56,19 +58,15 @@ In litigation, defendants frequently use prior art to reduce the potency of the 
 
 Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. 
 
-**Infringement Consequences**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profi*t](http://www.law.cornell.edu/uscode/text/35/289).”
+**Infringement Consequences**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “[total profit](http://www.law.cornell.edu/uscode/text/35/289).”
 
 The design patent owner may also be awarded an "injunction" – a court order forbidding the defendant from selling any products that use the plaintiff’s patented design.
 
 ## Design Patent Drawings
 
-The drawings are the heart of a design patent. They define the design that is being protected. 
+The drawings are the heart of a design patent. They define the design that is being protected.  The difference between solid lines and dashed lines in these drawings is critical. *Solid lines* identify the parts of the design that are actually protected by the patent. *Dashed lines* show context or environment.
 
-In design patent drawings, the difference between solid lines and dashed lines is critical. *Solid lines *identify the parts of the design that are actually protected by the patent. *Dashed lines* are used to show context or environment.
-
-Solid lines represent protected design elements, but the more solid lines in a drawing, the narrower the protection it affords. This is a counterintuitive concept and merits some explanation. 
-
-More solid lines in a design patent drawing generates narrower protection because an infringing product must incorporate each element shown in solid lines, not just some of them. 
+Solid lines represent protected design elements, but the more solid lines in a drawing, the narrower the protection it affords. This is a counterintuitive concept and merits some explanation. More solid lines in a design patent drawing generates narrower protection because an infringing product must incorporate each element shown in solid lines, not just some of them. 
 
 Compare the "patent" drawing in the upper left to the “product in the upper-right. The patent shows a square and a triangle in solid lines. Since the product doesn’t have a triangle, its not infringing the patent. 
 
@@ -86,49 +84,11 @@ The microphone in Apple’s patent is drawn in *solid* lines. So Samsung can onl
 
 Apple’s D’087 patent could have been even stronger by showing the microphone in dashed lines. If the microphone was shown in dashed lines, a competitors phone would be infringing if it used the design shown in solid lines, regardless of what shape it used for its microphone or home button. In short, dashed lines make design patents stronger by making it easier to prove infringement.  
 
-## Design Patents Compared to Other Intellectual Property
-
-Design patents are a strange amalgam of utility patents, copyrights, and trademarks. This section discusses the differences, and how these different IP rights can conflict or overlap. 
-
-### Utility Patent vs. Design Patent
-
-A utility patent protects *functional* aspects of an invention, while a design patent protects new *nonfunctional designs*. As the [statute](http://www.law.cornell.edu/uscode/text/35/171) puts it, any "new, original and ornamental design for an article of manufacture" may be granted a 15 year design patent.
-
-Design patent applications are cheaper and faster than utility patent applications. A design patent application costs about $3-4,000 (total) and takes about a year to issue. A utility patent application costs between $8,000-20,000 (total) and lingers in the Patent Office for around 3 years before being issued as a patent. 
-
-To distinguish between a utility patent and a design patent, look at the patent number. If it starts with the letter "D" or “USD”, its a design patent. The design patent document is generally much shorter than a utility patent document. Design patents have a page or two of text followed by several drawings. Utility patents are bloated with long-winded written descriptions. 
-
-Interactive UI design elements can be protected with by both utility patents and design patents. For example, [pull-to-refresh](https://www.google.com/patents/US8448084) is a utility patent.  As is Apple’s [pinch-to-zoom](http://www.google.com/patents/US7469381) patent. 
-
-### Copyright vs. Design Patents
-
-Copyright can protect many types of creative works, but this discussion will be limited to copyrighting software, UI elements, and works of industrial design. 
-
-**Non-Functional**. Both copyrights and design patents protect *non-functional* designs. Copyright law applies the non-functional requirement rigorously, while design patent law is lax about what it considers "non-functional." Copyright protection rarely applies to a design that is even *partly* functional. But design patent protection can apply to functional aspects of UI designs and industrial designs. 
-
-**Duration.** Copyright protection lasts longer. Design patents protect industrial design for 15 years. Copyrights protect works of creative authorship for 95 years (often more, but sometimes less, according to some [complicated rules](http://www.copyright.gov/help/faq/faq-duration.html)).
-
-**Infringement**. The rules for infringement are different. Copyright infringement requires "copying." That is, an infringer must have seen the original copyrighted work at some point. Design patents can be infringed by sheer coincidence. For example, someone who has never seen an iPhone or Apple’s design patents can still infringe them. And, unlike copyright, there is no “fair use” defense for design patent infringement.
-
-Copyright only protects designs that have been expressed in a "tangible medium." That is, the design needs to be real and actually executed. A design patent doesn't. A design patent can protect a purely hypothetical design; a design that hasn't yet been executed in a product. 
-
-### Trademark vs. Design Patent
-
-Trade dress, a branch of trademark law, can also protect the non-functional appearance of a product, software design or of certain types of UI elements. But trade dress law revolves around *brand identification *and protecting business *reputations*. Trade dress rights are more difficult to establish than design patent rights, and are not well suited for protecting UI elements. 
-
-**Infringement**. The owner of trade dress rights can prevent a second company from using design elements that are so similar to the protected design that consumers will be confused into thinking the second company’s product is made by the first company, or that the second company is somehow associated with the first company. Put differently, trade dress is infringed if a defendant’s design will confuse consumers into thinking the defendant’s product is actually made by–or somehow associated with–the plaintiff. 
-
-**Functionality**. Trade dress only protects non-functional aspects of a design. Like copyright law (and unlike design patent law), this prohibition against protecting functional design elements is strictly enforced. In litigation, a trade dress plaintiff is required to prove that the trade dress is non-functional. In design patent litigation, a judge will presume the plaintiff’s design patent is nonfunctional, and the defendant can only disprove it with clear and convincing evidence.  
-
-**Perpetual**. Trade dress rights, once established, can be perpetual. Unlike design patents, trade dress rights do not have a set expiration date. Trade dress rights will only expire when a company stops using the trade dress designs to sell a product. 
-
-**For Particular Products**. Each grant of trade dress rights is limited to a particular type or category of product. Design patents are not so narrowly limited. For example, Google’s trade dress rights for its  landing page will prevent other people from using a similar design for a search engine, but perhaps not from using a similar design for a launchrock page, where the simple input box is for an email signup rather than search input (This is just an example, don’t try this at home).  
-
 
 - - - 
 
 
-# 2. UI Design Patent Examples
+# UI Design Patent Examples
 
 Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. Check out the examples below. I picked these images as teaching examples, not because they are particularly brilliant designs or even valid patents. They are just examples of how companies are using design patents to protect their UI. 
 
@@ -142,7 +102,7 @@ Design patents can protect user interface icons, layouts, fonts, UI controls, tr
 
         * **D14/486 Drop down menu or full screen menu type**: Design for image that fills the entire display area of a computer screen or within a strictly defined area therein. 
 
-### UI Layouts
+## UI Layouts
 
 Design patents for UI layouts are among the more interesting and important type of UI design patents. A clunky UI makes selecting files, navigating menus and launching applications a frustrating chore. But innovative techniques, especially for tablet devices, can make these tasks easier. 
 
@@ -177,7 +137,9 @@ Apple’s [D’864](http://www.google.com/patents/usd660864) patent is similarly
 
 Google has also patented the layout of its search results, of Google Maps elements like its "[teardrop shaped marker icon](https://www.google.com/patents/USD621413)", and of Android design elements like its [chat bubbles](https://www.google.com/patents/USD685384). Google even a patent on the layout of [Google Patents](https://www.google.com/patents/USD591304). 
 
-### Animated UI Elements 
+- - - 
+
+## Animated UI Elements 
 
 Design patents can protect animations and transitions as well as layouts. The way a layout adapts to a new context or to user input is often a key UI innovation. 
 
@@ -201,7 +163,9 @@ Most of the design patent is dashed lines. This carefully defines the patent rig
 
 Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3) and activated (fig.4). Many other animated UI design patents can be claimed with a similar series of drawings. 
 
-### Controls, Icons, Typography. 
+- - - 
+
+## Controls, Icons, Typography. 
 
 Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. 
 
@@ -214,6 +178,8 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 **Fonts** can be patented. Adobe regularly secures design patents for its fonts. 
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
+
+- - - 
 
 ## Design Patents in Action: Apple v. Samsung
 
@@ -282,7 +248,9 @@ A company’s unique UI design may be one of its most valuable assets. Without d
 
 Design patents can be used in combination with utility patents, trademarks and copyrights. These different types of intellectual property provide overlapping protections and result in more robust protection and opportunities for enforcement. 
 
-**When to Start the Design Patent Process**. 
+- - - 
+
+## When to Start the Design Patent Process
 
 Start thinking about design patents as your startup moves from generic frameworks to custom UI elements. A lean startup launching a [MVP](http://en.wikipedia.org/wiki/Minimum_viable_product) from pre-packaged frameworks like [Bootstrap](http://getbootstrap.com/) might not have  much *new* design to protect. But when it starts to customize its user interface–especially with innovative design elements or layouts–it should start thinking about design patents. 
 
@@ -292,13 +260,13 @@ Produce several drawings, and carefully distinguish the custom UI design element
 
 Drill down into the design. How granular can you make the custom elements before they just become standard design objects? If you can identify several granular UI levels that are not just off-the-shelf elements, you can file several design patents. In each of these design patents, only one of the granular design components should be depicted in solid lines. 
 
-If you have existing *utility *patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
+If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
 
 **Animated UI Elements**. Animated UI elements are some of the most effective and engaging tools. [Smart animations](http://azumbrunnen.me/blog/transitions-in-ux-design/) help users understand transitions and keep focused on what’s important. For example animated scrolling, collapsing forms, progressive disclosure, pull to refresh, [pull to create new entry](http://realmacsoftware.com/clear/), and animating changes in focus have all become standard building blocks. (Adrian Zumbrunnen’s subtly animated [toggle menu](http://azumbrunnen.me/blog/transitions-in-ux-design/) is also fantastic).
 
 For animated UI elements, use multiple drawings to depict different states. Animated and Interactive UI elements are candidates for *utility* patents as well as design patents.  
 
-**Conclusion**
+## Conclusion
 
 UI Design is awesome. But the Patent Office doesn’t understand UI design very well. Just look at its [website](http://www.uspto.gov/patents/).  
 
@@ -356,17 +324,11 @@ Suzanne Martin, [Effective Visual Communication for Graphical User Interfaces](h
 
 <hr class="tall">
 
-**Quotes:**
-
-"Intellectual-property doctrine isn’t a straightforward application of the ethical principle ‘Thou shalt not steal.’ At its core is the notion that there are certain situations where you *can* steal." (NOTE:   Malcolm Gladwell, Something Borrowed (The New Yorker, 11/22/2004). ) 
 
 <hr class="tall">
 
 **Not Needed: **
 
-Apple’s [‘480](https://www.google.com/patents/USD689480) design patent protects an aspect of the iOS user interface. It shows a group of icons being revealed by a break in the home screen. 
-
-![image alt text](image_27.png)
 
 "As far as the customer is concerned, [the interface ](http://en.wikipedia.org/wiki/Jef_Raskin)*[i*s](http://en.wikipedia.org/wiki/Jef_Raskin)[ the product](http://en.wikipedia.org/wiki/Jef_Raskin)." 
 
@@ -388,15 +350,9 @@ When a technology becomes essential to a field of technology, special licensing 
 
 Generally, you need to secure your intellectual property rights early, either just before or just after you ship. If you secure them early, you can choose not to use them. But if you dither at the start, and someone steals your thunder, you may find its too late to secure any rights at all. 
 
-When is a design element proprietary? When should it be donated to the public pool of available design elements? How much of someone else’s interface can you borrow before you’re just stealing their work? Plagiarism is a murky offense, "best understood not as a sharply defined operation, like beheading, but as a whole range of activities, more like cooking, which varies from deliberate poisoning to the school cafeteria to mother's own" *James R. Kincaid*, The New Yorker 1997.
-
-imitation is the sincerest form of flattery. 
-
-In the right circumstances, UI designers can use design patents to protect their investment in developing unique and engaging UI elements.
 
 Incumbents like Apple will not hesitate to "[steal](http://techcrunch.com/2013/06/10/ios-7-steals-mailboxs-gestures-sunrises-layout-bb10s-back-button-weboss-multitasking/)" or “[remix](http://www.theverge.com/2013/6/11/4418188/apple-ios-7-design-influences)” interesting UI designs from energetic startups.   [[Scamper Ghost game](http://junkyardsam.com/kingcopied/)] On one hand, design patents can discourage big companies from taking a free-ride on your design work. But design patents are a tool that can be misused. 
 
-**Gestures development. **"What do I conclude? Gestures will form a valuable addition to our repertoire of interaction techniques. But they need time to be better developed, for us to understand how best to deploy them and for standard conventions to develop so that the same gestures mean the same things in different systems. And we need to develop the supporting infrastructure to handle guides, feedback, error correction, and the other consequences of gestures, some of which can use well-known procedures, some of which will be novel." 
 
 <hr class="tall">
 
@@ -408,11 +364,6 @@ Design patents can solidify an innovative design element into long-term asset. U
 
 I hope this article can help designers join the majority of responsible patent owners who only go to court reluctantly, and only to prevent the most egregious knockoffs and abusive plagiarism. 
 
-**Solid vs. Dashed**.  To hammer home this solid vs. dashed line distinction, lets look at patent [D694,043 ](https://www.google.com/patents/USD694043)for this mat. D’043 uses broken lines to depict some yuppies standing on the mat. I don’t know why they’re depicted, but it doesn’t matter. Since they’re depicted in broken lines, a competitor will infringe the patent by copying the mat, regardless of whether any yuppies are standing on it.  
-
-<img src="/images/design-patent/">
-
-(hat tip to [Prof. Burstein ](https://twitter.com/design_law)for [blogging](http://design-law.tumblr.com/post/68370826640/issued-this-week-d694-043-for-a) this). 
 
 <hr class="tall">
 
@@ -423,18 +374,4 @@ I hope this article can help designers join the majority of responsible patent o
 Drawings for dynamic user interactions show a series of static images like a "flip book" or storyboard.
 
 Apple’s strategy of using design patents to protect user interface elements worked with astonishing success in Apple’s [billion dollar ](http://www.patentlyo.com/patent/2012/08/apple-wins-105-billion-verdict.html)[win](http://arstechnica.com/tech-policy/2012/08/jury-returns-verdict-in-apple-v-samsung/) over Samsung. (NOTE:   (later reduced to $600 million, then bumped back up to $900 million, with several issues still on appeal)) But Apple isn’t the only company using this strategy. Google, Facebook, Microsoft, Adobe have hundreds of design patents on user interface (UI) elements as well as other components of their overall user experience (UX). 
-
-## Twitter’s Innovator’s Patent Agreement. 
-
-Designers can also use new legal concepts like Twitter’s "Innovator’s Patent Agreement" to permanently prohibit the abuse of their inventions, regardless of who might buy up the future patent rights. 
-
-**Old Intro**
-
-In short, designers should have some ownership rights in their designs, but also some rights to build on the design work of their peers. Balancing these competing interests is difficult, so I’m not going to try. 
-
-This article focuses on UI/UX design patents because they raise interesting patent issues. Which new designs should become part of the standard UI vocabulary? Which ones can be proprietary? 
-
-And some UI ideas might be so good that they should be standardized across products to welcomes new users with a gentler learning curve. 
-
-Designing a simple and engaging UI is difficult, but done correctly, it generates a big competitive advantage. And while the patent system knows how to deal with an invention that’s more complicated than the prior generation, it doesn’t quite know how to reward the inventive genius needed to make a technology that’s simpler than the previous generation. 
 
