@@ -6,8 +6,7 @@ tags: [design patent, patent]
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
   credit: 
-  creditlink: 
-share: 
+  creditlink:  
 ---
 
 

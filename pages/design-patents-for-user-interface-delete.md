@@ -6,7 +6,6 @@ image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
   credit: 
   creditlink: 
-share: 
 ---
 
 
