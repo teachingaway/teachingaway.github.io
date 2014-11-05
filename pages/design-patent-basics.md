@@ -40,7 +40,7 @@ The closer the plaintiff’s design patent is to any prior art designs, the hard
 
 In litigation, defendants frequently use prior art to reduce the potency of the plaintiff’s design patents. When Apple alleged that Samsung’s Galaxy tab infringed an iPad design patent, Samsung replied by digging up examples of prior art tablets. 
 
-<img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg">  
+<img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" class="translucent">  
 
 Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. 
 
@@ -60,13 +60,13 @@ More solid lines in a design patent drawing generates narrower protection becaus
 
 Compare the "patent" drawing in the upper left to the “product in the upper-right. The patent shows a square and a triangle in solid lines. Since the product doesn’t have a triangle, its not infringing the patent. 
 
-<img src="/images/design-patent/solid-v-dashed-line-in-design-patent-example.png">  
+<img src="/images/design-patent/solid-v-dashed-line-in-design-patent-example.png" class="translucent">  
 
 Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle. Since the product has the matching square element, its infringing the design patent. 
 
 More dashed lines leads to stronger protection. A real-life example from *Apple v. Samsung *will help explain: 
 
-<img src="/images/design-patent/iphone-v-samsung-lozenge-design-patent-compare.png" >  
+<img src="/images/design-patent/iphone-v-samsung-lozenge-design-patent-compare.png" class="translucent">  
 
 Apple’s D’087 patent uses *solid* lines to depict the shape of its microphone (a rounded-rectangle) but *dashed* lines for its circular home button. This means that the circular home button (dashed) is not considered in the infringement analysis. Samsung’s phones can’t avoid infringement by using a non-circular home button. 
 
@@ -136,31 +136,31 @@ Design patents for UI layouts are among the more interesting and important type 
 
 Adobe patented the layout of its iOS file selection system in [D’628](http://www.google.com/patents/USD691628). Note the use of dashed lines to depict the tablet: 
 
-<img src="/images/design-patent/adobe-ios-selection-design-patent.png" >  
+<img src="/images/design-patent/adobe-ios-selection-design-patent.png" class="translucent">  
 
 Facebook is more aggressive with its dashed lines. [D’621](http://www.google.com/patents/USD691622), Facebook’s recent "status update" UI design patent uses dashed lines for the computer monitor and all of the text. The solid lines– showing the patented portion of the Facebooks UI–are limited to a  few rectangles. 
 
-<img src="/images/design-patent/facebook-status-update-ui-design-patent.png" >  
+<img src="/images/design-patent/facebook-status-update-ui-design-patent.png" class="translucent">  
 
 [Facebook goes even fur](http://www.google.com/patents/USD653671)ther for its [chat-box UI](http://www.google.com/patents/USD685384) design patents. In this patent, the only solid lines are for a small portion of the speech bubble, and for the box around the avatar’s face. 
 
-<img src="/images/design-patent/facebook-chatbox-design-patent.png" >  
+<img src="/images/design-patent/facebook-chatbox-design-patent.png" class="translucent">  
 
 Facebook patented several other aspects of its [user](http://www.google.com/patents/USD671551) [interface](http://www.google.com/patents/USD653671)[ layout.](http://www.google.com/patents/USD653671)
 
 Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘[666](https://www.google.com/patents/USD668666) design patent protects UI with a bottom row of icons. Other than the 4 icons, everything else is drawn in dashed lines: 
 
-<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row.png" >  
+<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row.png" class="translucent">  
 
 Apple’s [D’864](http://www.google.com/patents/usd660864) patent is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
 
-<img src="/images/design-patent/ios-ipad-home-screen-design-patent.jpg">
+<img src="/images/design-patent/ios-ipad-home-screen-design-patent.jpg" class="translucent">
 
 **Google** has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (NOTE:  Not that this is a good idea. )
 
-<img src="/images/design-patent/google-search-box-design-patent.png" >  
+<img src="/images/design-patent/google-search-box-design-patent.png" class="translucent">  
 
-<img src="/images/design-patent/google-search-box-gui-example.png" >  
+<img src="/images/design-patent/google-search-box-gui-example.png" class="translucent">  
 
 
 Google has also patented the layout of its search results, of Google Maps elements like its "[teardrop shaped marker icon](https://www.google.com/patents/USD621413)", and of Android design elements like its [chat bubbles](https://www.google.com/patents/USD685384). Google even a patent on the layout of [Google Patents](https://www.google.com/patents/USD591304). 
@@ -171,19 +171,19 @@ Design patents can protect animations and transitions as well as layouts. The wa
 
 Apple’s [iBooks page turn](https://www.google.com/patents/USD670713) is an animated design patent shown in 3 positions. 
 
-<img src="/images/design-patent/ios-page-turn-design-patent.png" >  
+<img src="/images/design-patent/ios-page-turn-design-patent.png" class="translucent">  
 
 [iOS Keyboard Animation](https://www.google.com/patents/USD621848) shows how a key gives user-feedback by way of an expanding bubble above the selected key.  
 
-<img src="/images/design-patent/ios-keyboard-animated-design-patent.png" >  
+<img src="/images/design-patent/ios-keyboard-animated-design-patent.png" class="translucent">  
 
 [iOS album swipe](http://www.google.com/patents/USD609715) animation shows 3 positions as well: 
 
-<img src="/images/design-patent/ios-cover-art-scroll-ui-design-patent.png" >  
+<img src="/images/design-patent/ios-cover-art-scroll-ui-design-patent.png" class="translucent">  
 
 [Swipe to Unlock](http://www.google.com/patents/USD675639). Some people found the swipe to unlock design patent too bland and obvious to merit patent protection. Setting aside these objections, Swipe-to-Unlock is a good example of how to use a design patent to claim an animated UI element. 
 
-<img src="/images/design-patent/ios-slide-to-unlock-design-patent.png" >  
+<img src="/images/design-patent/ios-slide-to-unlock-design-patent.png" class="translucent">  
 
 Most of the design patent is dashed lines. This carefully defines the patent rights, and limits them to the solid-line "swipe bar." (because of the dashed lines, this patent protects against use of a similar swipe bar, regardless of what the rest of the OS looks like). 
 
@@ -193,15 +193,15 @@ Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3)
 
 Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. 
 
-<img src="/images/design-patent/autodesk-tour-building-wheel-design-patent.png" >  
+<img src="/images/design-patent/autodesk-tour-building-wheel-design-patent.png" class="translucent">  
 
 Facebook has a design patent on its two-silhouette "friend" icon. Notice that every detail except the icon is shown in dashed lines. This design patent only covers the icon. 
 
-<img src="/images/design-patent/facebook-user-icon-design-patent.png" >  
+<img src="/images/design-patent/facebook-user-icon-design-patent.png" class="translucent">  
 
 **Fonts** can be patented. Adobe regularly secures design patents for its fonts. 
 
-<img src="/images/design-patent/adobe-font-design-patent.png" >  
+<img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
 ## Design Patents in Action: Apple v. Samsung
 
@@ -225,38 +225,38 @@ Likewise, the 3 *utility patents* are also about Apple’s user interface. Speci
 
 Apple’s ‘305 design patent protects design of the iOS home screen. Its a fairly detailed design patent, its in color, and there are very few broken lines. It should be hard for Apple to prove infringement, but they managed to use the color and detail to their advantage. Here’s how Apple used the ‘305 patent in its opening statement: 
 
-<img src="/images/design-patent/ios-v-galaxy-design-patent.jpg" >  
+<img src="/images/design-patent/ios-v-galaxy-design-patent.jpg" class="translucent">  
 
 Here’s how Samsung tried to differentiate its UI in its opening statement: 
 
-<img src="/images/design-patent/ios-v-samsung-os-design-patent-compare-annotated.jpg" >  
+<img src="/images/design-patent/ios-v-samsung-os-design-patent-compare-annotated.jpg" class="translucent">  
 
 Apple v. Samsung wasn’t just about UI patents. There were several industrial design patents at issue. Apple’s D’087 patent covered the shape of the front of its iPhone. Here’s the slide from Apple’s opening argument: 
 
-<img src="/images/design-patent/iphone-v-vibrant-hardware-design-patent.jpg" >  
+<img src="/images/design-patent/iphone-v-vibrant-hardware-design-patent.jpg" class="translucent">  
 
 
 And here’s Samsung’s response, in 3 slides: 
 
-<img src="/images/design-patent/iphone-hardware-v-samsung-design-patent-differences.jpg" >  
+<img src="/images/design-patent/iphone-hardware-v-samsung-design-patent-differences.jpg" class="translucent">  
 
-<img src="/images/design-patent/iphone-design-patent-v-samsung-bezel-design-differences.jpg" >  
+<img src="/images/design-patent/iphone-design-patent-v-samsung-bezel-design-differences.jpg" class="translucent">  
 
-<img src="/images/design-patent/iphone-lozenge-v-samsung-vibrant-and-infuse-design-patent-compare.jpg" >  
+<img src="/images/design-patent/iphone-lozenge-v-samsung-vibrant-and-infuse-design-patent-compare.jpg" class="translucent">  
 
 Apple also asserted its D’889 patent, covering the design of its iPad. Here’s Apple’s slide: 
 
-<img src="/images/design-patent/ipad-v-galaxy-tab-design-patent-compare.jpg" >  
+<img src="/images/design-patent/ipad-v-galaxy-tab-design-patent-compare.jpg" class="translucent">  
 
 And here’s Samsung’s response. First, Samsung used a slide comparing Apple’s patent to some prior art: 
 
-<img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" >  
+<img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" class="translucent">  
 
 Samsung then calls out the back of its tablet as being made from a multi-piece housing and including a "band" of some sort: 
 
-<img src="/images/design-patent/ipad-design-patent-v-galaxy-tab-single-piece-housing.jpg" >  
+<img src="/images/design-patent/ipad-design-patent-v-galaxy-tab-single-piece-housing.jpg" class="translucent">  
 
-<img src="/images/design-patent/iphone-v-samsung-hardware-back-design-patent-compare.jpg" >  
+<img src="/images/design-patent/iphone-v-samsung-hardware-back-design-patent-compare.jpg" class="translucent">  
 
 Apple’s use of both hardware and UI design patents gave it a substantial advantage over Samsung, and resulted in a resounding victory. Tech startups can use a similar strategy, at a smaller scale, to protect their investment in creating innovative UI and hardware designs. 
 
