@@ -49,14 +49,6 @@ share:
 
 
 
-<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent"> 
-<img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent"> 
-<img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent"> 
-<img src="/images/design-patent/pencil-sharpener-design-loewy-1933.png" class="translucent"> 
-
-<img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
-
-
 
 Industrial designers and user interface designers occasionally run into design patents. Anyone investing in a new product design or interface should know some basic design patent law.
 
@@ -176,6 +168,33 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 # Examples of Design Patents
 
+## Furniture Design Patents
+
+<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent"> 
+
+
+## Technology Design Patents
+
+## Vehicles 
+
+<img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent"> 
+
+<img src="/images/design-patent/dreyfuss-locomotive-design-patent-1939.png" class="translucent">
+
+
+## Toys 
+
+<img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
+
+## Musical Instruments
+
+<img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent"> 
+
+
+## Products and Industrial Design
+
+<img src="/images/design-patent/pencil-sharpener-design-loewy-1933.png" class="translucent"> 
+
 
 ## UI Design Patent Examples
 
@@ -258,12 +277,20 @@ Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3)
 
 ### Controls 
 
-Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. 
+Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) (left) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. The purpose and functionality of autodesk's 3d Roller Ball control (right) is less obvious to me. 
+
+<figure class="half">
 
 <img src="/images/design-patent/autodesk-tour-building-wheel-design-patent.png" class="translucent">  
 
+<img src="/images/design-patent/auto-desk-3d-roller-ball-design-patent.png" class="translucent">  
+
+</figure>
+
+- - - 
 
 ### Icons
+
 Facebook has a design patent on its two-silhouette "friend" icon. Notice that every detail except the icon is shown in dashed lines. This design patent only covers the icon. 
 
 <img src="/images/design-patent/facebook-user-icon-design-patent.png" class="translucent">  

@@ -177,21 +177,38 @@ Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3)
 
 - - - 
 
-## Controls, Icons, Typography. 
+## Controls 
 
-Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. 
+Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) (left) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. The purpose and functionality of autodesk's 3d Roller Ball control (right) is less obvious to me. 
+
+<figure class="half">
 
 <img src="/images/design-patent/autodesk-tour-building-wheel-design-patent.png" class="translucent">  
 
-Facebook has a design patent on its two-silhouette "friend" icon. Notice that every detail except the icon is shown in dashed lines. This design patent only covers the icon. 
+<img src="/images/design-patent/auto-desk-3d-roller-ball-design-patent.png" class="translucent">  
 
-<img src="/images/design-patent/facebook-user-icon-design-patent.png" class="translucent">  
+</figure>
+
+- - - 
+
+## Fonts and Typography
 
 **Fonts** can be patented. Adobe regularly secures design patents for its fonts. 
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
+- - - 
+
+## Icons
+
+Facebook has a design patent on its two-silhouette "friend" icon. Notice that every detail except the icon is shown in dashed lines. This design patent only covers the icon. 
+
+<img src="/images/design-patent/facebook-user-icon-design-patent.png" class="translucent">  
+
+
 <hr class="tall">
+
+
 
 # Design Patents in Action: Apple v. Samsung
 
