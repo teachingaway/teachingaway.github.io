@@ -5,14 +5,12 @@ title: "User Interface Design Patents"
 tags: [design patent, patent]
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
-  credit:
-  creditlink:
+  credit: 
+  creditlink: 
 share: 
 ---
 
-**User Interface Design Patents**
 
-[[TOC]]
 
 # UI Design Patents
 
