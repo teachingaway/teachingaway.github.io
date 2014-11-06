@@ -54,9 +54,6 @@ Design patents protect works of industrial design. Famous designers have used de
 <img src="/images/design-patent/transport-plane-design-patent-DC3-1945.png" class="translucent">  
 
 
-<img src="/images/design-patent/tanker-desk-loewy-design-patent-1945.png" class="translucent">  
-
-<img src="/images/design-patent/aeron-chair-design-patent-1994.png" class="translucent">  
 
 
 
@@ -182,8 +179,15 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 ## Furniture Design Patents
 
-<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent"> 
+<img src="/images/design-patent/eames-chair-design-patent-1949.png" class="translucent"> 
 
+- - - 
+
+<img src="/images/design-patent/tanker-desk-loewy-design-patent-1945.png" class="translucent">  
+
+- - - 
+
+<img src="/images/design-patent/aeron-chair-design-patent-1994.png" class="translucent">  
 
 ## Technology Design Patents
 
@@ -194,8 +198,11 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 <img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent"> 
 
+- - - 
+
 <img src="/images/design-patent/dreyfuss-locomotive-design-patent-1939.png" class="translucent">
 
+- - - 
 
 ## Toys 
 
