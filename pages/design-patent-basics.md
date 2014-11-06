@@ -48,16 +48,28 @@ share:
 </div>
 
 
+Design patents protect works of industrial design. Famous designers have used design patents to protect iconic works, from the the DC-3 transport plane, to Adam Ziska's early Harley Davidson motorcycle, to Charles Eames' iconic furniture, to Clarence Fender's electric guitar, down to Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech design and digital design, like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
 
 
-Industrial designers and user interface designers occasionally run into design patents. Anyone investing in a new product design or interface should know some basic design patent law.
-
-User interface design patents can be particularly important. "[As far as the customer is concerned, the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide enormous market power.  
+<img src="/images/design-patent/transport-plane-design-patent-DC3-1945.png" class="translucent">  
 
 
-This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
+<img src="/images/design-patent/tanker-desk-loewy-design-patent-1945.png" class="translucent">  
+
+<img src="/images/design-patent/aeron-chair-design-patent-1994.png" class="translucent">  
+
+
+
+Anyone investing in a new product design or interface should know some basic design patent law.
+
+
+
+
+This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents stack up against utility patents, copyright and trademarks. Second, we give some **examples** of how companies use design patents to protect industrial design as well as digital design and UI/UX.  Finally, we discuss how design patents can be used to develop market power as part of a robust intellectual property **portfolio**. 
 
 If you ever find yourself on the receiving end of a design patent lawsuit, a little background knowledge can help contain the damage. 
+
+
 
 - - - 
 
@@ -201,7 +213,7 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 ## UI Design Patent Examples
 
-Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. Check out the examples below. I picked these images as teaching examples, not because they are particularly brilliant designs or even valid patents. They are just examples of how companies are using design patents to protect their UI. 
+Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. These UI design patents can be particularly important. "[As far as the customer is concerned, the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
 
 **Basics**. The Patent Office likes to call UI design patents "Generated Images" (short for computer-generated images).  The Patent Office also has a strange requirement that UI design patents need to be shown within a computer screen or some similar physical context. 
 
