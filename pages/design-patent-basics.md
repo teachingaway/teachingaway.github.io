@@ -356,15 +356,15 @@ Drill down into the design. How granular can you make the custom elements before
 
 If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
 
+<div class="gray-full-width">
 
-# Conclusion
+<h1> Conclusion</h1>
 
 Creating engaging design can be a slow, iterative, and research intensive process.  If you’re investing resources, and you want some degree of reasonable protection, consider a handful of design patents. 
 
+</div>
+
 - - - 
-
-
-
 
 But since the best UI designs tend to be [invisible](http://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible), UI design patents are a tricky animal. 
 
