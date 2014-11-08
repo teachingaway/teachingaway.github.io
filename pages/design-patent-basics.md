@@ -229,16 +229,22 @@ Adobe patented the layout of its iOS file selection system in [D’628](http://w
 
 <img src="/images/design-patent/adobe-ios-selection-design-patent.png" class="translucent">  
 
+- - - 
+
 Facebook is more aggressive with its dashed lines. [D’621](http://www.google.com/patents/USD691622), Facebook’s recent "status update" UI design patent uses dashed lines for the computer monitor and all of the text. The solid lines– showing the patented portion of the Facebooks UI–are limited to a  few rectangles. 
 
 <img src="/images/design-patent/facebook-status-update-ui-design-patent.png" class="translucent">  
+
+- - - 
 
 Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘[666](https://www.google.com/patents/USD668666) design patent (left) protects UI with a bottom row of icons. Other than the 4 icons, everything else is drawn in dashed lines. Apple’s [D’864](http://www.google.com/patents/usd660864) patent (right) is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
 
 <img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row-iphone-ipad-compare.png" class="translucent"> 
 
  
-**Google** has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (Don't try this at home)
+- - - 
+
+Google has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (Don't try this at home)
 
  
 
@@ -250,8 +256,6 @@ Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘
 <img src="/images/design-patent/google-search-box-gui-example.png" class="translucent">  
 
 </figure>
-
-Google has also patented the layout of its search results, of Google Maps elements like its "[teardrop shaped marker icon](https://www.google.com/patents/USD621413)", and of Android design elements like its [chat bubbles](https://www.google.com/patents/USD685384). Google even a patent on the layout of [Google Patents](https://www.google.com/patents/USD591304). 
 
 - - - 
 
@@ -268,27 +272,13 @@ Apple’s [iBooks page turn](https://www.google.com/patents/USD670713) is an ani
 <img src="/images/design-patent/ios-keyboard-animated-design-patent.png" class="translucent">  
 
 
-[Swipe to Unlock](http://www.google.com/patents/USD675639). Some people found the swipe to unlock design patent too bland and obvious to merit patent protection. Setting aside these objections, Swipe-to-Unlock is a good example of how to use a design patent to claim an animated UI element. 
+[Swipe to Unlock](http://www.google.com/patents/USD675639). Some people found the swipe to unlock design patent too bland and obvious to merit patent protection. Setting aside these objections, Swipe-to-Unlock is a good example of how to use a design patent to claim an animated UI element. Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3) and activated (fig.4). Many other animated UI design patents can be claimed with a similar series of drawings. 
+
 
 <img src="/images/design-patent/ios-slide-to-unlock-design-patent.png" class="translucent">  
 
-Most of the design patent is dashed lines. This carefully defines the patent rights, and limits them to the solid-line "swipe bar." (because of the dashed lines, this patent protects against use of a similar swipe bar, regardless of what the rest of the OS looks like). 
+Most of the design patent is dashed lines. This carefully defines the patent rights, and limits them to the solid-line "swipe bar." Because of the dashed lines, this patent protects Apple against use of *any* similar swipe bar, regardless of what the rest of the OS looks like.
 
-Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3) and activated (fig.4). Many other animated UI design patents can be claimed with a similar series of drawings. 
-
-- - - 
-
-### Controls 
-
-Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD%202010%20User%20Documentation/index.html?url=WS73099cc142f48755-4607e7cc11b1cfff571794.htm,topicNumber=d0e28487) (left) is a nice example of an arrangement of complicated controls. It uses different shapes and sizes to differentiate buttons. The purpose and functionality of autodesk's 3d Roller Ball control (right) is less obvious to me. 
-
-<figure class="half">
-
-<img src="/images/design-patent/autodesk-tour-building-wheel-design-patent.png" class="translucent">  
-
-<img src="/images/design-patent/auto-desk-3d-roller-ball-design-patent.png" class="translucent">  
-
-</figure>
 
 - - - 
 
@@ -304,7 +294,7 @@ Fonts can be patented. Adobe regularly secures design patents for its fonts. Thi
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
-- - - 
+<hr class="tall">
 
 
 # Design Patent Strategies
@@ -340,16 +330,27 @@ Drill down into the design. How granular can you make the custom elements before
 
 If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
 
-
+- - - 
 
 # Conclusion
 
 Creating engaging design can be a slow, iterative, and research intensive process.  If you’re investing resources, and you want some degree of reasonable protection, consider a handful of design patents. 
 
-
 - - - 
 
-But since the best UI designs tend to be [invisible](http://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible), UI design patents are a tricky animal. 
-
-Not every product needs to be "unique." Some designers shortcut painstaking design research and A/B testing by just imitating a popular design experience. When you intend to donate an original design concept to the public conversation, imitation is sincere flattery. Other products may remix and riff off your original designs. But the boundary between riffing and ripping-off is hard to define. Design patents, used carefully, can facilitate a design conversation while discouraging design plagiarism. 
+<!--Eric's Mailchimp Signup Form -->
+        
+       
+<div class="gray-full-width">
+<div>
+ <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
+  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;">
+    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
+  </div>
+  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
+</form>
+</div> <!-- End Eric's Mailchimp Signup Form -->
 
