@@ -13,12 +13,9 @@ share:
 
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
-<p class="big-text">DRAFT POST. Design patents protect works of industrial design for 15 years.</p>
+<p class="big-text">DRAFT POST.</p>
 
-Designers have registered design patents to protect iconic works like Adam Ziska's early Harley Davidson motorcycle, to Clarence Fender's electric guitar, to furniture, down to Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
-
-
-First, this page teaches the basics of **design patent law** and how design patents stack up against utility patents, copyright and trademarks. Second, it give some **examples** of how companies use design patents to protect industrial design as well as digital design and UI/UX.  Finally, we discuss how design patents can be used to develop market power as part of a robust intellectual property **portfolio**. 
+Design patents protect the *appearance* of a design, and the protection lasts for *15 years*. They are relatively inexpensive and a surprisingly effective. Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chair, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
 
 
 <div class="toc">
@@ -38,7 +35,6 @@ First, this page teaches the basics of **design patent law** and how design pate
 <li><a href="#ui-design-patent-examples">UI Design Patent Examples</a><ul>
 <li><a href="#ui-layouts">UI Layouts</a></li>
 <li><a href="#animated-ui-elements">Animated UI Elements</a></li>
-<li><a href="#controls">Controls</a></li>
 <li><a href="#icons">Icons</a></li>
 <li><a href="#fonts-and-typography">Fonts and Typography</a></li>
 </ul>
@@ -60,8 +56,6 @@ First, this page teaches the basics of **design patent law** and how design pate
 - - - 
 
 # Law of Design Patents
-
-Design patents protect the *appearance* of a design, and the protection lasts for *15 years*. They are relatively inexpensive, easy to enforce, and infringement can result in monetary penalties.  
 
 **Application Process**. Design patents take about a year from application to issuance (compare to 3-5 years for a utility patent). Budget about $3-4,000 in total costs for a typical UI design patent (a utility patent is more expensive, maybe $8-20,000). 
 
@@ -97,29 +91,15 @@ The design patent owner may also be awarded an "injunction" – a court order fo
 
 ## Design Patent Drawings
 
-The drawings are the heart of a design patent. They define the design that is being protected. 
+The drawings are the heart of a design patent. They define the design that is being protected. In design patent drawings, the difference between solid lines and dashed lines is critical. *Solid lines* identify the parts of the design that are actually protected by the patent. *Dashed lines* are used to show context or environment.
 
-In design patent drawings, the difference between solid lines and dashed lines is critical. *Solid lines* identify the parts of the design that are actually protected by the patent. *Dashed lines* are used to show context or environment.
-
-Solid lines represent protected design elements, but the more solid lines in a drawing, the narrower the protection it affords. This is a counterintuitive concept and merits some explanation. 
-
-More solid lines in a design patent drawing generates narrower protection because an infringing product must incorporate each element shown in solid lines, not just some of them. 
-
-Compare the "patent" drawing in the upper left to the “product in the upper-right. The patent shows a square and a triangle in solid lines. Since the product doesn’t have a triangle, its not infringing the patent. 
+Solid lines represent protected design elements, but the more solid lines in a drawing, the narrower the protection it affords. This is because a competitor's product is only infringing if it incorporates *every* element shown in solid lines. Here's a simplified example: 
 
 <img src="/images/design-patent/solid-v-dashed-line-in-design-patent-example.png" class="translucent">  
 
-Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle. Since the product has the matching square element, its infringing the design patent. 
+Compare the "patent" drawing in the upper left to the "product" in the upper-right. The patent (upper-left) shows a square and a triangle in solid lines. Since the product (upper-right) doesn’t have a triangle, its not infringing the patent. 
 
-More dashed lines leads to stronger protection. A real-life example from *Apple v. Samsung* will help explain: 
-
-<img src="/images/design-patent/iphone-v-samsung-lozenge-design-patent-compare.png" class="translucent">  
-
-Apple’s D’087 patent uses *solid* lines to depict the shape of its microphone (a rounded-rectangle) but *dashed* lines for its circular home button. This means that the circular home button (dashed) is not considered in the infringement analysis. Samsung’s phones can’t avoid infringement by using a non-circular home button. 
-
-The microphone in Apple’s patent is drawn in *solid* lines. So Samsung can only infringe if its product incorporates a microphone with the same rounded-rectangle shape. Samsung argued this point at trial, and highlighted the differences between the Samsung microphone shape and the Apple microphone shape. This would be a winning strategy for Samsung, if the shapes were actually different. The jury thought Samsung’s microphone was just another rounded-rectangle. Maybe if Samsung’s microphone was a pure rectangle it could have avoided design patent infringement. 
-
-Apple’s D’087 patent could have been even stronger by showing the microphone in dashed lines. If the microphone was shown in dashed lines, a competitors phone would be infringing if it used the design shown in solid lines, regardless of what shape it used for its microphone or home button. In short, dashed lines make design patents stronger by making it easier to prove infringement.  
+Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle. Since the product has the matching square element, it is infringing the design patent. More dashed lines leads to stronger protection. 
 
 - - - 
 
@@ -247,8 +227,6 @@ Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘
 Google has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (Don't try this at home)
 
  
-
-
 <figure class="half">
 
 <img src="/images/design-patent/google-search-box-design-patent.png" class="translucent">  
@@ -271,9 +249,7 @@ Apple’s [iBooks page turn](https://www.google.com/patents/USD670713) is an ani
 
 <img src="/images/design-patent/ios-keyboard-animated-design-patent.png" class="translucent">  
 
-
 [Swipe to Unlock](http://www.google.com/patents/USD675639). Some people found the swipe to unlock design patent too bland and obvious to merit patent protection. Setting aside these objections, Swipe-to-Unlock is a good example of how to use a design patent to claim an animated UI element. Swipe to unlock also shows the UI feature in two different modes: ready (fig. 3) and activated (fig.4). Many other animated UI design patents can be claimed with a similar series of drawings. 
-
 
 <img src="/images/design-patent/ios-slide-to-unlock-design-patent.png" class="translucent">  
 
