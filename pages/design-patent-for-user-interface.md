@@ -136,7 +136,7 @@ Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘
 
 Apple’s [D’864](http://www.google.com/patents/usd660864) patent is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
 
-<img src="/images/design-patent/ios-ipad-home-screen-design-patent.jpg" class="translucent">
+<img src="/images/design-patent/ios-ipad-home-screen-design-patent.png" class="translucent">
 
 **Google** has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (don't try this at home)
 

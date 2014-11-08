@@ -11,7 +11,15 @@ image:
 share: 
 ---
 
-<p class="big-text">DRAFT POST</p>
+<img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
+
+<p class="big-text">DRAFT POST. Design patents protect works of industrial design for 15 years.</p>
+
+Designers have registered design patents to protect iconic works like Adam Ziska's early Harley Davidson motorcycle, to Clarence Fender's electric guitar, to furniture, down to Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
+
+
+First, this page teaches the basics of **design patent law** and how design patents stack up against utility patents, copyright and trademarks. Second, it give some **examples** of how companies use design patents to protect industrial design as well as digital design and UI/UX.  Finally, we discuss how design patents can be used to develop market power as part of a robust intellectual property **portfolio**. 
+
 
 <div class="toc">
 <p>Contents</p>
@@ -46,25 +54,6 @@ share:
 <li><a href="#conclusion">Conclusion</a></li>
 </ul>
 </div>
-
-
-Design patents protect works of industrial design. Famous designers have used design patents to protect iconic works, from the the DC-3 transport plane, to Adam Ziska's early Harley Davidson motorcycle, to Charles Eames' iconic furniture, to Clarence Fender's electric guitar, down to Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech design and digital design, like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
-
-
-<img src="/images/design-patent/transport-plane-design-patent-DC3-1945.png" class="translucent">  
-
-
-
-
-
-Anyone investing in a new product design or interface should know some basic design patent law.
-
-
-
-
-This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents stack up against utility patents, copyright and trademarks. Second, we give some **examples** of how companies use design patents to protect industrial design as well as digital design and UI/UX.  Finally, we discuss how design patents can be used to develop market power as part of a robust intellectual property **portfolio**. 
-
-If you ever find yourself on the receiving end of a design patent lawsuit, a little background knowledge can help contain the damage. 
 
 
 
@@ -191,6 +180,10 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 ## Technology Design Patents
 
+<img src="/images/design-patent/iphone-5-and-ios-design-patent.png" class="translucent">  
+
+- - - 
+
 <img src="/images/design-patent/Rift-Design-patent.png" class="translucent"> 
 
 
@@ -204,35 +197,29 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 - - - 
 
-## Toys 
+<img src="/images/design-patent/transport-plane-design-patent-DC3-1945.png" class="translucent">  
+
+- - - 
+
+## Toys and Industrial Art
 
 <img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
+
+- - - 
+
+<img src="/images/design-patent/pencil-sharpener-design-loewy-1933.png" class="translucent"> 
 
 ## Musical Instruments
 
 <img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent"> 
 
 
-## Products and Industrial Design
-
-<img src="/images/design-patent/pencil-sharpener-design-loewy-1933.png" class="translucent"> 
+- - - 
 
 
 ## UI Design Patent Examples
 
-Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. These UI design patents can be particularly important. "[As far as the customer is concerned, the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
-
-**Basics**. The Patent Office likes to call UI design patents "Generated Images" (short for computer-generated images).  The Patent Office also has a strange requirement that UI design patents need to be shown within a computer screen or some similar physical context. 
-
-**Classification**. The Patent Office classifies patents by technology-type in a wonky, multi-tier taxonomy. UI design patents tend to fall within USPTO class [D14/486](http://www.uspto.gov/web/patents/classification/uspcd14/defsd14.htm#CD14S485000). Under the US patent classification system, D14/486 is defined to include: 
-
-* **D14**: Recording, Communication or Information Retrieval Equipment
-
-    * **D14/485 Generated Image**: Design for electronically produced symbol for computer that may be viewed on a computer screen.
-
-        * **D14/486 Drop down menu or full screen menu type**: Design for image that fills the entire display area of a computer screen or within a strictly defined area therein. 
-
-- - - 
+Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. These UI design patents are particularly important in modern design. "[As far as the customer is concerned, the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
 
 ### UI Layouts
 
@@ -248,16 +235,13 @@ Facebook is more aggressive with its dashed lines. [D’621](http://www.google.c
 
 Apple is famously aggressive in its pursuit of UI design patents. Apple’s  ‘[666](https://www.google.com/patents/USD668666) design patent (left) protects UI with a bottom row of icons. Other than the 4 icons, everything else is drawn in dashed lines. Apple’s [D’864](http://www.google.com/patents/usd660864) patent (right) is similarly sparse. It protects a UI with a few rows of icons, in the proportions of iOS on an iPad.  
 
-<figure class="half">
-
-<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row.png" class="translucent"> 
-
-<img src="/images/design-patent/ios-ipad-home-screen-design-patent.jpg" class="translucent">
-
-</figure>
+<img src="/images/design-patent/ios-design-patent-for-gui-with-4-icons-in-row-iphone-ipad-compare.png" class="translucent"> 
 
  
 **Google** has a design patent on its famously simple [landing page ](https://www.google.com/patents/USD599372)and search box ([discussed at Patently-O](http://www.patentlyo.com/patent/2009/09/googles-patent-on-its-googlecom-home-page.html) blog). While the "Google" logo is shown in broken lines, much of the other text is shown in solid lines. It would be fairly easy to design a search page that looked like Google but did not infringe on this particular design patent. (Don't try this at home)
+
+ 
+
 
 <figure class="half">
 
