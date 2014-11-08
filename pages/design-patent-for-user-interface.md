@@ -401,3 +401,22 @@ Drawings for dynamic user interactions show a series of static images like a "fl
 
 Apple’s strategy of using design patents to protect user interface elements worked with astonishing success in Apple’s [billion dollar ](http://www.patentlyo.com/patent/2012/08/apple-wins-105-billion-verdict.html)[win](http://arstechnica.com/tech-policy/2012/08/jury-returns-verdict-in-apple-v-samsung/) over Samsung. (note: this was later reduced to $600 million, then bumped back up to $900 million, with several issues still on appeal) But Apple isn’t the only company using this strategy. Google, Facebook, Microsoft, Adobe have hundreds of design patents on user interface (UI) elements as well as other components of their overall user experience (UX). 
 
+
+
+- - - 
+
+<!--Eric's Mailchimp Signup Form -->
+        
+       
+<div class="gray-full-width">
+<div>
+ <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
+  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;">
+    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
+  </div>
+  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
+</form>
+</div> <!-- End Eric's Mailchimp Signup Form -->

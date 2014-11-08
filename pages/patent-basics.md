@@ -63,7 +63,7 @@ There are several benefits. Its often cheaper to file a provisional application 
 
 Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
-<img src="/images/patent-drawings/harley-davidson-design-patent-1919.png" class="translucent">
+<img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent">
 
 ## Plant Patents 
 
@@ -85,6 +85,7 @@ The patent lawyer will quickly know whether she is the right lawyer for your inv
 
 * **Non-Disclosure Agreements**. Attorneys generally do not sign non-disclosure agreements with their clients. They aren't necessary. Attorney ethics obligations required us to keep important client information confidential anyway. Likewise, most [venture ](http://www.bothsidesofthetable.com/2009/07/26/on-ndas-and-confidentiality/) [capitalists](http://www.feld.com/archives/2006/02/why-most-vcs-dont-sign-ndas.html) with not sign an NDA. This isn't because of their ethics obligations, it's just because they don't want to deal with the hassle. Lawyers and VC's aside, everyone else should be signing reasonable-scope NDAs. This is particularly important before a patent application is filed.
 
+<img src="/images/patent-drawings/satellite-structure-baumann-1958.png" class="translucent">
 
 # Patent Application Process
 
@@ -128,7 +129,8 @@ In general, a patent is initially owned by its "inventor" or "joint inventors." 
 The default ownership rules for "joint inventors" can be messy. Fortunately, co-inventors can sidestep the messy default rules by assigning their ownership interests to a company (perhaps a company where they own an equal share of stock).  
 
 
-- - - 
+<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+
 
 # Who are the "Inventors"?  
 
@@ -174,6 +176,8 @@ To qualify for a patent, a technology must be "non-obvious." That is, at the tim
 (Graham Patent from [*Graham v. John Deere*, 383 US 1 (1966)](http://scholar.google.com/scholar_case?case=9105652591497305710).)
 
 
+
+
 - - - 
 
 ### New Use for an Existing Product
@@ -199,4 +203,23 @@ Some important sections are [Obviousness](../mpep/s2141.html), [written descript
 
 - - - 
 
-<img src="/images/patent-drawings/bottle-washing-machine-1907.jpg" class="translucent">
+
+
+
+- - - 
+
+<!--Eric's Mailchimp Signup Form -->
+        
+       
+<div class="gray-full-width">
+<div>
+ <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
+  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;">
+    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
+  </div>
+  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
+</form>
+</div> <!-- End Eric's Mailchimp Signup Form -->

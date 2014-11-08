@@ -51,7 +51,23 @@ Even if a mark is not "inherently distinctive", it can still "acquire distinctiv
  
 
 
+- - - 
 
+<!--Eric's Mailchimp Signup Form -->
+        
+       
+<div class="gray-full-width">
+<div>
+ <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
+  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;">
+    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
+  </div>
+  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
+</form>
+</div> <!-- End Eric's Mailchimp Signup Form -->
 
 
 

@@ -101,3 +101,24 @@ We have won several trademark registration appeals, even where the original atto
 ## Trademark Non-Infringement Opinions
 
 A trademark non-infringement opinion carefully analyzes your trademark to an existing trademark registration or common law trademark. If the analysis determines your mark is not infringing, it offers some piece of mind against future lawsuits, and demonstrates that you are operating in good faith. Even if a court eventually determines that your brand is infringing a trademark, the existence of the legal analysis and opinion can reduce the penalties. “A party who acts in reasonable reliance on the advice of counsel regarding a close question of trademark law generally does not act in bad faith.” [*Sands, Taylor & Wood Co. v. Quaker Oats Co.*, 978 F.2d 947 (7th Cir. 1992)](http://scholar.google.com/scholar_case?case=15288369877381273970).
+
+
+
+
+- - - 
+
+<!--Eric's Mailchimp Signup Form -->
+        
+       
+<div class="gray-full-width">
+<div>
+ <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+ <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
+  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
+  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+  <div style="position: absolute; left: -5000px;">
+    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
+  </div>
+  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
+</form>
+</div> <!-- End Eric's Mailchimp Signup Form -->
