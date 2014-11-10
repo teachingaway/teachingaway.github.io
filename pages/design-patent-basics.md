@@ -11,11 +11,13 @@ image:
 share: 
 ---
 
+
+<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective.</p>
+
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
-<p class="big-text">DRAFT POST.</p>
 
-Design patents protect the *appearance* of a design for *15 years*. They are relatively inexpensive and a surprisingly effective. Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chair, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
+Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chairs, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
 
 
 <div class="toc">
