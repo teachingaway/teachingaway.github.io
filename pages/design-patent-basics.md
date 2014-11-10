@@ -158,6 +158,8 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 <img src="/images/design-patent/aeron-chair-design-patent-1994.png" class="translucent">  
 
+- - - 
+
 ## Technology Design Patents
 
 <img src="/images/design-patent/iphone-5-and-ios-design-patent.png" class="translucent">  
@@ -181,13 +183,19 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 - - - 
 
-## Toys and Industrial Art
+## Toys and Tools
 
 <img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
 
 - - - 
 
 <img src="/images/design-patent/pencil-sharpener-design-loewy-1933.png" class="translucent"> 
+
+- - - 
+
+<img src="/images/design-patent/vacuum-electrolux-design-patent-1934.png" class="translucent"> 
+
+- - - 
 
 ## Musical Instruments
 
