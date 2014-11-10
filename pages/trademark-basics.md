@@ -270,7 +270,7 @@ _Database Timeouts_ - The US Trademark Database will timeout after  5 idle minut
 <!--Eric's Mailchimp Signup Form -->
         
        
-<div class="gray-full-width">
+<div class="">
 <div>
  <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
  <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>

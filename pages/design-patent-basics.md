@@ -5,8 +5,8 @@ title: "Design Patent Law Fundamentals"
 modified: 2014-06-09 17:08
 tags: [patent]
 image:
-  feature: /wide/default-image.png
-  credit: company folders
+  feature: /wide/1by1white.png
+  credit: 
   creditlink: 
 share: 
 ---
@@ -19,7 +19,6 @@ Design patents protect the *appearance* of a design for *15 years*. They are rel
 
 
 <div class="toc">
-<p>Contents</p>
 <ul>
 <li><a href="#law-of-design-patents">Law of Design Patents</a><ul>
 <li><a href="#design-patent-drawings">Design Patent Drawings</a></li>
@@ -32,6 +31,11 @@ Design patents protect the *appearance* of a design for *15 years*. They are rel
 </ul>
 </li>
 <li><a href="#examples-of-design-patents">Examples of Design Patents</a><ul>
+<li><a href="#furniture-design-patents">Furniture Design Patents</a></li>
+<li><a href="#technology-design-patents">Technology Design Patents</a></li>
+<li><a href="#vehicles">Vehicles</a></li>
+<li><a href="#toys-and-tools">Toys and Tools</a></li>
+<li><a href="#musical-instruments">Musical Instruments</a></li>
 <li><a href="#ui-design-patent-examples">UI Design Patent Examples</a><ul>
 <li><a href="#ui-layouts">UI Layouts</a></li>
 <li><a href="#animated-ui-elements">Animated UI Elements</a></li>
