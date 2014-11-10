@@ -15,7 +15,7 @@ share:
 
 <p class="big-text">DRAFT POST.</p>
 
-Design patents protect the *appearance* of a design, and the protection lasts for *15 years*. They are relatively inexpensive and a surprisingly effective. Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chair, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
+Design patents protect the *appearance* of a design for *15 years*. They are relatively inexpensive and a surprisingly effective. Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chair, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
 
 
 <div class="toc">
@@ -57,17 +57,17 @@ Design patents protect the *appearance* of a design, and the protection lasts fo
 
 # Law of Design Patents
 
-**Application Process**. Design patents take about a year from application to issuance (compare to 3-5 years for a utility patent). Budget about $3-4,000 in total costs for a typical UI design patent (a utility patent is more expensive, maybe $8-20,000). 
+**Application Process**. The design patent application is relatively simple. The most important component is a good set of drawings. The application process takes about a year from application to issuance (compare to 3-5 years for a utility patent). Budget about $2-3,000 in total costs for most design patents, and perhaps a little more for UI design patent. This is much cheaper than a utility patent, which runs between $8-20,000. 
 
-**Somewhat Non-Functional.** Where utility patents protection functional inventions, design patents protect non-functional inventions. Or at least mostly-non-functional inventions. The Design Patent Statute limits protection to the "ornamental" design of a product. But courts interpret “*ornamental*” to really mean “*non-functional*.” Other courts have further interpreted “non-functional designs” to mean something like any design that is not entirely dictated by function. In practice, most UI elements are eligible for design patent protection, even if the designs are partly functional. 
+**Non-Functional.** Where *utility* patents protection functional inventions, *design* patents protect "non-functional" inventions. Non-functional is defined loosely. The Design Patent Statute limits protection to the "ornamental" design of a product, but courts interpret “*ornamental*” to really mean “*non-functional*.” Other courts have further interpreted “non-functional designs” to mean something like any design that is not entirely dictated by function. In practice, most industrial designs are eligible for design patent protection, even if the designs are partly functional. 
 
-A design will only be non-patentable if its overall appearance is "dictated by function." That is, if the design is governed *solely* by the product’s function, the design cannot be patented. On the other hand, if alternative designs are available for performing the same function, the design is [not dictated ](http://scholar.google.com/scholar_case?case=5349194340358969962)solely by its function, and it can be patented.
+  * The patent statute says design patents are available to protect the "[ornamental design for an article of manufacture](http://www.law.cornell.edu/uscode/text/35/171)."
 
-* The patent statute says design patents are available to protect the "[ornamental design for an article of manufacture](http://www.law.cornell.edu/uscode/text/35/171)."
+  * which really means design patents protect "non-functional designs"
 
-* which really means design patents protect "non-functional designs"
+  * which really means that design patents protect anything except designs solely "dictated by function."  
 
-* which really means that design patents protect anything except designs solely "dictated by function."  
+A design's *functionality* will only make it non-patentable if its overall appearance is "dictated by function." That is, if the design is governed *solely* by the product’s function, the design cannot be patented. On the other hand, if alternative designs are available for performing the same function, the design is [not dictated ](http://scholar.google.com/scholar_case?case=5349194340358969962) solely by its function, and it can be patented.
 
 **Easy Litigation**. Design patents are easy to enforce. The legal issues simply involve comparing the plaintiff’s design patent drawings to the defendant’s product. It doesn’t take an expensive team of experts to detect infringement or bring a case to trial. (Although expensive experts are often used in high-stakes design patent litigation, they are not necessarily required.) A judge or jury can simply compare the pictures in the plaintiff’s design patent to the defendant’s product.
 
@@ -161,6 +161,11 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 - - - 
 
 ## Technology Design Patents
+
+
+<img src="/images/design-patent/iphone-4-design-patent-with-solid-button.png" class="translucent">  
+
+- - - 
 
 <img src="/images/design-patent/iphone-5-and-ios-design-patent.png" class="translucent">  
 
