@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /design-patent-law/
-title: "Design Patent Law Fundamentals"
+title: "Design Patent Law"
 modified: 2014-06-09 17:08
 tags: [patent]
 image:
@@ -12,7 +12,7 @@ share:
 ---
 
 
-<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective.</p>
+<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective, for both industrial design and digital user interface design.</p>
 
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
@@ -182,6 +182,11 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 <img src="/images/design-patent/Rift-Design-patent.png" class="translucent"> 
 
+- - - 
+
+<img src="/images/design-patent/computer-imac-2014-design-patent.png" class="translucent"> 
+
+- - - 
 
 ## Vehicles 
 
@@ -208,6 +213,11 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 - - - 
 
 <img src="/images/design-patent/vacuum-electrolux-design-patent-1934.png" class="translucent"> 
+
+- - - 
+
+<img src="/images/design-patent/telephone-design-patent-loewy-1949.png" class="translucent"> 
+
 
 - - - 
 
@@ -313,6 +323,11 @@ Identify the portions of the design that are most likely to attract consumers. E
 Design patents can also be used to jump-start trade dress protection. While design patents last for 15 years, trade dress does not expire until the product design is abandoned.  
 
 Design patents can also be combined with copyright protection. Designers should consider registration of the copyright in their designs, as a 3 dimensional sculpture, to further bolster the intellectual property portfolio. 
+
+Packaging. Design patents can touch nearly any part of the user experience. Companies that invest in their packaging design and unboxing experience should strongly consider design patent applications for their packaging. 
+
+<img src="/images/design-patent/macbook-unboxing-design-patent-2014.png" class="translucent">  
+
 
 ## Digital User Interface Design Patent Strategies
 
