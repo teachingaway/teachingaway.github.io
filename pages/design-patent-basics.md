@@ -61,11 +61,11 @@ Design patents protect the *appearance* of a design for *15 years*. They are rel
 
 **Non-Functional.** Where *utility* patents protection functional inventions, *design* patents protect "non-functional" inventions. Non-functional is defined loosely. The Design Patent Statute limits protection to the "ornamental" design of a product, but courts interpret “*ornamental*” to really mean “*non-functional*.” Other courts have further interpreted “non-functional designs” to mean something like any design that is not entirely dictated by function. In practice, most industrial designs are eligible for design patent protection, even if the designs are partly functional. 
 
-  * The patent statute says design patents are available to protect the "[ornamental design for an article of manufacture](http://www.law.cornell.edu/uscode/text/35/171)."
+   * The patent statute says design patents are available to protect the "[ornamental design for an article of manufacture](http://www.law.cornell.edu/uscode/text/35/171)."
 
-  * which really means design patents protect "non-functional designs"
+   * which really means design patents protect "non-functional designs"
 
-  * which really means that design patents protect anything except designs solely "dictated by function."  
+   * which really means that design patents protect anything except designs solely "dictated by function."  
 
 A design's *functionality* will only make it non-patentable if its overall appearance is "dictated by function." That is, if the design is governed *solely* by the product’s function, the design cannot be patented. On the other hand, if alternative designs are available for performing the same function, the design is [not dictated ](http://scholar.google.com/scholar_case?case=5349194340358969962) solely by its function, and it can be patented.
 
@@ -77,13 +77,13 @@ A design's *functionality* will only make it non-patentable if its overall appea
 
 The closer the plaintiff’s design patent is to any prior art designs, the harder it is to show the defendant’s product is infringing. Where the prior art is similar to the design patent, even small differences between the design patent and the defendant’s design become important. "The ordinary observer, however, will likely attach importance to those differences depending on the overall effect of those differences on the design." [*Crocs v. Int’l Trade Commission*](http://scholar.google.com/scholar_case?case=8466727333574506240). 
 
-In litigation, defendants frequently use prior art to reduce the potency of the plaintiff’s design patents. When Apple alleged that Samsung’s Galaxy tab infringed an iPad design patent, Samsung replied by digging up examples of prior art tablets. 
+In litigation, defendants frequently use prior art to chip away at the plaintiff’s design patents. For example, when Apple alleged that Samsung’s "Galaxy Tab" infringed an iPad design patent, Samsung replied by digging up examples of prior art tablets: 
 
 <img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" class="translucent">  
 
 Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. 
 
-**Infringement Consequences**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profit*](http://www.law.cornell.edu/uscode/text/35/289).”
+**Penalty for Infringement**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profit*](http://www.law.cornell.edu/uscode/text/35/289).”
 
 The design patent owner may also be awarded an "injunction" – a court order forbidding the defendant from selling any products that use the plaintiff’s patented design.
 
@@ -111,11 +111,15 @@ Design patents are a strange amalgam of utility patents, copyrights, and tradema
 
 A utility patent protects *functional* aspects of an invention, while a design patent protects new *nonfunctional designs*. As the [statute](http://www.law.cornell.edu/uscode/text/35/171) puts it, any "new, original and ornamental design for an article of manufacture" may be granted a 15 year design patent.
 
-Design patent applications are cheaper and faster than utility patent applications. A design patent application costs about $3-4,000 (total) and takes about a year to issue. A utility patent application costs between $8,000-20,000 (total) and lingers in the Patent Office for around 3 years before being issued as a patent. 
+Design patent applications are cheaper and faster than utility patent applications. A design patent application costs about $2-4,000 (total) and takes about a year to issue. A utility patent application costs between $8,000-20,000 (total) and lingers in the Patent Office for around 3 years before being issued as a patent. 
 
-To distinguish between a utility patent and a design patent, look at the patent number. If it starts with the letter "D" or “USD”, its a design patent. The design patent document is generally much shorter than a utility patent document. Design patents have a page or two of text followed by several drawings. Utility patents are bloated with long-winded written descriptions. 
+To distinguish between a utility patent and a design patent, look at the patent number. If it starts with the letter "D" or “USD”, it's a design patent. The design patent document is generally much shorter than a utility patent document. Design patents have a page or two of text followed by several drawings. Utility patents are bloated with long-winded written descriptions of technology and prior art. 
 
-Interactive UI design elements can be protected with by both utility patents and design patents. For example, [pull-to-refresh](https://www.google.com/patents/US8448084) is a utility patent.  As is Apple’s [pinch-to-zoom](http://www.google.com/patents/US7469381) patent. 
+Many designs can be protected by other design patents and utility patents. For example, this Eames Chair was patented as both a design patent and utility patent: 
+
+src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">  
+
+Likewise, interactive UI design elements can be protected by both utility patents and design patents. For example, [pull-to-refresh](https://www.google.com/patents/US8448084) is a utility patent.  As is Apple’s [pinch-to-zoom](http://www.google.com/patents/US7469381) patent. 
 
 ### Copyright vs. Design Patents
 
@@ -330,7 +334,7 @@ Creating engaging design can be a slow, iterative, and research intensive proces
 <!--Eric's Mailchimp Signup Form -->
         
        
-<div class="gray-full-width">
+<div class="">
 <div>
  <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
  <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
