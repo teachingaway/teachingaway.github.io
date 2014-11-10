@@ -22,7 +22,7 @@ Designers have used these patents to protect iconic works like Clarence Fender's
 
 <div class="toc">
 <ul>
-<li><a href="#law-of-design-patents">Law of Design Patents</a><ul>
+<li><strong><a href="#law-of-design-patents">Law of Design Patents</a></strong><ul>
 <li><a href="#design-patent-drawings">Design Patent Drawings</a></li>
 <li><a href="#design-patents-compared-to-other-intellectual-property">Design Patents Compared to Other Intellectual Property</a><ul>
 <li><a href="#utility-patent-vs-design-patent">Utility Patent vs. Design Patent</a></li>
@@ -32,7 +32,7 @@ Designers have used these patents to protect iconic works like Clarence Fender's
 </li>
 </ul>
 </li>
-<li><a href="#examples-of-design-patents">Examples of Design Patents</a><ul>
+<li><strong><a href="#examples-of-design-patents">Examples of Design Patents</a></strong><ul>
 <li><a href="#furniture-design-patents">Furniture Design Patents</a></li>
 <li><a href="#technology-design-patents">Technology Design Patents</a></li>
 <li><a href="#vehicles">Vehicles</a></li>
@@ -47,7 +47,7 @@ Designers have used these patents to protect iconic works like Clarence Fender's
 </li>
 </ul>
 </li>
-<li><a href="#design-patent-strategies">Design Patent Strategies</a><ul>
+<li><strong><a href="#design-patent-strategies">Design Patent Strategies</a></strong><ul>
 <li><a href="#design-patent-strategies-for-industrial-design">Design Patent Strategies for Industrial Design</a></li>
 <li><a href="#digital-user-interface-design-patent-strategies">Digital User Interface Design Patent Strategies</a></li>
 <li><a href="#when-to-start-the-design-patent-process">When to Start the Design Patent Process</a></li>
