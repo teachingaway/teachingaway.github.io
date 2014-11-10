@@ -315,15 +315,13 @@ Since design patents provide a potent legal right, and are relatively affordable
 
 ## Design Patent Strategies for Industrial Design 
 
-When developing a product, think about which design features are new and innovative, and which design features will entice consumers to make a purchase. Where there is overlap, a design patent may be appropriate. 
+When developing a product, think about which design features are new and innovative, and which design features will entice consumers to make a purchase. Where there is overlap, a design patent may be appropriate. Identify the portions of the design that are most likely to attract consumers. Each of these portions may merit its own separate design patent. In these separate design patents, most of the overall design should be depicted in dashed lines, while only the individual highlighted component is shown in solid lines. 
 
-Identify the portions of the design that are most likely to attract consumers. Each of these portions may merit its own separate design patent. In these separate design patents, most of the overall design should be depicted in dashed lines, while only the individual highlighted component is shown in solid lines. 
+**Combine with Trade Dress**. Design patents can also be used to jump-start trade dress protection. While design patents last for 15 years, trade dress does not expire until the product design is abandoned.  
 
-Design patents can also be used to jump-start trade dress protection. While design patents last for 15 years, trade dress does not expire until the product design is abandoned.  
+**Combine with Copyright**. Design patents can also be combined with copyright protection. Designers should consider registration of the copyright in their designs, as a 3 dimensional sculpture, to further bolster the intellectual property portfolio. 
 
-Design patents can also be combined with copyright protection. Designers should consider registration of the copyright in their designs, as a 3 dimensional sculpture, to further bolster the intellectual property portfolio. 
-
-Packaging. Design patents can touch nearly any part of the user experience. Companies that invest in their packaging design and unboxing experience should strongly consider design patent applications for their packaging. 
+**Packaging**. Design patents can touch nearly any part of the user experience. Companies that invest in their packaging design and unboxing experience should strongly consider design patent applications for their packaging. 
 
 <img src="/images/design-patent/macbook-unboxing-design-patent-2014.png" class="translucent">  
 
