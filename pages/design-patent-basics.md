@@ -122,7 +122,7 @@ To distinguish between a utility patent and a design patent, look at the patent 
 
 Many designs can be protected by other design patents and utility patents. For example, this Eames Chair was patented as both a design patent and utility patent: 
 
-src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">  
+<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">  
 
 Likewise, interactive UI design elements can be protected by both utility patents and design patents. For example, [pull-to-refresh](https://www.google.com/patents/US8448084) is a utility patent.  As is Apple’s [pinch-to-zoom](http://www.google.com/patents/US7469381) patent. 
 
@@ -134,9 +134,8 @@ Copyright can protect many types of creative works, but this discussion will be 
 
 **Duration.** Copyright protection lasts longer. Design patents protect industrial design for 15 years. Copyrights protect works of creative authorship for 95 years (often more, but sometimes less, according to some [complicated rules](http://www.copyright.gov/help/faq/faq-duration.html)).
 
-**Infringement**. The rules for infringement are different. Copyright infringement requires "copying." That is, an infringer must have seen the original copyrighted work at some point. Design patents can be infringed by sheer coincidence. For example, someone who has never seen an iPhone or Apple’s design patents can still infringe them. And, unlike copyright, there is no “fair use” defense for design patent infringement.
+**Infringement**. A copyright can only be infringed if there is "copying." That is, the infringer must have *seen* the original copyrighted work at some point. Coincidental similarity is not enough for copyright infringement.  Design patents can be infringed by sheer coincidence. For example, someone who has never seen an iPhone or Apple’s design patents can still infringe them. Unlike copyright, there is no “fair use” defense for design patent infringement.
 
-Copyright only protects designs that have been expressed in a "tangible medium." That is, the design needs to be real and actually executed. A design patent doesn't. A design patent can protect a purely hypothetical design; a design that hasn't yet been executed in a product. 
 
 ### Trademark vs. Design Patent
 
