@@ -338,12 +338,9 @@ Produce several drawings, and carefully distinguish the custom UI design element
 
 Drill down into the design. How granular can you make the custom elements before they just become standard design objects? If you can identify several granular UI levels that are not just off-the-shelf elements, you can file several design patents. In each of these design patents, only one of the granular design components should be depicted in solid lines. 
 
-If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier utility patent application filing date (that is, the potential universe of prior art that can be used against your design patent is limited to prior art dated before your earlier utility patent). 
+If you have existing *utility* patent applications, you can use them as a springboard for design patents. You can pull *design* patents out of the existing utility patent drawings, and even benefit from the earlier filing date of your utility patent application. 
 
 A company’s unique UI design may be one of its most valuable assets. Without design patents, the UI design may be left unprotected. *Copyrights* alone are not enough. While copyright can protect creative designs, copying is subject to a number of fair use limitations. *Trademarks* alone are not enough. This type of trademark right, called "trade dress", is difficult to establish. It generally requires 5 years of heavy marketing to properly associate a startup’s UI design with its brand, and thus achieve some level of trade dress protection ([some exceptions apply](http://scholar.google.com/scholar_case?&case=12034599115584297601)).  
-
-Design patents can be used in combination with utility patents, trademarks and copyrights. These different types of intellectual property provide overlapping protections and result in more robust protection and opportunities for enforcement. 
-
 
 
 
