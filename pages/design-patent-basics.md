@@ -12,7 +12,7 @@ share:
 ---
 
 
-<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective, for both industrial design and digital user interface design.</p>
+<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design (bits) and industrial design (atoms).</p>
 
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
@@ -99,7 +99,7 @@ Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s �
 
 For example, if a company sells a boat, and just the windshield of the boat infringes a "marine windshield" design patent, the patent owner is entitled to recover the "*total profit*" from the sale of the infringing boat. 
 
-  > Congress removed the apportionment requirement in 1887, with the enactment of what later became § 289. Design patent owners are no longer required "to apportion the infringer's profits between the patented design and the article bearing the design." The intent of Congress to allow more expansive recovery for design patent owners is exhibited in the plain language of the statute, which allows recovery of "total profit" from anyone who sells "any article of manufacture to which such design or colorable imitation has been applied." 35 U.S.C. § 289. In this case, Malibu sells boats, to which patented windshields have been applied. The plain language and intent of the statute support a conclusion that Pacific is entitled to Malibu's profits from the **sale of its boats with the windshield**. [*Pacific Coast Marine Windshields, Ltd. v. Malibu Boats, LLC*, (MD Fl Aug 22, 2014)](http://scholar.google.com/scholar_case?case=6964129924184456590)(emphasis added, internal citations omitted).
+  > Congress removed the apportionment requirement in 1887... Design patent owners are no longer required "to apportion the infringer's profits between the patented design and the article bearing the design." The intent of Congress to allow more expansive recovery for design patent owners is exhibited in the plain language of the statute, which allows recovery of "total profit" from anyone who sells "any article of manufacture to which such design or colorable imitation has been applied." 35 U.S.C. § 289. In this case, Malibu sells boats, to which patented windshields have been applied. The plain language and intent of the statute support a conclusion that Pacific is entitled to Malibu's profits from the sale of its boats with the windshield. [*Pacific Coast Marine Windshields, Ltd. v. Malibu Boats, LLC*, (MD Fl Aug 22, 2014)](http://scholar.google.com/scholar_case?case=6964129924184456590) (citations omitted).
 
 The design patent owner may also be awarded an "injunction" – a court order forbidding the defendant from selling any products that use the plaintiff’s patented design.
 
