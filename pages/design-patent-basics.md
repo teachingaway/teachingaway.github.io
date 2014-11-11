@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /design-patent-law/
-title: "Design Patent Law"
+title: "Design Patent Law for Bits and Atoms"
 modified: 2014-06-09 17:08
 tags: [patent]
 image:
