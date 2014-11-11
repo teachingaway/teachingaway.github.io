@@ -104,7 +104,7 @@ Solid lines represent protected design elements, but the more solid lines in a d
 
 Compare the "patent" drawing in the upper left to the "product" in the upper-right. The patent (upper-left) shows a square and a triangle in solid lines. Since the product (upper-right) doesn’t have a triangle, its not infringing the patent. 
 
-Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle. Since the product has the matching square element, it is infringing the design patent. More dashed lines leads to stronger protection. 
+Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle. Since the product has the matching square elemenft, it is infringing the design patent. More dashed lines leads to stronger protection. 
 
 - - - 
 
@@ -230,7 +230,7 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 
 ## UI Design Patent Examples
 
-Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. These UI design patents are particularly important in modern design. "[As far as the customer is concerned, the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
+Design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. These UI design patents are particularly important in modern design. "As far as the customer is concerned, [the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
 
 ### UI Layouts
 
@@ -297,13 +297,17 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 ### Fonts and Typography 
 
-Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts themselves (although copyright will protect the *software* that draws fonts). Here's one design patent from Robert Slimbach (for an italic Garamond?) and another from Charles Bigelow and Kris Holmes (for an lucida sans?). 
+Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts themselves (although copyright will protect the *software* that draws fonts). Here are two examples of typeface design patents. The first is from Robert Slimbach, and I think it's for an italic Garamond(?). The second is from Charles Bigelow and Kris Holmes, for a Lucida Sans(?). 
 
 <img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
 
 - - - 
 
 <img src="/images/design-patent/typeface-patent-bigelow-and-holmes-lucida-1987.png" class="translucent">  
+
+- - - 
+
+In addition to UI layouts, dashboards, animations, transitions, icons and typography, design patents can be used to protect nearly any other type of UI or UX element. 
 
 
 <hr class="tall">
