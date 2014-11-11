@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /design-patent-law/
-title: "Design Patent Law for Bits and Atoms"
+title: "Design Patents for Bits and Atoms"
 modified: 2014-06-09 17:08
 tags: [patent]
 image:
@@ -12,7 +12,7 @@ share:
 ---
 
 
-<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design (bits) and industrial design (atoms).</p>
+<p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design (the bits) and industrial design (the atoms).</p>
 
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
