@@ -17,10 +17,9 @@ share: true
 
 <p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design (the bits) and industrial design (the atoms).</p>
 
-<img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
-
-
 Designers have used these patents to protect renowned works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' iconic chairs, and even Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
+
+<img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
 
 <div class="toc">
