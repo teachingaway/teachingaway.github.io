@@ -17,7 +17,7 @@ share:
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
 
-Designers have used these patents to protect iconic works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' simple chairs, and even Godtfred Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
+Designers have used these patents to protect renowned works like Clarence Fender's electric guitar, Adam Ziska's early Harley Davidson motorcycle, Charles Eames' iconic chairs, and even Christiansen's little lego man. Design patents also protect moderns works of high-tech and digital design like Google's famously simple search interface, and of course, every iteration of Steve Jobs and Jony Ives' iPhone. 
 
 
 <div class="toc">
@@ -62,6 +62,7 @@ Designers have used these patents to protect iconic works like Clarence Fender's
 
 # Law of Design Patents
 
+
 **Application Process**. The design patent application is relatively simple. The most important component is a good set of drawings. The application process takes about a year from application to issuance (compare to 3-5 years for a utility patent). Budget about $2-3,000 in total costs for most design patents, and perhaps a little more for UI design patent. This is much cheaper than a utility patent, which runs between $8-20,000. 
 
 **Non-Functional.** Where *utility* patents protection functional inventions, *design* patents protect "non-functional" inventions. Non-functional is defined loosely. The Design Patent Statute limits protection to the "ornamental" design of a product, but courts interpret “*ornamental*” to really mean “*non-functional*.” Other courts have further interpreted “non-functional designs” to mean something like any design that is not entirely dictated by function. In practice, most industrial designs are eligible for design patent protection, even if the designs are partly functional. 
@@ -86,9 +87,9 @@ In litigation, defendants frequently use prior art to chip away at the plaintiff
 
 <img src="/images/design-patent/ipad-v-galaxy-tab-fidler-design-patent-compare.jpg" class="translucent">  
 
-Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. 
+Samsung was making a simple argument: the Galaxy tab doesn’t copy Apple’s ‘889 design patent, its just using public-domain design elements like the prior art like the  a rectangle with rounded corners found in the 1994 "Fiddler" tablet. (It was a well-reasoned argument, but did not persuade the jury, who returned a verdict in Apple's favor to the tune of a billion dollars). 
 
-**Penalty for Infringement**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “*[total profit*](http://www.law.cornell.edu/uscode/text/35/289).”
+**Penalty for Infringement**. The penalties for *design* patent infringement are large, and often larger than the damages in a comparable *utility* patent case.  This is because design patent damages are not "apportioned." In utility patent cases, [damages](http://www.law.cornell.edu/uscode/text/35/284) are awarded in proportion to the extent that the infringing feature drove the defendant’s profits. But for design patent infringement, there is no such reduction. Instead, the plaintiff is awarded the infringer’s “[total profit](http://www.law.cornell.edu/uscode/text/35/289).”
 
 The design patent owner may also be awarded an "injunction" – a court order forbidding the defendant from selling any products that use the plaintiff’s patented design.
 
@@ -146,9 +147,6 @@ Trade dress, a branch of trademark law, can also protect the non-functional appe
 **Functionality**. Trade dress only protects non-functional aspects of a design. Like copyright law (and unlike design patent law), this prohibition against protecting functional design elements is strictly enforced. In litigation, a trade dress plaintiff is required to prove that the trade dress is non-functional. In design patent litigation, a judge will presume the plaintiff’s design patent is nonfunctional, and the defendant can only disprove it with clear and convincing evidence.  
 
 **Perpetual**. Trade dress rights, once established, can be perpetual. Unlike design patents, trade dress rights do not have a set expiration date. Trade dress rights will only expire when a company stops using the trade dress designs to sell a product. 
-
-**For Particular Products**. Each grant of trade dress rights is limited to a particular type or category of product. Design patents are not so narrowly limited. For example, Google’s trade dress rights for its  landing page will prevent other people from using a similar design for a search engine, but perhaps not from using a similar design for a launchrock page, where the simple input box is for an email signup rather than search input (This is just an example, don’t try this at home).  
-
 
 - - - 
 
