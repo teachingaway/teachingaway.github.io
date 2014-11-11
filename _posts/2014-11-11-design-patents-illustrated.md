@@ -1,15 +1,18 @@
 ---
-layout: page
-permalink: /design-patent-law/
+layout: post
+bloglist: "yes"
 title: "Design Patents for Bits and Atoms"
-modified: 2014-06-09 17:08
-tags: [patent]
+summary: "Design patents protect the appearance of a design for 15 years. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design and industrial design."
+tags: [patent, design patent]
+author: adler
 image:
   feature: /wide/1by1white.png
-  credit: 
-  creditlink: 
-share: 
+  credit:
+  creditlink:
+comments: true
+share: true
 ---
+
 
 
 <p class="big-text">Design patents protect the <em>appearance</em> of a design for <em>15 years</em>. They are relatively inexpensive and a surprisingly effective legal tool, for both digital user interface design (the bits) and industrial design (the atoms).</p>
@@ -411,20 +414,3 @@ A company’s unique UI design may be one of its most valuable assets. Without d
 Creating engaging design can be a slow, iterative, and research intensive process.  If you’re investing resources, and you want some degree of reasonable protection, consider a handful of design patents. 
 
 - - - 
-
-<!--Eric's Mailchimp Signup Form -->
-        
-       
-<div class="">
-<div>
- <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
- <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
-  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
-  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-  <div style="position: absolute; left: -5000px;">
-    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
-  </div>
-  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
-</form>
-</div> <!-- End Eric's Mailchimp Signup Form -->
-
