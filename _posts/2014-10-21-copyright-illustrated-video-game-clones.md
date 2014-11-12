@@ -71,19 +71,13 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 # Introduction 
 
-My brother introduced me to Hearthstone over the summer. I loved it, but couldn't justify buying $2.99 packs of virtual "cards" to try to find Ragnaros the Firelord. Nor could I stand to lose to my brother.  So I wrote up a quick Hearthstone clone in python where I could build any card I wanted, free. We played HearthClone twice, and then my brother declared it to be "crappy." 
+My brother introduced me to Hearthstone over the summer. I loved it, but couldn’t justify buying $2.99 packs of virtual “cards” to try to find Ragnaros the Firelord, so I wrote up a quick Hearthstone clone in python where I could build any card I wanted. We played HearthClone twice, and then my brother declared it to be “crappy.”
 
-HearthClone was crappy, but coding it got me thinking about how easy it is to clone a game like Hearthstone, or really any simple iOS game. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip off games. So why does copyright law allow these ripoffs? 
+HearthClone was crappy, but in making it, I realized how easy it is to clone iOS games. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip them off. So why does copyright law seem to allow it?
 
-- - - 
+Looking at a dozen video game cloning cases over 30 years, I started to see a few threads running through them. First, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed.  Copyright law does protect original and expressive game elements, prohibiting any copying that results in a "substantially similar" game. In between pure idea and pure expression, there's "thin" copyright. Thin copyright prohibits *identical* copying, but allows copies that make a few minor changes. 
 
-I looked into every video game cloning case I could find, and discovered a few threads running through them. First, making an identical clone is always copyright infringement. See *Donkey Kong v. Crazy Kong*. The more interesting copyright cases involved non-identical clones (lets call them fraternal twins). 
-
-In the fraternal twins cases, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed.  For original and expressive game elements, copyright law provides robust protection: it prohibits any copying that results in a "substantially similar" game. 
-
-In between pure idea and pure creative expression, there's a spectrum of copyright protection. A few rules of thumb help place game elements on the spectrum, and many of these guidelines point towards "thin" copyright protection. Thin copyright prohibits only *identical* copying.
-
-Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should receive "thin" copyright protection or robust protection? (3) After separating out unprotectable elements, do the remaining  elements make the clone "substantially similar" to the original game? 
+Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should receive "thin" copyright protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? 
 
 These questions involve deconstructing video games and categorizing their elements into buckets of intangible concepts. Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
 
