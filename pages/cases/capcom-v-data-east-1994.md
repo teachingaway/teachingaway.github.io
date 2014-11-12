@@ -29,15 +29,12 @@ share:
 <li><a href="#2-data-easts-access-to-street-fighter-ii">2. Data East’s Access to Street Fighter II</a></li>
 <li><a href="#3-similarity-between-the-two-games">3. Similarity Between the Two Games</a><ul>
 <li><a href="#a-application-of-the-extrinsic-test">a. Application of the Extrinsic Test</a></li>
-<ul>
 <li><a href="#i-similarities-in-control-sequences">i. Similarities in Control Sequences</a></li>
 <li><a href="#ii-similarities-in-miscellaneous-features">ii. Similarities in Miscellaneous Features</a></li>
 <li><a href="#iii-similarities-in-characters-special-moves-and-combination-attacks">iii. Similarities in Characters, Special Moves and Combination Attacks</a></li>
-</ul>
-
 <li><a href="#b-application-of-the-intrinsic-test">b. Application of the Intrinsic Test</a></li>
-</li>
 </ul>
+</li>
 </ul>
 </li>
 </ul>
