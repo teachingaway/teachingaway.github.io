@@ -71,15 +71,14 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 # Introduction 
 
-My brother introduced me to Hearthstone over the summer. I loved it, but couldn’t justify buying $2.99 packs of virtual “cards” to try to find Ragnaros the Firelord, so I wrote up a quick Hearthstone clone in python where I could build any card I wanted. We played HearthClone twice, and then my brother declared it to be “crappy.”
+My brother introduced me to Hearthstone over the summer. I loved it, but couldn’t justify buying $2.99 packs of virtual “cards” to try to find "Ragnaros the Firelord." So I wrote up a quick Hearthstone clone where I could build any card I wanted. We played HearthClone twice before my brother declared it to be “crappy.”
 
 HearthClone was crappy, but in making it, I realized how easy it is to clone iOS games. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip them off. So why does copyright law seem to allow it?
 
-Looking at a dozen video game cloning cases over 30 years, I started to see a few threads running through them. First, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed.  Copyright law does protect original and expressive game elements, prohibiting any copying that results in a "substantially similar" game. In between pure idea and pure expression, there's "thin" copyright. Thin copyright prohibits *identical* copying, but allows copies that make a few minor changes. 
+Looking at a dozen video game cloning cases over 30 years, we can identify some themes. First, copyright law never protects the "idea" of the video game. Even  an identical copy of a game's "idea" is allowed. Second, copyright does protect "expressive" game elements, and the more original the expression, the more robust the protection. Third, where game elements are not particularly original, copyright affords only a "thin" protection. Thin copyright prohibits *identical* copying, but allows copies that make even a few minor changes. 
 
-Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should receive "thin" copyright protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? 
+Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should it get "thin" protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
 
-These questions involve deconstructing video games and categorizing their elements into buckets of intangible concepts. Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
 
 - - - 
 
