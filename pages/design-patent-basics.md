@@ -27,12 +27,15 @@ Designers have used these patents to protect renowned works like Clarence Fender
 </ul>
 </li>
 <li><a href="#examples-of-design-patents">Examples of Design Patents</a><ul>
+<li><a href="#industrial-design-patent-examples">Industrial Design Patent Examples</a><ul>
 <li><a href="#furniture-design-patents">Furniture Design Patents</a></li>
 <li><a href="#technology-hardware-design-patents">Technology Hardware Design Patents</a></li>
 <li><a href="#vehicles">Vehicles</a></li>
 <li><a href="#toys-and-tools">Toys and Tools</a></li>
 <li><a href="#musical-instruments">Musical Instruments</a></li>
-<li><a href="#ui-design-patent-examples">UI Design Patent Examples</a><ul>
+</ul>
+</li>
+<li><a href="#digital-ui-design-patent-examples">Digital UI Design Patent Examples</a><ul>
 <li><a href="#ui-layouts">UI Layouts</a></li>
 <li><a href="#animated-ui-elements">Animated UI Elements</a></li>
 <li><a href="#icons">Icons</a></li>
@@ -125,7 +128,9 @@ Now look at the patent in the lower-left. It has a square drawn in solid lines, 
 
 With this design patent law in mind, lets take a look at some famous designs and how they were protected. Note that the convention of using dashed lines didn't start until the 1980 case of [*In re Zahn*, 617 F.2d 261 (CCPA 1980)](http://scholar.google.com/scholar_case?case=3807696545572078908).
 
-## Furniture Design Patents
+## Industrial Design Patent Examples
+
+### Furniture Design Patents
 
 Furniture is prototypical design patent subject matter. Almost any new furniture design should be patented. For more examples, you can scroll through some of the patent Office's illustrated ["furnishings" category](http://www.uspto.gov/web/patents/classification/uspcd06/defsd06.htm). 
 
@@ -147,7 +152,7 @@ A design patent for Herman Miller's famous Aeron chair. If you need to sit in an
 
 - - - 
 
-## Technology Hardware Design Patents
+### Technology Hardware Design Patents
 
 Building a hardware business isn't easy, but a suite of design patents can often help protect early investments in building great products. Here are some hardware design patent examples. 
 
@@ -181,7 +186,7 @@ A design patent for the recent iMac (2014). Note that the drawings are essential
 
 - - - 
 
-## Vehicles 
+### Vehicles 
 
 A Harley Davidson design patent from 1919. 
 <img src="/images/design-patent/harley-davidson-design-patent-1919.png" class="translucent"> 
@@ -200,7 +205,7 @@ A design patent for the DC3 cargo plane (I think) from the Douglas Aircraft Comp
 
 - - - 
 
-## Toys and Tools
+### Toys and Tools
 
 The lego man (1979): 
 
@@ -227,7 +232,7 @@ Two design patents for Henry Dreyfuss' rotary phone (1949). The image on the lef
 
 - - - 
 
-## Musical Instruments
+### Musical Instruments
 
 [Clarence Fender's](http://en.wikipedia.org/wiki/Leo_Fender) electric guitar (1951). Fender's [Telecaster](http://en.wikipedia.org/wiki/Fender_Telecaster), the first commercial solid-body electric guitar, was the guitar played by legends like Elvis, Waylon Jennings, Eric Clapton (Yardbirds era), Muddy Waters, and more. (If you're a bluegrass nerd, Clarence White also played one). 
 
@@ -237,7 +242,7 @@ Two design patents for Henry Dreyfuss' rotary phone (1949). The image on the lef
 - - - 
 
 
-## UI Design Patent Examples
+## Digital UI Design Patent Examples
 
 In the digital world, design patents can protect user interface icons, layouts, fonts, UI controls, transitions and a variety of  animations, swipes and gestures. User Interface design patents are particularly important legal protections. "As far as the customer is concerned, [the interface *is* the product](http://en.wikipedia.org/wiki/Jef_Raskin)", and owning a unique user interface can provide significant market power.  The UI Design patent examples below simply demonstrate how companies are using design patents to protect their UI elements. They are not necessarily examples of great design.  
 
