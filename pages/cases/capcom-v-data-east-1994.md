@@ -15,13 +15,58 @@ share:
 
 <img src="/images/copyright/capcom-v-data-east-no-copyright-infringment-street-fighter.jpg" class="big-image">
 
-<ul class="toc">
-<p><strong>Contents</strong></p>
-<li><a href="#i-background">I. Background</a></li>
-<li><a href="#ii-analysis">II. Analysis</a></li>
-<li><a href="#appendix">Appendix: Characters</a></li>
-<li><a href="#various-special-moves">Appendix: Special Moves</a></li>
+<div class="toc">
+<ul>
+<li><a href="#i-background">I. [BACKGROUND]</a><ul>
+<li><a href="#a-parties">A. [Parties]</a></li>
+<li><a href="#b-the-games">B. The Games</a></li>
 </ul>
+</li>
+<li><a href="#ii-analysis">II. [ANALYSIS]</a><ul>
+<li><a href="#a-applicable-standard">A. Applicable Standard</a></li>
+<li><a href="#b-elements-of-a-copyright-infringement-claim">B. Elements of a Copyright Infringement Claim</a><ul>
+<li><a href="#1-direct-evidence-of-copying">1. Direct Evidence of Copying</a></li>
+<li><a href="#2-data-easts-access-to-street-fighter-ii">2. Data East’s Access to Street Fighter II</a></li>
+<li><a href="#3-similarity-between-the-two-games">3. Similarity Between the Two Games</a><ul>
+<li><a href="#a-application-of-the-extrinsic-test">a. Application of the Extrinsic Test</a></li>
+<ul>
+<li><a href="#i-similarities-in-control-sequences">i. Similarities in Control Sequences</a></li>
+<li><a href="#ii-similarities-in-miscellaneous-features">ii. Similarities in Miscellaneous Features</a></li>
+<li><a href="#iii-similarities-in-characters-special-moves-and-combination-attacks">iii. Similarities in Characters, Special Moves and Combination Attacks</a></li>
+</ul>
+
+<li><a href="#b-application-of-the-intrinsic-test">b. Application of the Intrinsic Test</a></li>
+</li>
+</ul>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#appendix">APPENDIX</a><ul>
+<li><a href="#characters">[Characters]</a><ul>
+<li><a href="#street-fighter-iis-sagat-v-fighters-historys-samchay">Street Fighter II’s Sagat v. Fighter’s History’s Samchay</a></li>
+<li><a href="#street-fighter-iis-ryu-v-fighters-historys-mizoguchi">Street Fighter II’s Ryu v. Fighter’s History’s Mizoguchi</a></li>
+<li><a href="#street-fighter-iis-zangief-v-fighters-historys-marstorius">Street Fighter II’s Zangief v. Fighter’s History’s Marstorius</a></li>
+<li><a href="#street-fighter-iis-chun-li-v-fighters-historys-feilin">Street Fighter II’s Chun Li v. Fighter’s History’s Feilin</a></li>
+<li><a href="#street-fighter-iis-ken-v-fighters-historys-ray">Street Fighter II’s Ken v. Fighter’s History’s Ray</a></li>
+<li><a href="#street-fighter-iis-guile-v-fighters-historys-matlok">Street Fighter II’s Guile v. Fighter’s History’s Matlok</a></li>
+</ul>
+</li>
+<li><a href="#various-special-moves">Various Special Moves</a><ul>
+<li><a href="#guiles-flashkick-v-feilins-flashpunch">Guile’s Flashkick v. Feilin’s Flashpunch</a></li>
+<li><a href="#ryus-fireball-v-feilins-praying-mantis-punch">Ryu’s Fireball v. Feilin’s Praying Mantis Punch</a></li>
+<li><a href="#guiles-sonic-boom-v-jeans-bal-rose">Guile’s Sonic Boom v. Jean’s Bal Rose</a></li>
+<li><a href="#vegas-tumbling-claw-v-ryokos-rolling-attack">Vega’s Tumbling Claw v. Ryoko’s Rolling Attack</a></li>
+<li><a href="#zangiefs-pile-driver-v-ryokos-head-slam">Zangief’s Pile Driver v. Ryoko’s Head Slam</a></li>
+<li><a href="#chun-li-spinning-bird-kick-v-matlok-hurricane-kick">Chun Li Spinning Bird Kick v. Matlok Hurricane Kick</a></li>
+<li><a href="#chun-lis-head-stomp-v-matloks-head-stomp">Chun Li’s Head Stomp v. Matlok’s Head Stomp</a></li>
+<li><a href="#e-hondas-100-hand-slap-v-jeans-fast-hands">E. Honda’s 100 Hand Slap v. Jean’s Fast Hands</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</div>
 
 
 - - - 
@@ -36,9 +81,9 @@ The plaintiff, Capcom U.S.A., Inc. (“Capcom”), has filed a motion to prelimi
 
 [^1]: Both sides moved to strike various evidentiary materials. The Court has considered these motions and other objections to the evidence and has based its decision on evidence deemed to be admissible. Most importantly, at the outset of the hearing, Data East moved to exclude Capcom’s audiovisual evidence claiming it was untimely submitted and contained material distortions of the visual images of Fighter’s History. The Court denied the motion to strike finding that the parties had stipulated to the submission of the videotapes on the date Capcom filed them and concluding that the distortions resulting from manipulations of the images affected the weight the evidence would carry, but not its admissibility. The Court allowed Data East to file supplemental videotapes to highlight the alleged distortions contained in Capcom’s audiovisual submissions. [*2] 
 
-## I. [BACKGROUND]
+# I. [BACKGROUND]
 
-### A. [Parties]
+## A. [Parties]
 
 Capcom Co., Ltd. registered copyrights with the United States Copyright Office and obtained copyright registration certificates for its Street Fighter, Street Fighter II, Street Fighter II Champion Edition, and Street Fighter II Champion Edition Hyper Fighting video games. [^2] Capcom has an exclusive license in North America to the copyrights in these games, including the right to bring suit to enforce the copyrights in the United States.
 
@@ -54,7 +99,7 @@ In response, Data East argues that there is nothing innovative about Capcom’s 
 
 In addition, Data East maintains that a number of alleged similarities between the games are, upon inspection, not similar. Finally, Data East argues that it has submitted ample evidence [*5] of independent creation to rebut any circumstantial inference that it copied its characters and moves from Capcom. Data East maintains that Capcom’s real goal is to insulate itself from competition in the highly lucrative video game industry.
 
-### B. The Games
+## B. The Games
 
 Both Street Fighter II and Fighter’s History fall within the one-on-one, reality based fight genre that has enjoyed sustained popularity among video game players. Early entries in the field include Data East’s “Karate Champ.” The early versions of fight games frequently contained two characters pitted against one another, and the fight sequences lacked special, unreal moves, but rather mimicked real life fighting styles such as karate and wrestling. Like Street Fighter II and Fighter’s History, however, some of these early games allowed players to engage in role-playing by providing a host of distinctive characters with different fighting styles from which the player could select.
 
@@ -64,23 +109,23 @@ Street Fighter II has twelve players, eight from which the player can select and
 
 In both games, the characters’ moves and defenses are controlled by an eight position joystick, and three kick and three punch buttons of varying intensities. The characters’ special moves are invoked by distinct control sequences. Finally, in both Street Fighter II and [*7] Fighter’s History, the fighter who wins two-of-three rounds wins the fight; each round is won by depleting the opponent’s vitality bar or having more vitality remaining when the round expires.
 
-## II. [ANALYSIS]
+# II. [ANALYSIS]
 
-### A. Applicable Standard
+## A. Applicable Standard
 
 To prevail on its motion for a preliminary injunction, Capcom must show either: (1) a likelihood of success on the merits and the possibility of irreparable injury, or (2) that serious questions going to the merits exist and the balance of hardships tips sharply in its favor. Johnson Controls, Inc. v. Phoenix Control Systems, Inc., 886 F.2d 1173, 1174 (9th Cir. 1989). “These two formulations represent two points on a sliding scale in which the required degree of irreparable harm increases as the probability of success decreases.” Oakland Tribune, Inc. v. The Chronicle Publishing Co., 762 F.2d 1374, 1376 (9th Cir. 1985). A showing of a substantial likelihood of success on the merits of a copyright claim raises a presumption of irreparable harm. Johnson Controls, 886 F.2d at 1174.
 
-### B. Elements of a Copyright Infringement Claim
+## B. Elements of a Copyright Infringement Claim
 
 To establish copyright infringement, a plaintiff [*8] must show, first, that it owns a valid copyright in the infringed work and, second, that the defendant copied expression protected by the copyright. Brown Bag Software v. Symantec Corp., 960 F.2d 1465, 1467 (9th Cir. 1992), cert. denied,  U.S.  , 113 S. Ct. 198 (1992). The copyright registration certificates filed by Capcom constitute prima facie evidence of validity and ownership. Johnson Controls, 886 F.2d at 1175. As the exclusive licensee for North America, Capcom has standing to sue to enforce the copyrights held by Capcom Co., Ltd. 17 U.S.C. § 501(b). Thus, Capcom has established the first element of copyright infringement.
 
 To satisfy the second element of its copyright infringement claim, Capcom must demonstrate either direct evidence of copying by Data East, or circumstantial evidence through a combination of access to the copyrighted work and substantial similarity between the copyrighted work and the accused product. Data East USA, Inc. v. Epyx, Inc., 862 F.2d 204, 206 (9th Cir. 1988).
 
-**1. Direct Evidence of Copying**
+### 1. Direct Evidence of Copying
 
 Capcom did not submit any evidence of direct copying of the computer program for Street Fighter II by Data East. [*9] Rather, Capcom’s claim of copyright infringement hinges upon circumstantial evidence of copying such as Data East’s project proposal for Fighter’s History which makes repeated references to Street Fighter II and the similarities in characters and moves between the two games. As a result, the Court must apply the two part test of access and substantial similarity to assess Capcom’s claim of copyright infringement.
 
-**2. Data East’s Access to Street Fighter II**
+### 2. Data East’s Access to Street Fighter II
 
 The first of the two prongs that courts use to establish circumstantial evidence of copying considers whether the defendant had access to the copyrighted item. Street Fighter II games have been widely disseminated in the United States and Japan. Evidence of such public dissemination establishes the defendant’s access to the games. Sid & Marty Krofft Television Prod., Inc. v. McDonald’s Corp., 562 F.2d 1157, 1172 (9th Cir. 1977). In addition, in this case, Data East has conceded that its development team actually studied Street Fighter II in the hopes of beating Capcom at [*10] its own game by creating an even more exciting and original one-on-one fight video.
 
@@ -101,13 +146,13 @@ Data East’s argument is not persuasive. While the independent sources submitte
 Copying alone, however, is not sufficient to state a claim in copyright if the elements copied are not protectable. While Capcom has established both that Data East had wholesale access to Street Fighter II and that its development team sought to deliberately emulate the overall style of the game in the hopes of capturing its success, Capcom must further establish that Fighter’s History is substantially similar to Street Fighter II and that the similarity results from protectable expression. Roth Greeting Cards v. United Card Co., 429 F.2d 1106, 1109 n.3 (9th Cir. 1970).
 
 
-**3. Similarity Between the Two Games**
+### 3. Similarity Between the Two Games
 
 The second prong in the two-prong test that courts use to establish circumstantial evidence of copying examines the two works for substantial similarity. The Ninth Circuit uses a two-part substantial similarity test to determine whether a challenged work infringes a copyrighted work. First, the two works are compared for substantial similarity using an “extrinsic [*14] test” or “objective analysis” of expression. Brown Bag Software, 960 F.2d at 1475; see also Sid & Marty Krofft, 562 F.2d at 1164. A court may enlist the assistance of “analytic dissection” and expert testimony to aid it in identifying the core of protectable expression under the extrinsic test.
 
 Second, an “intrinsic” or subjective test is employed to ascertain whether there exists a substantial similarity in expression of underlying ideas. Brown Bag Software, 960 F.2d at 1475; see also Data East, 862 F.2d at 208. The intrinsic test consists solely of the response of the ordinary reasonable person to the question of whether the challenged work captures the “total concept and feel” of the protected work. Data East, 862 F.2d at 208.
 
-**a. Application of the Extrinsic Test**
+#### a. Application of the Extrinsic Test
 
 As stated above, the extrinsic test determines whether substantial similarity exists between the copyrighted work and the allegedly infringing piece. Under the extrinsic test, a court must engage in “analytic dissection” of the alleged similarities to determine whether [*15] similarities stem from unprotectable or protectable expression. Brown Bag Software, 960 F.2d at 1475.
 
@@ -121,7 +166,7 @@ Additionally, the functional aspects of a work may also be denied copyright prot
 
 Capcom has identified a number of alleged similarities between Street Fighter II and Fighter’s History. These similarities can be divided into four primary categories: (1) similarities in characters; (2) similarities in special moves and combination attacks; (3) similarities in control sequences; and (4) miscellaneous similarities in the general presentation and flow of the games. Each of these categories of alleged similarities will be examined independently. Because the Court finds that the third and fourth categories are not eligible for copyright protection, they will be examined first and quickly filtered out of the analysis.
 
-**i. Similarities in Control Sequences**
+#### i. Similarities in Control Sequences
 
 Capcom urges that in addition [*18] to copying its characters and their fighting styles, Data East has copied a number of the specific joystick and button combinations that a player must execute to invoke particular moves. Data East has done so, Capcom maintains, in order to attract experienced players from Street Fighter II, who would instantly feel accustomed to Fighter’s History.
 
@@ -143,13 +188,13 @@ For example, Capcom notes that a Matlok control sequence has the player move the
 
 In addition, the Court finds that many of the eighteen control sequences in Fighter’s History which Capcom claims are identical to ones in Street Fighter II are in fact not similar, unless the Court treats the use of a punch button as identical to the use of a kick button, or the use of any one of three backward positions on the joystick as identical. Such sweeping characterizations of dissimilar controls as similar, however, would result in placing entire areas of the control panel off-limits for competitors trying to create a sequence for a similar move.
 
-**ii. Similarities in Miscellaneous Features**
+#### ii. Similarities in Miscellaneous Features
 
 Capcom seeks to protect a variety of miscellaneous features in Street Fighter II including its “attract mode” and “VS.” screens and its method of selecting characters, designating winners and tracking a fighter’s vitality during a fight. These features, however, are commonplace. Indeed, several of the non-infringing games that Capcom submitted to the Court for purposes of comparison include these same features. [Pl.’s Videotape 2, filed January 5, 1994, excerpts from Mortal Kombat and Samurai [*24] Shodown.]
 
 Almost all of the games, for example, have a vitality bar that runs across the top of the video screen and changes color to indicate the percentage of strength the fighter has left. In addition, most of the games contain similar winner designations to indicate which fighter has won the round. Neither these individual features, nor their particular compilation in Street Fighter II are original to Capcom. Rather, they are better viewed as unprotectable scenes-a-faire, “expressions that are ‘as a practical matter, indispensable or at least standard in the treatment of a given [idea].’” Data East, 862 F.2d at 208 (citations omitted). Consequently, they are not entitled to copyright protection.
 
-**iii. Similarities in Characters, Special Moves and Combination Attacks**
+#### iii. Similarities in Characters, Special Moves and Combination Attacks
 
 Capcom maintains that Street Fighter II revolutionized the genre of one-on-one fight games by introducing highly individualized characters, each with a distinctive fighting style, appearance and special magic moves and combination attacks. It alleges that Fighter’s History is a copy of Street Fighter II that replicates the distinctive fighting style, appearance and special moves [*25] of many of the Street Fighter II characters. More specifically, Capcom urges that Data East has copied the physical appearance of seven of Street Fighter II’s eight playable characters and has reproduced twenty-seven of the characters’ special moves for use in its game.
 
@@ -195,7 +240,7 @@ In addition, two of the eight Street Fighter II characters at issue must also be
 
 Having completed a detailed analytic dissection of the alleged similarities, the Court finds that of the eight pairs of characters and twenty-seven special moves at issue, three characters and five special moves in Fighter’s History are similar to protectable characters and special moves in Street Fighter II. These figures must be cast against the fact that Street Fighter II has a total universe of twelve characters and six hundred and fifty moves. Capcom concedes, as it must, that the vast majority of the moves are unprotectable because they are commonplace kicks and punches. Because all of the fighters in Street Fighter II are adherents to one or more of the martial arts disciplines, the bulk of their fight moves are similarly derived from those disciplines. [*36] 
 
-### b. Application of the Intrinsic Test
+#### b. Application of the Intrinsic Test
 
 Under the Sid & Marty Krofft / Brown Bag test, once all the unprotected similarities and those elements that are not similar as a matter of law have been filtered out through analytic dissection, the remaining protectable expression in the plaintiff’s video is compared to corresponding expression in the defendant’s video in a subjective analysis of similarity. Ordinarily the standard of similarity to be applied to adjudicate infringement is a standard of “substantial similarity.” Brown Bag, 960 F.2d at 1472. Where the alleged similarities in a plaintiff’s work consists primarily of elements that are unprotectable, or are capable of only a narrow range of expression, then a court must apply a “virtual identity standard” when comparing the plaintiff’s work with the challenged one. See Apple Computer, 821 F. Supp. at 623-25; Harper House, Inc. v Thomas Nelson, Inc., 889 F.2d 197, 205 (9th Cir. 1989) (Court held that plaintiff’s original compilation of largely unprotectable features was entitled only to limited copyright protection).
 
@@ -237,7 +282,9 @@ United States District Judge
 
 - - - 
 
-## APPENDIX
+# APPENDIX
+
+## [Characters]
 
 ### Street Fighter II’s Sagat v. Fighter’s History’s Samchay
 
@@ -274,9 +321,9 @@ Zangief and Marstorius perform several similar moves. The Court concludes, howev
 
 ### Street Fighter II’s Chun Li v. Fighter’s History’s Feilin
 
-The next analogous pair of fighters is Street Fighter II’s Chun Li and Fighter’s History’s Feilin. Although the two characters wear different clothes and have different fighting styles, the fact remains that the two are both female Chinese fighters. Given the legion of fight characters from which Data East had to chose its characters for Fighter’s History, the fact that it also selected a female Chinese fighter is [*52] troublesome to the Court. This fact alone is reason to find similarity between the two characters. 7
+The next analogous pair of fighters is Street Fighter II’s Chun Li and Fighter’s History’s Feilin. Although the two characters wear different clothes and have different fighting styles, the fact remains that the two are both female Chinese fighters. Given the legion of fight characters from which Data East had to chose its characters for Fighter’s History, the fact that it also selected a female Chinese fighter is [*52] troublesome to the Court. This fact alone is reason to find similarity between the two characters. [^7]
 
-7 Although the Court finds that Chun Li is an original character deserving of copyright protection and that Feilin is similar to her, as noted above in the opinion, under the subjective assessment of similarity performed as part of the intrinsic test, the Court finds that the two characters are not virtually identical. The same conclusion is true of the next two pairs of characters--Ken and Ray, and Guile and Matlok. Although the Court finds that Street Fighter Ii’s Ken and Guile are original and copyrightable and that Fighter’s History has two physically similar characters in Ray and Matlok, the Court has previously concluded that, under the intrinsic test, the characters are not virtually identical to their Street Fighter II counterparts.
+[^7]: Although the Court finds that Chun Li is an original character deserving of copyright protection and that Feilin is similar to her, as noted above in the opinion, under the subjective assessment of similarity performed as part of the intrinsic test, the Court finds that the two characters are not virtually identical. The same conclusion is true of the next two pairs of characters--Ken and Ray, and Guile and Matlok. Although the Court finds that Street Fighter Ii’s Ken and Guile are original and copyrightable and that Fighter’s History has two physically similar characters in Ray and Matlok, the Court has previously concluded that, under the intrinsic test, the characters are not virtually identical to their Street Fighter II counterparts.
 
 ### Street Fighter II’s Ken v. Fighter’s History’s Ray
 
@@ -290,7 +337,7 @@ For example, Matlok’s “spinning CD” move is similar in appearance to Guile
 
 Finally, both Guile and Matlok have a flying kick maneuver, but these moves are dissimilar. Guile kicks his opponent with his right leg and then flips backward. Matlok flips forward and strikes his opponent with his left leg before landing. The only feature common to both is the streak of white left by the fighter’s leg after the move is executed. This streak is commonly used by video game designers to designate motion.
 
-### Various Special Moves
+## Various Special Moves
 
 In addition to the analogous pairs of fighters between the two games, Capcom alleges that several of Fighter’s [*55] History’s characters execute special moves that are similar to moves performed by Street Fighter II characters who are not physically analogous.
 

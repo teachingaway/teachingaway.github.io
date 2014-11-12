@@ -69,6 +69,19 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 <hr class="tall">
 
+# Introduction 
+
+My brother introduced me to Hearthstone over the summer. I loved MtG as a kid, but as an adult, I couldn't justify buying $2.99 packs of virtual "cards" to try to find Ragnaros the Firelord to even the playing field against my little brother. So I wrote up a quick Hearthstone clone in python where I could build any card I wanted, free. We played HearthClone twice, and then my brother declared it to be "crappy."
+
+HearthClone was crappy but coding it got me thinking about how easy it is to clone a game like Hearthstone, or really any simple iOS game. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip off their hard work. But why does the law allow this? 
+
+I looked into every video game cloning case I could find, and discovered a few threads running through them. First, making an identical clone and changing the title is always copyright infringement. See Donkey Kong v. Crazy Kong. The more interesting copyright cases involved non-identical clones. Lets call them fraternal twins. 
+
+In copyright lawsuits involving fraternal twins, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed. For commonplace or cliche game elements, copyright law prohibits identical copying, but allows copying with some changes (called "thin copyright"). For game elements that are original and expressive, copyright law provides more robust protection, prohibiting any copying that results in a "substantially similar" game. 
+
+This raises three major problems to explore in these video game cases. (1) whether some game element is an unprotectable idea or protectable expression, (2) if it is protectable, whether it should receive "thin" copyright protection or robust protection, and (3) if it receives robust protection, whether the original game and clone show "substantial similarity." All of these questions involve drawing lines between intangible concepts, and reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past cases and guess how judges might rule in future cases. 
+
+
 # Identical Twins: Always Infringement
 
 A clone that's basically identical to the original game is always going to be copyright infringement. 
