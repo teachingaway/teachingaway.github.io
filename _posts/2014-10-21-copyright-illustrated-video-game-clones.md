@@ -71,20 +71,27 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 # Introduction 
 
-My brother introduced me to Hearthstone over the summer. I loved MtG as a kid, but as an adult, I couldn't justify buying $2.99 packs of virtual "cards" to try to find Ragnaros the Firelord to even the playing field against my little brother. So I wrote up a quick Hearthstone clone in python where I could build any card I wanted, free. We played HearthClone twice, and then my brother declared it to be "crappy."
+My brother introduced me to Hearthstone over the summer. I loved it, but couldn't justify buying $2.99 packs of virtual "cards" to try to find Ragnaros the Firelord. Nor could I stand to lose to my brother.  So I wrote up a quick Hearthstone clone in python where I could build any card I wanted, free. We played HearthClone twice, and then my brother declared it to be "crappy." 
 
-HearthClone was crappy but coding it got me thinking about how easy it is to clone a game like Hearthstone, or really any simple iOS game. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip off their hard work. But why does the law allow this? 
+HearthClone was crappy, but coding it got me thinking about how easy it is to clone a game like Hearthstone, or really any simple iOS game. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip off games. So why does copyright law allow these ripoffs? 
 
-I looked into every video game cloning case I could find, and discovered a few threads running through them. First, making an identical clone and changing the title is always copyright infringement. See Donkey Kong v. Crazy Kong. The more interesting copyright cases involved non-identical clones. Lets call them fraternal twins. 
+- - - 
 
-In copyright lawsuits involving fraternal twins, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed. For commonplace or cliche game elements, copyright law prohibits identical copying, but allows copying with some changes (called "thin copyright"). For game elements that are original and expressive, copyright law provides more robust protection, prohibiting any copying that results in a "substantially similar" game. 
+I looked into every video game cloning case I could find, and discovered a few threads running through them. First, making an identical clone is always copyright infringement. See *Donkey Kong v. Crazy Kong*. The more interesting copyright cases involved non-identical clones (lets call them fraternal twins). 
 
-This raises three major problems to explore in these video game cases. (1) whether some game element is an unprotectable idea or protectable expression, (2) if it is protectable, whether it should receive "thin" copyright protection or robust protection, and (3) if it receives robust protection, whether the original game and clone show "substantial similarity." All of these questions involve drawing lines between intangible concepts, and reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past cases and guess how judges might rule in future cases. 
+In the fraternal twins cases, copyright law gives different types of game elements different levels of protection. Copyright law never protects the "idea" of the video game. Even making an identical copy of the game's "idea" is allowed.  For original and expressive game elements, copyright law provides robust protection: it prohibits any copying that results in a "substantially similar" game. 
 
+In between pure idea and pure creative expression, there's a spectrum of copyright protection. A few rules of thumb help place game elements on the spectrum, and many of these guidelines point towards "thin" copyright protection. Thin copyright prohibits only *identical* copying.
+
+Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should receive "thin" copyright protection or robust protection? (3) After separating out unprotectable elements, do the remaining  elements make the clone "substantially similar" to the original game? 
+
+These questions involve deconstructing video games and categorizing their elements into buckets of intangible concepts. Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
+
+- - - 
 
 # Identical Twins: Always Infringement
 
-A clone that's basically identical to the original game is always going to be copyright infringement. 
+A clone that's basically identical to the original game is always going to be copyright infringement. In these cases, we don't need to worry about whether game elements get thin protection or robust protection. 
 
 <hr class="tall">
 
@@ -109,11 +116,11 @@ Elcon made a straight-up identical Donkey Kong clone. According to the judge, Cr
 
 Kramer made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
 
-The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, or a video game that replicates pure poker. However, *Hi-Lo Double Up Joker Poker* wasn't quite pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. This minimal copyright protection works only against nearly identical clones. 
+The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, or a video game that replicates pure poker. However, *Hi-Lo Double Up Joker Poker* wasn't quite pure poker, it was poker with a few little twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. This minimal copyright protection (called "thin" copyright) works only against nearly identical clones. 
 
-The judge decided that *Joker Poker 54* was a nearly identical clone. The defendant had made some superficial changes like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." 
+Fortunately for Old Reliable, the judge decided that *Joker Poker 54* was a nearly identical clone. The defendant had made some superficial changes like changing the "configuration of the board that holds the ROMS, changing some words in the audiovisual display, and by changing the design on some of the cards. Specifically, he inserted the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." 
 
-These superficial changes were not enough to save *Joker Poker 54*, especially because it copied every other detail of the original game, right down to the easter egg: 
+These superficial changes were not enough to save *Joker Poker 54* from infringement, especially because it copied every other detail of the original game, right down to the easter egg: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
 
@@ -130,9 +137,9 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 For more creative and original games, the question isn't whether the games are identical, it's whether the clone is "substantially similar" to the original. This is where copyright law gets murky. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Copyright can't protect **useful articles** like a trackball controller. Finally, copyright never protects cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. Copyright can't protect **useful articles** like a trackball controller. Finally, copyright does not protect (or provides only thin protection to) cliches or common tropes. This is the **scènes à faire** doctrine (French for "that which must be done").  
 
-The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might be helpful. 
+The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might help. 
 
 - - - 
 
@@ -142,13 +149,13 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 *"Sir, the possibility of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
 
-Atari made the original Asteroids game. Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. 
+Atari made the original Asteroids game, and Amusement World made a knockoff called Meteors. Atari was not amused, and sued for copyright infringement. 
 
-Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In the case of *Asteroids v. Meteors*, the judge identified 22 similarities, and decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this." .
+Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In comparing Asteroids to Meteors, the judge found 22 similarities. He decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this."
 
 The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." 
 
-The court also noted 9 differences, which seem to mainly involve the more advanced graphics in Meteors. Here are some examples:  
+The court also noted 9 differences, which seem to mainly involve the more advanced graphics in Meteors. Here are some examples of the differences:  
 
 - Meteors is in color, while Asteroids is in black and white. The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
 
@@ -158,7 +165,7 @@ The court also noted 9 differences, which seem to mainly involve the more advanc
 
 - In Meteors, after the player's spaceship is destroyed, when the new spaceship appears on the screen, the game resumes at the same pace as immediately before the last ship was destroyed; in Asteroids the game resumes at a slower pace.
 
-These changes were enough, at the time, to avoid infringement. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
+These changes were enough to avoid infringement, at least in 1981. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [note: this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
 **Takeaway**: Copying a game's "ideas" is not infringement. But don't take too much away from Asteroids v. Meteors. I think the judge lumped too much creative expression in with "ideas" and gave too much weight to the minor changes Meteor's made to its graphics. 
 
@@ -308,7 +315,7 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
 
-**Comment**: I've never played Fighter's History, but it looks like a god damn Street Fighter II ripoff. I'd call it copyright infringement. 
+**Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
 
 <hr class="tall">
 
@@ -338,17 +345,23 @@ Useful articles, like the trackball control, are not copyrightable. A useful art
 
 # Recent Video Game Copying Cases
 
-The technical limitations of early video games systems didn't give game designers many pixels to work with. If one character looked like another, was it because of copying, or just because designers were limited to sprites using only a handful of pixels and colors? In the early days of video games, perhaps spaceships could only be expressed as blocky little triangles. As a result, early designers were given more leeway to copy from previous games. This is related to the "merger doctrine." 
+The technical limitations of early video games systems didn't give game designers many pixels to work with, and because of these limitations, courts gave video game designers more leeway to copy. In the early days of video games, perhaps the "idea" of spaceships could only be "expressed" as blocky little triangles. In copyright terms, an original game's idea and expression were more likely to "merge" and lose copyright protection under the "merger doctrine": 
 
  > ... most of these similarities are inevitable, given the requirements of the idea of a game involving a spaceship combatting space rocks and given the technical demands of the medium of a video game. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
- > "Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying." [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
+Likewise, the judge in the *Tricky Trapper v. Mouser* case relied on the technological limitations of the day to allow more copying: 
 
-The Tricky Trapper judge was giving the defendant some leeway in copying, because some degree of similarity was probably due to the constraints of limited video game technology in the 1980s. At the time, changing just a few pixels would be enough to avoid copyright infringement. 
+ > Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying. [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
 
-Video game technology has obviously advanced since Mouser, and so we need to be careful when relying on old video game cases.  With so many more design options available, any similarities between games should be viewed with greater suspicion. The 2012 case of Tetris v. Mino started to acknowledge the effect of more advanced videogame technology on copying: 
+The judge  gave the defendant extra leeway to copy because some degree of similarity was the inevitable result of limited video game technology in the 1980s. At the time, changing just a few pixels would be enough to avoid copyright infringement. 
 
- > Tellingly, the court noted that its holding was in part mandated by the limited abilities of computers in 1988: "Furthermore, the use of the Commodore computer for a karate game intended for home consumption is subject to various constraints inherent in the use of that computer. Among the constraints are the use of sprites, and a somewhat limited access to color, together with limitations upon the use of multiple colors in one visual image." [*Tetris v. Xio Interactive* (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+In a similar fashion, the 1988 case of *Karate Champ v. World Karate Championship* considered the limited options the technology of the day afforded  game designers: 
+
+> Furthermore, the use of the Commodore computer for a karate game intended for home consumption is subject to various constraints inherent in the use of that computer. Among the constraints are the use of sprites, and a somewhat limited access to color, together with limitations upon the use of multiple colors in one visual image." [*Data East v. Epyx*, 862 F.2d 204 (9th Cir. 1988)](http://scholar.google.com/scholar_case?case=5941890015361159855).
+
+Video game technology has obviously advanced since Asteroids and the Commodore, and so we need to be careful about relying on old video game cases. Applying the old standards to today's game may allow for too much copying.  With so many more design options available, any similarities between games should be viewed with greater suspicion. Courts are starting to acknowledge this. 
+
+The 2012 *Tetris v. Mino* case mentioned the effect of more advanced videogame technology, at least in passing. "Tellingly, the [*Karate Champ v. World Karate Championship*] court noted that its holding was in part mandated by the limited abilities of computers in 1988." [*Tetris v. Xio* (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346). While the judge didn't discuss the issue any further, he gave little weight to the early video game cases that were lenient towards cloners. 
 
 
 <hr class="tall">
@@ -372,7 +385,7 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 <img src="/images/copyright/tetris-v-mino-copyright-infringement.jpg" class="medium-image" >
 
-Desiree Golden, just out of college, started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did some copyright research: 
+Desiree Golden, just out of college, started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did her  copyright homework: 
 
  > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
 
@@ -382,24 +395,23 @@ Here's how the judge identified the unprotectable *idea* of Tetris:
 
  > Tetris is a puzzle game where a user manipulates pieces composed of square blocks, each made into a different geometric shape, that fall from the top of the game board to the bottom where the pieces accumulate. The user is given a new piece after the current one reaches the bottom of the available game space. While a piece is falling, the user rotates it in order to fit it in with the accumulated pieces. The object of the puzzle is to fill all spaces along a horizontal line. If that is accomplished, the line is erased, points are earned, and more of the game board is available for play. But if the pieces accumulate and reach the top of the screen, then the game is over. These then are the general, abstract ideas underlying Tetris and cannot be protected by copyright nor can expressive elements that are inseparable from them. 
 
-These basic *ideas* about a falling-block puzzle game were not protectable, but the *creative expression* of these ideas as Tetris was. 
+While copyright doesn't protect these basic *ideas* about a falling-block puzzle game, it does protect the *creative expression* of these ideas in Tetris: 
 
  > The style, design, shape, and movement of the pieces are expression; they are not part of the ideas, rules, or functions of the game nor are they essential or inseparable from the ideas, rules, or functions of the game.  
 
  > Xio was free to program a puzzle game with the playing field designed "in an almost unlimited number of ways".... Xio was not limited to those precise dimensions and was free to take the general idea of having a long game board and express it in its own unique way. For example, it could have had a field three times as high as it is wide or 15 units high by 8 units wide, without copying the exact game dimensions and infringing the look and feel of Tetris's expression. 
 
-The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris." This seems wrong to me. There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). Selecting all of them seems more like *idea* than *expression*. Imagine a falling puzzle game with trominos (left) or pentominos (right). Sure it's possible, but would you really want to play it? 
-
-<img src="/images/copyright/tetris-trominos-and-pentominos.png" class="translucent">
-
-More persuasively, the judge decided that the Tetris visual cues were creative expression: 
+The judge specifically called out the 7 basic Tetris shapes as protectable expression: "Xio was also free to design a puzzle game using pieces of different shapes instead of using the same seven pieces used in Tetris."  The judge also decided that the Tetris visual cues were creative expression: 
 
  > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
-
 
 Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like garbage lines, ghost pieces and preview pieces. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
 **Takeaway**: Copyright infringement law is not easy. Even careful developers can get it wrong, and reasonable people can disagree about where to draw the line between idea and expression. 
+
+**Note:** To me, the 7 basic Tetris shapes seem more like idea than expression.  There are *only 7* [tetrominos](http://en.wikipedia.org/wiki/Tetromino). Selecting all of them seems like embodiment of the *idea* of tetrominos. Imagine a falling puzzle game with trominos (left) or pentominos (right). Sure it's possible, but would you really want to play it? 
+
+<img src="/images/copyright/tetris-trominos-and-pentominos.png" class="translucent">
 
 <hr class="tall">
 

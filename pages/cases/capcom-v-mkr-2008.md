@@ -14,6 +14,53 @@ share:
 <p class="big-text">Capcom's <em>Dead Rising</em> game took inspiration from George Romero's 1979 zombie classic <em>Dawn of the Dead</em>. In both works: (1) the story kicks off with a helicopter ride to a rural mall infested with zombies; (2) the mall has a gun shop; and (3) propane tanks and chainsaws are used in creative ways to kill zombies.  However, these similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." </p>
 
 
+<div class="toc">
+<ul>
+<li><a href="#i-introduction">I. INTRODUCTION</a></li>
+<li><a href="#ii-background">II. BACKGROUND</a><ul>
+<li><a href="#a-mkr-and-capcom">A. MKR and Capcom</a></li>
+<li><a href="#b-the-works-at-issue">B. The Works at Issue</a></li>
+<li><a href="#c-procedural-history">C. Procedural History</a></li>
+</ul>
+</li>
+<li><a href="#iii-legal-standard">III. LEGAL STANDARD</a></li>
+<li><a href="#iv-discussion">IV. DISCUSSION</a><ul>
+<li><a href="#a-judicial-notice">A. Judicial Notice</a></li>
+<li><a href="#b-copyright-counterclaim">B. Copyright Counterclaim</a><ul>
+<li><a href="#1-substantial-similarity-on-a-motion-to-dismiss">1. Substantial Similarity on a Motion to Dismiss</a></li>
+<li><a href="#2-the-extrinsic-test">2. The Extrinsic Test</a></li>
+<li><a href="#3-application-of-the-extrinsic-test">3. Application of the Extrinsic Test</a><ul>
+<li><a href="#a-plot-and-sequence-of-events">a. Plot and Sequence of Events</a></li>
+<li><a href="#b-characters">b. Characters</a></li>
+<li><a href="#c-theme">c. Theme</a></li>
+<li><a href="#d-dialogue">d. Dialogue</a></li>
+<li><a href="#e-mood">e. Mood</a></li>
+<li><a href="#f-setting">f. Setting</a></li>
+<li><a href="#g-pace">g. Pace</a></li>
+<li><a href="#h-total-concept-and-feel">h. Total Concept and Feel</a></li>
+<li><a href="#i-metcalf-analysis">i. Metcalf Analysis</a></li>
+<li><a href="#j-mkrs-intrinsic-argument">j. MKR’s Intrinsic Argument</a></li>
+<li><a href="#k-no-substantial-similarity-as-a-matter-of-law">k. No Substantial Similarity as a Matter of Law</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#c-lanham-act-counterclaim">C. Lanham Act Counterclaim</a></li>
+<li><a href="#d-state-and-common-law-counterclaims">D. State and Common Law Counterclaims</a><ul>
+<li><a href="#1-preemption-under-the-copyright-act">1. Preemption Under the Copyright Act</a><ul>
+<li><a href="#a-copyrightable-subject-matter">a. Copyrightable Subject Matter</a></li>
+<li><a href="#b-equivalent-rights">b. Equivalent Rights</a></li>
+</ul>
+</li>
+<li><a href="#2-preemption-under-the-lanham-act">2. Preemption Under the Lanham Act</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="#v-conclusion">V. CONCLUSION</a></li>
+</ul>
+</div>
+
 
 - - - 
 
@@ -52,13 +99,13 @@ Capcom is a developer and distributor of video games for use on game consoles su
 
 FOOTNOTE 1 According to Capcom, the survival horror genre of video games, akin to horror motion pictures, are typically dark, violent, and supernatural. The player’s goal is to “survive” long enough to escape from an isolated location overrun with monsters such as zombies. There is often a “safe haven” where the characters can rest, eat, regain strength, and remain safe from attack.
 
-# B. The Works at Issue
+## B. The Works at Issue
 
 In Dawn of the Dead, a plague reanimates the dead into flesh eating zombies and threatens  [\*5] to destroy the United States. After escaping from Philadelphia via helicopter, a television traffic helicopter pilot, Stephen, his pregnant girlfriend, Francine, and Philadelphia SWAT team members, Roger and Peter, land on a helipad on the top of a small town’s shopping mall. Once in the mall, the four main characters barricade the complex, kill those zombies already inside, and then attempt to keep out others. Throughout the many months they are in the mall, the four main characters frequently visit its numerous abandoned shops in search of clothes, food, and weapons. Eventually, a motorcycle gang invades the mall, thereby opening the premises to a new zombie invasion. After the four main characters battle the intruders, Stephen and Roger fall victim to zombie bites and die agonizing deaths while Peter and Francine run to the mall’s roof and escape in their helicopter.
 
 In Dead Rising, the video game player controls the main character, Frank West, a freelance photojournalist intent on photographing why the United States National Guard quarantined the fictional town of Willamette, Colorado. Frank discovers that the town is overrun with zombies. He takes pictures of the town from a helicopter  [\*6] and is then dropped off onto the rooftop of the town’s shopping mall, which has a helipad. At this point, the player must battle nonstop against zombies and other characters to search for the truth behind the town’s zombie infestation. The mall’s stores provide Frank with the resources he needs to survive such as weapons and supplies. Throughout the game, the player must use Frank’s camera to take pictures -- more points are awarded for graphic photos. Depending in part upon critical choices made by the player, numerous characters of various kinds come and go as the game progresses. The ultimate goal is to survive for three days and return to the helicopter, having deciphered the cause of the zombie outbreak.
 
-# C. Procedural History
+## C. Procedural History
 
 Capcom filed a complaint for declaratory relief on February 12, 2008, seeking a declaration that its video game does not infringe any copyright, trademark, or other intellectual property rights belonging to MKR. On May 12, 2008, MKR filed its third party complaint along with four counterclaims against Capcom claiming: (1) copyright infringement; (2) violations of the Lanham Act; (3) violation of Cal. Bus. & Prof. Code §§ 17200 and 14330; 2 and (4) violation  [\*7] of common law trademark infringement, unfair competition, misappropriation, and dilution.
 
@@ -80,7 +127,7 @@ Motions [\*9] to dismiss generally are viewed with disfavor and are to be grante
 
 # IV. DISCUSSION
 
-# A. Judicial Notice
+## A. Judicial Notice
 
 At the outset, pursuant to Rule 201 of the Federal Rules of Evidence, Capcom requests that the Court take judicial notice of: (1) the 1979 Dawn of the Dead movie and the Dead Rising video game; (2) numerous other zombie movies and video games; and (3) certain ideas and elements common and prevalent in such movies and games. While generally a court cannot consider material outside of the complaint when deciding a motion to dismiss under Rule 12(b)(6), a court may consider exhibits submitted with the complaint and those “documents whose contents are alleged in a complaint and whose authenticity no party questions, but which are not physically attached to the pleading . . . .” Branch v. Tunnell, 14 F.3d 449, 453-54 (9th Cir. 1994)  [\*10] (overruled on other grounds). Thus, the contents of Dawn of the Dead and Dead Rising may be considered for purposes of this motion to dismiss. Exhibits one through four, which represent the works themselves and the corresponding script to the film, will also be considered as MKR does not question their authenticity.
 
@@ -88,7 +135,7 @@ Capcom’s remaining requests for judicial notice, however, must be denied. Rule
 
 As MKR asserts, it can hardly be said that the zombie movies and video games presented in exhibits six through forty-four are “generally known,” especially in light of the fact that many of these movies were made long  [\*11] ago, indeed in some instances as far back as 1932. These exhibits, therefore, do not qualify for judicial notice. See Zella v. E.W. Scripps Co., 529 F. Supp. 2d 1124, 1129 (C.D. Cal. 2007) (declining to take judicial notice of various specific shows not commonly known). The Wikipedia articles Capcom submits as a synopsis of these movies and video games are similarly inappropriate for judicial notice. See Nordwall v. Sec’y of Health & Human Servs., 2008 U.S. Claims LEXIS 86, 2008 WL 857661, at *7 n.6 (Fed. Cl. 2008) (“Wikipedia may not be a reliable source of information.”). Finally, while exhibit five, the script to Dead Rising, relates to the content of the video game in question, its authenticity cannot be determined by resort to irrefutable sources because it does not reflect who wrote it, nor when and for what purpose it was written, it was not filed with Capcom’s pending copyright for Dead Rising, and by its nature it may not track exactly how the game itself appears to the player.
 
-# B. Copyright Counterclaim
+## B. Copyright Counterclaim
 
 To bring a copyright infringement counterclaim, MKR must assert ownership of a valid copyright, and the copying of constituent elements of the work that are original to it. 3 Feist Publ’ns, Inc. v. Rural Tel. Serv. Co., Inc., 499 U.S. 340, 361, 111 S. Ct. 1282, 113 L. Ed. 2d 358 (1991).  [\*12] Capcom does not contest MKR’s valid copyright to Dawn of the Dead. At issue here, therefore, is whether Dawn of the Dead and Dead Rising “are substantially similar in their protected elements.” Cavalier v. Random House, Inc., 297 F.3d 815, 822 (9th Cir. 2002).
 
@@ -122,13 +169,13 @@ Examples aid in applying this abstract principle. In Mattel, Inc. v. Azrak-Hamwa
 
 A comparison of the movie and the video game reveals profound differences. MKR has not identified any similarity between Dead Rising and any protected element of Dawn of the Dead. Rather, the few similarities MKR has alleged are driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak. Each one of MKR’s claimed similarities, as analyzed below, ultimately must be “filtered” out as unprotectable. See Idema, 162 F. Supp. 2d at 1177 (“This ‘filtration’ process is accomplished under the first part of the two-part analysis  [\*22] established by the Ninth Circuit to determine or assess ‘substantial similarity’ of an allegedly infringing work: the ‘extrinsic,’ or ‘objective’ test.”). Nearly all the similarities between the two works identified by MKR, upon close scrutiny, constitute nothing more than a collection of unprotectable elements thereby failing the extrinsic test and sending the copyright claim to its doom.
 
-### a. Plot and Sequence of Events
+#### a. Plot and Sequence of Events
 
 The plot underlying each of the two works are not substantially similar. “Plot” consists of the sequence of events by which the author expresses his theme or idea in sufficiently concrete terms to warrant a finding of substantial similarity where it is common in both works. Zella, 529 F. Supp. 2d at 1135. Both Dawn of the Dead and Dead Rising contain a scene where the main characters arrive at a shopping mall by way of a helicopter. But even that similarity dissolves upon close inspection. In Dead Rising the central character, Frank, makes the helicopter journey from the infected town to the shopping mall roof and upon arrival at the helipad enters the “safe haven” part of the game where he is protected from attack. He then enters the mall and begins his quest to uncover  [\*23] the reason behind the zombie infestation.
 
 By contrast, Dawn of the Dead does not immediately start at the mall. Instead, the four main characters escape from zombies in Philadelphia via helicopter. After flying for some time they come to a small zombie-infested town where they spot a mall. They decide to land on the helipad on top of the mall and enter the safe portions of the interior. The characters then begin to rid the mall of all zombies. From this point onwards the plot and sequence of events in each work move in widely divergent directions. See Williams, 84 F.3d at 590 (any similarities in the plot and sequence of events represented nothing more than random similarities scattered throughout the works).
 
-### b. Characters
+#### b. Characters
 
 An analysis of the characters in both works also reveal a lack of substantial similarity. MKR insists that Stephen, one of four main characters in Dawn of the Dead, and Frank, the main character in Dead Rising, are substantially similar. MKR is correct that both characters are male with short brown hair, wear leather jackets, and undertake activities connected to journalism. These similarities, however, do not suggest infringement, but rather elements of a stock character  [\*24] expected to be present in any number of stories. Other elements of both characters moreover reflect significant dissimilarity. For instance, Dead Rising completely revolves around Frank, a fairly cynical and athletic young freelance photographer who wants to report what is going on in the small town while Stephen is portrayed as a timid non-athletic middle aged television news helicopter pilot of equal prominence with the other three characters. Beyond some superficial, generic physical similarities of gender, hair color and wardrobe, therefore, nothing links one to the other.
 
@@ -138,15 +185,15 @@ Another group of characters present in each work are the zombies themselves. Daw
 
 Finally, there are dozens of other characters in Dead Rising that have no counterpart in Dawn of the Dead (Carlito, Isabela, Dr. Barnaby, the janitor, the psychopaths, and the other fifty survivors found in the mall). See Identity Arts, 2007 U.S. Dist. LEXIS 32060, 2007 WL 1149155, at *15 (“[P]laintiff cannot merely sweep aside the presence of so many other varied characters who appear in the differing spots,  [\*26] and whose attributes and demeanor bear no similarity with respect to one another.”).
 
-### c. Theme
+#### c. Theme
 
 Any similarity in the theme of the movie and the video game relates to the unprotectable idea of zombies in a mall. Once viewed beyond the presence of this general idea, any similarity in themes evaporates. Dawn of the Dead, according to MKR, involves a satirical social commentary on the excesses of consumerism, where zombies seek to enter the mall in a desperate search for the consumer goods that drove them while alive. Ironically, as the movie suggests, the survivors in turn are trapped in the mall with all the consumer goods they could ever want, but can only enjoy them in the restricted world of the shopping mall itself. Whatever a critic may opine as to Dawn of the Dead’s success in communicating such an anti-consumerism message, what is clear from a review of Dead Rising, contrary to MKR’s interpretation, is that it does not begin to try to duplicate such a message. To the extent that Dead Rising may be deemed to posses a theme, it is confined to the killing of zombies in the process of attempting to unlock the cause of the zombie infestation. The social commentary MKR draws from Dawn  [\*27] of the Dead, in other words, appears totally absent from the combat focus found in Dead Rising.
 
-### d. Dialogue
+#### d. Dialogue
 
 As to dialogue, MKR identifies only one instance of similarity in both works: the reference to “hell.” In the movie, in response to the zombie invasion Peter quietly states what comes to operate as the film’s tagline, “this, my friend, is hell.” In Dead Rising, Carlito, a character with no counterpart in Dawn of the Dead, ominously intones, “when there is no more room in hell, the dead will walk the earth.” One allegedly similar line from a movie and a video game is insufficient to support a claim of infringement. See Narell v. Freeman, 872 F.2d 907, 911 (9th Cir. 1989) (“Ordinary phrases are not entitled to copyright protection.”); Benjamin v. Walt Disney Co., No. CV 05-2280 GPS, 2007 U.S. Dist. LEXIS 91710, 2007 WL 1655783, at *5 (C.D. Cal. June 5, 2007) (insufficient dialogue for substantial similarity in the phrase “I have a plane to catch” uttered by the protagonist in each work to force the signing of divorce papers); Identity Arts, 2007 U.S. Dist. LEXIS 32060, 2007 WL 1149155, at *12, 13 (finding the statement “it’s coming from the audience” in allegedly infringing movie trailers insufficient to support a finding of substantial  [\*28] similarity).
 
-### e. Mood
+#### e. Mood
 
 The mood of Dawn of the Dead and Dead Rising is difficult to compare owing to the different media each occupies (a movie and an interactive video game). 5 See Idema, 162 F. Supp. 2d at 1185 (noting the difficulty in comparing the written word versus a movie). To the extent they can be compared, they are not substantially similar. The mood of Dawn of the Dead is dark, horrific, but somewhat comedic in featuring the main characters struggling to survive for months in the mall. The mood of Dead Rising, on the other hand, is one of adventure and mystery as Frank tries to uncover the secret behind the zombie infestation of the town. In short, Dawn of the Dead endeavors to create an atmosphere of suspense and anxiety while the video game focuses on action and competition. 6
 
@@ -154,29 +201,31 @@ FOOTNOTE 5 While it is difficult to analyze two different works contained in dif
 
 FOOTNOTE 6 That is not to say that Dead Rising is devoid of comedic elements. As in Dawn of the Dead, the relentless zombies are confronted with various comedic weapons including various food products such as pies. The use of such devices, however,  [\*29] does not rise to the level of substantial similarity. See Olson v. Nat’l Broad. Co., 855 F.2d 1446, 1451 (9th Cir. 1988) (finding that the comic mood is common to the genre of action-adventure television series and movies and therefore did not demonstrate substantial similarity).
 
-### f. Setting
+#### f. Setting
 
 The setting of the movie and the video game likewise does not give rise to a finding of substantial similarity. While both works are set in a rural two-story mall with a helipad on top and a gun shop and music playing inside, these locales represent scenes a faire that flow from the unprotectable idea of zombies in a mall. At the same time, each mall is distinct from the other in that the one in Dawn of the Dead is relatively small with a major department store and an ice rink, while the other in Dead Rising is a modern mega-mall without a major department store or ice rink, but with separate theme-based sections including a roller coaster, theater, outdoor park, supermarket, and underground tunnel system. Indeed, both malls contain escalators and a fountain, but these are features found in most malls, and cannot support a finding of substantial similarity.
 
-### g. Pace
+#### g. Pace
 
 An examination of the pace of Dawn  [\*30] of the Dead and Dead Rising reveals no substantial similarity. Dawn of the Dead takes place over many months as evidenced by the evolution of the character Francine, not visibly pregnant at the outset but close to giving birth by the end of the events in the mall. Dead Rising, by contrast, takes places entirely over a three day period. The pace of the works is similar in some respects, but overall is substantially not so. The beginning of Dawn of the Dead quickly moves from Philadelphia to the helicopter landing at the mall. Once in the mall, the pace varies from slow to fast depending on whether the main characters are resting peacefully in their walled-off security room or are roaming out into the mall battling zombies. The pace in Dead Rising is one of constant, fast-paced action depending on the player’s preference. If the player follows the game storyline cues, a fast pace ensues to facilitate completion of the game with the rescue of all survivors within the three day window. By the same token, if the player chooses not to follow the storyline cues, then the pace slackens and the player wanders the mall and confronts zombies. Even if this is viewed as presenting some superficial  [\*31] similarity, “pace, without more, does not create an issue of overall substantial similarity between the works.” Williams, 84 F.3d at 590.
 
-### h. Total Concept and Feel
+#### h. Total Concept and Feel
 
 The final factor, the total concept and feel, differs to a large extent between the movie and the video game. Dawn of the Dead is a dark comedy about survivors of a global zombie infestation desperately trying to survive for months in a rural mall by clearing it of all zombies to create a safe environment in which to live in peace while the zombie hoards encompass the world outside. In contrast, Dead Rising is an adventure/mystery story where the main character attempts to enter a quarantined area to uncover in three days why a small town is infested with insects that turn the dead into zombies. The total concept and feel of Dawn of the Dead is of a world under seige, while Dead Rising presents an environment to be conquered.
 
-### i. Metcalf Analysis
+#### i. Metcalf Analysis
 
 Finally, MKR argues that under Metcalf even if each factor viewed individually fails to demonstrate substantial similarity, the motion to dismiss must be denied because, taken as a whole, such a showing has been demonstrated. In Metcalf, plaintiff submitted his idea and script for a  [\*32] movie to defendants who rejected the project, but subsequently produced a television series dealing with similar issues. 294 F.3d at 1071-72. Both works involved overburdened county hospitals in the inner city of Los Angeles comprised mostly of African-American staff members. Id. at 1073. Both dealt with poverty and urban blight, and featured similar characters and plot developments. Id. The court found that the common elements and the totality of similarities raised a triable factual question of substantial similarity, even if those similarities, when considered individually, were unprotectable. Id. at 1074. That is, the cumulative weight of the similarities allowed plaintiffs to survive summary judgment. Id. Courts since Metcalf, however, have been reluctant to expand its concepts beyond the specific facts of that case. Zella, 529 F. Supp. 2d at 1138. Even were Metcalf to be applied here, the totality of the separate comparative factors do not amount to a finding of substantial similarity between the works at issue. MKR’s alleged similarities constitute nothing more than a string of disconnected facts and generic ideas which are not protected under copyright law. See id. at 1139  [\*33] (finding that plaintiffs could not merely cobble together generic elements of the works to make a Metcalf argument).
 
-### j. MKR’s Intrinsic Argument
+#### j. MKR’s Intrinsic Argument
 
 MKR makes much of the argument that those involved in the game industry perceive Dead Rising to be an obvious “rip-off” of Dawn of the Dead. While such anecdotal evidence may well be accurate, even to accept it at face value would be to beg the question. The ultimate issue on this motion is whether or not the allegedly infringing work implicates protectable elements under copyright law, regardless of whether or not it is, in fact, a “rip-off.” Moreover, to the extent that the argument eventually would become relevant, it would arise only in the application of the “intrinsic” test, the second prong of the copyright analysis. As MKR must first successfully pass through the extrinsic test, which as set forth above it does not accomplish, the perception in the marketplace that a work has been lifted, accurate or otherwise, simply does not come into play.
 
-### k. No Substantial Similarity as a Matter of Law
+#### k. No Substantial Similarity as a Matter of Law
 
 MKR’s proffered similarities upon inspection do not support a finding of substantial similarity. See Litchfield v. Spielberg, 736 F.2d 1352, 1356 (9th Cir. 1984)  [\*34] (determining that “random similarities scattered throughout the works” do not support a finding of substantial similarity). Works more comparable than Dawn of the Dead and Dead Rising have been found lacking substantial similarity as a matter of law. See, e.g., Williams, 84 F.3d at 583-87 (comparing children’s book about visit to a dinosaur zoo to the movie Jurassic Park); Walker, 784 F.2d at 46 (comparing the book “Fort Apache” and the film “Fort Apache: The Bronx”). Because leave to amend would be futile as the findings are based on the works themselves rather than on MKR’s pleadings, the infringement claim must therefore be dismissed with prejudice. Thomas, 2008 U.S. Dist. LEXIS 14643, 2008 WL 425647, at *6.
+
+- - - 
 
 ## C. Lanham Act Counterclaim
 
@@ -210,11 +259,11 @@ MKR’s third and fourth counterclaims are for violation of Cal. Bus & Prof. Cod
 
 There is no dispute that all state law claims for relief falling within the scope of the federal Copyright Act are subject to preemption. Laws v. Sony Music Entm’t, Inc., 448 F.3d 1134, 1137 (9th Cir. 2006). A state law claim is preempted  [\*43] by the federal Copyright Act if: (1) the work involved falls within the “subject matter” of the Copyright Act; and (2) the rights that a plaintiff asserts under state law are “rights that are equivalent” to those protected by the Copyright Act. Kodadek v. MTV Networks, Inc., 152 F.3d 1209, 1212 (9th Cir. 1998) (citing 17 U.S.C. §§ 102, 103, 301(a)).
 
-### a. Copyrightable Subject Matter
+#### a. Copyrightable Subject Matter
 
 The first issue to be determined is whether the subject matter of MKR’s Section 17200 state law counterclaim is within the subject matter of the Copyright Act. MKR does not allege a single new fact in support of its counterclaim but instead merely incorporates by reference the same conduct alleged in support of its two federal law counterclaims.
 
-### b. Equivalent Rights
+#### b. Equivalent Rights
 
 MKR alleges that Capcom’s activities constitute deceptive acts or practices in the conduct of business, trade, or commerce. Like its copyright infringement counterclaim, the only allegation that might give rise to a violation is that Capcom made a video game so similar to MKR’s movie that its actions constitutes copyright infringement. MKR’s complaint appears to allege that, because of such infringement, Capcom’s reproduction of a similar work amounts  [\*44] to deceptive business practices. In essence, MKR’s allegations seek to remedy supposed violations of rights protected by the Copyright Act. Thus, MKR’s counterclaims are based on the same rights as those protected by the federal copyright laws, and there is no element which changes the nature of the action such that it is qualitatively different from a copyright infringement claim. Summit Mach. Tool Mfg. Corp. v. Victor CNC Sys., Inc., 7 F.3d 1434, 1439-40 (9th Cir. 1993). Because both prongs of the preemption analysis are met, MKR’s Section 17200 state law counterclaim is preempted. 17 U.S.C. § 301(a).
 
