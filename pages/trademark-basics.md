@@ -154,8 +154,18 @@ Trademark law focuses on the relationship between the "mark" (either word or des
 
 The TM Office will compare your trademark to a database of existing trademark registrations. If your trademark is too similar to an existing registration, they will send you an "office action" rejecting your application for "likelihood of confusion” under §2(d). See [Trademark Manual of Examining Procedure ("TMEP")  1207.01](/tmep/tmep-1200.html#TMEP-1200d1e5044). “Similarity" measures both the similarity of the marks and the similarity of the goods/services. This comparison is a sliding scale. The "more similar the marks at issue, the less similar the goods or services need to be" to reject an application for likelihood of confusion. [TMEP 1207.01(a)](/tmep/tmep-1200.html#TMEP-1200d1e5130). If the two marks are virtually identical, the relationship between the goods need not be as close to find a likelihood of confusion. 
 
+The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing trademark registration. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
+
+[^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
+
+### Similarity of the Marks
+
+The likelihood of confusion test compares the marks for similarity or dissimilarity in their entireties as to appearance, sound, connotation and commercial impression. [TMEP 207.01(b)](/tmep/tmep-1200.html#TMEP-1200d1e5395). 
+
+### Similarity of the Products or Services
+
 The goods and services need not be identical to find a likelihood of confusion, particularly if the marks are identical or nearly identical. 
-[TMEP 1207.01(a)(i)](/tmep/tmep-1200.html#TMEP-1200d1e5146). If the products or services are marketed through similar channels, confusion may still be likely. 
+[TMEP 1207.01(a)(i)](/tmep/tmep-1200.html#TMEP-1200d1e5146). A likelihood of confusion may be found if the products or services are marketed through similar channels, or if the products are likely to be encountered by consumers in a way that suggests they come from the same company. 
 
 **Likelihood of confusion has been found between:**
 
@@ -171,15 +181,13 @@ If the products or services in question are not related or marketed through simi
 **No likelihood of confusion between:**
 
 1st Mark | Product/Service | 2nd Mark | Product/Service
-COACH | Test Prep materials | COACH | luxury handbags
-RITZ | cooking and wine classes | RITZ | kitchen textiles
+COACH | test prep materials | COACH | luxury handbags
+RITZ | cooking classes | RITZ | kitchen textiles
 QR | coaxial cable | QR | photocopy machines
 
 
 
-The TM Office will refuse your application if your mark, as used on your goods/services, is too similar to an existing trademark registration. How similar is *too similar*? If an average consumer is likely to confuse the new product for the old one, then the trademarks are too similar. In the language of the Trademark Statute, the TM Office will refuse to register a trademark that, "Consists of or comprises a mark which so resembles a mark registered in the Patent Office... as to be likely, when applied to the goods of the applicant to cause confusion…."  This "likelihood of confusion" test involves several complicated legal considerations, and goes beyond the scope of this quick guide.[^2]
 
-[^2]: The leading case on this complicated "likelihood of confusion" issue is [_In re EI DuPont DeNemours & Co._, 476 F. 2d 1357 (CCAP 1973)](http://scholar.google.com/scholar_case?&case=10357410588643700224).
 
 
 ## TM Law: "Distinctiveness"
