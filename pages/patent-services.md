@@ -63,7 +63,11 @@ $7,500- $10,000 | software patent application of average complexity
 
 The total patent application costs depend on a number of factors. If you provide a detailed, well organized invention disclosure, the application process will require less drafting time from the patent attorney, and will result in lower costs to you. 
 
+- - - 
+
 <img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
+
+- - - 
 
 ## Expedited Patent Applications
 
@@ -76,6 +80,8 @@ Starting the patent process with a "PCT" application can also expedite the proce
 - - -
 
 <img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
+
+- - -
 
 ## Provisional Patent Applications
 
@@ -92,23 +98,23 @@ Provisional applications provide several benefits. Its often cheaper to file a p
 
 - - - 
 
-<img src="/images/patent-drawings/fender-guitar-design-patent-1951.png" class="translucent">
+<img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent">
 
+- - - 
 
 ## Design Patent Applications
 
-Design patents protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
+[Design patents](/design-patent-law/) protect the "ornamental appearance" of a product. They can protect industrial design and physical products, as well as software user interface designs and fonts. 
 
-Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in legal fees. Then tack on another $280 fee when the patent issues (about a year after filing). For several related design patents, the legal fees per patent will decrease. 
-
+**Cost**. Estimate $380 in USPTO fees and about $1,000 in legal fees to file a US design patent application. There is an additional $280 "issue fee" due when the patent issues (about a year after filing), and a few hours of additional legal work may be required to adjust and finalize the design patent. For clients filing several related design patents, we offer discounted rates. 
 
 Many types of technology can benefit from both design and utility patents. For example, anyone developing technology with an innovative user interface should consider both utility and design patents. 
 
-<img src="/images/patent-drawings/eames-chair-design-and-utility-patent-1947.png" class="translucent">
+- - - 
 
+<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">
 
-
-<hr class="tall">
+- - - 
 
 ## International and "PCT" Patent Applications
 
@@ -119,24 +125,21 @@ PCT applications tend to move faster than US utility patent applications. Once f
 Foreign patent filings can be expensive. Ballpark around $5,000 per application per country. The "Patent Cooperation Treaty" or PCT is a cost effective system for *starting* the international patent process, and delaying some of the "national stage" (per country) fees for up to 30 months. 
 
 
-
-<img src="/images/patent-drawings/camera-fassin-1948.png" class="translucent">
-
 - - - 
 
 ## National Stage U.S. Patent Prosecution
 
 We help file the United States "national stage" applications for for PCT applications, including amending claims to comply with local United States patent law. 
 
+- - - 
 
-<hr class="tall">
+<img src="/images/patent-drawings/gold-separator-dana-1902.png" class="translucent">
+
+- - - 
 
 # Patent Due Diligence
 
 We review patent portfolios for Venture Capital Funds and small M&A deals. This may involve checking for proper ownership and assignment documents, reviewing claims for quality drafting, reviewing patent opinions, inbound or outbound license agreements and any patent litigation, whether ongoing or settled. 
-
-<img src="/images/patent-drawings/gold-separator-dana-1902.png" class="translucent">
-
 
 <hr class="tall">
 
@@ -167,9 +170,11 @@ A "**non-infringement**" opinion compares the "claims" of the third-party patent
 
 Legal opinions rarely provide conclusive certainty because patent analysis often turns on subjective issues where reasonable people can differ. However, patent opinions can help *reduce uncertainty* more carefully define legal risks.  
 
-<hr class="tall">
+- - - 
 
 <img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+
+- - - 
 
 # Patent Trial and Appeal Board Proceedings
 
@@ -182,6 +187,9 @@ The Patent Trial and Appeal Board ("PTAB") is an administrative court within the
 
 Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
 
+- - - 
+
+<img src="/images/patent-drawings/camera-fassin-1948.png" class="translucent">
 
 - - - 
 
