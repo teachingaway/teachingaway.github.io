@@ -259,10 +259,16 @@ When a trademark becomes "famous", it is awarded an even higher level of protect
 
 # Use in Commerce: Mark to Market
 
+To qualify for a trademark, a mark must be "used in commerce" and this commerce  must be "interstate commerce." The Trademark Act defines "use in commerce", but does not offer guidance on how "interstate" the commerce needs to be. Fortunately, just about anything that affects interstate commerce, even interstate advertising, will satisfy the "interstate" requirement. 
+
+## Bona Fide Use in Commerce Requirement
+
 The Trademark Act defines “use in commerce” as the "bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark." 
 15 U.S.C. §1127.  For goods, a mark is "used in commerce" when it is "placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and the goods are sold or transported in commerce." 
 
 For services, a mark is "used in commerce" when it is "used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services." 15 U.S.C. §1127.
+
+## Interstate Commerce Requirement
 
 Federal trademark registration requires use in "interstate commerce." Trademark use that takes place *entirely* within a state will not support a federal trademark registration. However, "interstate" commerce is defined broadly, and certainly includes any services offered online. *Planned Parenthood Federation of America, Inc. v. Bucci*, 42 USPQ.2d 1430 (SDNY 1997), aff'd, 152 F.3d 920 (2d Cir. 1998). 
 
@@ -272,9 +278,9 @@ Even if a mark is only used within a single state, it may still be considered "i
 
 - The sale of wine within only one state was sufficient “use in commerce” where the wine bearing the mark was shipped to the trademark owner from an out-of-state source. *In re Silenus Wines, Inc.*, 557 F.2d 806, 194 USPQ 261 (C.C.P.A. 1977).
 
-- Automotive service station located in one state was rendering services “in commerce” because services were available to customers travelling interstate on federal highways. *In re Gastown, Inc.*, 326 F.2d 780 (C.C.P.A. 1964). 
+- Automotive service station located in one state was considered interstate commerce because the services were available to customers travelling interstate on federal highways. *In re Gastown, Inc.*, 326 F.2d 780 (C.C.P.A. 1964). 
 
-- A billiard parlor that only operated in one state satisfied the “use in commerce” requirement because its services were advertised in both Kansas and New York. *U.S. Shoe Corp. v. J. Riggs West, Inc.*, 221 USPQ 1020, 1022 (TTAB 1984). 
+- A single-location billiard parlor was considered interstate commerce because its services were advertised in both Kansas and New York. *U.S. Shoe Corp. v. J. Riggs West, Inc.*, 221 USPQ 1020 (TTAB 1984). 
 
 
 
@@ -342,5 +348,6 @@ _Database Timeouts_ - The US Trademark Database will timeout after  5 idle minut
   <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
 </form>
 </div> <!-- End Eric's Mailchimp Signup Form -->
+</div>
  
 - - - 
