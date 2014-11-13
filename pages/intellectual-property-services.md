@@ -45,8 +45,6 @@ Graham also argues that patents help explain disruptive technology in terms that
 
 [Paul Graham, "Are Software Patents Evil?"](http://www.paulgraham.com/softwarepatents.html)
 
-<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
-
 
 - - - 
 
@@ -55,8 +53,6 @@ Graham also argues that patents help explain disruptive technology in terms that
 From identity development, to trademark registration and enforcement, we work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct direct clients toward unique and easily defensible identities. 
 
 We discuss [basic trademark law here](/trademark-basics/), and describe our [trademark services here](/trademark-services/).
-
-<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
 
 
 - - - 
@@ -73,7 +69,7 @@ We counsel clients on [fair use](/fair-use-illustrated-appropriation-art/) issue
 
 We help clients establish trade secret strategies to protect confidential information that may not fit neatly into the patent or copyright regimes. 
 
-Our team has experience dealing with fast-paced trade secret and related employment litigation, including temporary restraining orders and preliminary injunctions. 
+Our team has experience dealing with fast-paced trade secret and related employee non-compete litigation, including temporary restraining orders and preliminary injunctions. 
 
 - - - 
 

@@ -14,7 +14,7 @@ admission5:
 image:
   feature: /wide/eric-zeke-phone-office.jpg
   credit: Michael Meysarosh
-  creditlink: 
+  creditlink: http://meysarosh.smugmug.com/
 
 ---
 

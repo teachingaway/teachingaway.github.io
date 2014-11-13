@@ -198,10 +198,23 @@ CBM is fast, often reaching a findal decision within 12-18 months. This is about
 
 There is less "estoppel" risk in a CBM, as compared to Post-Grant Review. If you file a CBM and lose, you cannot go to federal court to reargue the invalidity grounds you *actually asserted* at the CBM (while PGR will also estop you from later asserting invalidity arguments that "reasonably could have been" asserted at the PGR). 
 
-**Inter Partes Review**: An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. 
+**Inter Partes Review**: An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
 
+- Speed. An IPR goes to trial within 6 months, and the PTAB must issue its decision within 1 year.  
 
+- Cost-Effective. While there is a substantial filing fee ($23,000), the legal fees are much lower than litigation. An IPR can often be completed for less than $150,000 total. Compare this to federal court, where patent litigation often costs more than $500,000 just to get through the discovery phase. 
 
+- No Presumption of Validity.  In federal court, patents are presumed valid. 35 USC §282.  This gives plaintiff an advantage from the outset. In an IPR, however, there is no presumption that the patent is valid. The parties start an IPR on equal footing. 
+
+- Lower Burden of Proof. In federal court, the defendant needs to present clear and convincing evidence of invalidity. [*Microsoft Corp. v. i4i*, 131 S.Ct. 2238, 2242 (2011)](http://scholar.google.com/scholar_case?case=18084304855984673909). In an IPR, a patent can be invalidated by a mere "preponderance of the evidence." [35 USC §316(e)](http://www.law.cornell.edu/uscode/text/35/316). 
+
+- Broad Claim Interpretation. In federal court, patent claims are interpreted according to their "ordinary and customary meaning."  At an IPR, claims are interpreted according to their "broadest reasonable construction." When claims are interpreted broadly, it is easier to invalidate them with prior art. 
+
+- Time Pressure on Patent Owner. Even if the parties settle, the PTAB may decide to continue the proceeding on its own, and even invalidate the patent. The farther along the IPR moves, the more likely the PTAB is to continue it, even after a settlement. This gives patent owners an incentive to settle early, on terms favorable to the petitioner (the party challenging the patent's validity).
+
+- Technical Expertise. Federal court judges are generalists who adjudicate cases dealing with every type of civil and criminal law. At an IPR, the judge will be a patent specialist, and will likely have an engineering or science background.
+
+  
 
 **Ex Parte Reexamination**: 
 

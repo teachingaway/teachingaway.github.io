@@ -15,29 +15,13 @@ admission5:
 image:
   feature: /wide/eric-zeke-phone-office.jpg
   credit: Michael Meysarosh
-  creditlink: 
+  creditlink: http://meysarosh.smugmug.com/
 
 ---
 
 
 Eric builds robust patent portfolios at the intersection of design and technology. He brings principals of user experience and information architecture from the digital world into his legal work. 
 
-Eric is an advisor to <a href="http://www.blipclinic.org/">Brooklyn Law School’s technology clinic (BLIP)</a>, sits on the board of the <a href="http://legalhackers.org/">NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise.
+Eric is an advisor to <a href="http://www.blipclinic.org/">Brooklyn Law School’s technology clinic (BLIP)</a>, sits on the board of the <a href="http://legalhackers.org/">NYC Legal Hackers</a>, and builds <a href='http://www.copyrightcodex.com'>copyright codex</a>, the free copyright law treatise. He writes <a href="https://medium.com/@teachingaway">good news about patent trolls</a> over at Medium. 
 
-He writes <a href="https://medium.com/@teachingaway">good news about patent trolls</a> over at Medium. 
-
-
-<!-- 
-<div class="sixcols">
-<p><strong>Admissions</strong></p>
-<p>New York </p>
-<p>Patent Bar </p>
-</div>
-
-<div class="sixcols last">
-<p><strong>Education</strong> <br></p>
-<p>BSME, Tufts University</p>
-<p>JD, Brooklyn Law School </p> 
-</div>
- -->
 

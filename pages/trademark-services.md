@@ -79,7 +79,7 @@ We help corporate clients manage their trademark portfolios and renewal deadline
 
 ## Domain Name Disputes
 
-We have extensive experience litigating domain name arbitration matters. These arbitrations, called "UDRP" disputes, are often a cost-effective method of removing domain name squatters from your rightful internet domain. 
+We have extensive experience litigating domain name arbitration matters. These arbitrations, called "UDRP" disputes, are a cost-effective tool for evicting domain name squatters. 
 
 - - - 
 

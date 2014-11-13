@@ -58,11 +58,11 @@ The Leahy-Smith America Invents Act (AIA) establishes several new trial proceedi
 
 <p>Appendices</p>
 <ul>
-<li class="level_2"><a href="#h-33">APPENDIX A-1: Scheduling Order for Inter Partes Review, Post-Grant Review, and Covered Business Method Patents Review (based on the trial rules).</a></li>
-<li class="level_2"><a href="#h-43">APPENDIX A-2: Scheduling Order for Derivation Proceedings.</a></li>
-<li class="level_2"><a href="#h-53">APPENDIX B: Protective Order Guidelines (based on the trial rules).</a></li>
-<li class="level_2"><a href="#h-59">APPENDIX C: Model Order Regarding E-Discovery in Trials Before the Patent Trial and Appeal Board</a></li>
-<li class="level_2"><a href="#h-60">APPENDIX D: Testimony Guidelines</a></li>
+<li class="level_2"><a href="#h-33">Appendix A-1: Scheduling Order for Inter Partes Review, Post-Grant Review, and Covered Business Method Patents Review (based on the trial rules).</a></li>
+<li class="level_2"><a href="#h-43">Appendix A-2: Scheduling Order for Derivation Proceedings.</a></li>
+<li class="level_2"><a href="#h-53">Appendix B: Protective Order Guidelines (based on the trial rules).</a></li>
+<li class="level_2"><a href="#h-59">Appendix C: Model Order Regarding E-Discovery in Trials Before the Patent Trial and Appeal Board</a></li>
+<li class="level_2"><a href="#h-60">Appendix D: Testimony Guidelines</a></li>
 </ul>
 
 </div  > <!-- End APPENDIX Table of Contents Div -->
@@ -70,17 +70,13 @@ The Leahy-Smith America Invents Act (AIA) establishes several new trial proceedi
  <span class="printed_page" id="page-48756" data-page="48756"> </span>
  
 
-<h1 class="" id="h-4">DATES:</h1>
-
 <p id="p-4" data-page="48756"><em>Effective Date:</em> This practice guide applies to <em>inter partes</em> review, post-grant review, and covered business method patent review proceedings commencing on or after September 16, 2012, as well as derivation proceedings commencing on or after March 16, 2013.</p>
  
 
-<h1 class="" id="h-5">FOR FURTHER INFORMATION CONTACT:</h1>
-
-<p id="p-5" data-page="48756">Michael Tierney, Lead Administrative Patent Judge, Board of Patent Appeals and Interferences (will be renamed as Patent Trial and Appeal Board on September 16, 2012), by telephone at (571) 272-9797.</p>
+<p id="p-5" data-page="48756">FOR FURTHER INFORMATION CONTACT: Michael Tierney, Lead Administrative Patent Judge, Board of Patent Appeals and Interferences (will be renamed as Patent Trial and Appeal Board on September 16, 2012), by telephone at (571) 272-9797.</p>
  
 
-<h1 class="" id="h-6">SUPPLEMENTARY INFORMATION:</h1>
+<h1 class="" id="h-6">Introduction:</h1>
 
 <p id="p-6" data-page="48756">
  <em>Executive Summary:</em> The patent trial regulations lay out a framework for conducting the proceedings aimed at streamlining and converging the issues for decision. In doing so, the Office's goal is to conduct proceedings in a timely, fair, and efficient manner. Further, the Office has designed the proceedings to allow each party to determine the preferred manner of putting forward its case, subject to the guidance of judges who determine the needs of a particular case through procedural and substantive rulings throughout the proceedings.</p>
