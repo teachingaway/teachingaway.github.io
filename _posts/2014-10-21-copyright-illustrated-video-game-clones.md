@@ -71,9 +71,9 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 # Introduction 
 
-My brother introduced me to Hearthstone over the summer. I loved it, but couldn’t justify buying $2.99 packs of virtual “cards” to try to find "Ragnaros the Firelord." So I wrote up a quick Hearthstone clone where I could build any card I wanted. We played HearthClone twice before my brother declared it to be “crappy.”
+Frogger, Road Frog, Anirog Frogrun, Hoppit, Leapfrog, Road Toad. Donkey Kong, Killer Kong, Krazy Kong, Wally Kong. Flappy Birds, Flappy Wings, Splashy Fish, Tiny Flying Drizzy. For decades, developers looking to make a quick buck have cloned original games.  
 
-HearthClone was crappy, but in making it, I realized how easy it is to clone iOS games. From big studios like Blizzard to independent developers, people put a lot of effort into building original, high-quality games. Technology makes it easy to rip them off. So why does copyright law seem to allow it?
+Creative game developers are artists that can invest months in building and refining even simple games. It took [over a year](http://asherv.com/threes/threemails/) to build [Threes](http://asherv.com/threes/). But once a developer hits on a fun new concept, copycats can replicate it in a matter of days. So why does copyright law seem to allow it?
 
 Looking at a dozen video game cloning cases over 30 years, we can identify some themes. First, copyright law never protects the "idea" of the video game. Even  an identical copy of a game's "idea" is allowed. Second, copyright does protect "expressive" game elements, and the more original the expression, the more robust the protection. Third, where game elements are not particularly original, copyright affords only a "thin" protection. Thin copyright prohibits *identical* copying, but allows copies that make even a few minor changes. 
 
