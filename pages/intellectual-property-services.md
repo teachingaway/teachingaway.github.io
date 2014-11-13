@@ -43,6 +43,7 @@ Graham also argues that patents help explain disruptive technology in terms that
 
 [Paul Graham, "Are Software Patents Evil?"](http://www.paulgraham.com/softwarepatents.html)
 
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
 
 
 ## Trademarks:  <em>Brand Protection</em>
@@ -51,14 +52,19 @@ From identity development, to trademark registration and enforcement, we work si
 
 We discuss [basic trademark law here](/trademark-basics/), and describe our [trademark services here](/trademark-services/).
 
+<img src="/images/patent-drawings/coca-cola-trademark-registration-1893.png" class="translucent">
 
 ## Copyright:  <em>Defending Creative Works</em>
 
 Copyright law helps creative professionals and software developers protect their art and code. We write <a href="http://www.copyrightcodex.com/">Copyright Codex</a>, a free treatise on copyright law that has been recognized by law schools like Stanford and Duke. 
 
+We counsel clients on [fair use](/fair-use-illustrated-appropriation-art/) issues and on complicated digital [copyright infringement](/copyright-illustrated-video-game-clones/) matters. 
+
 ## Trade Secrets
 
 We help clients establish trade secret strategies to protect confidential information that may not fit neatly into the patent or copyright regimes. 
+
+Our team has experience dealing with fast-paced trade secret and related employment litigation, including temporary restraining orders and preliminary injunctions. 
 
 ## IP Litigation
 

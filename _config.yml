@@ -28,7 +28,7 @@ authors:
   adler:
     name:           Eric Adler
     avatar:         EricAvatar.jpg
-    email:          eric@adlervermillion.com
+    email:          eric@adlervermillion
     aboutpage:      ericadler
     twitter:        teachingaway
     linkedin:       'in/ericladler'
@@ -36,14 +36,14 @@ authors:
     name:           Zeke Vermillion
     avatar:         ZekeAvatar.jpg
     aboutpage:      zekevermillion
-    email:          zeke@adlervermillion.com
+    email:          zeke@adlervermillion
     twitter:        zmillion 
     linkedin:       'pub/zeke-vermillion/1/259/858'
   derevyanny: 
     name:           Jerry Derevyanny
     avatar:         JerryAvatar.jpg
     aboutpage:      jerryderevyanny
-    email:          jerry@adlervermillion.com
+    email:          jerry@adlervermillion
     twitter:        
     linkedin:       pub/gerald-derevyanny/8/969/a70
   skocilich: 
@@ -66,7 +66,7 @@ bing_verify:
 links:
   - title: Blog
     url: /articles/
-  - title: Professionals
+  - title: Attorneys
     url: /attorneys/
   - title: Office Hours
     url: /office-hours/
