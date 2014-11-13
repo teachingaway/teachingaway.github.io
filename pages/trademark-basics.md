@@ -264,10 +264,33 @@ Federal trademark registration requires use in "interstate commerce." Trademark 
 The Trademark Act defines “use in commerce” as:
 
  > The term “use in commerce” means the bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark. For purposes of this Act, a mark shall be deemed to be in use in commerce--
+ 
  > (1) on goods when—
+ 
   >  (A) it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and
+ 
   >  (B) the goods are sold or transported in commerce, and
+ 
  > (2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+
+Even if a mark is only used within a single state, it may still be considered "interstate commerce" if the use has an effect on another state. [TMEP 901.03](/tmep/tmep-1200.html#TMEP-900d1e98) For example, a mark used to identify a single-location restaurant serving interstate travelers is in “use in commerce”. *Larry Harmon Pictures Corp. v. Williams Restaurant Corp.*, 929 F.2d 662 (Fed. Cir. 1991). 
+
+In re Silenus Wines, Inc., 557 F.2d 806, 194 USPQ 261 (C.C.P.A. 1977) (intrastate sale of imported wines by importer constitutes “use in commerce,” where goods bearing labels supplied by applicant were shipped to applicant in United States); 
+
+
+In re Gastown, Inc., 326 F.2d 780, 140 USPQ 216 (C.C.P.A. 1964) (automotive service station located in one state was rendering services “in commerce” because services were available to customers travelling interstate on federal highways); 
+
+
+U.S. Shoe Corp. v. J. Riggs West, Inc., 221 USPQ 1020, 1022 (TTAB 1984) (billiard parlor services satisfy the “use in commerce” requirements, where the record showed that applicant’s billiard parlor services were advertised in both Kansas and New York); 
+
+
+In re G.J. Sherrard Co., 150 USPQ 311 (TTAB 1966) (hotel located in only one state has valid use of its service mark in commerce because it has out-of-state guests, has offices in many states, and advertises in national magazines); 
+
+
+In re Federated Department Stores, Inc., 137 USPQ 670 (TTAB 1963) (mark used to identify retail department store services located in one state was in use in commerce, where the mark was used on credit cards issued to out-of-state residents, and on catalogs and advertisements shipped to out-of-state customers).
+
+
+
 
 
 - - - 
