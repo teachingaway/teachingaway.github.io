@@ -12,8 +12,6 @@ share:
 ---
 
 
-
-
 <div class="toc">
 <p>Contents</p>
 <ul>
@@ -29,13 +27,17 @@ share:
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
 <li><a href="#patent-opinions">Patent Opinions</a><ul>
 <li><a href="#patentability-opinions">Patentability Opinions</a></li>
-<li><a href="#validity-opinions">Validity Opinions</a></li>
-<li><a href="#non-infringement-opinions">Non-infringement Opinions</a></li>
+<li><a href="#defensive-opinions-invalidity-and-non-infringement">Defensive Opinions: Invalidity and Non-Infringement</a></li>
 </ul>
 </li>
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
 <li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
-<li><a href="#invalidating-patents-covered-business-method-review-inter-partes-review">Invalidating Patents: Covered Business Method Review &amp; Inter Partes Review</a></li>
+<li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
+<li><a href="#inter-partes-review-invalidating-patents-within-1-year">Inter Partes Review: Invalidating Patents Within 1 Year</a></li>
+<li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
+<li><a href="#post-grant-review-invalidating-recently-issued-patents">Post Grant Review: Invalidating Recently Issued Patents</a></li>
+</ul>
+</li>
 </ul>
 </li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
@@ -47,6 +49,7 @@ share:
 </li>
 </ul>
 </div>
+
 
 # Patent Applications and Patent Prosecution 
 
@@ -183,22 +186,17 @@ Patent examiner's are generally smart people, but they work under intense time p
 
 - - - 
 
-## Invalidating Patents at the USPTO: Covered Business Method Review & Inter Partes Review
+## Invalidating Patents at the USPTO
+
 
 The Patent Trial and Appeal Board offers some fast and inexpensive tools for invalidating patents. 
 
-**Recently Issued Patents: Post Grant Review**. Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. 
-
-There is some "estoppel" risk involved in a PGR. If you file a PGR and lose, then trying to take a second bite at the invalidity apple in Federal Court will be difficult. Put differently, a patent that survives a PGR becomes much stronger. Any grounds for invalidity you assert in a PGR, or "reasonably could have asserted", cannot be brought up again later in federal court. 
+In all of these PTAB proceedings, the judge will be a patent law specialist, and will likely have an engineering or science background. This can be an advantage over federal court, where judges are generalists who adjudicate cases dealing with every type of civil and criminal law, and rarely have a science background.
 
 
-**Financial Patents: CBM**. Patents related to financial products and services are subject to a procedure called "Covered Business Method Review" ("CBM"). If you have been accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter), consider filing a CBM in reply. 
+### Inter Partes Review: Invalidating Patents Within 1 Year
 
-CBM is fast, often reaching a findal decision within 12-18 months. This is about half the time it would take in most federal courts.  CBM is also substantially cheaper than federal court. 
-
-There is less "estoppel" risk in a CBM, as compared to Post-Grant Review. If you file a CBM and lose, you cannot go to federal court to reargue the invalidity grounds you *actually asserted* at the CBM (while PGR will also estop you from later asserting invalidity arguments that "reasonably could have been" asserted at the PGR). 
-
-**Inter Partes Review**: An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
+An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
 
 - Speed. An IPR goes to trial within 6 months, and the PTAB must issue its decision within 1 year.  
 
@@ -212,7 +210,21 @@ There is less "estoppel" risk in a CBM, as compared to Post-Grant Review. If you
 
 - Time Pressure on Patent Owner. Even if the parties settle, the PTAB may decide to continue the proceeding on its own, and even invalidate the patent. The farther along the IPR moves, the more likely the PTAB is to continue it, even after a settlement. This gives patent owners an incentive to settle early, on terms favorable to the petitioner (the party challenging the patent's validity).
 
-- Technical Expertise. Federal court judges are generalists who adjudicate cases dealing with every type of civil and criminal law. At an IPR, the judge will be a patent specialist, and will likely have an engineering or science background.
+### Covered Business Method Review: Invalidating Financial Patents 
+
+Patents related to financial products and services are subject to a procedure called "Covered Business Method Review" ("CBM"). If you have been accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter), consider filing a CBM in reply. 
+
+CBM is fast, often reaching a findal decision within 12-18 months. This is about half the time it would take in most federal courts.  CBM is also substantially cheaper than federal court. 
+
+There is less "estoppel" risk in a CBM than in other PTAB proceedings. A party that loses a CBM cannot go to federal court to reargue the invalidity grounds that it *actually asserted* at the CBM. In other PTAB proceedings, the losing party will be estopped from later asserting invalidity arguments that "reasonably could have been" asserted at the PTAB.  
+
+
+
+### Post Grant Review: Invalidating Recently Issued Patents
+
+Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. 
+
+There is some "estoppel" risk involved in a PGR. If you file a PGR and lose, then trying to take a second bite at the invalidity apple in Federal Court will be difficult. Put differently, a patent that survives a PGR becomes much stronger. Any grounds for invalidity you assert in a PGR, or "reasonably could have asserted", cannot be brought up again later in federal court. 
 
   
 
