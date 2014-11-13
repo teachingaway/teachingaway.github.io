@@ -16,20 +16,22 @@ share:
 We litigate IP disputes, secure patents, and counsel clients on trademark, copyright, and technology licensing issues. 
 
 <div class="toc">
+<p>Contents</p>
 <ul>
-<li><a href="#patents-defending-research-development">Patents: <em>Defending Research &amp; Development</em></a></li>
-<li><a href="#trademarks-brand-protection">Trademarks: <em>Brand Protection</em></a></li>
-<li><a href="#copyright-defending-creative-works">Copyright: <em>Defending Creative Works</em></a></li>
-<li><a href="#trade-secrets">Trade Secrets</em></a></li>
+<li><a href="#patents-wzxhzdk0defending-research-developmentwzxhzdk1">Patents: <em>Defending Research &amp; Development</em></a></li>
+<li><a href="#trademarks-wzxhzdk3brand-protectionwzxhzdk4">Trademarks: <em>Brand Protection</em></a></li>
+<li><a href="#copyright-wzxhzdk6defending-creative-workswzxhzdk7">Copyright: <em>Defending Creative Works</em></a></li>
+<li><a href="#trade-secrets">Trade Secrets</a></li>
 <li><a href="#ip-litigation">IP Litigation</a><ul>
 <li><a href="#patent-and-trademark-office-litigation">Patent and Trademark Office Litigation</a></li>
+<li><a href="#trade-secret-and-non-compete-litigation">Trade Secret and Non-Compete Litigation</a></li>
 <li><a href="#domain-name-disputes">Domain Name Disputes</a></li>
 </ul>
 </li>
 </ul>
 </div>
 
-## Patents:  <em>Defending Research & Development</em>
+# Patents:  <em>Defending Research & Development</em>
 
 Our patent practice combines rigorous data analytics with deep patent law experience. As a result, we develop cost-efficient patent portfolio's for growing technology companies. We discuss [basic patent law here](/patent-basics/), and describe our [patent services here](/patent-services/).
 
@@ -46,43 +48,58 @@ Graham also argues that patents help explain disruptive technology in terms that
 <img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
 
 
-## Trademarks:  <em>Brand Protection</em>
+- - - 
+
+# Trademarks:  <em>Brand Protection</em>
 
 From identity development, to trademark registration and enforcement, we work side-by-side with clients to maximize brand value. We understand the fluid nature of branding for the internet, and we help direct direct clients toward unique and easily defensible identities. 
 
 We discuss [basic trademark law here](/trademark-basics/), and describe our [trademark services here](/trademark-services/).
 
-<img src="/images/patent-drawings/coca-cola-trademark-registration-1893.png" class="translucent">
+<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
 
-## Copyright:  <em>Defending Creative Works</em>
+
+- - - 
+
+# Copyright:  <em>Defending Creative Works</em>
 
 Copyright law helps creative professionals and software developers protect their art and code. We write <a href="http://www.copyrightcodex.com/">Copyright Codex</a>, a free treatise on copyright law that has been recognized by law schools like Stanford and Duke. 
 
 We counsel clients on [fair use](/fair-use-illustrated-appropriation-art/) issues and on complicated digital [copyright infringement](/copyright-illustrated-video-game-clones/) matters. 
 
-## Trade Secrets
+- - - 
+
+# Trade Secrets
 
 We help clients establish trade secret strategies to protect confidential information that may not fit neatly into the patent or copyright regimes. 
 
 Our team has experience dealing with fast-paced trade secret and related employment litigation, including temporary restraining orders and preliminary injunctions. 
 
-## IP Litigation
+- - - 
+
+# IP Litigation
 
 We litigate complex contract and intellectual property disputes. We defend technology companies from patent trolls. We also help enforce legitimate IP rights, even against larger, better-funded competitors. We contain litigation costs through efficient staffing and modern discovery technology. 
 
 We have successfully handled disputes including patents, trade secrets, and contract and copyright disputes in federal court. 
 
-### Patent and Trademark Office Litigation 
+- - - 
+
+## Patent and Trademark Office Litigation 
 
 We have won trademark appeals at the Trademark Trial and Appeal board, and have deep experience in both "ex parte" (arguing against a trademark examiner's rejection) and "inter partes" (arguing against another trademark owner) disputes. 
 
 We can also help dispose of invalid patents at Patent Trial and Appeal Board hearings. This includes "Post-Grant Review", "Covered Business Method Patent Review" and "Inter Partes Review." 
 
-### Trade Secret and Non-Compete Litigation 
+- - - 
+
+## Trade Secret and Non-Compete Litigation 
 
 We have experience litigating trade secret and non-compete cases in the Manhattan Commercial Division of New York State court. This includes fast-paced "Temporary Restraining Order" hearings and "Preliminary Injunction Hearings." 
 
-### Domain Name Disputes
+- - - 
+
+## Domain Name Disputes
 
 We have won several domain name disputes (called "UDRP" arbitrations) against URL squatters. 
 
