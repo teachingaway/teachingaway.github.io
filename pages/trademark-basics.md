@@ -261,6 +261,15 @@ When a trademark becomes "famous", it is awarded an even higher level of protect
 
 Federal trademark registration requires use in "interstate commerce." Trademark use that takes place entirely within a state will not support a federal trademark registration. 
 
+The Trademark Act defines “use in commerce” as:
+
+ > The term “use in commerce” means the bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark. For purposes of this Act, a mark shall be deemed to be in use in commerce--
+ > (1) on goods when—
+  >  (A) it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and
+  >  (B) the goods are sold or transported in commerce, and
+ > (2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+
+
 - - - 
 
 # Clearance Search
