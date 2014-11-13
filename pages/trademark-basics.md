@@ -273,22 +273,15 @@ The Trademark Act defines “use in commerce” as:
  
  > (2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
 
-Even if a mark is only used within a single state, it may still be considered "interstate commerce" if the use has an effect on another state. [TMEP 901.03](/tmep/tmep-1200.html#TMEP-900d1e98) For example, a mark used to identify a single-location restaurant serving interstate travelers is in “use in commerce”. *Larry Harmon Pictures Corp. v. Williams Restaurant Corp.*, 929 F.2d 662 (Fed. Cir. 1991). 
+Even if a mark is only used within a single state, it may still be considered "interstate commerce" if the use has an effect on another state. [TMEP 901.03](/tmep/tmep-1200.html#TMEP-900d1e98) For example: 
 
-In re Silenus Wines, Inc., 557 F.2d 806, 194 USPQ 261 (C.C.P.A. 1977) (intrastate sale of imported wines by importer constitutes “use in commerce,” where goods bearing labels supplied by applicant were shipped to applicant in United States); 
+- A mark used to identify a single-location restaurant serving interstate travelers is in “use in commerce”. *Larry Harmon Pictures Corp. v. Williams Restaurant Corp.*, 929 F.2d 662 (Fed. Cir. 1991). 
 
+- The sale of wine within only one state was sufficient “use in commerce” where the wine bearing the mark was shipped to the trademark owner from an out-of-state source. *In re Silenus Wines, Inc.*, 557 F.2d 806, 194 USPQ 261 (C.C.P.A. 1977).
 
-In re Gastown, Inc., 326 F.2d 780, 140 USPQ 216 (C.C.P.A. 1964) (automotive service station located in one state was rendering services “in commerce” because services were available to customers travelling interstate on federal highways); 
+- Automotive service station located in one state was rendering services “in commerce” because services were available to customers travelling interstate on federal highways. *In re Gastown, Inc.*, 326 F.2d 780 (C.C.P.A. 1964). 
 
-
-U.S. Shoe Corp. v. J. Riggs West, Inc., 221 USPQ 1020, 1022 (TTAB 1984) (billiard parlor services satisfy the “use in commerce” requirements, where the record showed that applicant’s billiard parlor services were advertised in both Kansas and New York); 
-
-
-In re G.J. Sherrard Co., 150 USPQ 311 (TTAB 1966) (hotel located in only one state has valid use of its service mark in commerce because it has out-of-state guests, has offices in many states, and advertises in national magazines); 
-
-
-In re Federated Department Stores, Inc., 137 USPQ 670 (TTAB 1963) (mark used to identify retail department store services located in one state was in use in commerce, where the mark was used on credit cards issued to out-of-state residents, and on catalogs and advertisements shipped to out-of-state customers).
-
+- A billiard parlor that only operated in one state satisfied the “use in commerce” requirement because its services were advertised in both Kansas and New York. *U.S. Shoe Corp. v. J. Riggs West, Inc.*, 221 USPQ 1020, 1022 (TTAB 1984). 
 
 
 
