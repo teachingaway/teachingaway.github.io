@@ -33,7 +33,7 @@ share:
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
 <li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
 <li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
-<li><a href="#inter-partes-review-invalidating-based-on-prior-art">Inter Partes Review: Invalidating Patents Based on Prior Art</a></li>
+<li><a href="#inter-partes-review-invalidate-based-on-prior-art">Inter Partes Review: Invalidate Patents Based on Prior Art</a></li>
 <li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
 </ul>
 </li>
@@ -50,6 +50,8 @@ share:
 </div>
 
 
+<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
+
 # Patent Applications and Patent Prosecution 
 
 ## Utility Patent Applications
@@ -62,12 +64,6 @@ $5,000 - $8,000 | mechanical patent application of average complexity
 $7,500- $10,000 | software patent application of average complexity
 
 The total patent application costs depend on a number of factors. If you provide a detailed, well organized invention disclosure, the application process will require less drafting time from the patent attorney, and will result in lower costs to you. 
-
-- - - 
-
-<img src="/images/patent-drawings/engine-starting-lansing-1932.png" class="translucent">
-
-- - - 
 
 ## Expedited Patent Applications
 
@@ -100,7 +96,7 @@ Provisional applications provide several benefits. Its often cheaper to file a p
 
 <img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent">
 
-- - - 
+
 
 ## Design Patent Applications
 
@@ -124,8 +120,6 @@ PCT applications tend to move faster than US utility patent applications. Once f
 
 Foreign patent filings can be expensive. Ballpark around $5,000 per application per country. The "Patent Cooperation Treaty" or PCT is a cost effective system for *starting* the international patent process, and delaying some of the "national stage" (per country) fees for up to 30 months. 
 
-
-- - - 
 
 ## National Stage U.S. Patent Prosecution
 
@@ -201,7 +195,7 @@ The Patent Trial and Appeal Board offers some fast and inexpensive tools for inv
 In all of these PTAB proceedings, the judge will be a patent law specialist, and will likely have an engineering or science background. This can be an advantage over federal court, where judges are generalists who adjudicate cases dealing with every type of civil and criminal law, and rarely have a science background.
 
 
-### Inter Partes Review: Invalidating Patents Based on Prior Art
+### Inter Partes Review: Invalidate Patents Based on Prior Art
 
 An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
 
