@@ -162,7 +162,7 @@ The TM Office will refuse your application if your mark, as used on your goods/s
 
 The likelihood of confusion test compares the marks for similarity or dissimilarity in their entireties as to appearance, sound, connotation and commercial impression. [TMEP 207.01(b)](/tmep/tmep-1200.html#TMEP-1200d1e5395). 
 
-**Likelihood of confusion found between:**
+Likelihood of confusion found between:
 
 1st Mark | Product/Service | 2nd Mark | Product/Service
 XCEED | agricultural seed | X-SEED | agricultural seed 
@@ -172,12 +172,13 @@ GAS CITY  | gasoline | GASTOWN | gasoline
 RUST BUSTER | spray lubricant | BUST RUST | penetrating oil
 
 
+
 ### Similarity of the Products or Services
 
 The goods and services need not be identical to find a likelihood of confusion, particularly if the marks are identical or nearly identical. 
 [TMEP 1207.01(a)(i)](/tmep/tmep-1200.html#TMEP-1200d1e5146). A likelihood of confusion may be found if the products or services are marketed through similar channels, or if the products are likely to be encountered by consumers in a way that suggests they come from the same company. 
 
-**Likelihood of confusion found between:**
+Likelihood of confusion found between:
 
 1st Mark | Product/Service | 2nd Mark | Product/Service
 ON-LINE TODAY | Internet connection services |  ONLINE TODAY | electronic publication
@@ -188,7 +189,7 @@ VANTAGE TITAN | MRI diagnostic apparatus | TITAN | medical ultrasound device
 
 If the products or services in question are not related or marketed through similar channels, then  even if the marks are identical, confusion is not likely. 
 
-**No likelihood of confusion between:**
+No likelihood of confusion between:
 
 1st Mark | Product/Service | 2nd Mark | Product/Service
 COACH | test prep materials | COACH | luxury handbags
@@ -196,7 +197,7 @@ RITZ | cooking classes | RITZ | kitchen textiles
 QR | coaxial cable | QR | photocopy machines
 
 
-
+- - - 
 
 
 
