@@ -33,9 +33,8 @@ share:
 <li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
 <li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
 <li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
-<li><a href="#inter-partes-review-invalidating-patents-within-1-year">Inter Partes Review: Invalidating Patents Within 1 Year</a></li>
+<li><a href="#inter-partes-review-invalidating-based-on-prior-art">Inter Partes Review: Invalidating Patents Based on Prior Art</a></li>
 <li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
-<li><a href="#post-grant-review-invalidating-recently-issued-patents">Post Grant Review: Invalidating Recently Issued Patents</a></li>
 </ul>
 </li>
 </ul>
@@ -194,7 +193,7 @@ The Patent Trial and Appeal Board offers some fast and inexpensive tools for inv
 In all of these PTAB proceedings, the judge will be a patent law specialist, and will likely have an engineering or science background. This can be an advantage over federal court, where judges are generalists who adjudicate cases dealing with every type of civil and criminal law, and rarely have a science background.
 
 
-### Inter Partes Review: Invalidating Patents Within 1 Year
+### Inter Partes Review: Invalidating Patents Based on Prior Art
 
 An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
 
@@ -210,6 +209,9 @@ An IPR can invalidate and cancel a patent on the basis of prior art in patents o
 
 - Time Pressure on Patent Owner. Even if the parties settle, the PTAB may decide to continue the proceeding on its own, and even invalidate the patent. The farther along the IPR moves, the more likely the PTAB is to continue it, even after a settlement. This gives patent owners an incentive to settle early, on terms favorable to the petitioner (the party challenging the patent's validity).
 
+**Risks**. There is some "estoppel" risk involved in an IPR. A party that challenges a patent in an IPR and loses will not be able to challenge that patent again in federal court on any invalidity grounds that it asserted or "reasonably could have asserted" in the IPR. Put differently, a patent that survives an IPR becomes stronger.
+
+
 ### Covered Business Method Review: Invalidating Financial Patents 
 
 Patents related to financial products and services are subject to a procedure called "Covered Business Method Review" ("CBM"). If you have been accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter), consider filing a CBM in reply. 
@@ -220,21 +222,25 @@ There is less "estoppel" risk in a CBM than in other PTAB proceedings. A party t
 
 
 
-### Post Grant Review: Invalidating Recently Issued Patents
+### Post Grant Review: Invalidating Recently Issued Patents 
 
-Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. 
+Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. In a PGR, a patent can be invalidated based on *any grounds*. In an inter-partes review, a patent can only be invalidated based on prior art. 
 
-There is some "estoppel" risk involved in a PGR. If you file a PGR and lose, then trying to take a second bite at the invalidity apple in Federal Court will be difficult. Put differently, a patent that survives a PGR becomes much stronger. Any grounds for invalidity you assert in a PGR, or "reasonably could have asserted", cannot be brought up again later in federal court. 
+There is some "estoppel" risk involved in a PGR. A party that files a PGR and loses will not be able to argue invalidity again in federal court on any grounds that it "reasonably could have asserted" at the PGR. Since the PGR allows for more types of invalidity arguments than an IPR, there is the possibility of broader estoppel. 
 
   
 
-**Ex Parte Reexamination**: 
+### Ex Parte Reexamination: Ask the Patent Office to Double-Check 
 
+Anyone can ask the Patent Office to reexamine a patent at any time. The Patent Office will review the patent for invalidity based on prior art in patents or printed publications. The review will only take place if the petition presents a "substantial new question of patentability." If the Patent Office grants the petition, the review is ex parte - the petition does not have an opportunity to present arguments. More details are described in [MPEP 2209](/mpep/s2209.html). 
 
 <hr class="tall">
 
 # Patent Licensing and Technology Transfer
 
+We counsel clients in patent licensing deals, and technology transfer arrangements. 
+
+We frequently discuss alternative patent licenses, like the Defensive Patent License, Twitter's IPA, and Google's "License on Transfer." These licenses can help attract top engineering talent, which is often a higher priority than proprietary technology for growing software companies. 
 
 <hr class="tall">
 
