@@ -259,19 +259,14 @@ When a trademark becomes "famous", it is awarded an even higher level of protect
 
 # Use in Commerce: Mark to Market
 
-Federal trademark registration requires use in "interstate commerce." Trademark use that takes place entirely within a state will not support a federal trademark registration. 
+The Trademark Act defines “use in commerce” as the "bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark." 
+15 U.S.C. §1127.  For goods, a mark is "used in commerce" when it is "placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and the goods are sold or transported in commerce." 
 
-The Trademark Act defines “use in commerce” as the "bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark."  For purposes of this Act, a mark shall be deemed to be in use in commerce--
- 
- > (1) on goods when—
- 
-  >  (A) it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and
- 
-  >  (B) the goods are sold or transported in commerce, and
- 
- > (2) on services when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+For services, a mark is "used in commerce" when it is "used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services." 15 U.S.C. §1127.
 
-Even if a mark is only used within a single state, it may still be considered "interstate commerce" if the use has an effect on another state. [TMEP 901.03](/tmep/tmep-0900.html#TMEP-900d1e98) For example: 
+Federal trademark registration requires use in "interstate commerce." Trademark use that takes place *entirely* within a state will not support a federal trademark registration. However, "interstate" commerce is defined broadly, and certainly includes any services offered online. *Planned Parenthood Federation of America, Inc. v. Bucci*, 42 USPQ.2d 1430 (SDNY 1997), aff'd, 152 F.3d 920 (2d Cir. 1998). 
+
+Even if a mark is only used within a single state, it may still be considered "interstate commerce" if the use has an *effect* on commerce in another state. [TMEP 901.03](/tmep/tmep-0900.html#TMEP-900d1e98) For example: 
 
 - A mark used to identify a single-location restaurant serving interstate travelers is in “use in commerce”. *Larry Harmon Pictures Corp. v. Williams Restaurant Corp.*, 929 F.2d 662 (Fed. Cir. 1991). 
 
