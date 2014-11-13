@@ -73,10 +73,9 @@ A "Prioritized Examination" expedites the patent process to about 1 year. While 
 
 Starting the patent process with a "PCT" application can also expedite the process. Patent Cooperation Treaty ("PCT") refers to a type of international patent process that tends to move much faster than a straight US utility patent. The first reply to a PCT application tends to come in 3 or 4 months, as opposed to 15-18 months for a straight US Utility patent. A positive PCT response (called a "search report") is a particularly useful tool for early stage companies raising venture capital.  
 
+- - -
 
 <img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
-
-- - - 
 
 ## Provisional Patent Applications
 
@@ -90,9 +89,11 @@ Provisional applications provide several benefits. Its often cheaper to file a p
 
 **Unedited Provisional**. For about $1,000, we can file your invention disclosure as a provisional patent application. This does not include any editing or review of the technology disclosure. Although this can be a cost-efficient mechanism for securing an early "filing date", there is a substantial risk that an unedited provisional application will be "non-enabling" when it comes time to file the full non-provisional utility patent application. 
  
-<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
 - - - 
+
+<img src="/images/patent-drawings/fender-guitar-design-patent-1951.png" class="translucent">
+
 
 ## Design Patent Applications
 
@@ -100,7 +101,6 @@ Design patents protect the "ornamental appearance" of a product. They can protec
 
 Cost - To file a design patent, estimate $380 in USPTO fees and about $1,000 in legal fees. Then tack on another $280 fee when the patent issues (about a year after filing). For several related design patents, the legal fees per patent will decrease. 
 
-<img src="/images/patent-drawings/fender-guitar-design-patent-1951.png" class="translucent">
 
 Many types of technology can benefit from both design and utility patents. For example, anyone developing technology with an innovative user interface should consider both utility and design patents. 
 
@@ -140,11 +140,11 @@ We review patent portfolios for Venture Capital Funds and small M&A deals. This 
 
 <hr class="tall">
 
+
 # Patent Opinions
 
 We review patents and technology and issue actionable legal opinions to guide business decisions. In addition to careful legal analysis, our reports are carefully organized and summarized in plain language. 
 
-<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
 - - - 
 
@@ -169,12 +169,12 @@ Legal opinions rarely provide conclusive certainty because patent analysis often
 
 <hr class="tall">
 
+<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
 
 # Patent Trial and Appeal Board Proceedings
 
 The Patent Trial and Appeal Board ("PTAB") is an administrative court within the USPTO. It hears (a) "ex parte" appeals from inventors who believe a patent examiner has improperly rejected a patent application, and (b) "inter partes" disputes between a patent owner and a third party. 
 
-<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
 
 - - - 
 
@@ -220,6 +220,7 @@ CBM is fast, often reaching a findal decision within 12-18 months. This is about
 
 There is less "estoppel" risk in a CBM than in other PTAB proceedings. A party that loses a CBM cannot go to federal court to reargue the invalidity grounds that it *actually asserted* at the CBM. In other PTAB proceedings, the losing party will be estopped from later asserting invalidity arguments that "reasonably could have been" asserted at the PTAB.  
 
+<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
 
 ### Post Grant Review: Invalidating Recently Issued Patents 
@@ -253,11 +254,15 @@ To improve cost efficiency, we can help review old patents and trim away intelle
 
 <hr class="tall">
 
+
+
 # Patent Litigation
 
 We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms (more expensive, but with more available litigation staff). 
 
 - - - 
+
+<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
 ## Patent Enforcement in Federal Court
 
