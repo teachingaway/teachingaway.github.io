@@ -3,6 +3,9 @@ layout: page
 permalink: /trademark-basics/
 title: "Trademark Law Fundamentals"
 tags: [trademark]
+modified: 2014-09-15
+longform: "yes"
+summary: "Basic trademark law to protect brands and instill consumer trust." 
 image:
   feature: /wide/default-image.png
   credit: Company Folders

@@ -2,8 +2,10 @@
 layout: page
 permalink: /patent-basics/
 title: "Patent Law Basics"
-modified: 2014-06-04 20:33
+modified: 2014-08-04 20:33
 tags: [patent]
+longform: "yes"
+summary: "Understand the basics of patent law, the patent application process, and hiring a patent lawyer." 
 image:
   feature: /wide/transmission-patent-gray-blueprint.jpg
   credit:

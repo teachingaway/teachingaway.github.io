@@ -2,6 +2,10 @@
 layout: page
 permalink: /video-game-copyright-registration/
 title: "Copyright Compendium: Video Game Copyright Registration"
+modified: 2014-09-01
+tags: [copyright, litigation]
+longform: "yes"
+summary: "How to register a US copyright to a video game." 
 image:
   feature: /copyright/kong-clones-desaturate.jpg
   credit:

@@ -13,6 +13,7 @@ image:
 <nav class="pagination" role="navigation">
  <a href="/tags/" class="btn big-btn">Sort by Topic</a> 
 </nav>
+
     
 <ul class="post-list">
 {% for post in site.posts limit:25 %} 

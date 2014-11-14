@@ -86,3 +86,5 @@ Delaware offers the strongest corporate laws and many investors will expect a De
 * [How To Calculate Delaware Franchise Tax](http://www.startupcompanylawyer.com/2008/02/01/how-do-you-calculate-delaware-franchise-taxes/). *[Yokum Taku](https://twitter.com/Yokum)*, 2008. Startups that incorporate in Delaware need to pay an annual "franchise tax." Its about $350/yr for a pre-revenue company. 
 
 * [When Do I "really" Need to Qualify My Delaware-Formed Startup in Texas?](http://siliconhillslawyer.com/2013/10/04/texas-startups-qualifying-foreign-entity/) *[Jose Ancer](https://twitter.com/ancerj)*, 2013. Delaware companies generally *also* need to “qualify” in the states where they “conduct business.” For example, if your office is in New York and you incorporate in Delaware, you also need to “qualify” in NY by filling out a form and paying a fee. 
+
+- - - 

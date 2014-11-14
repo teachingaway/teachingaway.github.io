@@ -3,6 +3,9 @@ layout: page
 permalink: /trademark-registration-office-actions/
 title: "Trademark Registration: Responding to Office Actions"
 tags: [trademark]
+modified: 2014-09-15
+longform: "yes"
+summary: "How to overcome rejections from the Trademark Office." 
 image:
   feature: /wide/default-image.png
   credit: Company Folders
