@@ -13,9 +13,10 @@ comments: true
 share: true
 ---
 
-<p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting out your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
+<p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. This can be a simple process. Don't overlawyer it.</p>
 
 <div class="toc">
+<p>contents</p>
 <ul>
 <li><a href="#pre-incorporation">Pre-Incorporation</a></li>
 <li><a href="#formation-use-clerky">Formation: Use Clerky</a></li>

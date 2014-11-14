@@ -23,6 +23,7 @@ I was not aware of him, so I read his comment history. His "comments" are often 
 
 
 <div class="toc">
+<p>contents</p>
 <ul>
 <li><a href="#seed-capital-and-safe">Seed Capital and SAFE</a></li>
 <li><a href="#managing-legal-fees">Managing Legal Fees</a></li>

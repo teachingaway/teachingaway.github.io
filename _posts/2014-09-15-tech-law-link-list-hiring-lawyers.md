@@ -16,24 +16,25 @@ share: true
 The internet is full of advice, mostly bad, but occasionally useful. Our "Tech Law Link Lists" series tries to collect useful guidance for startups. This is advice worth reading, but it may not be advice that's right for *your* startup. This first installment is about finding the right lawyer for your startup. 
 
 <div class="toc">
+<p>contents</p>
 <ul>
-<li><a href="#hire-a-startup-lawyer-but-not-necessarily-your-investors-startup-lawyer">Hire a Startup Lawyer, But Not Necessarily Your Investor’s Startup Lawyer.</a></li>
-<li><a href="#finding-the-right-lawyer">Finding the Right Lawyer.</a></li>
+<li><a href="#hire-a-startup-lawyer-but-not-necessarily-your-investors-startup-lawyer">Hire a Startup Lawyer, But Not Necessarily Your Investor’s Startup Lawyer</a></li>
+<li><a href="#finding-the-right-lawyer">Finding the Right Lawyer</a></li>
 <li><a href="#working-with-lawyers">Working with Lawyers</a></li>
-<li><a href="#lawyer-fees">Lawyer Fees.</a></li>
+<li><a href="#lawyer-fees">Lawyer Fees</a></li>
 <li><a href="#how-much-law-should-founders-learn">How much Law Should Founders Learn?</a></li>
 <li><a href="#anti-lawyer-rants">Anti-Lawyer Rants</a></li>
 </ul>
 </div>
 
 
-### Hire a *Startup* Lawyer, But Not Necessarily Your *Investor’s* Startup Lawyer.
+### Hire a *Startup* Lawyer, But Not Necessarily Your *Investor’s* Startup Lawyer
 
 * [Lawyers or Insurance Salesmen?](http://startupboy.com/2005/11/30/lawyers-or-insurance-salesmen/) *[Naval Ravikant](https://twitter.com/naval), 2005*. "Don’t just go with the lawyer that the VCs insist upon. These lawyers will work with the VC on a hundred financings and with you on only one. Where do you think their loyalties lie?"
 
 * [Don’t Use Your Lead Investor’s Lawyers](http://siliconhillslawyer.com/2014/01/05/lead-investor-startup-lawyer-dont/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. "If your lawyer makes more money off of your investors than he does from you, he’s not really your lawyer."
 
-### Finding the Right Lawyer.
+### Finding the Right Lawyer
 
 * [Why Experienced Entrepreneurs Hire Better Lawyers](http://siliconhillslawyer.com/2012/11/22/why-experienced-entrepreneurs-hire-better-lawyers/). *[Jose Ancer](https://twitter.com/ancerj), 2013*. "Experienced entrepreneurs hire efficient lawyers. Inexperienced entrepreneurs hire cheap ones."
 
@@ -51,7 +52,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 * [Contracts are for the Divorce; Not the Honeymoon](http://siliconhillslawyer.com/2014/07/16/startup-contracts-divorce-marriage/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. Some lawyers make mountains out of molehills. Others provide real value by helping founders avoid legal traps. Know when to listen to your lawyer and when to listen to your VC. 
 
-### Lawyer Fees. 
+### Lawyer Fees
 
 * [Should I give my lawyers equity?](http://venturehacks.com/articles/lawyer-equity) *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2007*. Only if your lawyers are deferring fees and want compensation for their risk of not getting paid.  
 
