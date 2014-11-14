@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "Pre-Incorporation Startup Law"
 summary: "Curated links to help founders get their ducks in a row without losing momentum."
 tags: [startup law, link list]

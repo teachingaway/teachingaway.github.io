@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "Design Patents for Bits and Atoms"
 summary: "Design patents protect the appearance of a design for 15 years. They are a cheap and surprisingly effective legal tool to protect both digital and industrial design."
 tags: [patent, design patent]

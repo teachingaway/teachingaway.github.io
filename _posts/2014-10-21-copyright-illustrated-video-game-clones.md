@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "A Game of Clones: Video Game Litigation Illustrated"
 summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, Donkey Kong, and Ruth Bader-Ginsburg."
 tags: [copyright, software]

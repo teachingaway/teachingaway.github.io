@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "Hiring a Startup Lawyer"
 summary: "A curated list of links for founders about hiring the right startup lawyer."
 tags: [startup law, link list]

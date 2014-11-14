@@ -23,8 +23,7 @@ image:
         <a href="{{ site.url }}{{ page.url }}">
             <span class="page-list-title">
                 {{ page.title }} 
-            </span>   
-         <br>   
+            </span>    
          </a>
         <span class="page-list-summary">
             {{ page.summary }} 

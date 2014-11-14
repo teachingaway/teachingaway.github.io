@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "Fair Use Illustrated in Appropriation Art"
 summary: "Examples of copyright law and fair use in action."
 tags: [copyright, fair use]

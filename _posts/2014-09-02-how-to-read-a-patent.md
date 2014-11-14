@@ -2,6 +2,7 @@
 layout: post
 bloglist: "yes"
 title: "How to Read a Patent"
+longform: "yes"
 summary: "A quick-and-dirty guide with with annotations and explanations."
 tags: [patent]
 author: adler

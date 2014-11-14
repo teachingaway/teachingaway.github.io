@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "Who Owns Employee Innovations?"
 summary: "Untangling the patent, copyright and noncompete rules governing employee side projects." 
 tags: [patent, copyright, non-compete, employment]

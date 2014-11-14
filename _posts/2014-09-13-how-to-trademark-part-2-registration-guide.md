@@ -1,6 +1,7 @@
 ---
 layout: post
 bloglist: "yes"
+longform: "yes"
 title: "How to Register a US Trademark"
 summary: "An illustrated walkthrough of the USPTO trademark application process."
 tags: [trademark]
