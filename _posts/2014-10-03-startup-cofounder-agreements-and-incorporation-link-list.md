@@ -15,6 +15,16 @@ share: true
 
 <p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. Sorting out your cofounder agreement and basic incorporation can be simple. Don't overlawyer it.</p>
 
+<div class="toc">
+<ul>
+<li><a href="#pre-incorporation">Pre-Incorporation</a></li>
+<li><a href="#formation-use-clerky">Formation: Use Clerky</a></li>
+<li><a href="#llc-or-s-corp-or-c-corp">LLC or S Corp or C Corp?</a></li>
+<li><a href="#where-to-incorporate-delaware-ny-ca">Where to Incorporate? Delaware? NY? CA?</a></li>
+</ul>
+</div>
+
+
 Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses pre-incorporation founders agreements and the entity formation process. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.

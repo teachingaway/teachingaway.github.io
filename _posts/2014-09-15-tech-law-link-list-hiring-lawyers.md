@@ -15,6 +15,17 @@ share: true
 
 The internet is full of advice, mostly bad, but occasionally useful. Our "Tech Law Link Lists" series tries to collect useful guidance for startups. This is advice worth reading, but it may not be advice that's right for *your* startup. This first installment is about finding the right lawyer for your startup. 
 
+<div class="toc">
+<ul>
+<li><a href="#hire-a-startup-lawyer-but-not-necessarily-your-investors-startup-lawyer">Hire a Startup Lawyer, But Not Necessarily Your Investor’s Startup Lawyer.</a></li>
+<li><a href="#finding-the-right-lawyer">Finding the Right Lawyer.</a></li>
+<li><a href="#working-with-lawyers">Working with Lawyers</a></li>
+<li><a href="#lawyer-fees">Lawyer Fees.</a></li>
+<li><a href="#how-much-law-should-founders-learn">How much Law Should Founders Learn?</a></li>
+<li><a href="#anti-lawyer-rants">Anti-Lawyer Rants</a></li>
+</ul>
+</div>
+
 
 ### Hire a *Startup* Lawyer, But Not Necessarily Your *Investor’s* Startup Lawyer.
 

@@ -22,6 +22,19 @@ I was not aware of him, so I read his comment history. His "comments" are often 
 [^1]: Caveat: These links are worth reading, but they may not be the right advice for your particular company. I am not associated with George Grellas, he does not endorse this post, and his views may have changed in the years since some of his essays were written.
 
 
+<div class="toc">
+<ul>
+<li><a href="#seed-capital-and-safe">Seed Capital and SAFE</a></li>
+<li><a href="#managing-legal-fees">Managing Legal Fees</a></li>
+<li><a href="#employee-stock-incentives">Employee Stock Incentives</a></li>
+<li><a href="#employee-non-compete-non-disparagement-and-sexual-harassment">Employee Non-Compete, Non-Disparagement, and Sexual Harassment</a></li>
+<li><a href="#intellectual-property">Intellectual Property</a></li>
+<li><a href="#forming-a-company-for-your-startup">Forming a Company for Your Startup</a></li>
+</ul>
+</div>
+
+- - - 
+
 ### Seed Capital and SAFE
 
 - [Bad Notes on Venture Capital](https://news.ycombinator.com/item?id=8335570). 9/2014. Seed funding goals: (1) raise money as a bridge to Series A to reduce dilution; (2) keep equity incentives priced relatively low to assemble quality team without tax grief; (3) reasonable transaction costs; (4) close quickly. [Original post](http://www.bothsidesofthetable.com/2014/09/17/bad-notes-on-venture-capital/) by Mark Suster. 
