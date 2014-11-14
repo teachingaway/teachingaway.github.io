@@ -24,7 +24,7 @@ Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark
 
 If we look at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. 
 
-Fortunately, there are some overarching themes running through the dozen or so video game cloning cases discussed below. Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it's protected against any "substantially similar" copies. If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows copies that make just a few minor changes. 
+Fortunately, there are some overarching themes running through the dozen or so video game cloning cases discussed below. Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it's protected against any "substantially similar" copies. If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows clones that make just a few minor changes. 
 
 Before comparing video games for infringement, judges try to conceptually "filter out" the game's unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." This copyright infringement analysis is more art than science. 
 
@@ -77,21 +77,12 @@ Before comparing video games for infringement, judges try to conceptually "filte
 
 <hr class="tall">
 
-# Introduction 
-
-
-Creative game developers are artists that can invest months in building and refining even simple games. It took [over a year](http://asherv.com/threes/threemails/) to build [Threes](http://asherv.com/threes/). 
-
-
-
-
 - - - 
 
 # Identical Twins: Always Infringement
 
 A clone that's basically identical to the original game is always going to be copyright infringement. In these cases, we don't need to worry about whether game elements get thin protection or robust protection. 
 
-<hr class="tall">
 
 ## Crazy Kong: Crazy Infringement (1982)
 
