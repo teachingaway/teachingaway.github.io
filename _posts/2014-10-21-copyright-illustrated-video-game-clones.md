@@ -20,11 +20,13 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Frogger, Frogrun, Leapfrog, Road Toad. Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs.  But how much copying is allowed before a clone becomes a copyright infringement? Looking at individual copyright infringement cases, the answers can seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. 
+Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how much copying is allowed before a clone becomes a copyright infringement? 
 
-But looking at a dozen video game cloning cases, we can find some common themes. Cpyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it will be protected against any "substantially similar" copies. If the expression is not particularly original, copyright affords only a "thin" protection. Thin copyright prohibits *identical* copying, but allows copies that make even a few minor changes. 
+If we look at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. 
 
-Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should it get "thin" protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
+Fortunately, there are some overarching themes running through the dozen or so video game cloning cases discussed below. Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it's protected against any "substantially similar" copies. If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows copies that make just a few minor changes. 
+
+Before comparing video games for infringement, judges try to conceptually "filter out" the game's unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." This copyright infringement analysis is more art than science. 
 
 
 <div class="toc">
@@ -124,7 +126,10 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 **Pro tip**: If you're pirating someone else's game, don't put a pirate on your promo material. 
 
-**Takeaway**: Video Games based on existing real-life games or sports will receive a very thin type of copyright protection. They can stop identical clones, but not much else.  
+**Takeaway**: Video Games based on existing real-life games or sports will receive only **thin** copyright protection. Thin copyright stops identical clones, but not much else.  
+
+**Taint Note**: "Taint of originality" is a funny phrase. The more common copyright term of art is "modicum of creativity." 
+
 
 <hr class="tall"> 
 
@@ -428,7 +433,7 @@ Looking at the remaining protectable game elements, the court decided they were 
  
  > The object hierarchy is similar. Progressing from grass to bush to tree to hut is similar to progressing from sapling to tree to tent to cabin. Perhaps more importantly, the object hierarchy coupled with the depiction of the field of play comprise a setting and theme that is similar to Triple Town’s.
  
-The judge also weighs to the wisdom of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
+The judge also weighed the wisdom of video game bloggers: "The bloggers, who are ordinary observers of video games, find Yeti Town and Triple Town to be substantially similar."  [*Spry Fox v. LolApps* (WD WA 2012)](/spry-fox-v-lolapps-2012/). 
 
 In any event, this case was settled before a final decision was reached. The settlement details are confidential, but Yeti Town is no longer available in the app store. 
 
@@ -480,13 +485,17 @@ Video game copyright cases turn on whether the clone copied "ideas" (tolerated) 
 - The *idea* of a karate style fighting game can't be copyrighted. 
 - The *expression* of E. Honda’s "100 hand slap" can be protected by copyright.
 
-**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge", and neither will be copyrightable. 
+**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge", and neither will be copyrightable. Be careful about merger rule decisions in old video game cases, where severely technology limited the ways ideas could be expressed. With modern technology, merger is less likely to apply. 
 
-**Realistic Simulations**. The more a game simulates real life, the less copyright protection it will receive. The more creative and abstract the game elements, the stronger the copyright protection. 
+**Thin Copyright for Realistic Simulations**. The more a game simulates real life, the less copyright protection it will receive. The more creative and abstract the game elements, the stronger the copyright protection. Video games that simulate sports or pre-existing card games get "thin" copyright protection -- protection against identical clones only.  Hi-Lo Double Up Joker Poker, which was basically just poker, received only thin copyright protection. Likewise, Karate Champ was granted thin protection because it was basically just a karate simulator. 
 
 **Useful Articles**. Copyright does not “extend to any idea, procedure, process, system, method of operation...” 17 USC § 102(b). Game controls like a trackball are unprotectable as useful articles or "methods of operation." 
 
-**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock characters or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all unprotectable *scènes à faire*. 
+**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock characters or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all *scènes à faire*. In some cases, *scènes à faire* are entitled to thin copyright protection, while in others, it gets no protection at all. 
+
+**Framing**. Framing the "idea" of the game is critical. The more specifically the "idea" of the game is defined, the *less* copyright protection it will have. This is because cloners are always free to copy from the details that make up the "idea" of the game. Original game creators can carefully and concisely define of the "idea" of their game and perhaps even use it in their marketing. This type of preemptive marketing can help persuade copyright judges to apply your narrowly defined "idea" of the game to the copyright infringement analysis. 
+
+
 
 The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
