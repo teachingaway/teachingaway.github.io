@@ -19,7 +19,12 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tiger knee' is just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. Copyright infringement cases can seem arbitrary, but a few legal concepts might help illuminate a method behind the madness. 
+Frogger, Frogrun, Leapfrog, Road Toad. Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs.  But how much copying is allowed before a clone becomes a copyright infringement? Looking at individual copyright infringement cases, the answers can seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. 
+
+But looking at a dozen video game cloning cases, we can find some common themes. Cpyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it will be protected against any "substantially similar" copies. If the expression is not particularly original, copyright affords only a "thin" protection. Thin copyright prohibits *identical* copying, but allows copies that make even a few minor changes. 
+
+Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should it get "thin" protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
+
 
 <div class="toc">
 <ul>
@@ -71,13 +76,10 @@ Copying Chun Li's 'head stomp' is improper imitation, but copying Sagat’s 'tig
 
 # Introduction 
 
-Frogger, Road Frog, Anirog Frogrun, Hoppit, Leapfrog, Road Toad. Donkey Kong, Killer Kong, Krazy Kong, Wally Kong. Flappy Birds, Flappy Wings, Splashy Fish, Tiny Flying Drizzy. For decades, developers looking to make a quick buck have cloned original games.  
 
-Creative game developers are artists that can invest months in building and refining even simple games. It took [over a year](http://asherv.com/threes/threemails/) to build [Threes](http://asherv.com/threes/). But once a developer hits on a fun new concept, copycats can replicate it in a matter of days. So why does copyright law seem to allow it?
+Creative game developers are artists that can invest months in building and refining even simple games. It took [over a year](http://asherv.com/threes/threemails/) to build [Threes](http://asherv.com/threes/). 
 
-Looking at a dozen video game cloning cases over 30 years, we can identify some themes. First, copyright law never protects the "idea" of the video game. Even  an identical copy of a game's "idea" is allowed. Second, copyright does protect "expressive" game elements, and the more original the expression, the more robust the protection. Third, where game elements are not particularly original, copyright affords only a "thin" protection. Thin copyright prohibits *identical* copying, but allows copies that make even a few minor changes. 
 
-Video game cloning cases grapple with three major problems. (1) which game elements are *unprotectable ideas* and which are *protectable expression*? (2) if it's protectable, should it get "thin" protection or robust protection? (3) After separating out unprotectable elements, do the remaining  game elements make the clone "substantially similar" to the original game? Reasonable people can disagree about the answers. When cloning cases come up, all we can do is look at past copyright cases and guess how judges might rule in future cases. 
 
 
 - - - 
