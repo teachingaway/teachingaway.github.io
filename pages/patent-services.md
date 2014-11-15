@@ -147,7 +147,7 @@ We help file the United States "national stage" applications for for PCT applica
 
 We review patent portfolios for Venture Capital Funds and small M&A deals. This may involve checking for proper ownership and assignment documents, reviewing claims for quality drafting, reviewing patent opinions, inbound or outbound license agreements and any patent litigation, whether ongoing or settled. 
 
-<hr class="tall">
+- - - 
 
 
 ## Patent Opinions
