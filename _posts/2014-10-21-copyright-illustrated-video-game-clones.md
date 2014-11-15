@@ -77,7 +77,6 @@ Before comparing video games for infringement, judges try to conceptually "filte
 
 <hr class="tall">
 
-- - - 
 
 # Identical Twins: Always Infringement
 

@@ -201,9 +201,20 @@ A design patent for [Henry Dreyfuss'](http://en.wikipedia.org/wiki/Henry_Dreyfus
 
 - - - 
 
-A design patent for the DC3 cargo plane (I think) from the Douglas Aircraft Company (1945): 
+A design patent for the [DC3 cargo plane](http://en.wikipedia.org/wiki/Douglas_DC-3) (I think) from the Douglas Aircraft Company (1945): 
 
 <img src="/images/design-patent/transport-plane-design-patent-DC3-1945.png" class="translucent">  
+
+- - - 
+
+[Colin Chapman](http://en.wikipedia.org/wiki/Colin_Chapman) design for an early 1980s (or late 1970s?) Lotus Formula 1 car. 
+
+<img src="/images/design-patent/car-chapman-lotus-1981.png" class="translucent"> 
+- - - 
+
+Volkswagen [New Beetle](http://en.wikipedia.org/wiki/Volkswagen_New_Beetle), 1997. 
+
+<img src="/images/design-patent/car-volkswagon-beetle-1997.png" class="translucent"> 
 
 - - - 
 
