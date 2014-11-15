@@ -47,7 +47,5 @@ We litigate copyright infringement matters, including [fair use](/fair-use-illus
 
 Our team has experience dealing with trade secret and related employee non-compete litigation, including fast-paced temporary restraining orders and preliminary injunctions. 
 
-- - - 
-
 
 

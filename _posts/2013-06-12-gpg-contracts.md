@@ -3,6 +3,7 @@ layout: post
 title: "GPG Contracts" 
 tags: [cryptography, bitcoin]
 author: vermillion
+summary: "Decentralized crypto networks have many implications in the way people transact on a fundamental, human level."
 image:
   feature: /wide/US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
   credit: Mark Fisher

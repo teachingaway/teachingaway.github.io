@@ -1,12 +1,13 @@
 ---
 layout: post
 title: "Good Business Lawyers Improve Client's Payoff Function"
+summary: "Controlling the payoff function allows risk-takers to benefit from complexity."
 tags: [corporate law]
 author: vermillion
 image:
-  feature: /wide/US-Supreme-Court-Statue-Mark-Fischer-CC-Flickr-Large2.jpg
-  credit: Mark Fisher
-  creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
+  feature: /wide/default-image.png
+  credit:
+  creditlink:
 comments: 
 share: 
 ---

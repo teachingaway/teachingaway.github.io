@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Dependable Cofounders"
+summary: "The choice of partners in any business venture determines the results. That’s why experienced investors back people, not features or ideas."
 tags: [startups]
 author: vermillion
 image:

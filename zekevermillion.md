@@ -21,16 +21,30 @@ image:
 
 Zeke acts as a general corporate legal adviser to entrepreneurial companies and individuals. Recent engagements include capital-raising transactions, employee equity incentive grants, copyright and trademark licensing, business development partnerships, and small business acquisitions. Zeke was previously at White & Case, where he worked on a wide variety of M&A, securities, project and asset finance deals, and the largest IPO in history. He uses his broad experience and industry connections to solve clients' legal problems efficiently.
 
+- - - 
 
-<!-- 
-<div class="sixcols">
-<p><strong>Admissions</strong></p>
-<p>New York State</p>
-</div>
+### Zeke's Blog Posts
 
-<div class="sixcols">
-<p><strong>Education</strong></p>
-<p>B.A., Columbia College, Columbia University</p>
-<p>J.D., New York University Law School</p>
-</div>
- -->
+<ul class="post-list">
+{% for post in site.posts %} 
+{% if post.author == "vermillion" %}
+  <li>
+    <article>
+        <a href="{{ site.url }}{{ post.url }}">
+            <span class="post-list-title">
+                {{ post.title }} 
+            </span>
+            <span class="entry-date">
+                <time datetime="{{ post.date | date_to_xmlschema }}">
+                    {{ post.date | date: "%B %d, %Y" }}
+                </time>
+            </span>
+        </a>
+        <span class="post-list-summary">
+            {{ post.summary }} 
+        </span>
+    </article>
+</li>
+{% endif %}
+{% endfor %}
+</ul>
