@@ -71,6 +71,17 @@ links:
   - title: Office Hours
     url: /office-hours/
 
+# Links to include in footer navigation
+footerlinks:
+  - title: Business law
+    url: /business-law/
+  - title: Patents
+    url: /patent-services/
+  - title: Trademarks
+    url: /trademark-services/
+  - title: Litigation
+    url: /litigation/
+
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
 future:      true

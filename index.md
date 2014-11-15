@@ -36,7 +36,7 @@ Adler Vermillion is a New York City law firm steeped in digital technology. We p
 <div class="hang-left"><a href="/articles">Blog</a></div>
 
 <ul class="post-list">
-{% for post in site.posts limit:8 %} 
+{% for post in site.posts limit:5 %} 
 {% if post.includeinbloglist != "no" %}
   <li>
     <article>

@@ -85,10 +85,10 @@ body {
 	z-index: 9000;
 	display: none;
 	@media @medium {
-		-webkit-animation-duration: 1s;
-		-moz-animation-duration: 1s;
-		-o-animation-duration: 1s;
-		animation-duration: 1s;
+		-webkit-animation-duration: .75s;
+		-moz-animation-duration: .75s;
+		-o-animation-duration: .75s;
+		animation-duration: .75s;
 	}
 	&.closed {
 		@media @medium {
@@ -122,6 +122,23 @@ body {
 	}
 }
 
+
+// Footer  Navigation
+// --------------------------------------------------
+#footer-site-nav ul {
+    .rounded(0 0 0 0 );
+    @media @medium {
+        .rounded(10px 10px 0 0 );
+    }
+}
+
+.page-footer-nav {
+    margin-top:3em;
+}
+
+.post-footer-nav {
+    margin-top:3em;
+}
 
 // Masthead
 // --------------------------------------------------
@@ -251,8 +268,8 @@ h1.site-title {
 .entry,
 .hentry {
 	.clearfix();
-	border-bottom: 1px solid lighten(@black,80);
-	border-bottom: 1px solid fade(@black,10);
+	// border-bottom: 1px solid lighten(@black,80);
+	// border-bottom: 1px solid fade(@black,10);
 }
 .entry-feature-image {
 	/* original margin:
@@ -536,7 +553,9 @@ span + .entry-title {
 }
 
 /* ELA added this float:none to footer because I applied .entry-content to center the footer. Without this, it gets a float:left */
-.footer-wrapper .entry-content {float:none;}
+.footer-wrapper .entry-content {
+    float:none; 
+    }
 
 // Post index layout
 .post-list {
@@ -658,16 +677,16 @@ span + .entry-title {
 		top: 100px;
 	}
 }
+
 // Footer
 // --------------------------------------------------
 .footer-wrapper {
 	.clearfix();
-	padding: 4em 0 2em 0;
+	background: rgba(211,211,211,.2);
+	margin-top: 0;
+	padding: 3em 0 2em 0;
 	text-align: center;
-	// font-family: @alt-font;
 	.font-rem(16);
-	
-	// font-style: italic;
 	color: lighten(@text-color,30);
 	a {
 		color: lighten(@text-color,30);
