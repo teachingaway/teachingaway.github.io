@@ -223,11 +223,7 @@ Volkswagen [New Beetle](http://en.wikipedia.org/wiki/Volkswagen_New_Beetle), 199
 
 ### Toys and Tools
 
-The lego man (1979): 
 
-<img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
-
-- - - 
 
 [Raymond Loewy's](http://en.wikipedia.org/wiki/Raymond_Loewy) pencil sharpener, a design that became the symbol of the [streamline movement](http://en.wikipedia.org/wiki/Streamline_Moderne). 
 
@@ -245,6 +241,11 @@ Two design patents for Henry Dreyfuss' rotary phone (1949). The image on the lef
 
 <img src="/images/design-patent/telephone-design-patent-loewy-1949.png" class="translucent"> 
 
+- - - 
+
+[Godtfred Christiansen's](http://en.wikipedia.org/wiki/Godtfred_Kirk_Christiansen) lego man (1979): 
+
+<img src="/images/design-patent/lego-man-design-patent-1979.png" class="translucent"> 
 
 - - - 
 
