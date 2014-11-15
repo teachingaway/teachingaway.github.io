@@ -14,34 +14,36 @@ share:
 
 <div class="toc">
 <ul>
-<li><a href="#patent-applications-and-patent-prosecution"><strong>Patent Applications and Patent Prosecution</strong></a><ul>
+<li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
 <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
+<li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
 <li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
 <li><a href="#national-stage-us-patent-prosecution">National Stage U.S. Patent Prosecution</a></li>
 </ul>
 </li>
+<li><a href="#transactional-patent-work">Transactional Patent Work</a><ul>
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
 <li><a href="#patent-opinions">Patent Opinions</a><ul>
 <li><a href="#patentability-opinions">Patentability Opinions</a></li>
 <li><a href="#defensive-opinions-invalidity-and-non-infringement">Defensive Opinions: Invalidity and Non-Infringement</a></li>
 </ul>
 </li>
-<li><a href="#patent-trial-and-appeal-board-proceedings">Patent Trial and Appeal Board Proceedings</a><ul>
-<li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
-<li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
-<li><a href="#inter-partes-review-invalidate-based-on-prior-art">Inter Partes Review: Invalidate Patents Based on Prior Art</a></li>
-<li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
-</ul>
-</li>
-</ul>
-</li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
 <li><a href="#patent-portfolio-management">Patent Portfolio Management</a></li>
+</ul>
+</li>
+<li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
+<li><a href="#inter-partes-review-invalidate-patents-based-on-prior-art">Inter Partes Review: Invalidate Patents Based on Prior Art</a></li>
+<li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
+<li><a href="#post-grant-review-invalidating-recently-issued-patents">Post Grant Review: Invalidating Recently Issued Patents</a></li>
+<li><a href="#ex-parte-reexamination-ask-the-patent-office-to-double-check">Ex Parte Reexamination: Ask the Patent Office to Double-Check</a></li>
+</ul>
+</li>
 <li><a href="#patent-litigation">Patent Litigation</a><ul>
-<li><a href="#patent-enforcement-in-federal-court">Patent Enforcement in Federal Court</a></li>
+<li><a href="#patent-enforcement">Patent Enforcement</a></li>
 <li><a href="#patent-troll-defense-in-federal-court">Patent Troll Defense in Federal Court</a></li>
 </ul>
 </li>
@@ -107,6 +109,12 @@ Many types of technology can benefit from both design and utility patents. For e
 
 - - - 
 
+## Appealing Patent Examiner Rejections: Ex Parte Appeals
+
+Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
+
+- - - 
+
 <img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">
 
 - - - 
@@ -126,30 +134,35 @@ We help file the United States "national stage" applications for for PCT applica
 
 - - - 
 
-<img src="/images/patent-drawings/gold-separator-dana-1902.png" class="translucent">
+
+<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+
 
 - - - 
 
-# Patent Due Diligence
+# Transactional Patent Work 
+
+
+## Patent Due Diligence
 
 We review patent portfolios for Venture Capital Funds and small M&A deals. This may involve checking for proper ownership and assignment documents, reviewing claims for quality drafting, reviewing patent opinions, inbound or outbound license agreements and any patent litigation, whether ongoing or settled. 
 
 <hr class="tall">
 
 
-# Patent Opinions
+## Patent Opinions
 
 We review patents and technology and issue actionable legal opinions to guide business decisions. In addition to careful legal analysis, our reports are carefully organized and summarized in plain language. 
 
 
-## Patentability Opinions 
+### Patentability Opinions 
 
 A patentability opinion reviews a new technology and identifies the components that are likely to be patentable. We first review the technology for "patentable subject matter" - whether it contains the type of technology that can be patented. We can also analyze a limited field of prior art documents, and determine whether they would likely block a new patent for your technology (that is, whether your technology is "novel" and "non-obvious" in view of the prior art documents). 
 
 **Prior Art Search.** A full patentability opinion would include a careful prior art search and analysis of the results. However, such a search can be slow, expensive, and inconclusive. Instead, we often recommend "hiring" the patent office to do the search (either the USPTO or the PCT office). This is cheaper and more conclusive, but the results (positive or negative) are likely to become public record. 
 
 
-## Defensive Opinions: Invalidity and Non-Infringement
+### Defensive Opinions: Invalidity and Non-Infringement
 
 If you receive a demand letter from a patent owner, or someone requests a license fee for a technology you developed in-house, you may want to obtain an "invalidity" and/or "non-infringement" opinion on the third-party patent. 
 
@@ -161,32 +174,33 @@ Legal opinions rarely provide conclusive certainty because patent analysis often
 
 - - - 
 
-<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+## Patent Licensing and Technology Transfer
 
-- - - 
-
-# Patent Trial and Appeal Board Proceedings
-
-The Patent Trial and Appeal Board ("PTAB") is an administrative court within the USPTO. It hears (a) "ex parte" appeals from inventors who believe a patent examiner has improperly rejected a patent application, and (b) "inter partes" disputes between a patent owner and a third party. 
+We counsel clients in patent licensing deals, and technology transfer arrangements, including alternative patent licensing arrangements can be used to attract top engineering talent. We frequently discuss the Defensive Patent License, Twitter's IPA, and Google's "License on Transfer." Where  engineering talent is a higher priority than proprietary technology, these new arrangements can be effective tools to bolster a companies cache with engineers, while simultaneously preventing patent trolls from ever acquiring the patents. 
 
 
 - - - 
 
-## Appealing Patent Examiner Rejections: Ex Parte Appeals
+## Patent Portfolio Management
 
-Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
+We can help optimize patent portfolios, review deadlines, pay maintenance fees, and ensure that proper assignment and ownership documents have been filed at the USPTO. 
 
-- - -  
+To improve cost efficiency, we can help review old patents and trim away intellectual property that is no longer aligned with business goals. This can  substantially reduce maintenance fees and management costs. 
 
-## Invalidating Patents at the USPTO
+- - - 
 
+<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
-The Patent Trial and Appeal Board offers some fast and inexpensive tools for invalidating patents. 
+- - - 
+
+# Invalidating Patents at the USPTO
+
+The Patent Trial and Appeal Board ("PTAB") is an administrative court within the USPTO. The PTAB offers fast and inexpensive tools for invalidating patents. 
 
 In all of these PTAB proceedings, the judge will be a patent law specialist, and will likely have an engineering or science background. This can be an advantage over federal court, where judges are generalists who adjudicate cases dealing with every type of civil and criminal law, and rarely have a science background.
 
 
-### Inter Partes Review: Invalidate Patents Based on Prior Art
+## Inter Partes Review: Invalidate Patents Based on Prior Art
 
 An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, for several reasons. 
 
@@ -205,7 +219,7 @@ An IPR can invalidate and cancel a patent on the basis of prior art in patents o
 **Risks**. There is some "estoppel" risk involved in an IPR. A party that challenges a patent in an IPR and loses will not be able to challenge that patent again in federal court on any invalidity grounds that it asserted or "reasonably could have asserted" in the IPR. Put differently, a patent that survives an IPR becomes stronger.
 
 
-### Covered Business Method Review: Invalidating Financial Patents 
+## Covered Business Method Review: Invalidating Financial Patents 
 
 Patents related to financial products and services are subject to a procedure called "Covered Business Method Review" ("CBM"). If you have been accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter), consider filing a CBM in reply. 
 
@@ -213,49 +227,33 @@ CBM is fast, often reaching a findal decision within 12-18 months. This is about
 
 There is less "estoppel" risk in a CBM than in other PTAB proceedings. A party that loses a CBM cannot go to federal court to reargue the invalidity grounds that it *actually asserted* at the CBM. In other PTAB proceedings, the losing party will be estopped from later asserting invalidity arguments that "reasonably could have been" asserted at the PTAB.  
 
-<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
 
-### Post Grant Review: Invalidating Recently Issued Patents 
+## Post Grant Review: Invalidating Recently Issued Patents 
 
 Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. In a PGR, a patent can be invalidated based on *any grounds*. In an inter-partes review, a patent can only be invalidated based on prior art. 
 
 There is some "estoppel" risk involved in a PGR. A party that files a PGR and loses will not be able to argue invalidity again in federal court on any grounds that it "reasonably could have asserted" at the PGR. Since the PGR allows for more types of invalidity arguments than an IPR, there is the possibility of broader estoppel. 
 
   
-
-### Ex Parte Reexamination: Ask the Patent Office to Double-Check 
+## Ex Parte Reexamination: Ask the Patent Office to Double-Check 
 
 Anyone can ask the Patent Office to reexamine a patent at any time. The Patent Office will review the patent for invalidity based on prior art in patents or printed publications. The review will only take place if the petition presents a "substantial new question of patentability." If the Patent Office grants the petition, the review is ex parte - the petition does not have an opportunity to present arguments. More details are described in [MPEP 2209](/mpep/s2209.html). 
 
-<hr class="tall">
-
-# Patent Licensing and Technology Transfer
-
-We counsel clients in patent licensing deals, and technology transfer arrangements, including alternative patent licensing arrangements can be used to attract top engineering talent. We frequently discuss the Defensive Patent License, Twitter's IPA, and Google's "License on Transfer." Where  engineering talent is a higher priority than proprietary technology, these new arrangements can be effective tools to bolster a companies cache with engineers, while simultaneously preventing patent trolls from ever acquiring the patents. 
-
-<hr class="tall">
-
-
-# Patent Portfolio Management
-
-We can help optimize patent portfolios, review deadlines, pay maintenance fees, and ensure that proper assignment and ownership documents have been filed at the USPTO. 
-
-To improve cost efficiency, we can help review old patents and trim away intellectual property that is no longer aligned with business goals. This can  substantially reduce maintenance fees and management costs. 
-
-<hr class="tall">
-
-<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
-
-# Patent Litigation
-
-We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms (more expensive, but with more available litigation staff). 
 
 - - - 
 
+<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
+- - - 
 
-## Patent Enforcement in Federal Court
+# Patent Litigation
+
+We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms. 
+
+- - - 
+
+## Patent Enforcement
 
 If you believe a competitor is infringing your patent, we can help investigate the status of your patent and the competitor's infringing technology. After careful due diligence, we can send a demand letter and negotiate a license deal or settlement agreement. If that fails, we litigate patent disputes in federal court. 
 
