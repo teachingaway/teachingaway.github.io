@@ -9,7 +9,7 @@ image:
 ---
 
 
-We litigate complex contract and intellectual property disputes, including patent troll defense. We also help enforce legitimate IP rights in trade secret disputes, and in trademark appeals at the USPTO and litigation in federal court.
+We litigate complex contract and intellectual property disputes. As a small firm, we provide efficient representation and carefully tailored legal strategies without sacrificing quality. 
 
  
 
@@ -35,7 +35,7 @@ Our team has experience dealing with trade secret and related employee non-compe
 
 - - - 
 
-## At the Administrative Courts of the US Patent and Trademark Office
+## Patent and Trademark Office Administrative Courts
 
 ### Trademark Litigation at the TTAB
 
@@ -49,6 +49,4 @@ The Patent Trial and Appeal Board offers some fast and relatively inexpensive to
 
 **Financial Patents: CBM**. Patents related to financial products and services may be invalidated at the PTAB through a procedure called "Covered Business Method Review" ("CBM"). We counsel clients accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter) on the merits of filing a CBM in reply. CBM is fast, often reaching a findal decision within 12-18 months, and at a fraction of the cost of federal court litigation. 
 
-**Inter Partes Review**: A IPR is a fast an efficient method of invalidating patents through the Patent Office's administrative courts. Anyone subjected to a frivolous patent lawsuit should consider filing an IPR as an aggressive response. 
-
-An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, because it is much faster, far more cost effective, and gives the party challenging the patent's validity several procedural advantages. 
+**Inter Partes Review**: A IPR is a fast an efficient method of invalidating patents through the Patent Office's administrative courts. Anyone subjected to a frivolous patent lawsuit should consider filing an IPR as an aggressive response. An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, because it is much faster, far more cost effective, and gives the party challenging the patent's validity several procedural advantages. 
