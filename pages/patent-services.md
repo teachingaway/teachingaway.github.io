@@ -13,9 +13,8 @@ share:
 
 
 <div class="toc">
-<p>Contents</p>
 <ul>
-<li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
+<li><a href="#patent-applications-and-patent-prosecution"><strong>Patent Applications and Patent Prosecution<strong></a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
 <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
@@ -143,15 +142,11 @@ We review patent portfolios for Venture Capital Funds and small M&A deals. This 
 We review patents and technology and issue actionable legal opinions to guide business decisions. In addition to careful legal analysis, our reports are carefully organized and summarized in plain language. 
 
 
-- - - 
-
 ## Patentability Opinions 
 
 A patentability opinion reviews a new technology and identifies the components that are likely to be patentable. We first review the technology for "patentable subject matter" - whether it contains the type of technology that can be patented. We can also analyze a limited field of prior art documents, and determine whether they would likely block a new patent for your technology (that is, whether your technology is "novel" and "non-obvious" in view of the prior art documents). 
 
 **Prior Art Search.** A full patentability opinion would include a careful prior art search and analysis of the results. However, such a search can be slow, expensive, and inconclusive. Instead, we often recommend "hiring" the patent office to do the search (either the USPTO or the PCT office). This is cheaper and more conclusive, but the results (positive or negative) are likely to become public record. 
-
-- - - 
 
 
 ## Defensive Opinions: Invalidity and Non-Infringement
@@ -181,11 +176,7 @@ The Patent Trial and Appeal Board ("PTAB") is an administrative court within the
 
 Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
 
-- - - 
-
-<img src="/images/patent-drawings/camera-fassin-1948.png" class="translucent">
-
-- - - 
+- - -  
 
 ## Invalidating Patents at the USPTO
 
@@ -241,9 +232,7 @@ Anyone can ask the Patent Office to reexamine a patent at any time. The Patent O
 
 # Patent Licensing and Technology Transfer
 
-We counsel clients in patent licensing deals, and technology transfer arrangements. 
-
-We frequently discuss alternative patent licenses, like the Defensive Patent License, Twitter's IPA, and Google's "License on Transfer." These licenses can help attract top engineering talent, which is often a higher priority than proprietary technology for growing software companies. 
+We counsel clients in patent licensing deals, and technology transfer arrangements, including alternative patent licensing arrangements can be used to attract top engineering talent. We frequently discuss the Defensive Patent License, Twitter's IPA, and Google's "License on Transfer." Where  engineering talent is a higher priority than proprietary technology, these new arrangements can be effective tools to bolster a companies cache with engineers, while simultaneously preventing patent trolls from ever acquiring the patents. 
 
 <hr class="tall">
 
@@ -256,7 +245,7 @@ To improve cost efficiency, we can help review old patents and trim away intelle
 
 <hr class="tall">
 
-
+<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
 # Patent Litigation
 
@@ -264,7 +253,7 @@ We litigate patent disputes in federal court in the Southern District of NY (Man
 
 - - - 
 
-<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
+
 
 ## Patent Enforcement in Federal Court
 
@@ -273,3 +262,7 @@ If you believe a competitor is infringing your patent, we can help investigate t
 - - - 
 
 ## Patent Troll Defense in Federal Court
+
+We help defend startups against frivolous patent troll claims. Since the Supreme Court changed the rules of the game in Summer 2014, defendants have been winning far more cases against non-practicing patent entities. Courts are now far more willing to force patent trolls to pay the other party's attorneys fees. 
+
+We also work with law school clinics to offer free legal defense to technology startups being threatened with baseless patent litigation. 
