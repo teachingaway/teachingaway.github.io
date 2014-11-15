@@ -14,7 +14,7 @@ share:
 
 <div class="toc">
 <ul>
-<li><a href="#patent-applications-and-patent-prosecution"><strong>Patent Applications and Patent Prosecution<strong></a><ul>
+<li><a href="#patent-applications-and-patent-prosecution"><strong>Patent Applications and Patent Prosecution</strong></a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
 <li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
