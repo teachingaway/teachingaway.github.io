@@ -9,7 +9,7 @@ image:
 ---
 
 
-We litigate complex contract and intellectual property disputes. As a small firm, we provide efficient representation and carefully tailored legal strategies without sacrificing quality. For disputes requiring more substantial resources, we connect clients with larger firms. 
+We litigate complex contract and intellectual property disputes. As a small firm, we provide efficient representation and carefully tailored legal strategies without sacrificing quality. For disputes requiring more substantial resources, we connect clients with larger firms. However, for small and medium businesses, our litigation services are often the more cost-effective choice. 
 
  
 
