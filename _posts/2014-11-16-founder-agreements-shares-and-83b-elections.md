@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 longform: "yes"
-title: "Cofounder Agreements, Equity Splits, and Issuing Shares"
+title: "Founder Agreements, Equity Splits, and Issuing Shares"
 summary: "A collection of useful startup guidance on cofounder agreements, initial equity splits, issuing shares and making an 83b tax election."
 tags: [startup law, link list]
 author: adler
@@ -21,7 +21,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ### Cofounder Agreements and Initial Equity Splits. 
 
-How should you split startup equity with a cofounder if you’re not both putting in exactly 50% of the work and 50% of the seed capital? 
+Unless both cofounders contribute  exactly 50% of the seed capital and 50% of the work, splitting the initial startup equity needs to be a carefully considered process. 
 
 * [Allocating Equity and Founder’s Investment](http://www.feld.com/archives/2011/07/finance-fridays-getting-started-allocating-equity-and-founders-investment.html). [*Brad Feld*](https://twitter.com/bfeld), 2011*. Hypothetical: Jane and Dick each bring a similar level of skill to the startup, but only Jane has the spare cash to invest in the startup’s initial expenses. How could they treat Jane’s cash investment?
 
@@ -49,3 +49,4 @@ A newly incorporated company needs to issue shares, and the cofounders then need
 
 * [Setting the exercise price of stock options to avoid 409A issues](http://www.startupcompanylawyer.com/2009/01/01/how-do-you-set-the-exercise-price-of-stock-options-to-avoid-section-409a-issues/). [*Yokum Taku*](https://twitter.com/Yokum), 2009.  Determining fair market value of private company stock. 
 
+- - - 
