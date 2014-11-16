@@ -251,13 +251,11 @@ Anyone can ask the Patent Office to reexamine a patent at any time. The Patent O
 
 We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms. 
 
-- - - 
 
 ## Patent Enforcement
 
 If you believe a competitor is infringing your patent, we can help investigate the status of your patent and the competitor's infringing technology. After careful due diligence, we can send a demand letter and negotiate a license deal or settlement agreement. If that fails, we litigate patent disputes in federal court. 
 
-- - - 
 
 ## Patent Troll Defense in Federal Court
 

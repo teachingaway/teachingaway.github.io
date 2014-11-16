@@ -9,23 +9,15 @@ image:
 ---
 
 
-We litigate complex contract and intellectual property disputes. As a small firm, we provide efficient representation and carefully tailored legal strategies without sacrificing quality. For disputes requiring more substantial resources, we connect clients with larger firms. However, for small and medium businesses, our litigation services are often the more cost-effective option. 
+We litigate contract and intellectual property disputes. As a small firm, we provide efficient representation and carefully tailored legal strategies for small and medium size business and technology startups. 
 
  
-
 ## Patent Disputes
  
-We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). Our litigation services are cost-effective, and appropriate for small and medium-size litigation. For more complicated patent litigation, we can help connect clients with larger law firms. 
+We litigate patent disputes in federal court in the Southern District of NY (Manhattan) and the Eastern District of NY (Brooklyn). 
 
-### Patent Litigation at the PTAB
+We also represent clients in patent litigation before the Patent Trial and Appeal Board. The Patent Trial and Appeal Board ("PTAB")  offers fast and relatively inexpensive tools for reviewing the validity of issued patents, such as "Inter Partes Review" ("IPR").  An IPR is an expedited procedure for invalidating patents through the Patent Office's administrative courts. Anyone subjected to a frivolous patent lawsuit should consider filing an IPR as an aggressive response. An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, because it is much faster, far more cost effective, and gives the party challenging the patent's validity several procedural advantages. 
 
-The Patent Trial and Appeal Board offers some fast and relatively inexpensive tools for invalidating patents. 
-
-**Recently Issued Patents: Post Grant Review**. Patents that have been issued within the last 9 months may be cancelled on any invalidity grounds through the "Post Grant Review" procedure. 
-
-**Financial Patents: CBM**. Patents related to financial products and services may be invalidated at the PTAB through a procedure called "Covered Business Method Review" ("CBM"). We counsel clients accused of infringing a finance-related patent (whether in a lawsuit or cease-and-desist letter) on the merits of filing a CBM in reply. CBM is fast, often reaching a findal decision within 12-18 months, and at a fraction of the cost of federal court litigation. 
-
-**Inter Partes Review**: A IPR is a fast an efficient method of invalidating patents through the Patent Office's administrative courts. Anyone subjected to a frivolous patent lawsuit should consider filing an IPR as an aggressive response. An IPR can invalidate and cancel a patent on the basis of prior art in patents or printed publications. IPR is often preferable to federal court litigation, because it is much faster, far more cost effective, and gives the party challenging the patent's validity several procedural advantages. 
 
 ## Trademark Disputes 
 
