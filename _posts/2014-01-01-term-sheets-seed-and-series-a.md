@@ -25,13 +25,13 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Ideal First Round Term Sheet? 
 
-[The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. 
+[A founder-friendly term sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet). Sam Altman, 2013. A founder-friendly term sheet has no option pool, no expiration, no confidentiality agreement, no participating preferred, and the investor agrees to pay her own legal fees. 
 
-[The Ideal First Round Term Sheet Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. 
+[Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Chris Dixon summarizes his idea, plain vanilla early-stage term sheet. 
 
-[Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. 
+[The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. Agreeing with Chris Dixon's post above.  Fred's comments continue at [the Ideal First Round Term Sheet Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued/). 
 
-[A founder-friendly term sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet). Sam Altman, 2013. 
+
 
 [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). [*Brad Feld*](https://twitter.com/bfeld), 2012. "VCs only need three rights: Up, Down, and Know What The Fuck Is Going On." Up = Pro-rata rights. VCs want to invest in next round to maintain their ownership in growing companies. Down = Liquidation preference. VCs want to get their money out first when the company isn’t growing. Know What The Fuck Is Going On = Board seat. 
 
@@ -43,22 +43,22 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wang*](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
 
-[When not to be Mr. Wolf. An important negotiation tactic for entrepreneurs](https://medium.com/@twang/when-not-to-be-mr-wolf-e56275211dd1).  [*Ted Wan*g](https://twitter.com/twang), 2014.
+[When not to be Mr. Wolf. An important negotiation tactic for entrepreneurs](https://medium.com/@twang/when-not-to-be-mr-wolf-e56275211dd1).  [*Ted Wang*](https://twitter.com/twang), 2014. When to move quickly, and when to slow down. 
+
+
+[A Quick Hack for Speeding up Term Sheet and other Negotiations](http://www.bothsidesofthetable.com/2012/03/17/a-quick-hack-for-speeding-up-term-sheet-and-other-negotiations/). [Mark Suster](https://twitter.com/msuster), 2012. Throw a “signing party” where everyone flies to a single location, and stays in a hotel together until the deal was completed. 
+
 
 ## Exploding Offers
 
-[Exploding Offers Suck](http://blog.ycombinator.com/exploding-offers-suck). Sam Altman, 2014. 
+[Exploding Offers Suck](http://blog.ycombinator.com/exploding-offers-suck). Sam Altman, 2014. Investors and accelerators should not use time-pressure to prevent founders from exploring their alternatives. [Note: on the other hand, reasonable time limits on an offer are often appropriate.] 
 
-[Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. 
+[Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. VC Firms should not back out of a term sheet unless their due diligence turns up some kind of fraud. 
 
 ## No Shop Clause 
-[Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. 
 
-[The No Shop Clause](http://www.feld.com/archives/2006/04/the-no-shop-clause.html). [*Brad Feld*](https://twitter.com/bfeld) (2006). 
+[Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Shopping a term sheet around might get you a better deal once, but creates repetitional risk. Better to discuss the deal with several investors verbally, *before* you get a term sheet. 
 
-## Fees 
-
-[Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html). [*Brad Feld*](https://twitter.com/bfeld)(2006). 
 
 
 - - - 
