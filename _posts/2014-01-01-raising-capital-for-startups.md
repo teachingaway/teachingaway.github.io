@@ -37,7 +37,7 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 - - - 
 
-## Bootstrap: Build a Company without Raising Money.  
+## Bootstrap: Build a Company without Raising Money
 
 Before you raise outside money, decide whether you can bootstrap your startup. Also, think about how far you can bootstap before raising seed capital. The more progress you make and the more traction you see, the sweeter your first term sheet will be. 
 
@@ -61,22 +61,22 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 * [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
 
-* [What is an accredited investor?](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor/) [*Yokum Taku*](https://twitter.com/Yokum), 2009. If you can’t raise money from an established seed fund, then raise money from an experienced and  "accredited" angel investor. And if not experienced, at the very least “accredited.” (Accredited = sufficiently rich as defined in the securities laws). 
+* [What is an accredited investor](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor/)? [*Yokum Taku*](https://twitter.com/Yokum), 2009. If you can’t raise money from an established seed fund, then raise money from an experienced and  "accredited" angel investor. And if not experienced, at the very least “accredited.” (Accredited = sufficiently rich as defined in the securities laws). 
 
-* [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). Taking non-accredited money is risky, but sometimes its the only option, especially for startups outside of California and New York.
+* [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). [Jose Ancer](https://twitter.com/ancerj), 2014. Taking non-accredited money is risky, but sometimes it's the only option, especially for startups outside of California and New York.
 
 ### How Many Investors? 
 
-* [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/) [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
+* [How Many Investors are Too Many](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/)? [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
 
 
-* [Party rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.  Each investor assumes that at least 1 of the other N investors will be closely involved, but in fact no one is. They company may wander off into a very unfocused wilderness.
+* [Party rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.
 
 - - - 
 
 ## Pitching and Investor Presentations
 
-* [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. At an early stage, ideas matter less for their own sake and more insofar as they reflect the creativity and thoughtfulness of the team. When pitching your early stage startup, focus on yourself and your team, and what you've built. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
+* [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
 * [How to Present to Investors](http://paulgraham.com/investors.html). [*Paul Graham*](https://twitter.com/paulg),  2010. Practical advice on giving presentations:  describe a compelling product and get right to the demo; focus on a narrow solution to a widespread problem, don't waste time on business models or secondary matters.  
 
@@ -87,7 +87,7 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 * [The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  There are very few hard metrics in venture pricing. As a result, one of the primary valuation inputs is what other investors think about a company.
 
-* [The Problem with Taking Seem Money from Big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If you take seed money from a big VC fund, be aware of the potential signalling risk if the VC fund decides not to invest in your Series A round.  Potential series A investors will think “if this top VC that has hundreds of millions of dollars and knows this company the best doesn’t want to invest, why would I?” 
+* [The Problem with Taking Seem Money from Big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If you take *seed* money from a big VC fund, be aware of the potential signalling risk if the VC fund decides not to invest in your Series A round.  Other potential investors will think “if this top VC that has hundreds of millions of dollars and knows this company the best doesn’t want to invest, why would I?” 
 
 
 
@@ -96,13 +96,13 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 ## NDAs and Ideas vs. Execution 
 
-Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, its in the execution of the idea. 
+Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the execution of the idea. 
 
 * [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Talk about your idea to almost anyone who will listen: investors, entrepreneurs, friends, people on the street, the bartender, etc.
 
-* [The myth of the Eureka moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a “Eureka" moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
+* [The Myth of the Eureka Moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a “Eureka" moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
 
-* [What is Important in a Confidentiality Agreement or Nondisclosure Agreement (NDA)](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *do* actually need an NDA, here are some important terms to consider: Is the confidentiality obligation mutual or one-way? Is the obligation not to "disclose" information, or not to "use" the information internally, or both? Carefully define the confidential information, especially if you will be obligated to keep it secret. 
+* [Important Terms for Nondisclosure Agreements](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *actually* need an NDA, specifically define what information must be confidential, and who must keep it confidential (i.e., mutual or one-way obligation).  Is the obligation not to *disclose* information, or not to *use* the information, or both? 
 
 
 # How Much to Raise and at What Valuation?
@@ -118,17 +118,19 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 ## Angel Investors / Seed Financing
 
-* [Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum, (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
-
-* [Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
+* [Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum... (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
 
 * [Upside risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. "And yet angel investors continue to ask for onerous terms to mitigate their ‘downside risk.’  All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals." 
+
+* [Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
 
 
 
 ### Incubators, Accelerators, etc. 
 
-* [The Most Important Question to Ask Before Taking Seed Money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/) (from a VC incubator). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a strong negative signal to other VCs. So its important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
+Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](http://www.techstars.com/program/locations/nyc/) are generally great for startups. However, not all incubators are created equal. 
+
+* [The Most Important Question to Ask Before Taking Seed Money (from a VC incubator)](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a strong negative signal to other VCs. So it's important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
 
 * [We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
