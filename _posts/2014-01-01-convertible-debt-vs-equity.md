@@ -47,19 +47,18 @@ In 2010, Paul Graham of Y Combinator declared that "Convertible notes have won."
 [Has convertible debt won? And if it has, is that a good thing?](http://www.sethlevine.com/wp/2010/08/has-convertible-debt-won-and-if-it-has-is-that-a-good-thing) Seth Levine, 2010. 
 
 
-[Why seed investors don’t like convertible notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. 
+[Why Seed Investors Don’t Like Convertible Notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. 
 
 - - - 
 
-[What is convertible equity (or a convertible security)](http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security/)? [*Yokum Taku*](https://twitter.com/Yokum), 2012. 
+[What is Convertible Equity](http://www.startupcompanylawyer.com/2012/08/31/what-is-convertible-equity-or-a-convertible-security/)? [*Yokum Taku*](https://twitter.com/Yokum), 2012. 
 
-[Is convertible debt with a price cap really the best financing structure](http://www.startupcompanylawyer.com/2011/01/09/is-convertible-debt-with-a-price-cap-really-the-best-financing-structure/)? [*Yokum Taku*](https://twitter.com/Yokum), 2011. 
+[Is Convertible Debt with a Price Cap the Best Financing Structure](http://www.startupcompanylawyer.com/2011/01/09/is-convertible-debt-with-a-price-cap-really-the-best-financing-structure/)? [*Yokum Taku*](https://twitter.com/Yokum), 2011. 
 
 - - - 
 
 
-[Converts versus equity deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. "To the extent that I know anything about seed investing, I learned it from Ron Conway.  I remember one deal he showed me where the entire deal was done on a one page fax (not the term sheet – the entire deal)...  I was shocked. I asked him 'what if X or Y happens and the entrepreneur screws you.'  Ron said something like 'then I lose my money and never do business with that person again.'" 
-
+[Converts Versus equity Deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. "To the extent that I know anything about seed investing, I learned it from Ron Conway.  I remember one deal he showed me where the entire deal was done on a one page fax (not the term sheet – the entire deal)...  I was shocked. I asked him 'what if X or Y happens and the entrepreneur screws you.'  Ron said something like 'then I lose my money and never do business with that person again.'" 
 
 
 
@@ -67,12 +66,11 @@ In 2010, Paul Graham of Y Combinator declared that "Convertible notes have won."
 
 
 
-[Was Paul Graham right in his "high resolution" financing post](http://www.bothsidesofthetable.com/2010/09/25/revisiting-paul-grahams-high-resolution-financing/)? [*Mark Suster*](https://twitter.com/msuster)[, 2010. ](http://www.bothsidesofthetable.com/2010/09/25/revisiting-paul-grahams-high-resolution-financing/)
-
-[Some thoughts on raising angel money](http://www.bothsidesofthetable.com/2009/07/19/raising-angel-money/). [*Mark Suster*](https://twitter.com/msuster)[, 2009. ](http://www.bothsidesofthetable.com/2009/07/19/raising-angel-money/)
+[Was Paul Graham Right in his "High Resolution" Financing Post](http://www.bothsidesofthetable.com/2010/09/25/revisiting-paul-grahams-high-resolution-financing/)? [*Mark Suster*](https://twitter.com/msuster). 
 
 
-[Why Series Seed Documents are better than capped convertible notes.](http://www.seriesseed.com/posts/2010/09/version-20-and-why-series-seed-documents-are-better-than-capped-convertible-notes.html) Ted Wang, 2010. 
+
+[Why Series Seed Documents are Better than Capped Convertible Notes.](http://www.seriesseed.com/posts/2010/09/version-20-and-why-series-seed-documents-are-better-than-capped-convertible-notes.html) Ted Wang, 2010. 
 
 
 - - -

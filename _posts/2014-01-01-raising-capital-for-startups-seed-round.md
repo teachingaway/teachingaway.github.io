@@ -121,6 +121,7 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 [Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
 
+[Thoughts on Raising Angel Money](http://www.bothsidesofthetable.com/2009/07/19/raising-angel-money/). [*Mark Suster*](https://twitter.com/msuster), 2009. Entrepreneurs should raise money from the most experienced people possible. 
 
 
 ## Incubators, Accelerators, etc. 
