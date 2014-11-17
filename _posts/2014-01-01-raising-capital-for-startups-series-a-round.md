@@ -59,9 +59,6 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 [Best Practices for Raising a VC Round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. Pick a minimum valuation, never share the names of other VCs that are interested, talk to about 5 VCs, consider offering certain VCs a "buy it now" valuation, set timelines and move quickly. 
 
-
-### Finding the Right VC for your Series A Round
-
 [Why it’s Critical that you Reference Check Your VC](http://www.bothsidesofthetable.com/2010/12/14/why-its-critical-that-you-reference-check-your-vc/). [*Mark Suster*](https://twitter.com/msuster), 2010. Get to know VCs over a long period of time. Check a reference list, and don't stop with the list they give you, check with companies that went through difficult times.  
 
 [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. How much should you weigh the brand of the VCs?  A little, but a lot less than most people assume.
