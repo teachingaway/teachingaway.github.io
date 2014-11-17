@@ -14,9 +14,8 @@ comments: true
 share: true
 ---
 
-DRAFT POST
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising angel, seed and Series A capital for technology startups.
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
@@ -30,7 +29,6 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 [Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Chris Dixon summarizes his idea, plain vanilla early-stage term sheet. 
 
 [The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. Agreeing with Chris Dixon's post above.  Fred's comments continue at [the Ideal First Round Term Sheet Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued/). 
-
 
 
 [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). [*Brad Feld*](https://twitter.com/bfeld), 2012. "VCs only need three rights: Up, Down, and Know What The Fuck Is Going On." Up = Pro-rata rights. VCs want to invest in next round to maintain their ownership in growing companies. Down = Liquidation preference. VCs want to get their money out first when the company isn’t growing. Know What The Fuck Is Going On = Board seat. 
@@ -65,7 +63,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Brad Feld’s Term Sheet Series (2005)
 
-An updated version of this series is available in Feld’s 2013 book, "Venture Deals." 
+Brad Feld of the Foundry Group detailed all of common term sheet provisions in this 2005 series of blog posts. He published an updated version in his 2012 book, "[Venture Deals](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)." 
 
 [Anti-Dilution](http://feld.com/archives/2005/03/term-sheet-anti-dilution.html) - protects investors from dilution in a down-round by (essentially) issuing them more shares. A "full ratchet" anti-dilution provision is a red flag. 
 

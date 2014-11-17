@@ -137,9 +137,9 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 ### Commentary on Standardized Seed Docs 
 
-[How do the sample Series Seed financing documents differ from typical Series A financing documents](http://www.startupcompanylawyer.com/2010/03/14/how-do-the-sample-series-seed-financing-documents-differ-from-typical-series-a-financing-documents/)? [*Yokum Taku*](https://twitter.com/Yokum), 2010. 
+[How do the sample Series Seed financing documents differ from typical Series A financing documents](http://www.startupcompanylawyer.com/2010/03/14/how-do-the-sample-series-seed-financing-documents-differ-from-typical-series-a-financing-documents/)? [*Yokum Taku*](https://twitter.com/Yokum), 2010. A nice matrix comparing the details of the Series Seed, Y Combinator, and TechStars standard documents. 
 
-[Why There Will Never be a Standard Set of Seed Documents](http://www.jasonmendelson.com/archives/2010/03/why-there-will-never-be-a-standard-set-of-seed-documents-a-k-a-why-brad-feld-will-fail.php) [(aka why Brad Feld will Fail)](http://www.jasonmendelson.com/archives/2010/03/why-there-will-never-be-a-standard-set-of-seed-documents-a-k-a-why-brad-feld-will-fail.php), Jason Mendelson, 2010. 
+[Why There Will Never be a Standard Set of Seed Documents](http://www.jasonmendelson.com/archives/2010/03/why-there-will-never-be-a-standard-set-of-seed-documents-a-k-a-why-brad-feld-will-fail.php) [(aka why Brad Feld will Fail)](http://www.jasonmendelson.com/archives/2010/03/why-there-will-never-be-a-standard-set-of-seed-documents-a-k-a-why-brad-feld-will-fail.php), Jason Mendelson, 2010. Perhaps the more important takeaway is that the National Venture Capital Association docs "are too complicated for 90% of the folks out there doing the deals."  
 
 [Don’t be creative about the wrong things](http://cdixon.org/2010/02/16/dont-be-creative-about-the-wrong-things/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. "your deal terms should be plain vanilla. These things are time tested and you are far more likely to screw things up than create value by tinkering with them." 
 
