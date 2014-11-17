@@ -16,7 +16,7 @@ image:
 
     
 <ul class="post-list">
-{% for post in site.posts limit:25 %} 
+{% for post in site.posts limit:35 %} 
 {% if post.includeinbloglist != "no" %}
   <li>
     <article>
