@@ -74,11 +74,9 @@ A "Prioritized Examination" expedites the patent process to about 1 year. While 
 
 Starting the patent process with a "PCT" application can also expedite the process. Patent Cooperation Treaty ("PCT") refers to a type of international patent process that tends to move much faster than a straight US utility patent. The first reply to a PCT application tends to come in 3 or 4 months, as opposed to 15-18 months for a straight US Utility patent. A positive PCT response (called a "search report") is a particularly useful tool for early stage companies raising venture capital.  
 
-- - -
 
-<img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent">
+<img src="/images/patent-drawings/jet-engine-whittle-1946.png" class="translucent pad-vertical">
 
-- - -
 
 ## Provisional Patent Applications
 
@@ -95,7 +93,7 @@ Provisional applications provide several benefits. Its often cheaper to file a p
 
 - - - 
 
-<img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent">
+<img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent pad-vertical">
 
 
 
@@ -113,11 +111,10 @@ Many types of technology can benefit from both design and utility patents. For e
 
 Patent examiner's are generally smart people, but they work under intense time pressures, and can sometimes make mistakes. When they do, the mistake can often be appealed to the PTAB. We try to avoid this scenario when possible, because the PTAB often takes years to issue a decision on an Ex Parte appeal. However, sometimes an appeal is necessary. 
 
-- - - 
 
-<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent">
+<img src="/images/design-patent/eames-chair-design-and-utility-patent-1947.png" class="translucent pad-vertical">
 
-- - - 
+
 
 ## International and "PCT" Patent Applications
 
@@ -132,13 +129,13 @@ Foreign patent filings can be expensive. Ballpark around $5,000 per application 
 
 We help file the United States "national stage" applications for for PCT applications, including amending claims to comply with local United States patent law. 
 
-- - - 
 
 
-<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent">
+
+<img src="/images/patent-drawings/tesla-motor-1889.png" class="translucent pad-vertical">
 
 
-- - - 
+
 
 # Transactional Patent Work 
 
@@ -187,11 +184,11 @@ We can help optimize patent portfolios, review deadlines, pay maintenance fees, 
 
 To improve cost efficiency, we can help review old patents and trim away intellectual property that is no longer aligned with business goals. This can  substantially reduce maintenance fees and management costs. 
 
-- - - 
 
-<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent">
 
-- - - 
+<img src="/images/patent-drawings/3d-printer-1994.png" class="translucent pad-vertical">
+
+
 
 # Invalidating Patents at the USPTO
 
@@ -241,11 +238,11 @@ There is some "estoppel" risk involved in a PGR. A party that files a PGR and lo
 Anyone can ask the Patent Office to reexamine a patent at any time. The Patent Office will review the patent for invalidity based on prior art in patents or printed publications. The review will only take place if the petition presents a "substantial new question of patentability." If the Patent Office grants the petition, the review is ex parte - the petition does not have an opportunity to present arguments. More details are described in [MPEP 2209](/mpep/s2209.html). 
 
 
-- - - 
 
-<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent">
 
-- - - 
+<img src="/images/patent-drawings/electric-circuit-regulator-waite-1894.png" class="translucent half-image pad-vertical">
+
+
 
 # Patent Litigation
 

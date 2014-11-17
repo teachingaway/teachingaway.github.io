@@ -210,6 +210,7 @@ A design patent for the [DC3 cargo plane](http://en.wikipedia.org/wiki/Douglas_D
 [Colin Chapman](http://en.wikipedia.org/wiki/Colin_Chapman) design for an early 1980s (or late 1970s?) Lotus Formula 1 car. 
 
 <img src="/images/design-patent/car-chapman-lotus-1981.png" class="translucent"> 
+
 - - - 
 
 Volkswagen [New Beetle](http://en.wikipedia.org/wiki/Volkswagen_New_Beetle), 1997. 

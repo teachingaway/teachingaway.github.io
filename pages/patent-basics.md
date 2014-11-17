@@ -208,7 +208,6 @@ Some important sections are [Obviousness](../mpep/s2141.html), [written descript
 
 
 
-- - - 
 
 <!--Eric's Mailchimp Signup Form -->
         
@@ -225,3 +224,5 @@ Some important sections are [Obviousness](../mpep/s2141.html), [written descript
   <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
 </form>
 </div> <!-- End Eric's Mailchimp Signup Form -->
+
+- - - 

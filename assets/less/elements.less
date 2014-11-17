@@ -1,3 +1,12 @@
+/* Contents
+
+HR
+Tables
+Figures and images
+
+*/
+
+
 hr { 
     display: block; 
     margin-top: 3em;
@@ -114,6 +123,21 @@ table tr th :last-child, table tr td :last-child {
     .desaturate(0);
     }
 
+.half-image {
+    @media @medium{
+        max-width: 66%;
+        padding-left: 16.66%;
+        }
+    }
+
+.pad-vertical {
+    padding-top:2rem;
+    padding-bottom:2rem;
+    @media @medium{
+        padding-top:4rem;
+        padding-bottom:4rem;
+        }
+    }
 figure {
   margin: 0;
   padding-top: 10px;
