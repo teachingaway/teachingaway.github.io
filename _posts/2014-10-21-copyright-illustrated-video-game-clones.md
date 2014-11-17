@@ -95,7 +95,7 @@ Elcon made a straight-up identical Donkey Kong clone. According to the judge, Cr
 
 **Takeaway**: Identical cloning is copyright infringement. 
 
-<hr class="tall">
+- - - 
 
 
 ## The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)
@@ -160,7 +160,8 @@ These changes were enough to avoid infringement, at least in 1981. "Defendants u
 
 **Takeaway**: Copying a game's "ideas" is not infringement. But don't take too much away from Asteroids v. Meteors. I think the judge lumped too much creative expression in with "ideas" and gave too much weight to the minor changes Meteor's made to its graphics. 
 
-<hr class="tall"> 
+- - - 
+
 
 
 ## Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)
@@ -183,8 +184,8 @@ The court then looked at Pac-Man's protectable **creative expression**. A maze-c
 
 **Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the *creative expression* of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. 
 
-<hr class="tall">
 
+- - - 
 
 ## Porting is Infringement: Galaxian v. Galaxian (1982)
 
@@ -210,7 +211,9 @@ Finally, the judge looked at the **game play** of both Galaxians, and found them
 
 
 
-<hr class="tall">
+- - - 
+
+
 
 ## No Infringement: Hyperball v. Rapid Fire (1983)
 
@@ -232,7 +235,9 @@ The differences between the specific details and between the overall impressions
 
 **Takeaway**: A "pinball machine with video game elements" is an unprotectable idea. Rapid Fire copied that idea, as it's allowed to do. The way Hyperball expresses that idea is copyrightable, but Rapid Fire didn't copy the expression. 
 
-<hr class="tall">
+- - - 
+
+
 
 
 ## No Infringement: Tricky Trapper v. Mouser (1987)
@@ -279,7 +284,9 @@ As a result, there was no copyright infringement.  Epyx copied only the "idea" o
 
 Now let's look at a case involving Street Fighter II - a fighting game with a much looser basis in "reality."  
 
-<hr class="tall">
+- - - 
+
+
 
 
 ## No Infringement of Street Fighter II (1994)
@@ -308,7 +315,8 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
 
-<hr class="tall">
+- - - 
+
 
 
 ## Trackball Control Not Copyrightable: Golden Tee Golf (2005)
@@ -330,6 +338,7 @@ Condescending golf announcers are apparently *scènes à faire*. Any golf game c
 Useful articles, like the trackball control, are not copyrightable. A useful article is defined in the copyright act as "an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information." The trackball system of operating the game was considered a useful article, and therefore not subject to copyright protection.
 
 **Takeaway**: Video game controls (like a trackball) and instructions are entitled to very little, if any, copyright protection. 
+
 
 
 <hr class="tall">
@@ -355,7 +364,9 @@ Video game technology has obviously advanced since Asteroids and the Commodore, 
 The 2012 *Tetris v. Mino* case mentioned the effect of more advanced videogame technology, at least in passing. "Tellingly, the [*Karate Champ v. World Karate Championship*] court noted that its holding was in part mandated by the limited abilities of computers in 1988." [*Tetris v. Xio* (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346). While the judge didn't discuss the issue any further, he gave little weight to the early video game cases that were lenient towards cloners. 
 
 
-<hr class="tall">
+- - - 
+
+
 
 
 
@@ -370,7 +381,9 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 **Takeaway**: Using chainsaws to kill zombies is *scènes à faire*. It's cliche, not copyrightable expression. 
 
-<hr class="tall">
+- - - 
+
+
 
 ## Tetris Infringed by Mino (2012)
 
@@ -404,7 +417,9 @@ Mino infringed the Tetris copyright because copied the exact same 7 Tetris shape
 
 <img src="/images/copyright/tetris-trominos-and-pentominos.png" class="translucent">
 
-<hr class="tall">
+- - - 
+
+
 
 
 ## Infringement in Triple Town v. Yeti Town (2012)
@@ -429,7 +444,9 @@ In any event, this case was settled before a final decision was reached. The set
 
 **Takeaway**: Copyright protections for video game mechanics seem to be expanding. This is bad news for cloners. Also, some judges will listen to video game bloggers? 
 
-<hr class="tall">
+- - - 
+
+
 
 
 ## Bang! Role Playing Card Game Copyrightable (2014)

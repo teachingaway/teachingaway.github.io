@@ -30,14 +30,10 @@ Let's start with some posts that give an overview of the capital raising process
 
 * [Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Lots of practical advice here, especially for early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to downshift into consulting if appropriate. 
 
-* [Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. 
+* [Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. What motivates VCs and angel investors? VCs are looking for big hits: "Currently the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google."  Angel investors are satisfied with smaller wins, but want to invest at much lower valuations. 
 
 * [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make). Sam Altman, 2014. Get intros to investors, talk to them, *in parallel, not in series*.
 Explain the company’s mission, product, current traction, future vision, the market, the competition, your long-term competitive advantage, how you make money, and the team. Get investors to compete with each other to offer the best terms. 
-
-
-* [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wan*g](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
-
 
 - - - 
 
@@ -54,11 +50,11 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 ## Finding Investors
 
-## VC Introductions
+### VC Introductions
 
-* [Why Most VCs Won’t Intro You To Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). Hunter Walk, 2014. 
+* [Why Most VCs Won’t Intro You To Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
 
-* [Introductions and the "forward intro email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. 
+* [Introductions and the "forward intro email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
 
 
 ### Finding Angel Investors
@@ -69,17 +65,15 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 * [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). Taking non-accredited money is risky, but sometimes its the only option, especially for startups outside of California and New York.
 
-## Pitching Investors
+- - - 
+
+## Pitching and Investor Presentations
 
 * [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. At an early stage, ideas matter less for their own sake and more insofar as they reflect the creativity and thoughtfulness of the team. When pitching your early stage startup, focus on yourself and your team, and what you've built. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
-
-
-## Investor Presentations
-
 * [How to Present to Investors](http://paulgraham.com/investors.html). [*Paul Graham*](https://twitter.com/paulg),  2010. Practical advice on giving presentations:  describe a compelling product and get right to the demo; focus on a narrow solution to a widespread problem, don't waste time on business models or secondary matters.  
 
-* [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. 
+* [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. How you pitch is important, because investors aren't obligated to expend the mental energy to figure out what you are talking about. Follow this basic flow: market and problem, your solution, evidence that your solution will work (traction, sales, your team’s expertise, etc). 
 
 
 ## Signaling
@@ -91,9 +85,11 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 ## How Many Investors? 
 
-* [Party rounds](http://blog.samaltman.com/party-rounds). Sam Altman, 2013. 
+* [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/) [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
 
-* [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/) [*Mark Suster*](https://twitter.com/msuster), 2011. 
+
+* [Party rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.  Each investor assumes that at least 1 of the other N investors will be closely involved, but in fact no one is. They company may wander off into a very unfocused wilderness.
+
 
 
 
@@ -186,3 +182,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 
 - - - 
+
+# Negotiations 
+
+* [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wan*g](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
