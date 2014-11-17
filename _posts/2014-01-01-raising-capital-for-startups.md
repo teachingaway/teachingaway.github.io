@@ -24,9 +24,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Raising Money
 
-Let's start with some posts that give an overview of the capital raising process. 
-
-[How to Fund a Startup](http://paulgraham.com/startupfunding.html). [*Paul Graham*](https://twitter.com/paulg), 2005.  As usual, Paul Graham's essays are a good jumping off point. 
+[How to Fund a Startup](http://paulgraham.com/startupfunding.html). [*Paul Graham*](https://twitter.com/paulg), 2005.  As usual, Paul Graham's essays are a good jumping off point. This one provides an overview of the startup funding process. 
 
 [Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Lots of practical advice here, especially for early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to downshift into consulting if appropriate. 
 
@@ -43,7 +41,7 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 [Bootstrapped, Profitable, & Proud](http://37signals.com/bootstrapped). Basecamp. Series profiles companies that have over one million dollars in revenues, didn’t take VC, and are profitable.
 
-Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar business. She owns 100% of the private company, with no debt. 
+Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar business. She owns 100% of the private company, with no debt. 
 
 
 - - - 
@@ -52,12 +50,14 @@ Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar b
 
 ### Investor Introductions
 
-[Why Most VCs Won’t Intro You To Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
+[Why Most VCs Won’t Intro You to Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
 
-[Introductions and the "forward intro email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
+[Introductions and the "Forward Intro Email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
+
+[The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). Fred Wilson, 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
 
 
-### Finding Angel Investors
+### Finding the Right Angels: Accredited Investors
 
 [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
 
@@ -134,6 +134,8 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 [We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
+- - -
+
 ## Standardized Seed Financing Docs
 
 ### Commentary on Standardized Seed Docs 
@@ -179,15 +181,7 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 [How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). *Tomasz Tunguz*, 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
 
-- - - 
 
-- - - 
-
-[Why You Don’t Want to Give Financial Information to All of Your Investors](http://www.bothsidesofthetable.com/2014/11/09/why-you-dont-want-to-give-financial-information-to-all-of-your-investors/). Mark Suster, 2014. Be careful with information rights. Give all investors periodic management updates, but assume that this info will be passed around, regardless of any confidentiality obligations. 
 
 
 - - - 
-
-## Negotiations 
-
-[Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wan*g](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
