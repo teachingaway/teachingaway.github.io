@@ -40,3 +40,7 @@ image:
 </ul>
 
 
+
+<nav class="pagination" role="navigation">
+ <a href="/tags/" class="btn big-btn">Sort by Topic</a> 
+</nav>

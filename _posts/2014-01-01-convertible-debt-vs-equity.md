@@ -58,3 +58,4 @@ Converts have won - Paul Graham [https://twitter.com/paulg/status/22319113993](h
 [Why Series Seed Documents are better than capped convertible notes.](http://www.seriesseed.com/posts/2010/09/version-20-and-why-series-seed-documents-are-better-than-capped-convertible-notes.html) Ted Wang, 2010. 
 
 
+- - -

@@ -109,3 +109,5 @@ An updated version of this series is available in Feld’s 2013 book, "Venture D
 [Right of First Refusal](http://feld.com/archives/2005/06/term-sheet-right-of-first-refusal.html)
 
 [Voting Rights](http://feld.com/archives/2005/07/term-sheet-voting-rights-and-employee-pool.html)
+
+- - - 
