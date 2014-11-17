@@ -115,7 +115,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 * [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.
 
 
-# Angel Investors / Seed Financing
+## Angel Investors / Seed Financing
 
 * [Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum, (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
 
@@ -125,15 +125,15 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 
 
-## Incubators, Accelerators, etc. 
+### Incubators, Accelerators, etc. 
 
 * [The Most Important Question to Ask Before Taking Seed Money](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/) (from a VC incubator). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a strong negative signal to other VCs. So its important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
 
 * [We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
-# Standardized Seed Financing Docs
+## Standardized Seed Financing Docs
 
-## Commentary on Standardized Seed Docs 
+### Commentary on Standardized Seed Docs 
 
 * [How do the sample Series Seed financing documents differ from typical Series A financing documents](http://www.startupcompanylawyer.com/2010/03/14/how-do-the-sample-series-seed-financing-documents-differ-from-typical-series-a-financing-documents/)? [*Yokum Taku*](https://twitter.com/Yokum), 2010. 
 
@@ -143,7 +143,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 
 
-## Some Standardized Seed Financing Documents
+### Some Standardized Seed Financing Documents
 
 * [SAFE Financing Documents](http://www.ycombinator.com/documents/). Y Combinator 2014. 
 
@@ -159,7 +159,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 - - - 
 
-# Venture Capital - Series A
+## Venture Capital - Series A
 
 * [Best practices for raising a VC round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. 
 
@@ -167,7 +167,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 * [Inside versus outside financings: the nightclub effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. 
 
-## Finding the Right VC for your Series A Round
+### Finding the Right VC for your Series A Round
 
 * [Why it’s Critical That you Reference Check Your VC](http://www.bothsidesofthetable.com/2010/12/14/why-its-critical-that-you-reference-check-your-vc/). [*Mark Suster*](https://twitter.com/msuster), 2010. 
 
@@ -183,6 +183,6 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 - - - 
 
-# Negotiations 
+## Negotiations 
 
 * [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wan*g](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
