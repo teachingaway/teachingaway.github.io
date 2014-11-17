@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 longform: "yes"
-title: "Raising Capital for Startupss"
+title: "Raising Capital for Startups"
 summary: "A collection of useful guidance on finding VCs, pitching a startup, and raising capital."
 tags: [startup law, link list]
 author: adler
@@ -22,7 +22,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 
 
-# Raising Money
+## Raising Money
 
 Let's start with some posts that give an overview of the capital raising process. 
 
@@ -37,7 +37,7 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 - - - 
 
-## Bootstrap? 
+## Bootstrap: Build a Company without Raising Money.  
 
 Before you raise outside money, decide whether you can bootstrap your startup. Also, think about how far you can bootstap before raising seed capital. The more progress you make and the more traction you see, the sweeter your first term sheet will be. 
 
@@ -50,7 +50,7 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 ## Finding Investors
 
-### VC Introductions
+### Investor Introductions
 
 * [Why Most VCs Won’t Intro You To Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
 
@@ -65,6 +65,13 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 
 * [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). Taking non-accredited money is risky, but sometimes its the only option, especially for startups outside of California and New York.
 
+### How Many Investors? 
+
+* [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/) [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
+
+
+* [Party rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.  Each investor assumes that at least 1 of the other N investors will be closely involved, but in fact no one is. They company may wander off into a very unfocused wilderness.
+
 - - - 
 
 ## Pitching and Investor Presentations
@@ -76,19 +83,13 @@ Before you raise outside money, decide whether you can bootstrap your startup. A
 * [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. How you pitch is important, because investors aren't obligated to expend the mental energy to figure out what you are talking about. Follow this basic flow: market and problem, your solution, evidence that your solution will work (traction, sales, your team’s expertise, etc). 
 
 
-## Signaling
+## Signalling Risk 
 
-* [The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  What makes venture pricing special is that there are so few hard metrics to rely on, hence one of the primary valuation inputs is what other investors think about the company.
+* [The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  There are very few hard metrics in venture pricing. As a result, one of the primary valuation inputs is what other investors think about a company.
 
 * [The Problem with Taking Seem Money from Big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If you take seed money from a big VC fund, be aware of the potential signalling risk if the VC fund decides not to invest in your Series A round.  Potential series A investors will think “if this top VC that has hundreds of millions of dollars and knows this company the best doesn’t want to invest, why would I?” 
 
 
-## How Many Investors? 
-
-* [How Many Investors are Too Many?](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/) [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
-
-
-* [Party rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.  Each investor assumes that at least 1 of the other N investors will be closely involved, but in fact no one is. They company may wander off into a very unfocused wilderness.
 
 
 
@@ -101,7 +102,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 * [The myth of the Eureka moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a “Eureka" moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
 
-* [What is Important in a Confidentiality Agreement or Nondisclosure Agreement (NDA)](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *do* actually need an NDA, here are some important terms to consider.  
+* [What is Important in a Confidentiality Agreement or Nondisclosure Agreement (NDA)](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *do* actually need an NDA, here are some important terms to consider: Is the confidentiality obligation mutual or one-way? Is the obligation not to "disclose" information, or not to "use" the information internally, or both? Carefully define the confidential information, especially if you will be obligated to keep it secret. 
 
 
 # How Much to Raise and at What Valuation?
@@ -175,6 +176,7 @@ Don’t ask a serious VC Investor to sign your NDA before you pitch. Instead, pi
 
 * [How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). *Tomasz Tunguz*, 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
 
+- - - 
 
 - - - 
 
