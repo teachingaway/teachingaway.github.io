@@ -2,8 +2,8 @@
 layout: post
 bloglist: "yes"
 longform: "yes"
-title: "Series A Term Sheets"
-summary: "A collection of useful guidance on Negotiating a Term Sheet."
+title: "Startup Financing Term Sheets"
+summary: "A collection of useful guidance on Negotiating a Term Sheet for Seed and Series A rounds."
 tags: [startup law, link list]
 author: adler
 image:
@@ -16,7 +16,7 @@ share: true
 
 DRAFT POST
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses raising Angel and Seed capital for technology startups.
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising angel, seed and Series A capital for technology startups.
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
@@ -43,18 +43,23 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wang*](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
 
+[When not to be Mr. Wolf. An important negotiation tactic for entrepreneurs](https://medium.com/@twang/when-not-to-be-mr-wolf-e56275211dd1).  [*Ted Wan*g](https://twitter.com/twang), 2014.
+
+## Exploding Offers
 
 [Exploding Offers Suck](http://blog.ycombinator.com/exploding-offers-suck). Sam Altman, 2014. 
 
 [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. 
 
+## No Shop Clause 
 [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. 
 
 [The No Shop Clause](http://www.feld.com/archives/2006/04/the-no-shop-clause.html). [*Brad Feld*](https://twitter.com/bfeld) (2006). 
 
+## Fees 
+
 [Fees, Fees, and More Fees](http://www.feld.com/archives/2006/04/fees-fees-and-more-fees.html). [*Brad Feld*](https://twitter.com/bfeld)(2006). 
 
-[When not to be Mr. Wolf. An important negotiation tactic for entrepreneurs](https://medium.com/@twang/when-not-to-be-mr-wolf-e56275211dd1).  [*Ted Wan*g](https://twitter.com/twang), 2014.
 
 - - - 
 

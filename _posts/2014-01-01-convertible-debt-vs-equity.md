@@ -20,24 +20,18 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
-In 2010, Paul Graham declared that "Convertible notes have won", while my partner Zeke disagreed, arguing that equity grants are better for founders, and need not be more expensive to negotiate. By the end of 2013, Paul Graham and Y Combinator had come around to Zeke's point of view, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)." 
-
-
-
-
-
-## Arguments for Convertible Debt
-
-Converts have won - Paul Graham (2010). 
-
 <blockquote class="twitter-tweet" lang="en"><p>Convertible notes have won. Every investment so far in this YC batch (and there have been a lot) has been done on a convertible note.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/22319113993">August 28, 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+In 2010, Paul Graham of Y Combinator declared that "Convertible notes have won."  At the time, my partner Zeke disagreed, arguing that equity grants are better for founders, and are not necessarily more expensive to negotiate. By the end of 2013, Paul Graham and Y Combinator had come around to Zeke's point of view, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)." 
+
+
+- - -
+
+[How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html). [*Brad Feld*](https://twitter.com/bfeld), 2011. 
+
+
 [Thoughts on Convertible Notes.](http://www.k9ventures.com/blog/2011/03/22/thoughts-on-convertible-notes/) Manu Kumar (2011). Convertible debt is appropriate for bridge financing (when a priced equity round is imminent, but convertible debt will misalign incentives in seed financing. 
-
-
-- - - 
-
 
 - - - 
 
@@ -67,7 +61,6 @@ Converts have won - Paul Graham (2010).
 [Converts versus equity deals](http://cdixon.org/2010/08/31/converts-versus-equity-deals/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. "To the extent that I know anything about seed investing, I learned it from Ron Conway.  I remember one deal he showed me where the entire deal was done on a one page fax (not the term sheet – the entire deal)...  I was shocked. I asked him 'what if X or Y happens and the entrepreneur screws you.'  Ron said something like 'then I lose my money and never do business with that person again.'" 
 
 
-[How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html). [*Brad Feld*](https://twitter.com/bfeld), 2011. 
 
 
 [Is convertible debt preferable to equity?](http://www.bothsidesofthetable.com/2010/08/30/is-convertible-debt-preferable-to-equity/) [*Mark Suster*](https://twitter.com/msuster)[, 2010. ](http://www.bothsidesofthetable.com/2010/08/30/is-convertible-debt-preferable-to-equity/)
