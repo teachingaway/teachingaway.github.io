@@ -61,9 +61,9 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 ### Finding the Right Angels: Accredited Investors
 
-[How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
+[How to Select Your Angel Investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
 
-[What is an accredited investor](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor/)? [*Yokum Taku*](https://twitter.com/Yokum), 2009. If you can’t raise money from an established seed fund, then raise money from an experienced and  "accredited" angel investor. And if not experienced, at the very least “accredited.” (Accredited = sufficiently rich as defined in the securities laws). 
+[What is an Accredited Investor](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor/)? [*Yokum Taku*](https://twitter.com/Yokum), 2009. If you can’t raise money from an established seed fund, then raise money from an experienced and  "accredited" angel investor. And if not experienced, at the very least “accredited.” (Accredited = sufficiently rich as defined in the securities laws). 
 
 [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). [Jose Ancer](https://twitter.com/ancerj), 2014. Taking non-accredited money is risky, but sometimes it's the only option, especially for startups outside of California and New York.
 
@@ -77,7 +77,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 ## Pitching and Investor Presentations
 
-[Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
+[Pitch Yourself, Not Your Idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
 [How to Present to Investors](http://paulgraham.com/investors.html). [*Paul Graham*](https://twitter.com/paulg),  2010. Practical advice on giving presentations:  describe a compelling product and get right to the demo; focus on a narrow solution to a widespread problem, don't waste time on business models or secondary matters.  
 
@@ -95,7 +95,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the execution of the idea. 
 
-[Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Talk about your idea to almost anyone who will listen: investors, entrepreneurs, friends, people on the street, the bartender, etc.
+[Why You Shouldn’t Keep Your Startup Idea Secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Talk about your idea to almost anyone who will listen: investors, entrepreneurs, friends, people on the street, the bartender, etc.
 
 [The Myth of the Eureka Moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a “Eureka" moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
 
@@ -104,7 +104,7 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 # How Much to Raise and at What Valuation?
 
-[What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. Raise "enough to get your startup to an accretive milestone plus some fudge factor. ‘Accretive milestone’ is a fancy way of saying getting your company to a point at which you can raise money at a higher valuation."
+[What’s the Right Amount of Seed Money to Raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. Raise "enough to get your startup to an accretive milestone plus some fudge factor. ‘Accretive milestone’ is a fancy way of saying getting your company to a point at which you can raise money at a higher valuation."
 
 [Why Startups Should Raise Money at the Top End of Normal](http://www.bothsidesofthetable.com/2011/06/05/why-startups-should-raise-money-at-the-top-end-of-normal/). [*Mark Suster*](https://twitter.com/msuster), 2011. Reach for a strong valuation, but reach too far and you might can get burned by the dreaded down round. "Most investors won’t want to go through the brain damage of doing a ‘down round,’ which creates tension between them and early investors.
 
@@ -115,9 +115,9 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 ## Angel Investors / Seed Financing
 
-[Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum... (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
+[Notes on Raising Seed Financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum... (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
 
-[Upside risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. "And yet angel investors continue to ask for onerous terms to mitigate their ‘downside risk.’  All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals." 
+[Upside Risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. "And yet angel investors continue to ask for onerous terms to mitigate their ‘downside risk.’  All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals." 
 
 [Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
 

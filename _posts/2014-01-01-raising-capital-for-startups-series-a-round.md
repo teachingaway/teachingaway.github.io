@@ -47,7 +47,7 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 ## Pitching and Investor Presentations
 
-[Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
+[Pitch Yourself, Not Your Idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
 [How to Present to Investors](http://paulgraham.com/investors.html). [*Paul Graham*](https://twitter.com/paulg),  2010. Practical advice on giving presentations:  describe a compelling product and get right to the demo; focus on a narrow solution to a widespread problem, don't waste time on business models or secondary matters.  
 
@@ -57,19 +57,16 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 ## Venture Capital - Series A
 
-[Best practices for raising a VC round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. Pick a minimum valuation, never share the names of other VCs that are interested, talk to about 5 VCs, consider offering certain VCs a "buy it now" valuation, set timelines and move quickly. 
-
-
+[Best Practices for Raising a VC Round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. Pick a minimum valuation, never share the names of other VCs that are interested, talk to about 5 VCs, consider offering certain VCs a "buy it now" valuation, set timelines and move quickly. 
 
 
 ### Finding the Right VC for your Series A Round
 
-[Why it’s Critical That you Reference Check Your VC](http://www.bothsidesofthetable.com/2010/12/14/why-its-critical-that-you-reference-check-your-vc/). [*Mark Suster*](https://twitter.com/msuster), 2010. Get to know VCs over a long period of time. Check a reference list, and don't stop with the list they give you, check with companies that went through difficult times.  
+[Why it’s Critical that you Reference Check Your VC](http://www.bothsidesofthetable.com/2010/12/14/why-its-critical-that-you-reference-check-your-vc/). [*Mark Suster*](https://twitter.com/msuster), 2010. Get to know VCs over a long period of time. Check a reference list, and don't stop with the list they give you, check with companies that went through difficult times.  
 
 [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. How much should you weigh the brand of the VCs?  A little, but a lot less than most people assume.
 
 [How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). *Tomasz Tunguz*, 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
-
 
 
 

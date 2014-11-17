@@ -39,6 +39,8 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Negotiating the Term Sheet
 
+[Upside Risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. 
+
 [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wang*](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
 
 
