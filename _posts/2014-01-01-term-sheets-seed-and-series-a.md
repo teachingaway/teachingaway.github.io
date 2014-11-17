@@ -1,7 +1,7 @@
 ---
 layout: post
-bloglist: "yes"
-longform: "yes"
+includeinbloglist: "no"
+longform: "no"
 title: "Startup Financing Term Sheets"
 summary: "A collection of useful guidance on Negotiating a Term Sheet for Seed and Series A rounds."
 tags: [startup law, link list]
