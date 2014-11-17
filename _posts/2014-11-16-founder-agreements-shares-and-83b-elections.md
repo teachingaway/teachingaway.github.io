@@ -14,16 +14,16 @@ comments: true
 share: true
 ---
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses cofounder agreements, initial equity splits, issuing shares and making an 83b tax election. 
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses cofounder agreements, initial equity splits, issuing shares, and making an 83b tax election. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
 
-### Cofounder Agreements and Initial Equity Splits. 
+### Cofounder Agreements and Initial Equity Splits
 
-Unless both cofounders contribute  exactly 50% of the seed capital and 50% of the work, splitting the initial startup equity needs to be a carefully considered process. 
+Unless both cofounders contribute  exactly 50% of the seed capital and 50% of the work, the initial equity split requires careful consideration.
 
-* [Allocating Equity and Founder’s Investment](http://www.feld.com/archives/2011/07/finance-fridays-getting-started-allocating-equity-and-founders-investment.html). [*Brad Feld*](https://twitter.com/bfeld), 2011*. Hypothetical: Jane and Dick each bring a similar level of skill to the startup, but only Jane has the spare cash to invest in the startup’s initial expenses. How could they treat Jane’s cash investment?
+* [Allocating Equity and Founder’s Investment](http://www.feld.com/archives/2011/07/finance-fridays-getting-started-allocating-equity-and-founders-investment.html). [*Brad Feld*](https://twitter.com/bfeld), 2011. Hypothetical: Jane and Dick each bring a similar level of skill to the startup, but only Jane has the spare cash to invest in the startup’s initial expenses. How could they treat Jane’s cash investment?
 
 * [The only wrong answer is 50/50: Calculating the co-founder equity split](http://www.geekwire.com/2011/wrong-answer-5050-calculating-cofounder-equity-split/). *Dan Shapiro*, Geekwire, 2011. Shapiro offers a formula for dividing up initial cofounder equity. 
 
@@ -33,7 +33,7 @@ Unless both cofounders contribute  exactly 50% of the seed capital and 50% of th
 
 * [The Perils of Founder Fighting](http://www.bothsidesofthetable.com/2014/01/04/the-perils-of-founder-fighting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Deal with cofounder disputes early, and consider mediation. If you sweep them under the rug, they will fester and pop out down the road when the stakes are higher.
 
-### Issuing Shares & 83(b) Election. 
+### Issuing Shares & 83(b) Election
 
 A newly incorporated company needs to issue shares, and the cofounders then need to buy the shares of their brand new company. Founders can pay for their shares in cash, or by contributing intellectual property. This IP-for-shares deal need to be documented properly and needs to comply with section 351 of the tax code.
 
