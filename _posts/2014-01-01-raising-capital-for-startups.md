@@ -1,7 +1,7 @@
 ---
 layout: post
-bloglist: "yes"
-longform: "yes"
+includeinbloglist: "no"
+longform: "no"
 title: "Raising Capital for Startups"
 summary: "A collection of useful guidance on finding VCs, pitching a startup, and raising capital."
 tags: [startup law, link list]

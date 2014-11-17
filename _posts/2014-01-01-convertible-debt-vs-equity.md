@@ -1,7 +1,7 @@
 ---
 layout: post
-bloglist: "yes"
-longform: "yes"
+includeinbloglist: "no"
+longform: "no"
 title: "Convertible Debt vs. Equity Financing"
 summary: "A collection of useful guidance on Equity vs. Convertible Debt Financing."
 tags: [startup law, link list]

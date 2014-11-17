@@ -1,6 +1,7 @@
 ---
 layout: post
 includeinbloglist: "no"
+longform: "no"
 title: "Series Seed v3.2 Financing Agreement"
 summary: "Series Seed angel financing agreement explained."
 tags: [venture capital, seed]

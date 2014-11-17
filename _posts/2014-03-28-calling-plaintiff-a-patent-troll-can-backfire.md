@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Calling Plaintiff a 'Patent Troll' Can Backfire" 
+summary: "A New York federal judge was not sympathetic to a defendants argument that it was  being harassed by a 'patent troll'."
 tags: [patent litigation, patent trolls]
 author: adler
 image:
