@@ -18,6 +18,9 @@ image:
 <p class='big-text'>Experienced IP and Business lawyers serving leading technology clients, from venture-backed startups to national brands.</p>
 
 <p>Adler Vermillion is a law firm steeped in digital technology. We provide a combination of intellectual property and commercial law expertise rarely found in a small firm.  We raise capital, structure deals, secure patents and register trademarks.</p>
+
+
+
 <p>Our relationships in the venture capital and technology communities help connect clients to valuable resources. For certain early stage companies, we offer deferred fee arrangements.
 </p>
 </div>
@@ -25,7 +28,6 @@ image:
 
 - - - 
 
-We provide modern legal services to <a href="/clients">dynamic clients</a>.
 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
@@ -66,7 +68,10 @@ We provide modern legal services to <a href="/clients">dynamic clients</a>.
 {% endif %}
 {% endfor %}
 </ul>
+
 </div> <!-- end entry-content -->
 
 
 - - - 
+
+

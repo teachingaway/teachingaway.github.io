@@ -16,20 +16,15 @@ share:
 <ul>
 <li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
-<li><a href="#expedited-patent-applications">Expedited Patent Applications</a></li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
 <li><a href="#appealing-patent-examiner-rejections-ex-parte-appeals">Appealing Patent Examiner Rejections: Ex Parte Appeals</a></li>
 <li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
-<li><a href="#national-stage-us-patent-prosecution">National Stage U.S. Patent Prosecution</a></li>
 </ul>
 </li>
 <li><a href="#transactional-patent-work">Transactional Patent Work</a><ul>
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
-<li><a href="#patent-opinions">Patent Opinions</a><ul>
-<li><a href="#patentability-opinions">Patentability Opinions</a></li>
-<li><a href="#defensive-opinions-invalidity-and-non-infringement">Defensive Opinions: Invalidity and Non-Infringement</a></li>
-</ul>
+<li><a href="#patent-opinions">Patent Opinions</a>
 </li>
 <li><a href="#patent-licensing-and-technology-transfer">Patent Licensing and Technology Transfer</a></li>
 <li><a href="#patent-portfolio-management">Patent Portfolio Management</a></li>
@@ -59,7 +54,7 @@ share:
 
 A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. A small portfolio of related patents can be a potent business tool. Here are some ballpark cost estimates to prepare and file utility patent applications
 
-Estimaged Cost | Type of Application
+Estimated Cost | Type of Application
 - | - 
 $5,000 - $8,000 | mechanical patent application of average complexity
 $7,500- $10,000 | software patent application of average complexity
