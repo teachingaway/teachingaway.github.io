@@ -35,7 +35,7 @@ image:
  <li><a href="#famous-marks-and-dilution">Famous Marks and Dilution</a></li>
 </ul>
 
-<li><a href="#use-in-commerce-mark-to-market">Use in Commerce: Mark to Market</a></li>
+<li><a href="#use-in-commerce">Use in Commerce</a></li>
 <li><a href="#clearance-search">Clearance Search</a></li>
 </ul>
 
@@ -101,13 +101,13 @@ A "design mark" simply refers to a logo or design used to identify a particular 
 
 For example, Bass Ale's red triangle is a famous design mark. It's been in continuous use since 1856, and was in fact the very first trademark registered in the UK (UK registration no. 0000001). It was registered in the US in 1912, with the far more mundane registration no 88,266.
 
-<img src="/images/trademark/bass-first-uk-trademark-1876.jpg" class="translucent">
+<img src="/images/trademark/bass-first-uk-trademark-1876.jpg" class="translucent pad-vertical">
 
 ## Trade Dress
 
 Trade dress is unique product packaging or a product configuration that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. Trade dress must be (1) distinctive and (2) non-functional. 
 
-<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent">
+<img src="/images/trademark/chanel-no5-design-mark-supplemental-register-1949.jpg" class="translucent pad-vertical">
 
 ### Trade Dress Must be Distinctive
 
@@ -115,25 +115,22 @@ Trade dress must be distinctive. That is, it must stand out from the crowd in a 
 
 Product configuration - the shape of a product itself - is more difficult to register. This is because product configuration is *never inherently distinctive*. This means that product configuration trade dress can only be registered with evidence of "acquired distinctiveness."  Establishing "acquired distinctiveness" (aka "secondary meaning") in trade dress is *always a battle*.  Acquired distinctiveness in trade dress requires substantial evidence of heavy marketing and wide brand recognition. 
 
-<img src="/images/trademark/haig-pinched-decanter-trade-dress.jpg" class="translucent">
+<img src="/images/trademark/haig-pinched-decanter-trade-dress.jpg" class="translucent pad-vertical">
 
 The "pinched decanter" shape of the Haig & Haig whiskey bottle acquired distinctiveness after years of marketing. "... Because of the original, distinctive and peculiar appearance of the ‘Pinched Decanter’ the brand of whiskey in such bottles had come to be known and recognized by the public, by dealers and by consumers; and that the whiskey contained in such bottles had come to be identified with the ‘Pinched Decanter’ in the minds of the public generally.” *Ex parte Haig & Haig Ltd.*, 118 USPQ 229, 230 (Comm’r Pats. 1958). 
 
 
 Product *packaging* can be inherently distinctive.  [TMEP 1202.02(b)(ii)](/tmep/tmep-1200.html#TMEP-1200d1e1424). That is, a peculiar or non-standard package design can satisfy the distinctiveness requirements without any evidence of brand recognition. For example, the overall shape of the Scope "outlast" a mouthwash container with a cap was inherently distinctive. *In re Procter & Gamble Co.*, 105 USPQ.2d 1119 (TTAB 2012).  
 
-<img src="/images/trademark/scope-outlast-trade-dress.jpg" class="translucent">
+<img src="/images/trademark/scope-outlast-trade-dress.jpg" class="translucent pad-vertical" >
 
 ### Trade Dress Must be Non-Functional
 
 Trade dress is considered "functional", and cannot serve as a trademark, if a feature of that trade dress is "essential to the use or purpose of the article or if it affects the cost or quality of the article." *Qualitex v. Jacobson*, 514 U.S. 159 (1995).  Functional trade dress can never be a trademark. Functional trade dress cannot "acquire" non-functionality the way descriptive trade dress can "acquire distinctiveness." [TMEP 1202.02(a) Functionality of Trade Dress](/tmep/tmep-1200.html#TMEP-1200d1e873). 
 
-<img src="/images/trademark/coke-bottle-design-mark-1977.png" class="translucent">
+<img src="/images/trademark/coke-bottle-design-mark-1977.png" class="translucent pad-vertical">
 
 
-
-
-- - - 
 
 # Trademark Timeframes
 
@@ -256,11 +253,11 @@ Since measuring "acquired distinctiveness" is difficult, the Trademark Office ta
 
 When a trademark becomes "famous", it is awarded an even higher level of protection. Famous marks are extremely well known household brands like "Coke" or "Apple." These famous marks are protected not only against trademark infringement (competitors using similar marks on similar products), but also against dilution (using similar marks on *any* product). 
 
-<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent">
+<img src="/images/trademark/coca-cola-trademark-registration-1893.png" class="translucent pad-vertical">
  
 - - - 
 
-# Use in Commerce: Mark to Market
+# Use in Commerce
 
 To qualify for a trademark, a mark must be "used in commerce" and this commerce  must be "interstate commerce." The Trademark Act defines "use in commerce", but does not offer guidance on how "interstate" the commerce needs to be. Fortunately, just about anything that affects interstate commerce, even interstate advertising, will satisfy the "interstate" requirement. 
 

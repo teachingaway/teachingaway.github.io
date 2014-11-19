@@ -75,6 +75,9 @@ International fees are paid in Swiss Francs, but exchange rate to USD is about 1
 
 We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
 
+The law requires trademark owners to pro-actively police their marks against infringers. If the trademark owner allows others to register similar trademarks, the strength of the original will be diminished. The strength of a trademark considers, among other things, "the owner's policing efforts to ensure that whatever distinctiveness or exclusivity has been achieved is not lost through neglect, inattention, or consent to infringing use." [*DuPont v. Yoshida*, 393 F. Supp. 502 (ED NY 1975)](http://scholar.google.com/scholar_case?case=4138527615016776734)
+
+
 - - - 
 
 ## Domain Name Disputes
@@ -86,7 +89,8 @@ We have extensive experience litigating domain name arbitration matters. These a
 
 ## Trademark Opposition and Cancellation Proceedings
 
-We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These proceedings are like a type of "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed ("opposition proceeding") or whether an existing trademark registration should be cancelled ("cancellation proceeding"). 
+
+Trademark opposition and cancellation proceedings help prevent other companies from registering similar trademarks. We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These proceedings are like a type of "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed ("opposition proceeding") or whether an existing trademark registration should be cancelled ("cancellation proceeding"). 
 
 - - - 
 

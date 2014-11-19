@@ -34,7 +34,6 @@ share:
 <li><a href="#inter-partes-review-invalidate-patents-based-on-prior-art">Inter Partes Review: Invalidate Patents Based on Prior Art</a></li>
 <li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
 <li><a href="#post-grant-review-invalidating-recently-issued-patents">Post Grant Review: Invalidating Recently Issued Patents</a></li>
-<li><a href="#ex-parte-reexamination-ask-the-patent-office-to-double-check">Ex Parte Reexamination: Ask the Patent Office to Double-Check</a></li>
 </ul>
 </li>
 <li><a href="#patent-litigation">Patent Litigation</a><ul>
