@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post collects our favorite links about finding the right board members and advisors for a startup, and how to run productive board meetings. Mark Suster of [Upfront Ventures](http://upfront.com/) has written several useful blog posts on the topic, and be sure to check out Brad Feld's ([Foundry Group Fund](http://foundrygroup.com/)) has written a book on [Startup Boards](http://www.amazon.com/Startup-Boards-Getting-Board-Directors/dp/1118443667).  
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post collects our favorite links about finding the right board members and advisors for a startup, and how to run productive board meetings. Mark Suster of [Upfront Ventures](http://upfront.com/) has written several useful blog posts on the topic, and Brad Feld of [Foundry Group](http://foundrygroup.com/) has written a book on [Startup Boards](http://www.amazon.com/Startup-Boards-Getting-Board-Directors/dp/1118443667).  
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
