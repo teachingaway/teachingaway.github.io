@@ -6,6 +6,30 @@
 <script async src="{{ site.url }}/assets/js/scripts.min.js"></script>
 <!-- added async to try to try to speed up for Google page speed -->
 
+
+
+
+<!-- Smooth scroll to anchor on page. ela Nov 2014 test -->
+<script>
+	$(function() {
+	  $('a[href*=#]:not([href=#])').click(function() {
+	    if (location.pathname.replace(/^\//,'') == this.pathname.replace(/^\//,'') && location.hostname == this.hostname) {
+
+	      var target = $(this.hash);
+	      target = target.length ? target : $('[name=' + this.hash.slice(1) +']');
+	      if (target.length) {
+	        $('html,body').animate({
+	          scrollTop: target.offset().top
+	        }, 400);
+	        return false;
+	      }
+	    }
+	  });
+	});
+</script>
+	
+	
+	
 {% if site.search %}
 <!-- Jekyll Simple Search option -->
 <script>
