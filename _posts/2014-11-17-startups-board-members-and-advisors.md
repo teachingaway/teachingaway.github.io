@@ -27,13 +27,13 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Board Meetings
 
-[Why You Shouldn’t Decide Anything Important at Your Board Meeting](http://www.bothsidesofthetable.com/2014/03/19/why-you-shouldnt-decide-anything-important-at-your-board-meeting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Instead, pre-meet each board member with a 30 minute call, at least a week in advance of the official board meeting. 
+[Why You Shouldn’t Decide Anything Important at Your Board Meeting](http://www.bothsidesofthetable.com/2014/03/19/why-you-shouldnt-decide-anything-important-at-your-board-meeting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Pre-meet each board member with a 30 minute call, at least a week in advance of the official board meeting. 
 
 [Why You’re Not Getting the Most out of Your Board](http://www.bothsidesofthetable.com/2013/12/09/why-youre-not-getting-the-most-out-of-your-board/). [*Mark Suster*](https://twitter.com/msuster), 2014. Without planning, board meetings devolve into (a) outside board members trying to remember what the company is up to,  (b) management trying to reassure investors that “we’re doing a good job”, (c) investor trying to sounds smart so they can say they're "adding value." 
 
 [How to Control Your Board Discussion and Avoid Chaos](http://www.bothsidesofthetable.com/2013/12/10/how-to-control-your-board-discussion-and-avoid-chaos/). [*Mark Suster*](https://twitter.com/msuster), 2013. Tips on avoiding topic creep, product design nitpicking and over-introducers. 
 
-[8 Tips To Get the Most Out of Your Investors and Board](http://www.bothsidesofthetable.com/2013/05/27/8-tips-to-get-the-most-out-of-your-investors-and-board/). [*Mark Suster*](https://twitter.com/msuster), 2013. Frequent email updates. Use text messages and short conferences calls. Seek input, assign tasks, take feedback, manage expectations. 
+[8 Tips to Get the Most Out of your Investors and Board](http://www.bothsidesofthetable.com/2013/05/27/8-tips-to-get-the-most-out-of-your-investors-and-board/). [*Mark Suster*](https://twitter.com/msuster), 2013. Frequent email updates. Use text messages and short conferences calls. Seek input, assign tasks, take feedback, manage expectations. 
 
 [You Shouldn’t be Bored at a Board Meeting 1: Board Meeting Dos and Don’ts](http://pando.com/2013/02/27/you-shouldnt-be-bored-at-a-board-meeting-pt-1-board-meeting-dos-and-donts/). [*Ted Wang*](https://twitter.com/twang), 2013. Management should create a board deck that tells a story about the company's progress and its core issues. Send out the deck in advance, and give board members some time to digest it. Don't hide bad news. 
 
