@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 longform: "no"
 title: "Raising Capital for Startups"
-summary: "A collection of useful guidance on finding VCs, pitching a startup, and raising capital."
+summary: "Curated links on finding VCs, pitching a startup, and raising capital."
 tags: [startup law, link list]
 author: adler
 image:

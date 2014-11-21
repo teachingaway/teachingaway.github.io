@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 longform: "no"
 title: "Raising Capital for Startups: The Series A Round"
-summary: "A collection of useful guidance on raising a series A financing."
+summary: "Curated links on raising a series A financing."
 tags: [startup law, link list]
 author: adler
 image:

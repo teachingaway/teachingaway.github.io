@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 longform: "no"
 title: "Convertible Debt vs. Equity Financing"
-summary: "A collection of useful guidance on Equity vs. Convertible Debt Financing."
+summary: "Curated links discussing the relative advantages of equity vs. convertible debt financing for early stage companies."
 tags: [startup law, link list]
 author: adler
 image:

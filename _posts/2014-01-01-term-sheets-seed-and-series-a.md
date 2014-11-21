@@ -2,8 +2,8 @@
 layout: post
 includeinbloglist: "no"
 longform: "no"
-title: "Startup Financing Term Sheets"
-summary: "A collection of useful guidance on Negotiating a Term Sheet for Seed and Series A rounds."
+title: "Term Sheets for Startup Financing"
+summary: "Curated links on negotiating a term sheet for Seed and Series A rounds."
 tags: [startup law, link list]
 author: adler
 image:
@@ -14,6 +14,7 @@ comments: true
 share: true
 ---
 
+DRAFT POST
 
 Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors. 
 

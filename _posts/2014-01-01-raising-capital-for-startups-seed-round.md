@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "no"
 longform: "no"
 title: "Raising Capital for Startups: Seed Round"
-summary: "A collection of useful links on raising a seed, angel, or friends and family round of financing."
+summary: "Curated links on raising a seed, angel, or friends and family round of financing."
 tags: [startup law, link list]
 author: adler
 image:
