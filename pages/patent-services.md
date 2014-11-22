@@ -14,7 +14,7 @@ share:
 
 <div class="toc">
 <ul>
-<li><a href="#patent-applications-and-patent-prosecution">Patent Applications and Patent Prosecution</a><ul>
+<li><a href="#patent-applications-and-patent-prosecution"><strong>Patent Applications and Patent Prosecution</strong></a><ul>
 <li><a href="#utility-patent-applications">Utility Patent Applications</a></li>
 <li><a href="#provisional-patent-applications">Provisional Patent Applications</a></li>
 <li><a href="#design-patent-applications">Design Patent Applications</a></li>
@@ -22,7 +22,7 @@ share:
 <li><a href="#international-and-pct-patent-applications">International and "PCT" Patent Applications</a></li>
 </ul>
 </li>
-<li><a href="#transactional-patent-work">Transactional Patent Work</a><ul>
+<li><a href="#transactional-patent-work"><strong>Transactional Patent Work</strong></a><ul>
 <li><a href="#patent-due-diligence">Patent Due Diligence</a></li>
 <li><a href="#patent-opinions">Patent Opinions</a>
 </li>
@@ -30,13 +30,13 @@ share:
 <li><a href="#patent-portfolio-management">Patent Portfolio Management</a></li>
 </ul>
 </li>
-<li><a href="#invalidating-patents-at-the-uspto">Invalidating Patents at the USPTO</a><ul>
+<li><a href="#invalidating-patents-at-the-uspto"><strong>Invalidating Patents at the USPTO</strong></a><ul>
 <li><a href="#inter-partes-review-invalidate-patents-based-on-prior-art">Inter Partes Review: Invalidate Patents Based on Prior Art</a></li>
 <li><a href="#covered-business-method-review-invalidating-financial-patents">Covered Business Method Review: Invalidating Financial Patents</a></li>
 <li><a href="#post-grant-review-invalidating-recently-issued-patents">Post Grant Review: Invalidating Recently Issued Patents</a></li>
 </ul>
 </li>
-<li><a href="#patent-litigation">Patent Litigation</a><ul>
+<li><a href="#patent-litigation"><strong>Patent Litigation</strong></a><ul>
 <li><a href="#patent-enforcement">Patent Enforcement</a></li>
 <li><a href="#patent-troll-defense-in-federal-court">Patent Troll Defense in Federal Court</a></li>
 </ul>
@@ -51,7 +51,7 @@ share:
 
 ## Utility Patent Applications
 
-A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. A small portfolio of related patents can be a potent business tool. Here are some ballpark cost estimates to prepare and file utility patent applications
+A utility patent secures exclusive rights to make, sell and import a technology in the United States for a period of 20 years after the application date. While a single patent can be fragile, a small portfolio of related patents become a potent business tool. Here are some ballpark cost estimates to prepare and file utility patent applications
 
 Estimated Cost | Type of Application
 - | - 

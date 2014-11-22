@@ -14,7 +14,6 @@ comments: true
 share: true
 ---
 
-DRAFT POST
 
 Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses raising Angel and Seed capital for technology startups.
 
@@ -26,18 +25,17 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [How to Fund a Startup](http://paulgraham.com/startupfunding.html). [*Paul Graham*](https://twitter.com/paulg), 2005.  As usual, Paul Graham's essays are a good jumping off point. This one provides an overview of the startup funding process. 
 
-[Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Lots of practical advice here, especially for early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to downshift into consulting if appropriate. 
+[Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make). [*Sam Altman*](https://twitter.com/sama), 2014. Talk to investors  *in parallel, not in series*, to setup a competitive environment. Explain the company’s mission, product, current traction, future vision, the market, the competition, your long-term competitive advantage, how you make money, and the team. 
 
-[Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. What motivates VCs and angel investors? VCs are looking for big hits: "Currently the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google."  Angel investors are satisfied with smaller wins, but want to invest at much lower valuations. 
+[Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Practical advice for early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to "downshift" into consulting if necessary. 
 
-[Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make). Sam Altman, 2014. Get intros to investors, talk to them, *in parallel, not in series*.
-Explain the company’s mission, product, current traction, future vision, the market, the competition, your long-term competitive advantage, how you make money, and the team. Get investors to compete with each other to offer the best terms. 
+[Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. VCs are looking for big hits:  "the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google." 
 
 - - - 
 
-## Bootstrap: Build a Company without Raising Money
+## Bootstrap - Building a Company without Raising Money
 
-Before you raise outside money, decide whether you can bootstrap your startup. Also, think about how far you can bootstap before raising seed capital. The more progress you make and the more traction you see, the sweeter your first term sheet will be. 
+Think about how far you can bootstap the company before raising outside money.  The more revenue and traction you can show investors, the sweeter your first term sheet will be. Many startups don't need to raise outside money at all. 
 
 [Bootstrapped, Profitable, & Proud](http://37signals.com/bootstrapped). Basecamp. Series profiles companies that have over one million dollars in revenues, didn’t take VC, and are profitable.
 
@@ -49,6 +47,8 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 ## Finding Investors
 
 ### Investor Introductions
+
+[Don’t Ask Your Startup Lawyer for Investor Intros](http://siliconhillslawyer.com/2014/02/01/dont-ask-startup-lawyer-investor-intro/). [Jose Ancer](https://twitter.com/ancerj), 2014. "Nothing says 'I can’t hustle' like a paid introduction." 
 
 [Why Most VCs Won’t Intro You to Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
 
@@ -74,24 +74,13 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 - - - 
 
-## Pitching and Investor Presentations
+# Pitching and Investor Presentations
 
 [Pitch yourself, not your idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
 [How to Present to Investors](http://paulgraham.com/investors.html). [*Paul Graham*](https://twitter.com/paulg),  2010. Practical advice on giving presentations:  describe a compelling product and get right to the demo; focus on a narrow solution to a widespread problem, don't waste time on business models or secondary matters.  
 
 [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. How you pitch is important, because investors aren't obligated to expend the mental energy to figure out what you are talking about. Follow this basic flow: market and problem, your solution, evidence that your solution will work (traction, sales, your team’s expertise, etc). 
-
-
-## Signalling Risk 
-
-[The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  There are very few hard metrics in venture pricing. As a result, one of the primary valuation inputs is what other investors think about a company.
-
-[The Problem with Taking Seem Money from Big VCs](http://cdixon.org/2009/08/14/the-problem-with-taking-seed-money-from-big-vcs/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If you take *seed* money from a big VC fund, be aware of the potential signalling risk if the VC fund decides not to invest in your Series A round.  Other potential investors will think “if this top VC that has hundreds of millions of dollars and knows this company the best doesn’t want to invest, why would I?” 
-
-
-
-
 
 
 ## NDAs and Ideas vs. Execution 
@@ -115,24 +104,6 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.
 
-
-## Angel Investors / Seed Financing
-
-[Notes on raising seed financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum... (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
-
-[Upside risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. "And yet angel investors continue to ask for onerous terms to mitigate their ‘downside risk.’  All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals." 
-
-[Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
-
-
-
-## Incubators, Accelerators, etc. 
-
-Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](http://www.techstars.com/program/locations/nyc/) are generally great for startups. However, not all incubators are created equal. 
-
-[The Most Important Question to Ask Before Taking Seed Money (from a VC incubator)](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a strong negative signal to other VCs. So it's important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
-
-[We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
 - - -
 
