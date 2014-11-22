@@ -37,7 +37,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 <li><a href="#incubators-accelerators-etc">Incubators, Accelerators, etc.</a></li>
 <li><a href="#standardized-seed-financing-docs">Standardized Seed Financing Docs</a><ul>
 <li><a href="#commentary-on-standardized-seed-docs">Commentary on Standardized Seed Docs</a></li>
-<li><a href="#some-standardized-seed-financing-documents">Some Standardized Seed Financing Documents</a></li>
+<li><a href="#standardized-seed-financing-documents">The Standardized Seed Financing Documents</a></li>
 </ul>
 </li>
 </ul>
@@ -164,7 +164,7 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 
 
-## Some Standardized Seed Financing Documents
+## Standardized Seed Financing Documents
 
 [SAFE Financing Documents](http://www.ycombinator.com/documents/). Y Combinator 2014. 
 
