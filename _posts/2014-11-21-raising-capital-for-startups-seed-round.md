@@ -53,6 +53,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. VCs are looking for big hits:  "the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google." 
 
+[Was Paul Graham Right in his "High Resolution" Financing Post](http://www.bothsidesofthetable.com/2010/09/25/revisiting-paul-grahams-high-resolution-financing/)? [*Mark Suster*](https://twitter.com/msuster), 2010. 
 
 - - - 
 
