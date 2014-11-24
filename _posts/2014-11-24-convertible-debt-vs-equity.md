@@ -19,19 +19,19 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
-Convertible debt is a loan to a company that will (probably) turn into equity at some point in the future. For example, you loan StartupX $10,000, and agree that this will be used to buy $10,000 worth of StartupX stock, after we figure out how much the total stock of StartupX is worth.  Since early stage investment is risky, investors often try to sweeten their deal by asking for a "discount" and a "valuation cap." A *discount* refers to a discount on the price the investor will be paying to eventually buy stock in the company. A *valuation cap* is (effectively) an upper limit on the price an investor will pay per share.  
+Convertible debt is a loan to a company that will (probably) turn into equity at some point in the future. For example, you loan StartupX $10,000, and agree that this will be used to buy $10,000 worth of StartupX stock, after we figure out how much the total stock of StartupX is worth.  Since early stage investment is risky, investors often try to sweeten their deal by asking for a "discount" and a "valuation cap." A *discount* refers to a discount on the price the investor will be paying when she eventually buys stock in the company. A *valuation cap* is (effectively) an upper limit on the price she will pay per share.  
 
 # A Example with Widgets Instead of Startups
 
-Imagine a ship with 1,000 widgets in its cargo hold. These widgets are a brand new product, so we don't know exactly how much each widget should cost. Also, the shipping route is dangerous, so some or all of the widgets might get lost at sea. 
+Instead of a startup, imagine a ship with 1,000 widgets in its cargo hold (the USS-WidgetShip). These widgets are a brand new product, so we don't know exactly how much each widget should cost. Also, the shipping route is dangerous, so some or all of the widgets might get lost at sea. 
 
-You run a small widget shop, and you want to buy $100 worth of widgets. You loan WidgetShipper Co. $100 now, which they spend on fuel. A month later, the HMS WidgetShip safely reaches port. At port, Big-Widget-Shop inspects the cargo and agrees to buy 100 widgets for $5,000. This is great, because we now know that a single widget is worth $50, and that the cargo of 1,000 widgets is worth $50,000. Your $100 loan to WidgetShipper "converts" to 2 widgets. 
+Instead of an angel investor, imagine a small widget shop that is conveniently named "Small-Widget-Shop." Small-Widget-Shop wants to buy $100 worth of widgets, but since we don't know how much a widget is worth yet, we don't know how many widgets that $100 will buy. Small-Widget-Shop loans WidgetShipper Co. $100 now, which they spend on fuel. A month later, the USS-WidgetShip safely reaches port. At port, Big-Widget-Shop inspects the cargo and agrees to buy 100 widgets for $5,000. This is great, because we now know that a single widget is worth $50, and that the cargo of 1,000 widgets is worth $50,000. Small-Widget-Shop's $100 loan to WidgetShipper "converts" to 2 widgets. 
 
-But why should you, the early widget buyer, only get the same deal as Big-Widget-Shop? You paid for widgets before you really got to inspect them, and you took a risk that the ship might crash and burn without delivering any widgets at all. This is where your "discount" and "valuation cap" come in. 
+But why should Small-Widget-Shop, the early widget buyer, only get the same deal as Big-Widget-Shop? Small-Widget-Shop paid for widgets before it really got to inspect them, and it took a risk that the ship might crash without delivering any widgets at all. This is where the "discount" and "valuation cap" come in. 
 
-A 20% *discount* is like saying "As an early buyer of a high-risk product, I'm going to get my widgets at a 20% discount from the later buyers who take much less risk."
+A 20% *discount* is like saying "As an early buyer of a high-risk product, Small-Widget-Shop is going to get its widgets at a 20% discount from the later buyers who take much less risk."
 
-A $10,000 *valuation cap* is like saying "we agree now that the most the total widget-cargo will be worth (for the purposes of your purchase only) is $10,000." Or put differently, the most you will have to pay per widget is $10 (because there are 1,000 total widgets on the boat, and we agreed that the maximum valuation of the total cargo is $10,000). 
+A $10,000 *valuation cap* is like saying "we agree now, before really inspecting the widgets, that for the  purposes of Small-Widget-Shop's purchase, the most the total widget-cargo will be worth is $10,000." Or put differently, the most Small-Widget-Shop will have to pay per widget is $10 (because there are 1,000 total widgets on the boat, and we agreed that the maximum valuation of the total cargo is $10,000). 
 
 - - - 
 
