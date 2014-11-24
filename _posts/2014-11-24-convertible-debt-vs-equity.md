@@ -1,6 +1,6 @@
 ---
 layout: post
-includeinbloglist: "no"
+includeinbloglist: "yes"
 longform: "no"
 title: "Convertible Debt vs. Equity Financing"
 summary: "Curated links discussing the relative advantages of equity vs. convertible debt financing for early stage companies."
@@ -24,7 +24,7 @@ In 2010, Paul Graham of Y Combinator declared that "Convertible notes have won."
 <blockquote class="twitter-tweet" lang="en"><p>Convertible notes have won. Every investment so far in this YC batch (and there have been a lot) has been done on a convertible note.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/22319113993">August 28, 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At the time, my partner Zeke disagreed, arguing that equity grants are better for founders, and are not necessarily more expensive to negotiate. By the end of 2013, Paul Graham and Y Combinator had come around to Zeke's point of view, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)." 
+At the time, my partner Zeke disagreed, arguing that options or warrants are better for founders, and are not necessarily more expensive to draft and negotiate. By the end of 2013, Paul Graham and Y Combinator had come around to Zeke's point of view, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)" - which is essentially a warrant.  
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Announcing the Safe, a Replacement for Convertible Notes: <a href="http://t.co/drN2Nnolwy">http://t.co/drN2Nnolwy</a></p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/409023099518988288">December 6, 2013</a></blockquote>
 
