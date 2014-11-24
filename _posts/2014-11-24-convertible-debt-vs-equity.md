@@ -19,12 +19,30 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
+Convertible debt is a loan to a company that will (probably) turn into equity at some point in the future. For example, you loan StartupX $10,000, and agree that this will be used to buy $10,000 worth of StartupX stock, after we figure out how much the total stock of StartupX is worth.  Since early stage investment is risky, investors often try to sweeten their deal by asking for a "discount" and a "valuation cap." A *discount* refers to a discount on the price the investor will be paying to eventually buy stock in the company. A *valuation cap* is (effectively) an upper limit on the price an investor will pay per share.  
+
+# A Example with Widgets Instead of Startups
+
+Imagine a ship with 1,000 widgets in its cargo hold. These widgets are a brand new product, so we don't know exactly how much each widget should cost. Also, the shipping route is dangerous, so some or all of the widgets might get lost at sea. 
+
+You run a small widget shop, and you want to buy $100 worth of widgets. You loan WidgetShipper Co. $100 now, which they spend on fuel. A month later, the HMS WidgetShip safely reaches port. At port, Big-Widget-Shop inspects the cargo and agrees to buy 100 widgets for $5,000. This is great, because we now know that a single widget is worth $50, and that the cargo of 1,000 widgets is worth $50,000. Your $100 loan to WidgetShipper "converts" to 2 widgets. 
+
+But why should you, the early widget buyer, only get the same deal as Big-Widget-Shop? You paid for widgets before you really got to inspect them, and you took a risk that the ship might crash and burn without delivering any widgets at all. This is where your "discount" and "valuation cap" come in. 
+
+A 20% *discount* is like saying "As an early buyer of a high-risk product, I'm going to get my widgets at a 20% discount from the later buyers who take much less risk."
+
+A $10,000 *valuation cap* is like saying "we agree now that the most the total widget-cargo will be worth (for the purposes of your purchase only) is $10,000." Or put differently, the most you will have to pay per widget is $10 (because there are 1,000 total widgets on the boat, and we agreed that the maximum valuation of the total cargo is $10,000). 
+
+- - - 
+
+# Some Y Combinator Controversy
+
 In 2010, Paul Graham of Y Combinator declared that "Convertible notes have won."  
 
 <blockquote class="twitter-tweet" lang="en"><p>Convertible notes have won. Every investment so far in this YC batch (and there have been a lot) has been done on a convertible note.</p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/22319113993">August 28, 2010</a></blockquote>
 <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-At the time, my partner Zeke disagreed, arguing that options or warrants are better for founders, and are not necessarily more expensive to draft and negotiate. By the end of 2013, Paul Graham and Y Combinator had come around to Zeke's point of view, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)." The "safe" document is essentially a warrant, but with fancy Y-Combinator branding. 
+At the time, many people (including Zeke) disagreed, arguing that options or warrants are better for founders, and are not necessarily more expensive to draft and negotiate. By the end of 2013, Paul Graham and Y Combinator had come around, announcing the "[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes)." The "safe" document is essentially a warrant, but with fancy Y-Combinator branding. 
 
 <blockquote class="twitter-tweet" data-cards="hidden" lang="en"><p>Announcing the Safe, a Replacement for Convertible Notes: <a href="http://t.co/drN2Nnolwy">http://t.co/drN2Nnolwy</a></p>&mdash; Paul Graham (@paulg) <a href="https://twitter.com/paulg/status/409023099518988288">December 6, 2013</a></blockquote>
 
@@ -33,9 +51,6 @@ At the time, my partner Zeke disagreed, arguing that options or warrants are bet
 
 # Convertible Debt Basics 
 
-Convertible debt is a loan that will (probably) turn into equity at some point in the future. For example, you loan StartupX $10,000, and agree that this will be used to buy $10,000 worth of StartupX stock, after we figure out how much the total stock of StartupX is worth (aka, the company's valuation). We will figure out the valuation of StartupX when there is a "priced" round. In a priced round, the founders and investors agree on a valuation for the company.
-
-Since early stage investment is risky, investors will often try to sweeten the deal (for themselves) by asking for a "discount" and/or a "valuation cap." A *discount* refers to a discount on the price the investor will be paying to eventually buy stock in the company. A *valuation cap* is (effectively) an upper limit on the price an investor will pay per share.  Convertible debt without a cap is generally a good deal for founders. Convertible debt with a cap is generally a good deal for investors. 
 
 
 [How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html). [*Brad Feld*](https://twitter.com/bfeld), 2011. Foundry Group partners Brad Feld and Jason Mendelson discuss the details of convertible debt deals, including the [discount](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-the-discount.html), [valuation caps](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-valuation-caps.html), and [conversion mechanics](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-conversion-mechanics.html).
@@ -52,7 +67,7 @@ maximize the company's valuation at the next financing (minimizing founder dilut
 [The Truth About Convertible Debt at Startups and The Hidden Terms You Didn’t Understand](http://www.bothsidesofthetable.com/2012/09/05/the-truth-about-convertible-debt-at-startups-and-the-hidden-terms-you-didnt-understand/). [*Mark Suster*](https://twitter.com/msuster), 2012. "Convertible debt with NO cap is stupid for *investors*. Convertible debt WITH a cap is stupid for *founders*." Convertible debt with a cap is a lot like a full-ratchet anti-dilution clause.
 
 
-[Bad Notes on Venture Capital](http://www.bothsidesofthetable.com/2014/09/17/bad-notes-on-venture-capital/). [*Mark Suster*](https://twitter.com/msuster), 2014. A *capped* convertible note is basically a *priced* round. Mark gives 5 examples, in conversation format, of how convertible notes can cause problems when its time to raise the next round of financing. 
+[Bad Notes on Venture Capital](http://www.bothsidesofthetable.com/2014/09/17/bad-notes-on-venture-capital/). [*Mark Suster*](https://twitter.com/msuster), 2014. A *capped* convertible note is basically a *priced* round. Mark gives 5 examples, in conversation format, of how convertible notes can cause problems when it's time to raise the next round of financing. 
 
 
 [Why Seed Investors Don’t Like Convertible Notes](http://cdixon.org/2009/08/12/why-seed-investors-dont-like-convertible-notes/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. (1) Uncapped convertible notes misalign incentives – for the next funding round, the entrepreneur benefits from a higher valuation, the investor from a low one. (2)  VCs in subsequent rounds may refuse to give the seed investors their 20% discount (by making the VC investment contingent upon modifying the convertible debt contract).
@@ -71,7 +86,8 @@ maximize the company's valuation at the next financing (minimizing founder dilut
 
 # Convertible Equity 
 
-[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes). [Paul Graham](http://twitter.com/paulg), 2014. A "safe" is like a convertible note in that the investor is buying the right to buy stock in an equity round when it occurs. 
+[Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes). [Paul Graham](http://twitter.com/paulg), 2014. "Safe" stands for "Simple Agreement for Future Equity." An investor makes a cash investment in a company, but gets company stock at a later date, in connection with a specific event. 
+
 
 [Safe Financing Documents](http://www.ycombinator.com/documents/#safe). Y Combinator, 2014. Check out the "[Safe Primer](http://www.ycombinator.com/docs/SAFE_Primer.rtf)", where they hid a lot of interesting information in a .rtf file for some reason. 
 

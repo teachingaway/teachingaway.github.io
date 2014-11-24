@@ -10,9 +10,11 @@ image:
 ---
 
 
+<!-- 
 <nav class="pagination" role="navigation">
- <a href="/tags/" class="btn big-btn">Sort by Topic</a> 
+ <a href="/tags-longform/" class="btn big-btn">Sort by Topic</a> 
 </nav>
+ -->
 
 
 <ul class="page-list">

@@ -13,7 +13,7 @@ image:
 ---
 
 <p class="big-text">
-The Trademark Office frequently rejects trademark applications for _Likelihood of Confusion_ with an existing registration, and for _lack of distinctiveness_. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark.</p>
+The Trademark Office frequently rejects trademark applications for <em>Likelihood of Confusion</em> with an existing registration, and for <em>lack of distinctiveness</em>. Both of these concepts involve the relationship between a "mark" and the product or service being advertised under the mark.</p>
 
 - - - 
 
