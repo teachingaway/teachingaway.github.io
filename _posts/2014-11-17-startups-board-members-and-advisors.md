@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 longform: "yes"
-title: "Startup Boards and Advisors"
+title: "Startup Boards and Advisors - Link List"
 summary: "Curated links on finding the best board members and advisors for a startup."
 tags: [startup law, link list]
 author: adler

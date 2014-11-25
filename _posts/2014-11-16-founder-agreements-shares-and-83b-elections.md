@@ -2,7 +2,7 @@
 layout: post
 bloglist: "yes"
 longform: "yes"
-title: "Founder Agreements, Equity Splits, and Issuing Shares"
+title: "Founder Agreements - Link List"
 summary: "Curated links on cofounder agreements, initial equity splits, issuing shares and making an 83b tax election."
 tags: [startup law, link list]
 author: adler

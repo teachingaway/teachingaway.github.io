@@ -2,7 +2,7 @@
 layout: post
 includeinbloglist: "yes"
 longform: "no"
-title: "Raising Capital for Startups"
+title: "Raising Startup Capital - Link List"
 summary: "Curated links on finding VCs, pitching a startup, and raising capital."
 tags: [startup law, link list]
 author: adler
@@ -110,9 +110,9 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 # How Much to Raise and at What Valuation?
 
-[What’s the right amount of seed money to raise?](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. Raise "enough to get your startup to an accretive milestone plus some fudge factor. ‘Accretive milestone’ is a fancy way of saying getting your company to a point at which you can raise money at a higher valuation."
+[What’s the right amount of seed money to raise](http://cdixon.org/2009/12/28/whats-the-right-amount-of-seed-money-to-raise/)? [*Chris Dixon*](https://twitter.com/cdixon), 2009. Raise "enough to get your startup to an accretive milestone plus some fudge factor. ‘Accretive milestone’ is a fancy way of saying getting your company to a point at which you can raise money at a higher valuation."
 
-[Why Startups Should Raise Money at the Top End of Normal](http://www.bothsidesofthetable.com/2011/06/05/why-startups-should-raise-money-at-the-top-end-of-normal/). [*Mark Suster*](https://twitter.com/msuster), 2011. Reach for a strong valuation, but reach too far and you might can get burned by the dreaded down round. "Most investors won’t want to go through the brain damage of doing a ‘down round,’ which creates tension between them and early investors.
+[Startups Should Raise Money at the Top End of Normal](http://www.bothsidesofthetable.com/2011/06/05/why-startups-should-raise-money-at-the-top-end-of-normal/). [*Mark Suster*](https://twitter.com/msuster), 2011. Reach for a strong valuation, but reach too far and you might can get burned by the dreaded down round. "Most investors won’t want to go through the brain damage of doing a ‘down round,’ which creates tension between them and early investors.
 
 
 [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.

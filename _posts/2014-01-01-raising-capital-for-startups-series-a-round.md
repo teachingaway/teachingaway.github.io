@@ -52,7 +52,7 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 [Does a VC’s brand matter?](http://cdixon.org/2009/12/05/does-a-vcs-brand-matter/) [*Chris Dixon*](https://twitter.com/cdixon), 2009. How much should you weigh the brand of the VCs?  A little, but a lot less than most people assume.
 
-[How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). *Tomasz Tunguz*, 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
+[How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). [*Tomasz Tunguz*](https://twitter.com/ttunguz), 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
 
 [Inside versus outside financings: the nightclub effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors.
 

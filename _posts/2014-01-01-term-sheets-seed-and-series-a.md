@@ -25,7 +25,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Ideal First Round Term Sheet? 
 
-[A founder-friendly term sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet). Sam Altman, 2013. A founder-friendly term sheet has no option pool, no expiration, no confidentiality agreement, no participating preferred, and the investor agrees to pay her own legal fees. 
+[A founder-friendly term sheet](http://blog.samaltman.com/a-founder-friendly-term-sheet). [*Sam Altman*](https://twitter.com/sama), 2013. A founder-friendly term sheet has no option pool, no expiration, no confidentiality agreement, no participating preferred, and the investor agrees to pay her own legal fees. 
 
 [Ideal first round funding terms](http://cdixon.org/2009/08/16/ideal-first-round-funding-terms/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Chris Dixon summarizes his idea, plain vanilla early-stage term sheet. 
 
@@ -38,19 +38,19 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 ## Negotiating the Term Sheet
 
-[Upside Risk](http://blog.samaltman.com/upside-risk). [Sam Altman](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. 
+[Upside Risk](http://blog.samaltman.com/upside-risk). [*Sam Altman*](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. 
 
 [Horses, rabbits and poker: How to raise money from venture capitalists](https://medium.com/@twang/horses-rabbits-and-poker-b00d1bd56210). [*Ted Wang*](https://twitter.com/twang), 2014.  Some negotiation tactics to get a better term sheet from VCs. For example, “I’d love to meet you in n weeks, but I have a second partner meeting at another firm next week, so I’m concerned that things might have progressed by that time.” 
 
 [When not to be Mr. Wolf. An important negotiation tactic for entrepreneurs](https://medium.com/@twang/when-not-to-be-mr-wolf-e56275211dd1).  [*Ted Wang*](https://twitter.com/twang), 2014. When to move quickly, and when to slow down. 
 
 
-[A Quick Hack for Speeding up Term Sheet and other Negotiations](http://www.bothsidesofthetable.com/2012/03/17/a-quick-hack-for-speeding-up-term-sheet-and-other-negotiations/). [Mark Suster](https://twitter.com/msuster), 2012. Throw a “signing party” where everyone flies to a single location, and stays in a hotel together until the deal was completed. 
+[A Quick Hack for Speeding up Term Sheet and other Negotiations](http://www.bothsidesofthetable.com/2012/03/17/a-quick-hack-for-speeding-up-term-sheet-and-other-negotiations/). [*Mark Suster*](https://twitter.com/msuster), 2012. Throw a “signing party” where everyone flies to a single location, and stays in a hotel together until the deal was completed. 
 
 
 ## Exploding Offers
 
-[Exploding Offers Suck](http://blog.ycombinator.com/exploding-offers-suck). Sam Altman, 2014. Investors and accelerators should not use time-pressure to prevent founders from exploring their alternatives. [Note: on the other hand, reasonable time limits on an offer are often appropriate.] 
+[Exploding Offers Suck](http://blog.ycombinator.com/exploding-offers-suck). [*Sam Altman*](https://twitter.com/sama), 2014. Investors and accelerators should not use time-pressure to prevent founders from exploring their alternatives. [Note: on the other hand, reasonable time limits on an offer are often appropriate.] 
 
 [Backing out of a term sheet](http://cdixon.org/2010/02/03/backing-out-of-a-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. VC Firms should not back out of a term sheet unless their due diligence turns up some kind of fraud. 
 
