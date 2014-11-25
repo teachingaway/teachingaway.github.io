@@ -183,6 +183,12 @@ Two Canon DSLR design patents. The first from 1992, and the second from 2003. No
 
 - - - 
 
+[Lytro camera](https://store.lytro.com/collections/the-first-generation-lytro-camera) (first generation) design patent, 2012: 
+
+<img src="/images/design-patent/camera-lytro-design-patent-2012.png" class="translucent"> 
+
+- - - 
+
 A design patent for the recent iMac (2014). Note that the drawings are essentially photographs, not line drawings. This is allowed. 
 
 <img src="/images/design-patent/computer-imac-2014-design-patent.png" class="translucent"> 
@@ -331,7 +337,7 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts themselves (although copyright will protect the *software* that draws fonts). Here are two examples of typeface design patents. The first is from Robert Slimbach, and I think it's for an italic Garamond(?). The second is from Charles Bigelow and Kris Holmes, for a Lucida Sans(?). 
 
-<img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
+<img src="/images/design-patent/typeface-design-patent-slimbach-adobe-2012" class="translucent">  
 
 - - - 
 

@@ -182,6 +182,12 @@ Two Canon DSLR design patents. The first from 1992, and the second from 2003. No
 
 - - - 
 
+[Lytro camera](https://store.lytro.com/collections/the-first-generation-lytro-camera) (first generation) design patent, 2012: 
+
+<img src="/images/design-patent/camera-lytro-design-patent-2012.png" class="translucent"> 
+
+- - - 
+
 A design patent for the recent iMac (2014). Note that the drawings are essentially photographs, not line drawings. This is allowed. 
 
 <img src="/images/design-patent/computer-imac-2014-design-patent.png" class="translucent"> 
@@ -249,7 +255,7 @@ Two design patents for Henry Dreyfuss' rotary phone (1949). The image on the lef
 
 ### Musical Instruments
 
-[Clarence Fender's](http://en.wikipedia.org/wiki/Leo_Fender) electric guitar (1951). Fender's [Telecaster](http://en.wikipedia.org/wiki/Fender_Telecaster), the first commercial solid-body electric guitar, was the guitar played by legends like Elvis, Waylon Jennings, Eric Clapton (Yardbirds era), Muddy Waters, and more. (If you're a bluegrass nerd, Clarence White also played one). 
+[Clarence Fender's](http://en.wikipedia.org/wiki/Leo_Fender) electric guitar (1951). Fender's [Telecaster](http://en.wikipedia.org/wiki/Fender_Telecaster), the first commercial solid-body electric guitar, was the guitar played by legends like Elvis, Waylon Jennings, Eric Clapton (Yardbirds era), Muddy Waters, and more. (If you're a bluegrass nerd, [Clarence White](http://en.wikipedia.org/wiki/Clarence_White) played one). 
 
 <img src="/images/design-patent/fender-guitar-design-patent-1951.png" class="translucent"> 
 
@@ -329,7 +335,7 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts themselves (although copyright will protect the *software* that draws fonts). Here are two examples of typeface design patents. The first is from Robert Slimbach, and I think it's for an italic Garamond(?). The second is from Charles Bigelow and Kris Holmes, for a Lucida Sans(?). 
 
-<img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
+<img src="/images/design-patent/typeface-design-patent-slimbach-adobe-2012" class="translucent">  
 
 - - - 
 
