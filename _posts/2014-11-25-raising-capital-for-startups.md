@@ -1,6 +1,6 @@
 ---
 layout: post
-includeinbloglist: "no"
+includeinbloglist: "yes"
 longform: "no"
 title: "Raising Capital for Startups"
 summary: "Curated links on finding VCs, pitching a startup, and raising capital."
@@ -15,13 +15,29 @@ share: true
 ---
 
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses raising Angel and Seed capital for technology startups.
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising capital for technology startups, finding the right investors, and putting together a persuasive pitch deck.
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
+<div class="toc">
+<ul>
+<li><a href="#raise-money">Raise Money</a></li>
+<li><a href="#bootstrap-building-a-company-without-raising-money">Bootstrap - Building a Company without Raising Money</a></li>
+<li><a href="#finding-investors">Finding Investors</a><ul>
+<li><a href="#investor-introductions">Investor Introductions</a></li>
+<li><a href="#finding-the-right-angels-accredited-investors">Finding the Right Angels: Accredited Investors</a></li>
+<li><a href="#how-many-investors">How Many Investors?</a></li>
+</ul>
+</li>
+<li><a href="#pitching-and-investor-presentations">Pitching and Investor Presentations</a><ul>
+<li><a href="#ndas-and-ideas-vs-execution">NDAs and Ideas vs. Execution</a></li>
+</ul>
+</li>
+<li><a href="#how-much-to-raise-and-at-what-valuation">How Much to Raise and at What Valuation?</a></li>
+</ul>
+</div>
 
-
-## Raising Money
+# Raise Money
 
 [How to Fund a Startup](http://paulgraham.com/startupfunding.html). [*Paul Graham*](https://twitter.com/paulg), 2005.  As usual, Paul Graham's essays are a good jumping off point. This one provides an overview of the startup funding process. 
 
@@ -33,7 +49,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 - - - 
 
-## Bootstrap - Building a Company without Raising Money
+# Bootstrap - Building a Company without Raising Money
 
 Think about how far you can bootstap the company before raising outside money.  The more revenue and traction you can show investors, the sweeter your first term sheet will be. Many startups don't need to raise outside money at all. 
 
@@ -44,9 +60,9 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 - - - 
 
-## Finding Investors
+# Finding Investors
 
-### Investor Introductions
+## Investor Introductions
 
 [Don’t Ask Your Startup Lawyer for Investor Intros](http://siliconhillslawyer.com/2014/02/01/dont-ask-startup-lawyer-investor-intro/). [Jose Ancer](https://twitter.com/ancerj), 2014. "Nothing says 'I can’t hustle' like a paid introduction." 
 
@@ -57,7 +73,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 [The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). Fred Wilson, 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
 
 
-### Finding the Right Angels: Accredited Investors
+## Finding the Right Angels: Accredited Investors
 
 [How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
 
@@ -65,7 +81,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 [Taking Non-Accredited Money – Survival](http://siliconhillslawyer.com/2014/10/01/taking-non-accredited-money-startups/). [Jose Ancer](https://twitter.com/ancerj), 2014. Taking non-accredited money is risky, but sometimes it's the only option, especially for startups outside of California and New York.
 
-### How Many Investors? 
+## How Many Investors? 
 
 [How Many Investors are Too Many](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/)? [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
 
@@ -85,7 +101,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 ## NDAs and Ideas vs. Execution 
 
-Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the execution of the idea. 
+Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the *execution* of the idea. 
 
 [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Talk about your idea to almost anyone who will listen: investors, entrepreneurs, friends, people on the street, the bartender, etc.
 
@@ -100,7 +116,6 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 [Why Startups Should Raise Money at the Top End of Normal](http://www.bothsidesofthetable.com/2011/06/05/why-startups-should-raise-money-at-the-top-end-of-normal/). [*Mark Suster*](https://twitter.com/msuster), 2011. Reach for a strong valuation, but reach too far and you might can get burned by the dreaded down round. "Most investors won’t want to go through the brain damage of doing a ‘down round,’ which creates tension between them and early investors.
 
-[Seed Rounds: How To Pick A Valuation](http://josephwalla.com/seed-rounds-how-to-pick-a-valuation). Joseph Walla, 2014. "Valuations have little basis in reality for early stage companies. You evaluate the team, product, market and other variables - then, make a general guess."
 
 [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.
 
