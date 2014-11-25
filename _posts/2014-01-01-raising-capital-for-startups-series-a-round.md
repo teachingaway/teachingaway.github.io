@@ -16,12 +16,12 @@ share: true
 
 DRAFT POST
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses raising Angel and Seed capital for technology startups.
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising a Series A round.
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
 
-## Raising Money
+# Raising Money
 
 [How to Fund a Startup](http://paulgraham.com/startupfunding.html). [*Paul Graham*](https://twitter.com/paulg), 2005.  As usual, Paul Graham's essays are a good jumping off point. This one provides an overview of the startup funding process. 
 
@@ -34,18 +34,7 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 - - - 
 
-
-## Investor Introductions
-
-[Why Most VCs Won’t Intro You to Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
-
-[Introductions and the "Forward Intro Email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
-
-[The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). Fred Wilson, 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
-
-- - - 
-
-## Pitching and Investor Presentations
+# Pitching and Investor Presentations
 
 [Pitch Yourself, Not Your Idea](http://cdixon.org/2009/11/14/pitch-yourself-not-your-idea/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Tell the story of someone who has been building stuff her whole life and now just needs some capital to take it to the next level.
 
@@ -53,9 +42,9 @@ Explain the company’s mission, product, current traction, future vision, the m
 
 [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. How you pitch is important, because investors aren't obligated to expend the mental energy to figure out what you are talking about. Follow this basic flow: market and problem, your solution, evidence that your solution will work (traction, sales, your team’s expertise, etc). 
 
+- - - 
 
-
-## Venture Capital - Series A
+# Venture Capital - Series A
 
 [Best Practices for Raising a VC Round](http://cdixon.org/2011/05/04/best-practices-for-raising-a-vc-round/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. Pick a minimum valuation, never share the names of other VCs that are interested, talk to about 5 VCs, consider offering certain VCs a "buy it now" valuation, set timelines and move quickly. 
 

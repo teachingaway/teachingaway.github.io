@@ -16,7 +16,7 @@ share: true
 
 
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising a very first round of funding for a technology startup - alternatively called a "seed round", "angel round", or "friends and family round." 
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising a very first round of funding for a technology startup - alternatively called a "seed round", "angel round", or "friends and family round." Check out our more general [Raising Capital for Startups ](/raising-capital-for-startups/) post for links applicable to all stages of venture financing. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 

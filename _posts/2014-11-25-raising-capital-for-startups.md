@@ -15,7 +15,7 @@ share: true
 ---
 
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising capital for technology startups, finding the right investors, and putting together a persuasive pitch deck.
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post is about raising capital for technology startups, finding the right investors, and putting together a persuasive pitch deck. Check out our [seed round](/raising-capital-for-startups-seed-round/) post for more specifics on raising an initial round of funding. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
@@ -25,7 +25,7 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 <li><a href="#bootstrap-building-a-company-without-raising-money">Bootstrap - Building a Company without Raising Money</a></li>
 <li><a href="#finding-investors">Finding Investors</a><ul>
 <li><a href="#investor-introductions">Investor Introductions</a></li>
-<li><a href="#finding-the-right-angels-accredited-investors">Finding the Right Angels: Accredited Investors</a></li>
+<li><a href="#accredited-investors">Accredited Investors</a></li>
 <li><a href="#how-many-investors">How Many Investors?</a></li>
 </ul>
 </li>
@@ -73,9 +73,7 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 [The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). Fred Wilson, 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
 
 
-## Finding the Right Angels: Accredited Investors
-
-[How to select your angel investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but a startup is a long trip. Look for investors who will actually roll up their sleeves and help you after the initial buzz dies down.
+## Accredited Investors
 
 [What is an accredited investor](http://www.startupcompanylawyer.com/2009/04/03/what-is-an-accredited-investor/)? [*Yokum Taku*](https://twitter.com/Yokum), 2009. If you can’t raise money from an established seed fund, then raise money from an experienced and  "accredited" angel investor. And if not experienced, at the very least “accredited.” (Accredited = sufficiently rich as defined in the securities laws). 
 
