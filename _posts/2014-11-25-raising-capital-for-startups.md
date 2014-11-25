@@ -51,11 +51,11 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 # Bootstrap - Building a Company without Raising Money
 
-Think about how far you can bootstap the company before raising outside money.  The more revenue and traction you can show investors, the sweeter your first term sheet will be. Many startups don't need to raise outside money at all. 
+How far you can bootstap the company before raising outside money?  The more revenue and traction you show investors, the sweeter your first term sheet. Some  startups may not need to raise outside money at all. 
 
-[Bootstrapped, Profitable, & Proud](http://37signals.com/bootstrapped). Basecamp. Series profiles companies that have over one million dollars in revenues, didn’t take VC, and are profitable.
+[Bootstrapped, Profitable, & Proud](http://37signals.com/bootstrapped). This series from Basecamp profiles companies that generate over one million dollars in revenues, didn’t take VC, and are profitable. 
 
-Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar business. She owns 100% of the private company, with no debt. 
+[Spanx](http://en.wikipedia.org/wiki/Spanx#Founding).  Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar business. She owns 100% of the private company with no debt. 
 
 
 - - - 
@@ -64,13 +64,13 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 ## Investor Introductions
 
-[Don’t Ask Your Startup Lawyer for Investor Intros](http://siliconhillslawyer.com/2014/02/01/dont-ask-startup-lawyer-investor-intro/). [Jose Ancer](https://twitter.com/ancerj), 2014. "Nothing says 'I can’t hustle' like a paid introduction." 
+[Don’t Ask Your Startup Lawyer for Investor Intros](http://siliconhillslawyer.com/2014/02/01/dont-ask-startup-lawyer-investor-intro/). [*Jose Ancer*](https://twitter.com/ancerj), 2014. Nothing says "I can’t hustle" like a paid introduction.
 
 [Why Most VCs Won’t Intro You to Other VCs (Unless You Follow These Steps)](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Do your homework before you ask for an intro. Write the draft pitch and intro email for the VC. Follow up. Send periodic updates. 
 
-[Introductions and the "Forward Intro Email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [Roy Bahat](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
+[Introductions and the "Forward Intro Email"](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). [*Roy Bahat*](https://twitter.com/roybahat), 2014. You write the draft intro email, and "I do only the things I’m best at — knowing the receiver, and sharing my opinion of you." 
 
-[The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). Fred Wilson, 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
+[The Double Opt-In Introduction](http://avc.com/2009/11/the-double-optin-introduction/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. Asking for permission to make an email intro before making it is good form. I try to do it as a matter of practice. 
 
 
 ## Accredited Investors
@@ -99,14 +99,15 @@ Spanx - Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion 
 
 ## NDAs and Ideas vs. Execution 
 
-Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the *execution* of the idea. 
+Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your idea only to investors with a reputation for honest dealing. In any event, the value of a startup isn’t in the idea, it's in the *execution* of the idea (or the potential for execution). 
 
 [Why you shouldn’t keep your startup idea secret](http://cdixon.org/2009/08/22/why-you-shouldnt-keep-your-startup-idea-secret/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Talk about your idea to almost anyone who will listen: investors, entrepreneurs, friends, people on the street, the bartender, etc.
 
-[The Myth of the Eureka Moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a “Eureka" moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
+[The Myth of the Eureka Moment](http://cdixon.org/2009/05/15/the-myth-of-the-eureka-moment/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "In the 10 years I’ve been involved with startups, I have never seen a 'Eureka' moment where someone suddenly comes up with a great idea.  Instead, I have always found idea development to be a wrenching and often meandering process that is guided mostly by instinct.”
 
 [Important Terms for Nondisclosure Agreements](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *actually* need an NDA, specifically define what information must be confidential, and who must keep it confidential (i.e., mutual or one-way obligation).  Is the obligation not to *disclose* information, or not to *use* the information, or both? 
 
+- - - 
 
 # How Much to Raise and at What Valuation?
 
