@@ -2,6 +2,7 @@
 layout: post
 title: "Cofounder Collaboration"
 tags: [startup law]
+summary: "Introducing some new cofounder collaboration forms posted to Docracy.com"
 author: vermillion
 image:
   feature: /wide/default-image.png

@@ -2,6 +2,7 @@
 layout: post
 title: "Law Firm as Startup" 
 tags: [startups]
+summary: I like to think of our firm as a boot-strapped startup, out to disrupt the sclerotic world of lawyering.
 author: vermillion
 image:
   feature: /wide/default-image.png

@@ -2,6 +2,7 @@
 layout: post
 title: "Crowdfunding: Senate v. House (Advantage Senate)"
 tags: [crowdfunding]
+summary: "Hard as it may be to believe, it seems there is a fighting chance that a crowdfunding exemption may actually become law"
 author: skocilich
 image:
   feature: /wide/default-image.png

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Crowdfunding and the Wisdom of the Internet"
+summary: "The internet has freed many innovators and creators from the arbitrary and capricious ways of old school industry gatekeepers by allowing direct access to consumers."
 tags: [crowdfunding]
 author: skocilich
 image:
