@@ -132,7 +132,7 @@ h4 {
 /* Table of Contents */
 // --------------------------------------------------
 
-.entry-content ul.toc  {
+.entry-content ul.toc   {
 	background-color: #f2f2f2;
 	.rounded(5px);
 	@media @medium {
@@ -145,6 +145,7 @@ h4 {
         padding-left:2rem;
         margin-bottom:1rem;
         }
+    
 	}
 
 .entry-content ul.toc li {
@@ -159,15 +160,14 @@ h4 {
 	    }
     }
     
-.entry-content ul.toc ul,  {
+.entry-content ul.toc ul  {
     padding-left:1rem;
     li {list-style-type: circle;}    
     }
 
-.bold-first-level {
-    .toc ul li {font-weight:bold;}
-    .toc ul li ul li {font-weight:normal;}
-}
+// bold-first-level bolds the first first-level links in a table of contents
+.bold-first-level>ul>li {font-weight:bold;}
+.bold-first-level>ul>li>ul {font-weight:normal;}
 
 /* Updated Table of Contents with div.toc */
 // --------------------------------------------------

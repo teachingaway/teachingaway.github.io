@@ -23,7 +23,7 @@ Designers have used these patents to protect renowned works like Clarence Fender
 <img src="/images/design-patent/famous-design-patent-mix.png" class="big-image">  
 
 
-<div class="toc">
+<div class="toc bold-first-level">
 <ul>
 <li><a href="#law-of-design-patents">Law of Design Patents</a><ul>
 <li><a href="#design-patent-drawings">Design Patent Drawings</a></li>
