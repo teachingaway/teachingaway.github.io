@@ -68,9 +68,10 @@ Before comparing video games for infringement, judges try to "filter out" the ga
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
 <hr>
-<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
-<li><a href="#copyright-registration">Copyright Registration.</a></li>
-<li><a href="#trademark-registration">Trademark Registration.</a></li>
+<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a>
+<ul>
+<li><a href="#copyright-registration">Copyright Registration</a></li>
+<li><a href="#trademark-registration">Trademark Registration</a></li>
 <li><a href="#patents">Patents</a></li>
 <li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
 </ul>
