@@ -24,14 +24,22 @@ Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark
 
 If we look at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed in a different case just 4 months later. 
 
-Fortunately, there are some overarching themes running through the dozen or so video game cloning cases discussed below. Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. Where the expression is creative and original, it's protected against any "substantially similar" copies. If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows clones that make just a few minor changes. 
+Let's start with some easy answers. A clone is infringing an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724). 
+
+This simple legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but there are some overarching themes running through the video game cloning cases discussed below. 
+
+- Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
+- Where the expression is creative and original, it's protected against any "substantially similar" copies. 
+- If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows clones that make just a few minor changes. 
 
 Before comparing video games for infringement, judges try to conceptually "filter out" the game's unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." This copyright infringement analysis is more art than science. 
 
 
-<div class="toc">
+
+<div class="toc bold-first-level">
 <ul>
-<li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a><ul>
+<li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
+<ul>
 <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
 <li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)</a></li>
 </ul>
@@ -59,6 +67,7 @@ Before comparing video games for infringement, judges try to conceptually "filte
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
+<hr>
 <li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a><ul>
 <li><a href="#copyright-registration">Copyright Registration.</a></li>
 <li><a href="#trademark-registration">Trademark Registration.</a></li>
@@ -66,6 +75,7 @@ Before comparing video games for infringement, judges try to conceptually "filte
 <li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
 </ul>
 </li>
+<hr>
 <li><a href="#copyright-requires-only-a-modicum-of-creativity">Copyright Requires Only a "Modicum of Creativity"</a><ul>
 <li><a href="#even-simple-video-games-are-copyrightable-breakout-1992">Even Simple Video Games are Copyrightable: Breakout (1992)</a></li>
 <li><a href="#no-infringement-sharpshooter-v-police-trainer-2">No Infringement: Sharpshooter v. Police Trainer 2</a></li>

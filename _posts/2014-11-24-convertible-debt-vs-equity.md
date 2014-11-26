@@ -52,8 +52,9 @@ At the time, many people (including Zeke) disagreed, arguing that options or war
 # Convertible Debt Basics 
 
 
-
 [How Convertible Debt Works](http://www.feld.com/archives/2011/10/how-convertible-debt-works.html). [*Brad Feld*](https://twitter.com/bfeld), 2011. Foundry Group partners Brad Feld and Jason Mendelson discuss the details of convertible debt deals, including the [discount](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-the-discount.html), [valuation caps](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-valuation-caps.html), and [conversion mechanics](http://www.askthevc.com/archives/2011/09/convertible-debt-%E2%80%93-conversion-mechanics.html).
+
+[Bridges or Seeds? A Primer on Your First Financing](http://siliconhillslawyer.com/2012/06/07/bridge-seed-financing-primer/). [Jose Ancer](https://twitter.com/ancerj), 2012. Raising a round between $500k and $1M requires you to carefully balance the benefits of a convertible note versus an equity round. Lots of good guidance in this primer. 
 
 
 [Thoughts on Convertible Notes.](http://www.k9ventures.com/blog/2011/03/22/thoughts-on-convertible-notes/) Manu Kumar (2011). Convertible debt is appropriate for bridge financing (when a priced equity round is imminent), but convertible debt may misalign incentives in seed financing. E.g., for an uncapped note, the founders will want 
