@@ -26,13 +26,13 @@ If we look at individual copyright infringement cases, the answers seem arbitrar
 
 Let's start with some easy answers. A clone is infringing an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724). 
 
-This simple legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but there are some overarching themes running through the video game cloning cases discussed below. 
+This simple legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but there are some overarching themes running through all of the video game cloning cases. 
 
 - Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
-- Where the expression is creative and original, it's protected against any "substantially similar" copies. 
+- Creative and original expression is protected against "substantially similar" copies. 
 - If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prohibits *identical* copying, but allows clones that make just a few minor changes. 
 
-Before comparing video games for infringement, judges try to conceptually "filter out" the game's unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." This copyright infringement analysis is more art than science. 
+Before comparing video games for infringement, judges try to "filter out" the game's unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." This analysis is more art than science. 
 
 
 

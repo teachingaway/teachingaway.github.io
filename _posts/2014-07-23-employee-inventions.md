@@ -20,7 +20,22 @@ To answer these common questions, we first look for contracts. If there was an i
 
 The post provides some quick takeaways for founders and employees, and then digs into the relevant (1) <a href="#patent-law">Patent Law</a>, (2) <a href="#copyright-law">Copyright Law</a>, and (3)  <a href="#non-compete-agreements-law">Non-Compete Law</a>. I've also put up a <a href="/invention-assignment-agreement/">sample Invention Assignment Agreement</a>.  
 
-- - - 
+<div class="toc">
+<ul>
+<li><a href="#takeaway-for-founders">Takeaway for Founders</a></li>
+<li><a href="#takeaway-for-employees-building-side-projects">Takeaway for Employees Building Side Projects:</a></li>
+</ul>
+<li><a href="#patent-law">Patent Law</a><ul>
+<li><a href="#california-and-washington-law-on-employee-inventions">California and Washington Law on Employee Inventions</a></li>
+</ul>
+</li>
+<li><a href="#copyright-law">Copyright Law</a></li>
+<li><a href="#non-compete-agreements">Non-Compete Agreements</a></li>
+<li><a href="#side-projects-encourage-innovation">Side Projects Encourage Innovation</a><ul>
+<li><a href="#links">Links</a></li>
+</ul>
+</li>
+</div>
 
 ### Takeaway for Founders
 
