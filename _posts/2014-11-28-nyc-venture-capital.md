@@ -3,7 +3,7 @@ layout: post
 includeinbloglist: "yes"
 longform: "no"
 title: "NYC Venture Capital Firms"
-summary: "description of draft post."
+summary: "A list of venture capital firms active in the NYC technology startup scene."
 tags: [venture capital, startups]
 author: adler
 image:
