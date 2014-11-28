@@ -52,17 +52,17 @@ Fund | About
 
 
 
-# Other Interesting Funds Investing in NYC Startups
+# Interesting Funds Investing in NYC Startups
 
 Fund | About 
 | - | - | 
 [500 Startups](http://500.co/) | Early stage investments in consumer commerce, family tech and education, design, SMB Productivity, Food Tech and digital healthcare, mobile, payments and financial services, online video, bitcoin, ad tech from [Dave McClure](https://twitter.com/davemcclure). 
 [Brooklyn Bridge](http://www.brooklynbridge.vc/) | Early stage investments by [Charlie O’Donnell](https://twitter.com/ceonyc). 
 [Battery Ventures](http://www.battery.com/) | Seed investments in ad tech, digital media, industrial technologies, and infrastructure. 
-[Box Group](http://www.boxgroupnyc.com/) | Early stage investments managed by David Tisch. "Our goal is to back the best entrepreneurs regardless of location or stage. We view investing as a journey where we support companies based on conviction in the team."
+[Box Group](http://www.boxgroupnyc.com/) | Angel investments from [David Tisch](https://twitter.com/davetisch). 
 [Contour Ventures](http://www.contourventures.com/) | Early stage investments in financial services, digital media and internet/SaaS sectors. 
 [FF](http://ffvc.com/) | Seed, early stage investments. 
-[First Mark](http://firstmarkcap.com/story/) | ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
+[First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
 [Great Oaks](http://www.greatoaksvc.com/) | Early stage investments in consumer web, Saas and cloud platforms with an emphasis in the fields of Health, Education and e-Commerce.
 [Eniac](http://eniac.vc/) | Seed stage investments in mobile technologies. 
 [SV Angel](http://svangel.com/) | Active in NY internet startups, despite the "SV" branding. 
