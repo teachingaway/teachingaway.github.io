@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Bose v. SDI - Speaker Patents at the Federal Circuit"
+summary: "Bose is leveraging its patent portfolio, but recently lost a claim construction issue."
 tags: [patent, claim construction, user interface]
 author: adler
 image:

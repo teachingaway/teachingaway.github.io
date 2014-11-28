@@ -1,10 +1,10 @@
 ---
 layout: post
-includeinbloglist: "no"
+includeinbloglist: "yes"
 longform: "no"
 title: "NYC Venture Capital Firms"
 summary: "description of draft post."
-tags: []
+tags: [venture capital, startups]
 author: adler
 image:
   feature: /wide/default-image.png
