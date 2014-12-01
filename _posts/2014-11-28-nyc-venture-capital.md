@@ -75,25 +75,26 @@ Fund | About
 
 # Interesting Funds Investing in NYC Startups
 
+These funds have been doing interesting and innovative work in the NYC technology space. 
+
 Fund | About 
 | - | - | 
-[500 Startups](http://500.co/) | Early stage investments in consumer commerce, family tech and education, design, SMB Productivity, Food Tech and digital healthcare, mobile, payments and financial services, online video, bitcoin, ad tech from [Dave McClure](https://twitter.com/davemcclure). 
 [Brooklyn Bridge](http://www.brooklynbridge.vc/) | Early stage investments by [Charlie O’Donnell](https://twitter.com/ceonyc). 
-[Battery Ventures](http://www.battery.com/) | Seed, early, and growth investments in ad tech, digital media, industrial technologies, and infrastructure. 
 [Box Group](http://www.boxgroupnyc.com/) | Angel investments from [David Tisch](https://twitter.com/davetisch). 
+[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
 [Contour Ventures](http://www.contourventures.com/) | Early stage investments in financial services, digital media and internet/SaaS. 
+[IA Ventures](http://www.iaventures.com/) | "Investing in companies that create competitive advantage through data."
+[Silas Capital](http://www.silascapital.com/) | Consumer brands. 
+[Quotidian Ventures](http://www.quotidian.co/) | Early stage companies in NYC.
 [FF](http://ffvc.com/) | Seed, early stage investments in advertising, analytics, cloud services, e-commerce, mobile and social. 
 [First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
 [Great Oaks](http://www.greatoaksvc.com/) | Early stage investments in consumer web, Saas and cloud platforms with an emphasis in the fields of Health, Education and e-Commerce.
+[500 Startups](http://500.co/) | Early stage investments in consumer commerce, family tech and education, design, SMB Productivity, Food Tech and digital healthcare, mobile, payments and financial services, online video, bitcoin, ad tech from [Dave McClure](https://twitter.com/davemcclure). 
 [Eniac](http://eniac.vc/) | Seed stage investments exclusively in mobile technologies. Investments include airbnb, fitocracy, soundcloud and Shake. 
-[IA Ventures](http://www.iaventures.com/) | "Investing in companies that create competitive advantage through data."
+[Battery Ventures](http://www.battery.com/) | Seed, early, and growth investments in ad tech, digital media, industrial technologies, and infrastructure. 
 [Lowercase Capital](http://lowercasecapital.com/) | Early stage investments in consumer web, mobile, and wireless technology from [Chris Sacca](https://twitter.com/sacca). (San Francisco). 
-[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
-[Silas Capital](http://www.silascapital.com/) | Consumer brands. 
-[Thrive](http://www.thrivecap.com/) | Media and internet investments.
 [Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
 [Venrock](http://www.venrock.com/) | Technology, private healthcare and public healthcare investments. 
-[Quotidian Ventures](http://www.quotidian.co/) | Early stage companies in NYC.
 [Carmel Ventures](http://www.carmelventures.com/) | Investments in financial tech, data centers, semiconductors, cloud, web, mobile and media. 
 [Edison Partners](http://www.edisonpartners.com/) | Active in financial tech, as well as healthcare and interactive marketing. 
 [Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools.  
@@ -102,6 +103,7 @@ Fund | About
 [iNovia](http://inovia.vc/) | Ad Tech, Consumer, eCommerce, Enterprise, and infrastructure. 
 [Social Leverage](http://socialleveragellc.com/) | 
 [High Line](http://www.highlinevp.com/) | 
+[Thrive](http://www.thrivecap.com/) | Media and internet investments.
 
 
 # Other Active NYC Funds
@@ -161,7 +163,6 @@ This is a rough sorting of funds by technology sector. Founders should only appr
 [Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
 [Carmel Ventures](http://www.carmelventures.com/) | Investments in financial tech, data centers, semiconductors, cloud, web, mobile and media. 
 [TCV](http://www.tcv.com/) | Investments in internet, financial services, infrastructure and software. 
-[Canaan Partners](http://www.canaan.com/) |  
 
 - - - 
 
@@ -181,7 +182,6 @@ This is a rough sorting of funds by technology sector. Founders should only appr
 [Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
 [Scout Ventures](http://www.scoutventures.com/#.) | Invests across several sectors, including big data analytics, health and quantified self. 
 [Rho Ventures](http://www.rhoventures.com/) | 
-[Canaan Partners](http://www.canaan.com/) | 
 
 - - - 
 
