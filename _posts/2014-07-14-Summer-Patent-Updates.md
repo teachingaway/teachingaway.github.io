@@ -93,7 +93,7 @@ Randall Ray Rader, the Chief Judge of the Federal Circuit, [resigned](http://blo
 
 - - - 
 
-<img class="big-image"  src="/images/tesla-car-patent.png">
+<img class="big-image"  src="/images/patent/tesla-car-patent.png">
 
 # Bonus: More Good Patent News
 
