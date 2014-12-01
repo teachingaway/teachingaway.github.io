@@ -105,6 +105,14 @@ Fund | About
 [High Line](http://www.highlinevp.com/) | 
 [Thrive](http://www.thrivecap.com/) | Media and internet investments.
 
+- - - 
+
+<img src="/images/patent-drawings/bessemer-steel-patent-1865.png" class="translucent">
+
+Interesting historical note, Bessemer Ventures was started by Henry Phipps, cofounder of Carnegie Steel. Phipps [named](http://www.bvp.com/about/history)  his VC firm after after Lord Henry Bessemer, inventor of the first industrial-scale steelmaking process.  
+
+- - - 
+
 
 # Other Active NYC Funds
 
