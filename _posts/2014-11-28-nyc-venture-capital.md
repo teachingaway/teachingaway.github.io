@@ -107,9 +107,10 @@ Fund | About
 
 - - - 
 
+Interesting historical note: Henry Phipps started Bessemer Ventures after making a fortune a co-founder of Carnegie Steel. Phipps [named](http://www.bvp.com/about/history) the VC firm after after Lord Henry Bessemer, inventor of the first industrial-scale steelmaking process.  
+
 <img src="/images/patent-drawings/bessemer-steel-patent-1865.png" class="translucent">
 
-Interesting historical note, Bessemer Ventures was started by Henry Phipps, cofounder of Carnegie Steel. Phipps [named](http://www.bvp.com/about/history)  his VC firm after after Lord Henry Bessemer, inventor of the first industrial-scale steelmaking process.  
 
 - - - 
 
