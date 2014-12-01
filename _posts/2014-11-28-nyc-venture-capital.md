@@ -147,9 +147,105 @@ Association | About
 
 # Funds by Sector
 
-This is a rough sorting of funds that invest in particular sectors. 
+This is a rough sorting of funds by technology sector. Founders should only approach funds that actually invest in the type of technology they are building. Some funds have a narrow investment thesis, while others will invest in anything that looks interesting. 
+
+
+
+
+## Financial Tech, BitCoin Funds
+
+[Village Ventures](http://villageventures.com/) | Financial services and media investments with offices in Williamstown, MA. Investments include Dwolla and Simple. 
+[Union Square](http://www.usv.com/) | Excited about bitcoin ventures. 
+[First Round](http://firstround.com/) | Seed stage investments in ecommerce, enterprise, financial tech, ad tech and hardware.  
+[Bessemer](http://www.bvp.com/) | Early, growth, and late-stage investments in several sectors, including financial technology.  
+[DFJ Gotham Ventures](http://gothamvc.com/) | Early-stage investments across several sectors with a focus on NYC startups. 
+[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
+[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments with a focus on NYC startups. 
+[Spark Capital](http://sparkcapital.com/) | Seed investments. 
+[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
+[Contour Ventures](http://www.contourventures.com/) | Early stage investments in financial services, digital media and internet/SaaS sectors. 
+[First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
+[Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
+[Carmel Ventures](http://www.carmelventures.com/) | Investments in financial tech, data centers, semiconductors, cloud, web, mobile and media. 
+[TCV](http://www.tcv.com/) | Investments in internet, financial services, infrastructure and software. 
+[Canaan Partners](http://www.canaan.com/) |  
+
+- - - 
+
+## Healthcare Funds 
+
+[Venrock](http://www.venrock.com/) | Technology, private healthcare and public healthcare investments. 
+[Argentum](http://argentumgroup.com/) | Invests in small and middle-market service businesses in healthcare, pharmaceutical services, industrial and environmental services, transportation and logistics. 
+[Lux Capita](http://www.luxcapital.com/) | Early stage energy, technology, healthcare. 
+[NEA](http://www.nea.com/about) | Technology and Healthcare. 
+[New Leaf](http://nlvpartners.com/) | Healthcare, biopharmaceutical, medical devices, and biological research tools & infrastructure. 
+[NGEN Partners](http://ngenpartners.com/) | Digital sustainability, health & wellness, energy, resources. 
+[Psilos Group](http://www.psilos.com/) | Invests in healthcare services, healthcare information technology and medical technology.
+[Radius Ventures](http://www.radiusventures.com/) | Early/mid stage health and life sciences. 
+[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments. 
+[First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
+[Great Oaks](http://www.greatoaksvc.com/) | Early stage investments in consumer web, Saas and cloud platforms with an emphasis in the fields of Health, Education and e-Commerce.
+[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
+[Scout Ventures](http://www.scoutventures.com/#.) | Invests across several sectors, including big data analytics, health and quantified self. 
+[Rho Ventures](http://www.rhoventures.com/) | 
+[Canaan Partners](http://www.canaan.com/) | 
+
+- - - 
+
+## Medical, Life Science and Biotech Funds
+
+[Polaris Partners](http://www.polarispartners.com/focus/) | Technology, healthcare.  
+[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments.
+[Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
+[Harris + Harris](http://www.hhvc.com/) | Nanotechnology, microsystems, interdisciplinary life science companies. 
+[New Science Ventures](http://newscienceventures.com/) | Early & late stage investments in life science and information technology. 
+[New Leaf](http://nlvpartners.com/) | Healthcare, biopharmaceutical, medical devices, and biological research tools & infrastructure. 
+[Psilos Group](http://www.psilos.com/) | Invests in healthcare services, healthcare information technology and medical technology.
+[Radius Ventures](http://www.radiusventures.com/) | Early/mid stage health and life sciences. 
+[Sevin Rosen Funds](http://www.srfunds.com/site/do/home) | media, software, communications and infrastructure;  life science and healthcare; materials and energy. 
+[Canaan Partners](http://www.canaan.com/) | 
+
+
+- - - 
+
+
+## Consumer Products, e-Commerce and Marketplace Funds
+
+[Silas Capital](http://www.silascapital.com/) | Consumer brands. 
+[Founder Collective](http://foundercollective.com/) | Seed-stage investments
+[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
+[Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools.  
+[Shasta Ventures](http://www.shastaventures.com/) | Invests in e-commerce, consumer, and enterprise. 
+[High Peaks](http://www.hpvp.com/) | Seed stage investments in e-commerce and SaaS in NYC. 
+[Dundee](http://dundeeventurecapital.com/) | Seed and early stage investments in ecommerce and web services. 
+
+- - - 
+
+## Hardware and Embedded Devices
+
+[Founder Collective](http://foundercollective.com/) | Seed-stage investments
+[Matrix Partners](http://www.matrixpartners.com/) | Early and growth stage investments in cloud, SaaS, infrastructure, security, semiconductors.  
+[Harris + Harris](http://www.hhvc.com/) | Nanotechnology, microsystems, interdisciplinary life science companies. 
+[Metamorphic Ventures](http://www.metamorphic.vc/) | Invests in marketplaces, e-commerce, payments, web services, the Internet of Things, and virtual reality. 
+[Canaan Partners](http://www.canaan.com/) | 
+
+
+- - - 
+
+## Education Tech Funds
+
+[Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech. 
+[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
+[Ascend Venture Group](http://www.ascendventures.com/) | Series A investments in applied technology and education.
+[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage 
+[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
+[Great Oaks](http://www.greatoaksvc.com/) | Early stage investments across several categories including education and e-Commerce.
+
+- - - 
 
 ## Web, Mobile, Digital Media, SaaS and Social Funds
+
+This is is a broad collection of categories, but will hopefully provide a useful starting point. 
 
 [SoftBank](http://www.softbank.com/) | Early and growth stage mobile, ecommerce, online advertising, social media, gaming, cloud-based enterprise services. 
 [Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech. 
@@ -175,89 +271,6 @@ This is a rough sorting of funds that invest in particular sectors.
 [Thrive](http://www.thrivecap.com/) | Media and internet investments.
 [Scout Ventures](http://www.scoutventures.com/#.) | Invests in mobile & digital payments, big data analytics, commerce and services, cloud infrastructure, social content, advertising and monetization, education technology, health and quantified self, sharing economy. 
 [Elevation Partners](http://www.elevation.com/) | Media, Entertainment, Technology. 
-
-
-## Financial Tech, BitCoin Funds
-
-[Village Ventures](http://villageventures.com/) | Financial services and media investments with offices in Williamstown, MA. Investments include Dwolla and Simple. 
-[Bessemer](http://www.bvp.com/) | Invests in cleantech, cloud computing, cyber security, financial tech, healthcare, mobile, and online retail. Also looks for opportunities in Brazil, India, and Israel. 
-[First Round](http://firstround.com/) | Seed stage investments in ecommerce, enterprise, financial tech, ad tech and hardware.  
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage  
-[Canaan Partners](http://www.canaan.com/) |  
-[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments. 
-[Spark Capital](http://sparkcapital.com/) | Seed investments. 
-[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
-[Contour Ventures](http://www.contourventures.com/) | Early stage investments in financial services, digital media and internet/SaaS sectors. 
-[First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
-[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
-[Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
-[Carmel Ventures](http://www.carmelventures.com/) | Investments in financial tech, data centers, semiconductors, cloud, web, mobile and media. 
-[TCV](http://www.tcv.com/) | Investments in internet, financial services, infrastructure and software. 
-
-
-## Healthcare Funds 
-
-[Rho Ventures](http://www.rhoventures.com/) | 
-[Canaan Partners](http://www.canaan.com/) | 
-[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments. 
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage 
-[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
-[First Mark](http://firstmarkcap.com/story/) | Ad tech, e-commerce, education, financial tech, gaming, hardware, healthcare, infrastructure, media and mobile. 
-[Great Oaks](http://www.greatoaksvc.com/) | Early stage investments in consumer web, Saas and cloud platforms with an emphasis in the fields of Health, Education and e-Commerce.
-[Red Swan](http://www.redswan.vc/) | Early stage investments in e-commerce, bitcoin, biotechnology, healthcare  and more. 
-[Venrock](http://www.venrock.com/) | Technology, private healthcare and public healthcare investments. 
-[Argentum](http://argentumgroup.com/) | Invests in small and middle-market service businesses in healthcare, pharmaceutical services, industrial and environmental services, transportation and logistics. 
-[Lux Capita](http://www.luxcapital.com/) | Early stage energy, technology, healthcare. 
-[NEA](http://www.nea.com/about) | Technology and Healthcare. 
-[New Leaf](http://nlvpartners.com/) | Healthcare, biopharmaceutical, medical devices, and biological research tools & infrastructure. 
-[NGEN Partners](http://ngenpartners.com/) | Digital sustainability, health & wellness, energy, resources. 
-[Psilos Group](http://www.psilos.com/) | Invests in healthcare services, healthcare information technology and medical technology.
-[Radius Ventures](http://www.radiusventures.com/) | Early/mid stage health and life sciences. 
-[Scout Ventures](http://www.scoutventures.com/#.) | Invests in mobile & digital payments, big data analytics, commerce and services, cloud infrastructure, social content, advertising and monetization, education technology, health and quantified self, sharing economy. 
-
-
-## Medical, Life Science and Biotech Funds
-
-[Canaan Partners](http://www.canaan.com/) | 
-[Polaris Partners](http://www.polarispartners.com/focus/) | Technology, healthcare.  
-[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments.
-[Vedas Group](http://thevedasgroup.com/) | Early stage investments in healthcare, medical devices, financial technology and e-commerce. 
-[Harris + Harris](http://www.hhvc.com/) | Nanotechnology, microsystems, interdisciplinary life science companies. 
-[New Science Ventures](http://newscienceventures.com/) | Early & late stage investments in life science and information technology. 
-[New Leaf](http://nlvpartners.com/) | Healthcare, biopharmaceutical, medical devices, and biological research tools & infrastructure. 
-[Psilos Group](http://www.psilos.com/) | Invests in healthcare services, healthcare information technology and medical technology.
-[Radius Ventures](http://www.radiusventures.com/) | Early/mid stage health and life sciences. 
-[Sevin Rosen Funds](http://www.srfunds.com/site/do/home) | media, software, communications and infrastructure;  life science and healthcare; materials and energy. 
-
-
-## Consumer Products, e-Commerce and Marketplace Funds
-
-[Silas Capital](http://www.silascapital.com/) | Consumer brands. 
-[Founder Collective](http://foundercollective.com/) | Seed-stage investments
-[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
-[Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools.  
-[Shasta Ventures](http://www.shastaventures.com/) | Invests in e-commerce, consumer, and enterprise. 
-[High Peaks](http://www.hpvp.com/) | Seed stage investments in e-commerce and SaaS in NYC. 
-[Dundee](http://dundeeventurecapital.com/) | Seed and early stage investments in ecommerce and web services. 
-
-## Hardware and Embedded Devices
-
-[Canaan Partners](http://www.canaan.com/) | 
-[Founder Collective](http://foundercollective.com/) | Seed-stage investments
-[Matrix Partners](http://www.matrixpartners.com/) | Early and growth stage investments in cloud, SaaS, infrastructure, security, semiconductors.  
-[Harris + Harris](http://www.hhvc.com/) | Nanotechnology, microsystems, interdisciplinary life science companies. 
-[Metamorphic Ventures](http://www.metamorphic.vc/) | Invests in marketplaces, e-commerce, payments, web services, the Internet of Things, and virtual reality. 
-
-## Education Tech Funds
-
-[Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech. 
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
-[Ascend Venture Group](http://www.ascendventures.com/) | Series A investments in applied technology and education.
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage 
-[500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
-[Great Oaks](http://www.greatoaksvc.com/) | Early stage investments in consumer web, Saas and cloud platforms with an emphasis in the fields of Health, Education and e-Commerce.
-
-
 
 
 

@@ -150,8 +150,6 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.
 
 
-
-
 ## Signalling Risk 
 
 [The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  There are very few hard metrics in venture pricing. As a result, one of the primary valuation inputs is what other investors think about a company.
