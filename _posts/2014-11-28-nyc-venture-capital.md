@@ -16,6 +16,8 @@ share: true
 
 <p class="big-text">This collection of NYC venture capital funds is intended to be a useful starting point for entrepreneurs raising early capital.</p>
 
+Finding someone in your network to make a warm introduction will be far more effective than sending a cold email. For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs investment thesis before asking for an introduction or making a pitch. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
+
 <div class="toc">
 <ul>
 <li><a href="#funds-with-the-most-nyc-exits-in-2013">Funds with the Most NYC Exits in 2013</a></li>
@@ -35,7 +37,7 @@ share: true
 </ul>
 </div>
 
-Finding someone in your network to make a warm introduction will be far more effective than sending a cold email. For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs investment thesis before asking for an introduction or making a pitch. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
+
 
 - - - 
 
@@ -136,19 +138,10 @@ Fund | About
 
 - - - 
 
-# VC Associations 
-
-Association | About 
-| - | - | 
-[NY VC Association](http://www.nyvca.org/) | 
-[New York Angels](http://www.newyorkangels.com/entrepreneurs.html) |  
-
-- - - 
 
 # Funds by Sector
 
-This is a rough sorting of funds by technology sector. Founders should only approach funds that actually invest in the type of technology they are building. Some funds have a narrow investment thesis, while others will invest in anything that looks interesting. 
-
+This is a rough sorting of funds by technology sector. Founders should only approach funds that actually invest in the type of technology they are building. Some funds have a narrow investment thesis, while others will invest in any sector. 
 
 
 
@@ -272,5 +265,6 @@ This is is a broad collection of categories, but will hopefully provide a useful
 [Scout Ventures](http://www.scoutventures.com/#.) | Invests in mobile & digital payments, big data analytics, commerce and services, cloud infrastructure, social content, advertising and monetization, education technology, health and quantified self, sharing economy. 
 [Elevation Partners](http://www.elevation.com/) | Media, Entertainment, Technology. 
 
+- - - 
 
-
+Have we missed anything or misclassified a fund? Let us know in the comments and we will update the list. 
