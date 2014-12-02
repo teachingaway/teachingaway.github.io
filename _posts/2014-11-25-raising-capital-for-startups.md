@@ -100,6 +100,8 @@ Our collection of [VC funds actively investing in NYC startups](/nyc-venture-cap
 
 [Don’t Carpet Bomb For Introductions](http://hunterwalk.com/2014/11/25/dont-carpet-bomb-for-introductions/). [*Hunter Walk*](https://twitter.com/hunterwalk), 2014. Try for more of a surgical strike. 
 
+[How to E-Mail a busy person](https://medium.com/@vanschneider/how-to-e-mail-a-busy-person-2e9d9ff0a1af). [*Tobias van Schneider*](https://twitter.com/schneidertobias), 2014. From Spotify's product design lead. 
+
 ## Accredited Investors
 
 [How to Select Your Angel Investors](http://cdixon.org/2009/11/03/how-to-select-your-angel-investors/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Don't reach for the “celebrity” investors. Celebrity investors might help generate buzz, but its better to have investors who will roll up their sleeves and help out when the buzz dies down.

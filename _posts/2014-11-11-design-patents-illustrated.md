@@ -255,6 +255,13 @@ Two design patents for Henry Dreyfuss' rotary phone (1949). The image on the lef
 
 - - - 
 
+### Architecture
+
+<img src="/images/design-patent/apple-glass-cube-design-patent-2014.png" class="translucent"> 
+
+
+- - - 
+
 ### Musical Instruments
 
 [Clarence Fender's](http://en.wikipedia.org/wiki/Leo_Fender) electric guitar (1951). Fender's [Telecaster](http://en.wikipedia.org/wiki/Fender_Telecaster), the first commercial solid-body electric guitar, was the guitar played by legends like Elvis, Waylon Jennings, Eric Clapton (Yardbirds era), Muddy Waters, and more. (If you're a bluegrass nerd, Clarence White also played one). 
