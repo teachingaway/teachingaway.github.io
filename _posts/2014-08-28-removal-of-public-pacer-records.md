@@ -3,7 +3,7 @@ layout: post
 bloglist: "yes"
 title: "PACER Deletes Thousands of Public Court Records"
 summary: "A public letter to Chief Judge Katzmann encouraging the 2nd Circuit to preserve public access."
-tags: [pacer]
+tags: [litigation]
 author: adler
 image:
   feature: /wide/second-circuit-courthouse--cc-flickr.com-KenLund.jpg
