@@ -2,7 +2,7 @@
 layout: post
 title: Law Students Fend Off a Patent Troll
 summary: "Brooklyn Law School's BLIP Clinic students win a great case."
-tags: [patent litigation, clinic, trolls]
+tags: [patent litigation, clinic, patent trolls]
 author: adler
 image:
   feature: /wide/blip-clinic-students.jpg
