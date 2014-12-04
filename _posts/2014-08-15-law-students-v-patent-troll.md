@@ -2,7 +2,7 @@
 layout: post
 title: Law Students Fend Off a Patent Troll
 summary: "Brooklyn Law School's BLIP Clinic students win a great case."
-tags: [patent litigation, clinic, patent trolls]
+tags: [patent litigation, patent trolls]
 author: adler
 image:
   feature: /wide/blip-clinic-students.jpg
@@ -57,16 +57,11 @@ Brooklyn Law School’s [BLIP clinic](http://www.blipclinic.org/) tried it last 
 
 ### The BLIP Clinic
 
-Professor [Jonathan Askin](https://twitter.com/jaskin) operates the Brooklyn Law School BLIP clinic like a law firm. Students sign up clients and perform basic legal work like forming companies, reviewing contracts and filing trademarks. Defending a patent lawsuit is not basic legal work. Its risky, complex and involves hundreds of hours of legal research and writing.
+Professor [Jonathan Askin](https://twitter.com/jaskin) operates the Brooklyn Law School BLIP clinic like a law firm. Students sign up clients and perform basic legal work like forming companies, reviewing contracts and filing trademarks. Defending a patent lawsuit is not basic legal work. It's risky, complex and involves hundreds of hours of legal research and writing.
 
 BLIP was fortunate to have an exceptional student running the defense team. [Maegan Fuller](https://twitter.com/mafuller21), a 3rd year student, organized the defense, wrote the briefs, and negotiated with the troll. BLIP also had [Jorge Torres](https://twitter.com/jorgemtorres), a former litigator at Skadden and Fish & Richardson, providing informal guidance on high-level litigation strategy.
 
 As the clinic advisor, I was the lawyer signing off on final drafts before filing them with the court.
-
-
-
-
-image courtesy of everythingisaremix.info
 
 ### The Patent Troll
 
@@ -82,13 +77,13 @@ This was a straightforward case (as far as patent litigation goes) and we used a
 
 Free legal support drastically changes a patent troll’s calculus. They win by offering to settle cases for less than the cost of the legal defense. It’s much cheaper for defendants to pay a troll $50,000 to settle a lawsuit than to pay lawyers $200,000 to win it. However, when a law school clinic is involved, the cost of legal defense drops to zero, and defendants have no incentive to pay trolls anything at all. With a free legal and a winning defense, who wouldn’t fight all the way to trial?
 
-The clinic was also lucky. The Supreme Court issued 6 helpful patent decisions while our case was pending. In particular, Alice v. CLS Bank invalidated patents on taking mundane tasks and doing them on a computer. The patent in our case was basically for sending notification calls from a computer. Probably invalid under Alice. A second Supreme Court case, Octane v. Icon encouraged judges to impose “fee shifting” penalties in appropriate patent cases. Patent trolls are taking note. Ours seemed to get flustered whenever I mentioned these new cases.
+The clinic was also lucky. The Supreme Court issued 6 helpful patent decisions while our case was pending. In particular, *Alice v. CLS Bank* invalidated patents on taking mundane tasks and doing them on a computer. The patent in our case was basically for sending notification calls from a computer. Probably invalid under Alice. A second Supreme Court case, *Octane v. Icon* encouraged judges to impose “fee shifting” penalties in appropriate patent cases. Patent trolls are taking note. Our adversary seemed to get flustered whenever I mentioned these new cases.
 
 The clinic filed its first motion, a “motion to dismiss for lack of jurisdiction” in late April. The motion basically argued that it was unfair to drag a California startup across the country to a Delaware court for a patent lawsuit, especially when the startup had never sold its products in Delaware. The motion was fully briefed by July, and we were preparing for oral argument.
 
 ### The Students Win… Mostly
 
-It was a persuasive motion. After reading it, and weighing the recent Supreme Court decisions, the troll simply dropped its case against CarShield. After months of dedicated work, the clinic students deserved a gavel-banging judicial decision in their favor. All they got was a quiet withdrawal. But I think we can still chalk it up in the win column. The case is dismissed (for now), the students learned real patent litigation skills.
+The students filed a persuasive motion. After reading it, and weighing the recent Supreme Court decisions, the troll simply dropped its case against CarShield. After months of dedicated work, the clinic students deserved a gavel-banging judicial decision in their favor. All they got was a quiet withdrawal. But I think we can still chalk it up in the win column. The case is dismissed (for now), the students learned real patent litigation skills.
 
 With the lawsuit dismissed, CarShield can get back to doing what it loves, building technology to optimize the driving experience.
 
