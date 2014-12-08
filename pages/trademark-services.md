@@ -15,7 +15,6 @@ Trademark protect brand identity. They reduce the risk of [namespace collision](
 
 <div class="toc">
 <ul>
-<li><a href="#trademarks-brand-protection">Trademarks: Brand Protection</a></li>
 <li><a href="#costs-for-us-trademark-application">Costs for US Trademark Application</a></li>
 <li><a href="#costs-for-international-trademark-applications">Costs for International Trademark Applications</a></li>
 <li><a href="#portfolio-management-and-brand-monitoring">Portfolio Management and Brand Monitoring</a></li>
@@ -28,24 +27,16 @@ Trademark protect brand identity. They reduce the risk of [namespace collision](
 
 - - - 
 
-## Trademarks: Brand Protection
-
-Our attorneys understand modern identity development, trademark registration and enforcement. We understand the fluid nature of branding for the internet, and we guide clients toward unique and defensible brand identities.
-
-
-- - - 
 
 ## Costs for US Trademark Application
 
-We generally bill a $2,000 flat fee for trademark registrations. This includes a preliminary "knockout" search of the US Trademark Office database, preparation and filing of the US Trademark application, and the application fee for the first "class" of goods. 
+Budget about $1,775 total for a US Trademark Application. This includes a preliminary "knockout" search of the US Trademark Office database, preparation and filing of the US Trademark application, and the application fee for the first "class" of goods and services. 
 
-This flat fee also includes replies to quick Office Actions (i.e., problems that can be solved with a 5 minute phone call to the Trademark Office). However, responding to longer Office Actions is billed hourly. 
-
-Most of our trademark applications are approved and registered without any additional fees. 
+This flat fee also includes replies to quick Office Actions (e.g., problems that can be solved with a 5 minute phone call to the Trademark Office). However, responding to longer Office Actions is billed hourly (e.g., complex "likelihood of confusion" arguments). Most of our trademark applications are approved and registered without any additional fees. 
 
 ## Costs for International Trademark Applications
 
-**Application Process.** The "Madrid Protocol" provides a fairly efficient mechanism for international trademark registrations. There are three main steps. First, we file a single international trademark application in the US Trademark Office. This application includes a list of foreign countries where we are looking for trademark protection, as well as a fee for each country. Second, The US Trademark Office forwards the application to the International Bureau (“IB”) of the World Intellectual Property Organization for review.  Third, if approved, the IB forwards the application to the trademark offices of every country listed in the original application. The process takes about 18 months from application to registration. 
+**Application Process.** The "Madrid Protocol" provides a fairly efficient mechanism for international trademark registrations. Rather than file a separate trademark application in every country, the Madrid Protocol allows for a single universal application to be filed, reviewed, and forwarded to various countries.  There are three main steps. (a) First, we file a single "international" trademark application in the US Trademark Office. This application includes a list of foreign countries where we are looking for trademark protection, as well as a fee for each country. (b) Second, the US Trademark Office forwards the application to the International Bureau (“IB”) of the World Intellectual Property Organization for review. (c)   Third, if IB approves the application, it will be forwarded to the trademark offices of the countries listed in the original application. The process takes about 18 months from application to registration. 
 
 **Cost.** The cost varies, but generally comes to around $2,000 in legal fees, plus filings fees (which vary by country). For example, the fee for filing in the EU, China, Japan and Mexico is about $3,000 (making the total fee around $5,000). 
 
@@ -66,16 +57,16 @@ Most of our trademark applications are approved and registered without any addit
 | Canada |  N/A  |    |
 | Brazil |  N/A  |    |
 
-International fees are paid in Swiss Francs, but exchange rate to USD is about 1:1. 
+International fees are paid in Swiss Francs, but exchange rate to USD is [about 1:1](https://www.google.com/search?q=usd+to+swiss+franc). 
 
 
 - - - 
 
 ## Portfolio Management and Brand Monitoring
 
-We help corporate clients manage their trademark portfolios and renewal deadlines. In addition, we offer infringement monitoring services where we track third party use of similar trademarks. We bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
+We manage trademark portfolios and renewal deadlines for corporate clients. In addition, we monitor third-party use of similar trademarks for possible infringement. For these services, we bill a reasonable quarterly fee based on the size and complexity of the trademark portfolio. 
 
-The law requires trademark owners to pro-actively police their marks against infringers. If the trademark owner allows others to register similar trademarks, the strength of the original will be diminished. The strength of a trademark considers, among other things, "the owner's policing efforts to ensure that whatever distinctiveness or exclusivity has been achieved is not lost through neglect, inattention, or consent to infringing use." [*DuPont v. Yoshida*, 393 F. Supp. 502 (ED NY 1975)](http://scholar.google.com/scholar_case?case=4138527615016776734)
+The law requires trademark owners to pro-actively police their marks against infringers. If trademark owners allow others to register similar trademarks, the strength of the original will be diminished. The strength of a trademark considers, among other things, "the owner's policing efforts to ensure that whatever distinctiveness or exclusivity has been achieved is not lost through neglect, inattention, or consent to infringing use." [*DuPont v. Yoshida*, 393 F. Supp. 502 (ED NY 1975)](http://scholar.google.com/scholar_case?case=4138527615016776734)
 
 
 - - - 
@@ -90,19 +81,19 @@ We have extensive experience litigating domain name arbitration matters. These a
 ## Trademark Opposition and Cancellation Proceedings
 
 
-Trademark opposition and cancellation proceedings help prevent other companies from registering similar trademarks. We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These proceedings are like a type of "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed ("opposition proceeding") or whether an existing trademark registration should be cancelled ("cancellation proceeding"). 
+Trademark opposition and cancellation proceedings help prevent other companies from registering similar trademarks. We have extensive experience litigating opposition and cancellation proceedings at the US Patent and Trademark Office. These administrative proceedings are a type of streamlined "mini trial" at the Trademark Office, where the only issue to be decided is whether a pending trademark application should be allowed (an "opposition proceeding") or whether an existing trademark registration should be cancelled (a "cancellation proceeding"). Because of the streamlined nature and limited scope, these proceedings are more cost-effective than full-blow federal trademark litigation. 
 
 - - - 
 
 
 ## Trademark Registration Appeals at the USPTO
 
-We have won several trademark registration appeals, even where the original attorney could not secure a trademark registration. 
+We have won several trademark registration appeals, even where the attorney who filed the original trademark application could not secure a registration. These "*ex parte*" trademark appeals are often necessary where a Trademark Examiner improperly rejects an application as "likely to cause confusion with an existing trademark," or as "merely descriptive."  
 
 - - - 
 
 
 ## Trademark Non-Infringement Opinions
 
-A trademark non-infringement opinion carefully analyzes your trademark to an existing trademark registration or common law trademark. If the analysis determines your mark is not infringing, it offers some piece of mind against future lawsuits, and demonstrates that you are operating in good faith. Even if a court eventually determines that your brand is infringing a trademark, the existence of the legal analysis and opinion can reduce the penalties. “A party who acts in reasonable reliance on the advice of counsel regarding a close question of trademark law generally does not act in bad faith.” [*Sands, Taylor & Wood Co. v. Quaker Oats Co.*, 978 F.2d 947 (7th Cir. 1992)](http://scholar.google.com/scholar_case?case=15288369877381273970).
+A trademark non-infringement opinion carefully analyzes your trademark in comparison to a competitor's existing trademark. If the analysis determines your mark is not infringing, the opinion letter offers some piece of mind against future lawsuits, and demonstrates that you are operating in good faith. Even if a court eventually determines that your brand *is actually* infringing the trademark, the existence of the legal analysis and opinion will likely reduce the penalties. “A party who acts in reasonable reliance on the advice of counsel regarding a close question of trademark law generally does not act in bad faith.” [*Sands, Taylor & Wood Co. v. Quaker Oats Co.*, 978 F.2d 947 (7th Cir. 1992)](http://scholar.google.com/scholar_case?case=15288369877381273970).
 
