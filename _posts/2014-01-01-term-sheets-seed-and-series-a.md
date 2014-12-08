@@ -100,7 +100,7 @@ Brad Feld of the Foundry Group detailed all of common term sheet provisions in t
 
 [Initial Public Offering Shares Purchase](http://feld.com/archives/2005/07/term-sheet-initial-public-offering-shares-purchase.html)
 
-[No Shop Agreement](http://feld.com/archives/2005/08/term-sheet-no-shop-agreement.html) (also [Unilateral or Serial Monogamy](http://www.feld.com/archives/2005/08/unilateral_or_s.html))
+[No Shop Agreement](http://feld.com/archives/2005/08/term-sheet-no-shop-agreement.html) (also [Unilateral or Serial Monogamy](http://www.feld.com/archives/2005/08/unilateral-or-serial-monogamy.html)
 
 [Pay-to-Play](http://feld.com/archives/2005/03/term-sheet-pay-to-play.html)
 

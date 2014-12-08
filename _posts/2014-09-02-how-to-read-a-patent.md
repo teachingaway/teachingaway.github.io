@@ -78,7 +78,7 @@ It's easy to forget that the claims, and only the claims, define patent rights. 
 
 ## Prior Art
 
-A [prior art analysis](mpep/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because it's useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^4] than the patent? If so, it might be prior art. If the reference is newer than the patent, it's not prior art. 
+A [prior art analysis](/mpep/s706.html#d0e58220/) is similar to an infringement analysis. I’ll explain a quick taste of the prior art analysis because it's useful to compare it to the infringement analysis.  First, check the prior art reference’s date. Is it older[^4] than the patent? If so, it might be prior art. If the reference is newer than the patent, it's not prior art. 
 
 [^4]: There are lots of [complicated rules](http://adlervermillion.com/mpep/s2152.html#ch2100_d20033_1afb3_e6) for determining whether a possible prior art reference is *newer* or *older* than the patent. 
 

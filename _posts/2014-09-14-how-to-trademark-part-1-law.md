@@ -208,12 +208,11 @@ _Database Timeouts_ - The US Trademark Database will timeout after  5 idle minut
 
 - - - 
 
- 
-- - - 
+
 
 ## The Trademark Application Process
 
-Now that you have a unique and distinctive mark, you're ready to [apply for a trademark registration in part 2 of this series](/how-to-file-trademark-registration-application-part-2/).
+Now that you have a unique and distinctive mark, you're ready to [apply for a trademark registration in part 2 of this series](/how-to-trademark-part-2-registration-guide/).
 
 
 - - - 

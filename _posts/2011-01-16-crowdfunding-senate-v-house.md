@@ -12,7 +12,7 @@ comments: true
 share: true
 ---
 
-<p class="big-text">Hard as it may be to believe, it seems there is a fighting chance that a crowdfunding exemption may actually become law. The House passed <a href="http://thomas.loc.gov/cgi-bin/query/D?c112:4:./temp/~c112xvFR9F::">a version</a> on November 3, and a Senate <a href="http://thomas.loc.gov/cgi-bin/query/z?c112:S.1791:">version</a> has been introduced by <a href="http://scottbrown.senate.gov/public/">Senator Brown</a>. I had the pleasure of contributing some ideas and language to the Senate bill.</p>
+<p class="big-text">Hard as it may be to believe, it seems there is a fighting chance that a crowdfunding exemption may actually become law. The House passed <a href="http://thomas.loc.gov/cgi-bin/query/D?c112:4:./temp/~c112xvFR9F::">a version</a> on November 3, and a Senate <a href="http://thomas.loc.gov/cgi-bin/query/z?c112:S.1791:">version</a> has been introduced by Senator Brown. I had the pleasure of contributing some ideas and language to the Senate bill.</p>
 
 Although the two bills are similar and can probably be reconciled without too much dissension, the Senate bill has some structural advantages that retain the spirit of crowdfunding and discourage abuse, which I would like to see make it into any final law.
 

@@ -179,7 +179,7 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
   - [SAFE Financing Documents](http://www.ycombinator.com/documents/). Y Combinator 2014. 
   - [Series Seed Financing Documents](http://www.seriesseed.com/) - by Fenwick & West (with input from Zeke Vermillion).
-  - [TechStars Model Seed Funding Documents](http://www.techstars.org/2009/02/07/techstars-model-seed-funding-documents/) (by Cooley). 
+  - [TechStars Model Seed Funding Documents](http://www.techstars.com/docs/) (by Cooley). 
   - [Y Combinator Series AA Equity Financing Documents](http://ycombinator.com/seriesaa.html) (by WSGR). 
   - [Founders Institute Plain Preferred Term Sheet](http://www.founderinstitute.com/posts/69) (by WSGR). 
   - [KISS](http://500.co/kiss) - Open source financing docs from 500 Startups. 

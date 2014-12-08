@@ -105,7 +105,7 @@ On June 12, 2014, Tesla make the announcement under the headline "all our patent
 
 ### [License on Transfer](http://www.lotnet.com/) 
 
-This is complicated, but its worth understanding. I heard Google's Eric Schulman talk about his [License on Transfer](http://www.lotnet.com/index.cfm) ideas while we were [working on the Defensive Patent License](http://www.defensivepatentlicense.com/content/dpl-team/#working-group). They are important ideas, and Newegg, Canon, Dropbox, SAP, and Asana have joined Google to create the initial "license on transfer" group. 
+This is complicated, but its worth understanding. I heard Google's Eric Schulman talk about his [License on Transfer](http://www.lotnet.com/index.cfm) ideas while we were [working on the Defensive Patent License](http://www.defensivepatentlicense.org/content/dpl-team/#working-group). They are important ideas, and Newegg, Canon, Dropbox, SAP, and Asana have joined Google to create the initial "license on transfer" group. 
 
 *Goal*: De-weaponize patents before patent trolls can acquire them. 
 

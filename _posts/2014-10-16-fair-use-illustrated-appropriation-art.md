@@ -53,7 +53,7 @@ While the commercial nature of a new work tends to weigh against fair use, a tra
 
 Spurlock copied plaintiff's "Famous Monsters" magazine covers without modification. They are even closer copies than the Naked Gun poster above. They're still fair use, but this time for a different reason. The copies of Gogos' art are not parodies or appropriation - they are copies for criticism and biography. 
 
-Basil Gogos created significant and highly detailed art. The purpose of his art was to promote movies and sell magazines. The copies were made for "an entirely different purpose" - a biography of Gogos the artist.  Defendant's copies pay homage to Gogos' artistic accomplishments. "The book also provides commentary from many respected individuals in the movie monster industry who attest to the quality of the work and his lasting legacy."  The copies were fair use. [*Warren Publishing v. Spurlock*, 645 F.Supp.2d 402 (EDPA 2009)](scholar.google.com/scholar_case?case=17369019703437902075).
+Basil Gogos created significant and highly detailed art. The purpose of his art was to promote movies and sell magazines. The copies were made for "an entirely different purpose" - a biography of Gogos the artist.  Defendant's copies pay homage to Gogos' artistic accomplishments. "The book also provides commentary from many respected individuals in the movie monster industry who attest to the quality of the work and his lasting legacy."  The copies were fair use. [*Warren Publishing v. Spurlock*, 645 F.Supp.2d 402 (EDPA 2009)](http://scholar.google.com/scholar_case?case=17369019703437902075).
 
 <hr class="tall">
 
