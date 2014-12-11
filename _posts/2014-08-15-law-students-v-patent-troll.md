@@ -17,7 +17,9 @@ My law students did great work last semester, [winning a case against a patent t
 
 - - - 
 
+<!-- 
 ![](/images/law-students-patent-troll-hacker-news.png)
+ -->
 
 <!-- Twitter Timeline
 <a class="twitter-timeline" data-dnt="true" href="https://twitter.com/TeachingAway/timelines/500350882337529856" data-widget-id="500352683132198913">BLIP v. Patent Troll</a>
