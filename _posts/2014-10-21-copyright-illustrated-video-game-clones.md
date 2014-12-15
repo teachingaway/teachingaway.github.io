@@ -34,7 +34,7 @@ Before looking for "substantial similarity", judges try to "filter out" the unpr
 
 
 
-<div class="toc">
+<div class="toc bold-first-level">
 <p>Contents</p>
 <ul>
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
@@ -489,24 +489,30 @@ Video game copyright cases turn on whether the clone copied "ideas" (tolerated) 
 
 **Idea-Expression Dichotomy**.  First we filter out the unprotectable "ideas" from the protectable expression. 
 
-- The *idea* of a maze-chase game can't be copyrighted.  
-- The *expression* of a chomping gobbler antagonized by colorful ghosts can be protected by copyright.
-- The *idea* of a karate style fighting game can't be copyrighted. 
-- The *expression* of E. Honda’s "100 hand slap" can be protected by copyright.
+| Unprotectable | Copyrightable |
+|-|-|
+| The *idea* of a maze-chase game.  |  The *expression* of a chomping gobbler antagonized by colorful ghosts. | 
+| The *idea* of a karate style fighting game. | The *expression* of E. Honda’s "100 hand slap." | 
+| A puzzle where users try to manipulate falling shapes to create gapless rows. | The specific style, design, shape, and movement of the shapes in Tetris | 
 
-**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge", and neither will be copyrightable. Be careful about merger rule decisions in old video game cases, where severely technology limited the ways ideas could be expressed. With modern technology, merger is less likely to apply. 
+**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge" and *neither* will be copyrightable. Be careful about merger rule decisions in old video game cases, where technology severely  limited the ways that ideas could be expressed. With modern technology, merger is less likely to apply. 
 
-**Thin Copyright for Realistic Simulations**. The more a game simulates real life, the less copyright protection it will receive. The more creative and abstract the game elements, the stronger the copyright protection. Video games that simulate sports or pre-existing card games get "thin" copyright protection -- protection against identical clones only.  Hi-Lo Double Up Joker Poker, which was basically just poker, received only thin copyright protection. Likewise, Karate Champ was granted thin protection because it was basically just a karate simulator. 
+**Thin Copyright for Realistic Simulations**. Games that closely simulate real life receive weaker copyright protection. The more creative, abstract and original the game elements, the stronger the copyright. Video games that simulate sports or pre-existing card games get "thin" copyright protection -- protection against identical clones only.  
+
+| Thin Copyright | Full Copyright |
+|-|-|
+Hi-Lo Double Up Joker Poker, a basic poker simulator. | Pac-Man, a creative maze-chase game.
+Karate Champ, a basic karate simulator. | Street Fighter II, a fighting simulator with fantasy elements.
+
 
 **Useful Articles**. Copyright does not “extend to any idea, procedure, process, system, method of operation...” 17 USC § 102(b). Game controls like a trackball are unprotectable as useful articles or "methods of operation." 
 
-**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock characters or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all *scènes à faire*. In some cases, *scènes à faire* are entitled to thin copyright protection, while in others, it gets no protection at all. 
+**Scènes à Faire**. Copyright doesn't protect cliches, stereotypes, stock characters or standard treatments. For example, Pac-Man's dots, Street Fighters vitality bar, and zombie-chainsaw-decapitations are all *scènes à faire*. In some cases, *scènes à faire* elements get thin copyright protection, while in others, they get no protection at all. 
 
-**Framing**. Framing the "idea" of the game is critical. The more specifically the "idea" of the game is defined, the *less* copyright protection it will have. This is because cloners are always free to copy from the details that make up the "idea" of the game. Original game creators can carefully and concisely define of the "idea" of their game and perhaps even use it in their marketing. This type of preemptive marketing can help persuade copyright judges to apply your narrowly defined "idea" of the game to the copyright infringement analysis. 
+**Framing**. Framing the "idea" of the game is critical to the copyright analysis. If the game's "idea" is defined with more details, it will receive *less* copyright protection. This is because cloners are free to copy from the details that make up the "idea" of the game. The more detailed the idea, the more freedom to copy.  Original game creators can carefully and concisely define of the "idea" of their game and perhaps even use the defined "idea" in their marketing. This can help persuade copyright judges to apply the narrowly defined "idea" of the game in a later copyright infringement analysis, and grant the game broader protection. 
 
 
-
-The copyright infringement analysis is more an art than a science. The line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
+Copyright infringement analysis is more an art than a science, and the line between creative expression and unprotectable ideas is famously elusive. As Judge Learned Hand (real name) put it, "Nobody has ever been able to fix that boundary, and nobody ever can." [*Nichols v. Universal*](http://scholar.google.com/scholar_case?case=14991934121439658064).
 
 - - - 
 
@@ -519,17 +525,15 @@ The copyright infringement analysis is more an art than a science. The line betw
 
 ## Copyright Registration. 
 
-First, register the US copyright to your games. It's not particularly expensive. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). Register several copyrights covering several different aspects of your game, including the code itself and any particularly interesting characters or art. Think about the creative expression in your game, and try to hone in on these creative aspects when filing for a copyright. 
+Register the US copyright to every new game. It's well worth the $35 filing fee. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). In fact, register *several* copyrights covering different aspects of your game, including the code itself and any particularly interesting characters, art or animations. Think about the creative expression in your game, and try register copyrights that focus on those creative aspects. 
 
-You can even register copyrights before you publish your game, to avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
+You can even register copyrights before you publish your game. This may help avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
 
 ## Trademark Registration. 
 
 Second, register the US Trademark in the name of your game. This is more expensive than copyright registration, but it provides broader type of right. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
 
-The trademark registration should describe your game play in some detail in its "description of goods and services." If a clone uses a similar-sounding name along side an exact match of the goods and services, you will likely have a strong case for trademark infringement. 
-
-We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
+The trademark registration should describe your game play in some detail in its "description of goods and services." If a clone uses a similar name on a similar game, you will likely have a strong trademark infringement case. We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
 
 
 ## Patents
@@ -538,17 +542,17 @@ Patents are the most expensive option, but provide the most valuable protection.
 
 For small mobile games, patents may be too expensive. However, studios building truly innovative games can benefit from an investment in a small patent portfolio. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
 
-<img src="/images/patent-drawings/pong-patent-1972.png" class="translucent">
+<figure class="half">
 
-- - - 
+<a href="/images/patent-drawings/pong-patent-1972.png"><img src="/images/patent-drawings/pong-patent-1972.png" class="translucent"></a>
 
-<img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent">
+<a href="/images/patent-drawings/pong-patent-1972.png"><img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent"></a>
 
-- - - 
+</figure>
 
 ## Enforcement and Public Relations
 
-While clones can be infuriating, it's important to remember that aggressive legal tactics can backfire. Consider a public relations campaign before, or in tandem with, any legal action. A carefully worded copyright infringement letter from a lawyer can be powerful, especially when it makes you look like the reasonable party. The letter should accurately describe the law and similarities between the games, and politely (but firmly) demand that the clone be removed from the app store. 
+While clones are infuriating, an aggressive legal reply can backfire. Consider a public relations campaign before, or in tandem with, any legal action. A carefully worded copyright infringement letter from a lawyer is particularly powerful when it makes you look like the reasonable party trying to stop an unreasonable theft. The letter should accurately describe the law, the similarities between the two games, and politely (but firmly) demand that the clone be removed from the app store. 
 
 The first legal action for apps may involve sending a DMCA takedown notice to the appropriate app store. For iOS, You can submit a claim through Apple's [iTunes Content Dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/) form. For Android, submit through Google's [Legal Removal Requests](https://support.google.com/legal) page.
 
