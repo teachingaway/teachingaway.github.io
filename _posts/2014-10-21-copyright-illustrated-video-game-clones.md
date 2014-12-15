@@ -34,7 +34,8 @@ Before looking for "substantial similarity", judges try to "filter out" the unpr
 
 
 
-<div class="toc bold-first-level">
+<div class="toc">
+<p>Contents</p>
 <ul>
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
 <ul>
@@ -139,7 +140,7 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
 
-*"The probability of successfully navigating an asteroid field is approximately 3,720 to 1."* -- C3PO
+<p class="big-text"><em>"The probability of successfully navigating an asteroid field is approximately 3,720 to 1."</em> -- C3PO</p>
 
 Atari made the original Asteroids game, and Amusement World made a knockoff called Meteors. Atari was not amused and sued for copyright infringement. 
 
