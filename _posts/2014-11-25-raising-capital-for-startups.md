@@ -16,14 +16,13 @@ share: true
 
 
 
-This technology law [Link List](/tags/#link+list) collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck. [^1] 
+<p class="big-text">This technology law [Link List](/tags/#link+list) collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck.</p> 
 
-[^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
 <div class="toc">
 <ul>
 <li><a href="#raising-money">Raising Money</a></li>
-<li><a href="#bootstrap-building-a-company-without-raising-money">Bootstrap - Building a Company without Raising Money</a></li>
+<li><a href="#bootstrap-build-a-company-without-raising-money">Bootstrap: Build a Company without Raising Money</a></li>
 <li><a href="#incubators-and-accelerators">Incubators and Accelerators</a></li>
 <li><a href="#angel-investors-seed-financing">Angel Investors / Seed Financing</a></li>
 <li><a href="#finding-investors">Finding Investors</a><ul>
@@ -51,13 +50,13 @@ This technology law [Link List](/tags/#link+list) collects useful guidance on ra
 
 [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make). [*Sam Altman*](https://twitter.com/sama), 2014. Talk to investors  *in parallel, not in series*, to setup a competitive environment. Explain the company’s mission, product, current traction, future vision, the market, the competition, your long-term competitive advantage, how you make money, and the team. 
 
-[Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Practical advice for early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to "downshift" into consulting if necessary. 
+[Fundraising Survival Guide](http://www.paulgraham.com/fundraising.html). [*Paul Graham*](https://twitter.com/paulg),  2008. Practical, day-to-day advice for founders of early stage startups. For example, fit meetings with investors into the spare moments in your development schedule, rather than doing development in the spare moments between meetings with investors. And be ready to "downshift" into consulting if necessary. 
 
 [Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. VCs are looking for big hits:  "the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google." 
 
 - - - 
 
-# Bootstrap - Building a Company without Raising Money
+# Bootstrap: Build a Company without Raising Money
 
 How far you can bootstap the company before raising outside money?  The more revenue and traction you show investors, the sweeter your first term sheet. Some  startups may not need to raise outside money at all. 
 
@@ -71,7 +70,7 @@ How far you can bootstap the company before raising outside money?  The more rev
 
 Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](http://www.techstars.com/program/locations/nyc/) are generally great for startups. However, not all incubators are created equal. 
 
-[The Most Important Question to Ask Before Taking Seed Money (from a VC incubator)](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a strong negative signal to other VCs. So it's important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
+[The Most Important Question to Ask Before Taking Seed Money (from a VC incubator)](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a negative signal to other VCs. So it's important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
 
 [We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
@@ -153,6 +152,8 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 
 ## Signalling Risk 
+
+When an early investor decides not to invest in a later round, outside investors may take this as a "signal" that there is something wrong with the startup.  
 
 [The Importance of Investor Signaling in Venture Pricing](http://cdixon.org/2010/03/12/the-importance-of-investor-signaling-in-venture-pricing/). [*Chris Dixon*](https://twitter.com/cdixon), 2010.  There are very few hard metrics in venture pricing. As a result, one of the primary valuation inputs is what other investors think about a company.
 

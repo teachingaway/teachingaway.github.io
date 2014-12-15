@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses cofounder agreements, initial equity splits, issuing shares, and making an 83b tax election. 
+Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses cofounder agreements, initial equity splits, issuing shares, and making an 83(b) tax election. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 

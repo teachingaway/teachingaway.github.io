@@ -2,7 +2,7 @@
 layout: post
 includeinbloglist: "yes"
 longform: "no"
-title: "Convertible Debt vs. Equity Financing - Link List"
+title: "Convertible Debt vs. Equity - Link List"
 summary: "Curated links discussing the relative advantages of equity vs. convertible debt financing for early stage companies."
 tags: [startup law, link list, venture capital]
 author: adler
@@ -15,13 +15,32 @@ share: true
 ---
 
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses the relative benefits of using convertible notes versus equity financing when raising money for early stage technology startups. 
+<p class="big-text">This Link List discusses the relative benefits of using convertible notes versus equity financing when raising money for early stage technology startups.</p>
 
-[^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
+Our technology law <a href="/tags/#link+list">Link List</a> series collects useful startup guidance from around the internet. As always, this is advice worth reading, but it may not be advice that’s right for your startup.
+
+
+<div class="toc">
+<ul>
+<li><a href="#discounts-and-valuation-caps">Discounts and Valuation Caps</a><ul>
+<li><a href="#a-example-with-widgets-instead-of-startups">A Example with Widgets Instead of Startups</a></li>
+</ul>
+</li>
+<li><a href="#some-y-combinator-controversy">Some Y Combinator Controversy</a></li>
+<li><a href="#convertible-debt-basics">Convertible Debt Basics</a></li>
+<li><a href="#arguments-against-convertible-debt">Arguments Against Convertible Debt</a></li>
+<li><a href="#convertible-debt-vs-priced-equity-rounds">Convertible Debt vs. Priced Equity Rounds</a></li>
+<li><a href="#convertible-equity">Convertible Equity</a></li>
+</ul>
+</div>
+
+- - - 
+
+# Discounts and Valuation Caps 
 
 Convertible debt is a loan to a company that will (probably) turn into equity at some point in the future. For example, you loan StartupX $10,000, and agree that this will be used to buy $10,000 worth of StartupX stock, after we figure out how much the total stock of StartupX is worth.  Since early stage investment is risky, investors often try to sweeten their deal by asking for a "discount" and a "valuation cap." A *discount* refers to a discount on the price the investor will be paying when she eventually buys stock in the company. A *valuation cap* is (effectively) an upper limit on the price she will pay per share.  
 
-# A Example with Widgets Instead of Startups
+## A Example with Widgets Instead of Startups
 
 Instead of a startup, imagine a ship with 1,000 widgets in its cargo hold (the USS-WidgetShip). These widgets are a brand new product, so we don't know exactly how much each widget should cost. Also, the shipping route is dangerous, so some or all of the widgets might get lost at sea. 
 
@@ -86,6 +105,8 @@ maximize the company's valuation at the next financing (minimizing founder dilut
 - - - 
 
 # Convertible Equity 
+
+"Convertible Equity" is an old idea that's coming back into style. The idea is to achieve the simplicity of a convertible note but without the drawbacks of debt. 
 
 [Safe, a Replacement for Convertible Notes](http://blog.ycombinator.com/announcing-the-safe-a-replacement-for-convertible-notes). [Paul Graham](http://twitter.com/paulg), 2014. "Safe" stands for "Simple Agreement for Future Equity." An investor makes a cash investment in a company, but gets company stock at a later date, in connection with a specific event. 
 
