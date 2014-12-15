@@ -23,7 +23,7 @@ Finding someone in your network to make a warm introduction will be far more eff
 <li><a href="#funds-with-the-most-nyc-exits-in-2013">Funds with the Most NYC Exits in 2013</a></li>
 <li><a href="#interesting-funds-investing-in-nyc-startups">Interesting Funds Investing in NYC Startups</a></li>
 <li><a href="#other-active-nyc-funds">Other Active NYC Funds</a></li>
-<li><a href="#vc-associations">VC Associations</a></li>
+<hr>
 <li><a href="#funds-by-sector">Funds by Sector</a><ul>
 <li><a href="#web-mobile-digital-media-saas-and-social-funds">Web, Mobile, Digital Media, SaaS and Social Funds</a></li>
 <li><a href="#financial-tech-bitcoin-funds">Financial Tech, BitCoin Funds</a></li>
