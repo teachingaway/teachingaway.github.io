@@ -16,7 +16,7 @@ share: true
 
 <p class="big-text">This collection of NYC venture capital funds is intended to be a useful starting point for entrepreneurs raising early capital.</p>
 
-Finding someone in your network to make a warm introduction will be far more effective than sending a cold email. For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs investment thesis before asking for an introduction or making a pitch. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
+Finding someone in your network to make a warm introduction will be far more effective than cold emailing. For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs "investment thesis" before asking for an intro. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
 
 <div class="toc">
 <ul>
@@ -50,12 +50,12 @@ Fund | About
 [SoftBank](http://www.softbank.com/) | Early and growth stage mobile, ecommerce, online advertising, social media, gaming, cloud-based enterprise services. 
 [Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech. 
 [Greycroft](http://greycroft.com/about/) | Early stage digital media, internet, mobile. 
-[Bessemer](http://www.bvp.com/) | Invests in cleantech, cloud computing, cyber security, financial tech, healthcare, mobile, and online retail. Also looks for opportunities in Brazil, India, and Israel. 
+[Bessemer](http://www.bvp.com/) | Invests in cleantech, cloud computing, cyber security, financial tech, healthcare, mobile, and online retail. 
 [First Round](http://firstround.com/) | Seed stage investments in ecommerce, enterprise, financial tech, ad tech and hardware.  
-[Union Square](http://www.usv.com/) | Invests in "Large networks of engaged users, differentiated through user experience, and defensible through network effects." Be sure to read [Fred Wilson’s blog](http://avc.com/) before approaching them. 
+[Union Square](http://www.usv.com/) | Invests in "Large networks of engaged users, differentiated through user experience, and defensible through network effects." Read [Fred Wilson’s blog](http://avc.com/) for more info. 
 [Founders Fund](http://www.foundersfund.com/) | Peter Thiel’s fund that "invests in smart people solving difficult problems, often difficult scientific or engineering problems." 
 [Founder Collective](http://foundercollective.com/) | Seed-stage investments in ad tech, B2B, consumer, e-commerce, embedded devices, health, mobile and marketplaces.
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
+[DFJ Gotham Ventures](http://gothamvc.com/) | Early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
 [Village Ventures](http://villageventures.com/) | Financial services and media investments with offices in Williamstown, MA. Investments include Dwolla and Simple. 
 [RRE](http://www.rre.com/about-rre) | Early stage software, internet and technology services. 
 [Rho Ventures](http://www.rhoventures.com/) | Information Technology, Communications, New Media, Healthcare and New Energy.
@@ -65,7 +65,7 @@ Fund | About
 [General Catalyst](http://www.generalcatalyst.com/) | Early stage and growth investments. 
 [Sequoia Capital](https://www.sequoiacap.com/) |  Large fund located in Silicon Valley. 
 [Polaris Partners](http://www.polarispartners.com/focus/) | Technology, healthcare. Offices in Boston, SF, and Dublin.  
-[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments in fintech, health IT, life sciences and digital manufacturing sectors. 
+[Partnership Fund for NYC](http://pfnyc.org/our-investments/) | Seed investments in fin-tech, health IT, life sciences and digital manufacturing sectors. 
 [Spark Capital](http://sparkcapital.com/) | Seed investments in commerce, financial services, hardware and infrastructure, media and advertising, social, mobile, software & services. Portfolio includes Oculus, Tumblr, Twitter, Warby Parker. 
 
 
@@ -107,7 +107,7 @@ Fund | About
 
 - - - 
 
-Interesting historical note: Henry Phipps started Bessemer Ventures after making a fortune a co-founder of Carnegie Steel. Phipps [named](http://www.bvp.com/about/history) the VC firm after after Lord Henry Bessemer, inventor of the first industrial-scale steelmaking process.  
+**Interesting historical note:** Henry Phipps started Bessemer Ventures after making a fortune a co-founder of Carnegie Steel. Phipps [named](http://www.bvp.com/about/history) the VC firm after after Lord Henry Bessemer, inventor of the first industrial-scale steelmaking process.  
 
 <img src="/images/patent-drawings/bessemer-steel-patent-1865.png" class="translucent">
 
