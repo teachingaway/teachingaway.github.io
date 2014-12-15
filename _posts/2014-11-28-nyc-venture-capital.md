@@ -14,9 +14,9 @@ comments: true
 share: true
 ---
 
-<p class="big-text">This collection of NYC venture capital funds is intended to be a useful starting point for entrepreneurs raising early capital.</p>
+<p class="big-text">This collection of NYC venture capital funds is intended to be a useful starting point for entrepreneurs raising early capital. Finding someone in your network to make a warm introduction will be far more effective than cold emailing. </p>
 
-Finding someone in your network to make a warm introduction will be far more effective than cold emailing. For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs "investment thesis" before asking for an intro. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
+For tips on requesting introductions, read these two posts by [Hunter Walk](http://hunterwalk.com/2014/08/11/why-most-vcs-wont-intro-you-to-other-vcs-unless-you-follow-these-steps/) and [Roy Bahat](http://also.roybahat.com/post/92544681186/introductions-and-the-forward-intro-email). Do your homework, and make sure your startup fits into the VCs "investment thesis" before asking for an intro. More guidance at our [raising capital for startups](/raising-capital-for-startups/) post. 
 
 <div class="toc">
 <ul>
@@ -54,7 +54,7 @@ Fund | About
 [Union Square](http://www.usv.com/) | Invests in "Large networks of engaged users, differentiated through user experience, and defensible through network effects." Read [Fred Wilson’s blog](http://avc.com/) for more info. 
 [Founders Fund](http://www.foundersfund.com/) | Peter Thiel’s fund that "invests in smart people solving difficult problems, often difficult scientific or engineering problems." 
 [Founder Collective](http://foundercollective.com/) | Seed-stage investments in ad tech, B2B, consumer, e-commerce, embedded devices, health, mobile and marketplaces.
-[DFJ Gotham Ventures](http://gothamvc.com/) | Early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
+[DFJ Gotham Ventures](http://gothamvc.com/) | Early-stage investments with a focus on NYC startups working in social media, e-commerce, advertising, financial technology, enterprise, security, health, and education.
 [Village Ventures](http://villageventures.com/) | Financial services and media investments with offices in Williamstown, MA. Investments include Dwolla and Simple. 
 [RRE](http://www.rre.com/about-rre) | Early stage software, internet and technology services. 
 [Rho Ventures](http://www.rhoventures.com/) | Information Technology, Communications, New Media, Healthcare and New Energy.
@@ -97,12 +97,8 @@ Fund | About
 [Carmel Ventures](http://www.carmelventures.com/) | Investments in financial tech, data centers, semiconductors, cloud, web, mobile and media. 
 [Edison Partners](http://www.edisonpartners.com/) | Active in financial tech, as well as healthcare and interactive marketing. 
 [Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools.  
-[Shasta Ventures](http://www.shastaventures.com/) | Invests in e-commerce, consumer, and enterprise. 
 [Matrix Partners](http://www.matrixpartners.com/) | Early and growth stage investments in cloud, SaaS, Infrastructure, security, semiconductors, advertising, commerce, media, mobile and social. 
-[iNovia](http://inovia.vc/) | Ad Tech, Consumer, eCommerce, Enterprise, and infrastructure. 
-[Social Leverage](http://socialleveragellc.com/) | 
-[High Line](http://www.highlinevp.com/) | 
-[Thrive](http://www.thrivecap.com/) | Media and internet investments.
+
 
 - - - 
 
@@ -178,7 +174,7 @@ Fund | About
 [Psilos Group](http://www.psilos.com/) | Invests in healthcare services, healthcare information technology and medical technology.
 [Radius Ventures](http://www.radiusventures.com/) | Early/mid stage health and life sciences. 
 [Sevin Rosen Funds](http://www.srfunds.com/site/do/home) | Life science and healthcare; materials and energy. 
-[Canaan Partners](http://www.canaan.com/) | 
+[Canaan Partners](http://www.canaan.com/) | Healthcare, digital health and med-tech. 
 
 
 - - - 
@@ -189,14 +185,15 @@ Fund | About
 Fund | About 
 | - | - | 
 [Silas Capital](http://www.silascapital.com/) | Consumer brands. 
+[Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools. 
 [Founder Collective](http://foundercollective.com/) | Seed-stage investments
 [500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
-[Forerunner Ventures](http://forerunnerventures.com/) | Investments in e-commerce, products, marketplaces, and retail tools.  
 [Shasta Ventures](http://www.shastaventures.com/) | Invests in e-commerce, consumer, and enterprise. 
 [High Peaks](http://www.hpvp.com/) | Seed stage investments in e-commerce and SaaS in NYC. 
 [Dundee](http://dundeeventurecapital.com/) | Seed and early stage investments in ecommerce and web services. 
 [Metamorphic Ventures](http://www.metamorphic.vc/) | Invests in marketplaces, e-commerce, payments, web services, the Internet of Things, and virtual reality. 
 [High Peaks](http://www.hpvp.com/) | Seed stage investments in e-commerce and SaaS in NYC. 
+[iNovia](http://inovia.vc/) | Ad Tech, Consumer, eCommerce, Enterprise, and infrastructure. 
 
 - - - 
 
@@ -217,10 +214,9 @@ Fund | About
 
 Fund | About 
 | - | - | 
-[Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech. 
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage information technology companies. social media, e-commerce, advertising, financial technology, enterprise software, security, health, education. 
+[Lerer](http://lererhippeau.com/) | Seed stage investments in consumer, ad tech, marketplace, SaaS and education tech.  
 [Ascend Venture Group](http://www.ascendventures.com/) | Series A investments in applied technology and education.
-[DFJ Gotham Ventures](http://gothamvc.com/) | early-stage 
+[DFJ Gotham Ventures](http://gothamvc.com/) | Early-stage investments with a focus on NYC startups.  
 [500 Startups](http://500.co/) | Early stage investments from [Dave McClure](https://twitter.com/davemcclure). 
 [Great Oaks](http://www.greatoaksvc.com/) | Early stage investments across several categories including education and e-Commerce.
 
@@ -270,6 +266,9 @@ Fund | About
 [Pennell Venture Partners](http://pennell.com/) | Boulder.
 [Tribeca Venture Partners](http://tribecavp.com/) | Early stage investments focused on NYC startups. 
 [Rubicon VC](http://rubicon.vc/) | Seed and early stage investments.
+[Thrive](http://www.thrivecap.com/) | Media and internet investments.
+[Social Leverage](http://socialleveragellc.com/) | $100k-$500k typical investment size. 
+[High Line](http://www.highlinevp.com/) | 
 
 
 - - - 

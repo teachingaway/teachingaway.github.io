@@ -495,7 +495,7 @@ Video game copyright cases turn on whether the clone copied "ideas" (tolerated) 
 | The *idea* of a karate style fighting game. | The *expression* of E. Honda’s "100 hand slap." | 
 | A puzzle where users try to manipulate falling shapes to create gapless rows. | The specific style, design, shape, and movement of the shapes in Tetris | 
 
-**Merger Rule**. If there is only one way to express a particular idea, then idea and expression "merge" and *neither* will be copyrightable. Be careful about merger rule decisions in old video game cases, where technology severely  limited the ways that ideas could be expressed. With modern technology, merger is less likely to apply. 
+**Merger Rule**. If a particular idea can only be expressed in one way, then idea and expression "merge" and *neither* is copyrightable. Be careful about merger rule decisions in old video game cases, where early technology severely  limited the manners in which an idea could be expressed. With modern video game technology, merger is less likely to apply. 
 
 **Thin Copyright for Realistic Simulations**. Games that closely simulate real life receive weaker copyright protection. The more creative, abstract and original the game elements, the stronger the copyright. Video games that simulate sports or pre-existing card games get "thin" copyright protection -- protection against identical clones only.  
 
