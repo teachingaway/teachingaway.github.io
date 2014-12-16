@@ -21,6 +21,7 @@ To answer these common questions, we first look for contracts. If there was an i
 The post provides some quick takeaways for founders and employees, and then digs into the relevant (1) <a href="#patent-law">Patent Law</a>, (2) <a href="#copyright-law">Copyright Law</a>, and (3)  <a href="#non-compete-agreements-law">Non-Compete Law</a>. I've also put up a <a href="/invention-assignment-agreement/">sample Invention Assignment Agreement</a>.  
 
 <div class="toc">
+<p>Contents</p>
 <ul>
 <li><a href="#takeaway-for-founders">Takeaway for Founders</a></li>
 <li><a href="#takeaway-for-employees-building-side-projects">Takeaway for Employees Building Side Projects:</a></li>
@@ -110,7 +111,7 @@ A company owns the copyright to "works made for hire." This includes (a) any wor
 
 ## Non-Compete Agreements
 
-Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0), even in technology startups. In California, non-compete agreements are generally unenforceable. In New York, the rules are more complicated.  
+Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0), even in technology startups. In California, non-compete agreements are generally <em>un</em>enforceable. In New York, the rules are more complicated.  
 
 New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? Its not always clear, but in practice, something unfair or improper has to happen. For example, an employee that takes confidential information from their former company and uses it to compete against the company will probably be violating a company's legitimate business interest. The leading NY case is [_BDO Seidman v. Hirshberg_, 712 NE 2d 1220 (N.Y. 1999)](http://scholar.google.com/scholar_case?case=9875117510352576316). 
 

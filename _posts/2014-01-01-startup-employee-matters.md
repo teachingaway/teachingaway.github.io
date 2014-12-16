@@ -20,6 +20,7 @@ share: true
 
 
 <div class="toc">
+<p>Contents</p>
 <ul>
 <li><a href="#compensation">Compensation</a><ul>
 <li><a href="#stock-options">Stock Options</a></li>
@@ -150,7 +151,7 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 
 ## Invention Assignment Agreements
 
-
+[Who Owns Employee Innovations](/employee-inventions/)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
 
 - - - 
 
