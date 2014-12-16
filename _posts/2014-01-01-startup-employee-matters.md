@@ -24,7 +24,7 @@ share: true
 
 
 
-# Employment Contracts
+
 
 
 # Compensation 
@@ -33,7 +33,7 @@ Know the difference between "stock options" and "restricted stock." A stock opti
 
 In order to negotiate your compensation, you need to know the the startup's "Fully Diluted Capital." 
 
-[The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "The only thing that matters in terms of your equity when you join a startup is what percent of the company they are giving you.  If management tells you the number of shares and not the total shares outstanding so you can’t compute the percent you own – **don’t join the company!**"
+[The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "The only thing that matters in terms of your equity when you join a startup is what percent of the company they are giving you.  If management tells you the number of shares and not the total shares outstanding so you can’t compute the percent you own – *don’t join the company!*"
 
 [I have a job offer at a startup, am I getting a good deal?](http://venturehacks.com/articles/job-offer). [*Babak Nivi*](https://twitter.com/nivi), 2008. 
 
@@ -105,6 +105,7 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) [*Yokum Taku*](https://twitter.com/Yokum), 2007. When you receive shares subject to vesting, an 83(b) election lets you pay tax on the shares immediately, when the tax burden is smallest. 
 
 
+- - - 
 
 # Hiring Engineers
 
@@ -115,6 +116,18 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 [How to Hire](http://blog.samaltman.com/how-to-hire).  [*Sam Altman*](https://twitter.com/sama), 2013. 
 
 [Why You Can’t Hire](http://startupboy.com/2011/12/13/why-you-cant-hire/). [*Naval Ravikant*](https://twitter.com/naval), 2011. 
+
+- - - 
+
+# Employment Contracts
+
+
+## Non-Compete Agreements
+
+
+## Invention Assignment Agreements
+
+
 
 - - - 
 
