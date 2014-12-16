@@ -16,9 +16,10 @@ share: true
 
 DRAFT POST
 
-Our technology law <a href="/tags/#link+list">Link List</a> series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors. 
 
-[^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
+<p class="big-text">This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors.</p> 
+
+Our technology law <a href="/tags/#link+list">Link List</a> series collects useful startup guidance from around the internet. As always, this is advice worth reading, but it may not be advice that’s right for *your* startup.
 
 
 
