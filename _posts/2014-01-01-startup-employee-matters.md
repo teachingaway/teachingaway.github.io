@@ -14,10 +14,9 @@ comments: true
 share: true
 ---
 
-DRAFT POST
+**DRAFT POST**
 
 <p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects guidance on employment issues at technology startups.</p> 
-
 
 
 
@@ -50,6 +49,8 @@ Stock options are a contract that gives you the right to buy shares in the futur
 [An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. 
 
 [Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
+
+[The 14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/). Andy Rachleff, Wealthfront, 2014. A nice overview of issues to consider before negotiating an equity incentive package. 
 
 ## Restricted Stock
 
@@ -138,21 +139,5 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 [NY State WARN Act](http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm). 
 
  
-
-
 - - - 
 
-# Exits and Acquisition
-
-[Notes on the acquisition process](http://cdixon.org/2012/09/10/notes-on-the-acquisition-process/). [*Chris Dixon*](https://twitter.com/cdixon), 2012. 
-
-[Three types of acquisitions](http://cdixon.org/2011/12/10/three-types-of-acquisitions/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. 
-
-[The Founder’s Guide To Selling Your Company](http://justinkan.com/the-founders-guide-to-selling-your-company). Justin Kan, 2014. 
-
-
-## Acqua-Hire
-
-[The Economic Logic Behind Tech and Talent Acquisitions](http://cdixon.org/2012/10/19/the-economic-logic-behind-tech-and-talent-acquisitions/). [*Chris Dixon*](https://twitter.com/cdixon), 2012. 
-
-[A Classic Startup Horror Story: the M&A Bait and Switch](http://venturebeat.com/2012/02/27/a-classic-startup-horror-story-the-ma-bait-and-switch/view-all/). Venture Beat, 2012. Paul Graham [comments](https://news.ycombinator.com/item?id=3639285), "This sort of scenario is unfortunately very common. The antidote is never to allow acquisition talks to be the main thing you're focusing on. We advise startups who get approached by acquirers to treat it as a background process, and not to take things seriously until the very last stage. If acquisition discussions are just a side show, you can easily terminate them if anything goes wrong. Which, interestingly, probably decreases the chances of things going wrong. M&A guys can smell it when you really want a deal, and that makes them want it less." 
