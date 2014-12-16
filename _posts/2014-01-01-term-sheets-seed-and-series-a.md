@@ -16,7 +16,7 @@ share: true
 
 DRAFT POST
 
-Our technology law [Link List](/tags/#link+list) series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors. 
+Our technology law <a href="/tags/#link+list">Link List</a> series collects useful startup guidance from around the internet.[^1]  This post discusses term sheets for raising a first round of financing. This might be called an "angel round", a "seed round" or a "friends and family round." The key points are to keep the deal simple, and to (ideally) only take money from "accredited" investors. 
 
 [^1]: This is advice worth reading, but it may not be advice that’s right for your startup.
 
@@ -58,7 +58,11 @@ Our technology law [Link List](/tags/#link+list) series collects useful startup 
 
 [Don’t shop your term sheet](http://cdixon.org/2009/09/02/dont-shop-your-term-sheet/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. Shopping a term sheet around might get you a better deal once, but creates repetitional risk. Better to discuss the deal with several investors verbally, *before* you get a term sheet. 
 
+## Preferred Stock
 
+An example from  VC [*Fred Wilson*](https://twitter.com/fredwilson): 
+
+> Let's say you start a company, bootstrap it for a year and then raise $1mm for 10% of the company [a $10mm valuation]. Three months later, you're offered $8mm for the company [note: lower than the $10mm valuation when the VC bought in]. You decide to take the offer. If the VC bought common stock, she gets $800k back on an investment of $1mm. The VC loses $200k while you make $7.2mm. But if the VC buys *preferred stock*, she gets the option of taking their money back or the 10%. In that instance, they will take their money back and get $1mm and you will get $7mm.
 
 - - - 
 

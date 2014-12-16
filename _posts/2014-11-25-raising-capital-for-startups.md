@@ -16,7 +16,7 @@ share: true
 
 
 
-<p class="big-text">This technology law [Link List](/tags/#link+list) collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck.</p> 
+<p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck.</p> 
 
 
 <div class="toc">
@@ -41,6 +41,7 @@ share: true
 </li>
 <li><a href="#standardized-seed-financing-docs">Standardized Seed Financing Docs</a></li>
 <li><a href="#series-a-round">Series A Round</a></li>
+<li><a href="#down-rounds">Down Rounds</a></li>
 </ul>
 </div>
 
@@ -202,3 +203,9 @@ When an early investor decides not to invest in a later round, outside investors
 [Inside versus outside financings: the nightclub effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors.
 
 - - - 
+
+# Down Rounds
+
+[The Damaging Psychology of Down Rounds](http://www.bothsidesofthetable.com/2013/05/05/the-damaging-psychology-of-down-rounds/). [*Mark Suster*](https://twitter.com/msuster), 2013. 
+
+* [What Deal Terms Appear in Down Round and Highly Dilutive Financings?](http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings/) Yokum taku, 2008. 
