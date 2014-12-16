@@ -76,6 +76,8 @@ Stock options are a contract that gives you the right to buy shares in the futur
 
 [The 14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/). Andy Rachleff, Wealthfront, 2014. A nice overview of issues to consider before negotiating an equity incentive package. 
 
+[First employee of startup ? You are probably getting screwed ](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/)! Boris Dinkevich (2011). Boris lays down some simple math to help early employees compare their employee equity deal to the VC's investment equity deal. 
+
 ## Restricted Stock
 
 Restricted stock is normal "common stock," but the company will have certain rights to buy the stock back from you in certain circumstances. 
@@ -133,31 +135,41 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 
 # Hiring Engineers
 
+
+[The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html). Joel Spolsky, 2006. 
+
 [Hiring a VP Engineering for your Internet Startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2008. 
 
 [Recruiting Programmers to Your Startup](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. 
 
-[How to Hire](http://blog.samaltman.com/how-to-hire).  [*Sam Altman*](https://twitter.com/sama), 2013. 
+[How to Hire](http://blog.samaltman.com/how-to-hire).  [*Sam Altman*](https://twitter.com/sama), 2013. Hiring decisions are critical, so don't be afraid to spend time on them. Consider having prospects audition for a job instead of interview for it. That is, hire them for a two-day project as a contractor and see how it goes. 
 
 [Why You Can’t Hire](http://startupboy.com/2011/12/13/why-you-cant-hire/). [*Naval Ravikant*](https://twitter.com/naval), 2011. 
 
-- - - 
-
-# Employment Contracts
-
-
-## Non-Compete Agreements
-
-
-## Invention Assignment Agreements
-
-[Who Owns Employee Innovations](/employee-inventions/)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
+[Hiring Employee #1](http://blog.asmartbear.com/startup-hiring-advice.html). [Jason Cohen](), 2011. 
 
 - - - 
 
 # Employee Retention
 
 [21 Ways to Minimize Employee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/). Jon Haddad, 2014. 
+
+- - - 
+
+# Employment Contracts
+
+**At Will**. Most employment contracts are for "at will" employment, as opposed to employment for a particular length of time. 
+
+## Non-Compete Agreements
+
+[Who Owns Employee Innovations](/employee-inventions/#non-compete-agreements)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
+
+## Invention Assignment Agreements
+
+[Who Owns Employee Innovations](/employee-inventions/)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
+
+## Employees vs. Independent Contractors 
+
 
 - - - 
 

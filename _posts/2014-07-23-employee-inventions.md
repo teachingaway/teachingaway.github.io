@@ -111,11 +111,11 @@ A company owns the copyright to "works made for hire." This includes (a) any wor
 
 ## Non-Compete Agreements
 
-Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0), even in technology startups. In California, non-compete agreements are generally <em>un</em>enforceable. In New York, the rules are more complicated.  
+Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06/09/business/noncompete-clauses-increasingly-pop-up-in-array-of-jobs.html?_r=0), even in technology startups. In California, non-compete agreements are generally unenforceable. In New York, the rules are more complicated.  
 
-New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? Its not always clear, but in practice, something unfair or improper has to happen. For example, an employee that takes confidential information from their former company and uses it to compete against the company will probably be violating a company's legitimate business interest. The leading NY case is [_BDO Seidman v. Hirshberg_, 712 NE 2d 1220 (N.Y. 1999)](http://scholar.google.com/scholar_case?case=9875117510352576316). 
+New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? It's not always clear, but in practice, New York non-competes generally only kick in when something unfair or improper happens. For example, an employee that takes confidential information from their former company and uses it to compete against the company will probably be violating a company's legitimate business interest. The leading NY case is [_BDO Seidman v. Hirshberg_, 712 NE 2d 1220 (N.Y. 1999)](http://scholar.google.com/scholar_case?case=9875117510352576316). 
 
-But a company can't stop former employees from using their general skills and knowledge, even if the employees are competing with the company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [_American Broadcasting Companies v. Wolf_, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). There are also "powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." _Id_. 
+New York law does not allow a company to prevent a former employee from using her general skills and knowledge, even if she's working for one of the company's competitors. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [_American Broadcasting Companies v. Wolf_, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). There are also "powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." _Id_. 
 
 - - - 
 
@@ -123,7 +123,7 @@ But a company can't stop former employees from using their general skills and kn
 
 Startups should have a side-project policy. Whether allowed or prohibited, there should be written agreement that clearly identifies who owns what technology. 
 
-Founders may want to encourage employees to work on side projects. There are a number of reasons: 
+Founders may actually want to encourage employees to work on side projects. There are a number of reasons: 
 
 - Intelligent and creative people will have side projects anyway, so they might as well be out in the open. 
 - Generous side-project policies can attract top engineering talent. 

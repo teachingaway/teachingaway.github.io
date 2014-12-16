@@ -73,7 +73,7 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 [The Most Important Question to Ask Before Taking Seed Money (from a VC incubator)](http://cdixon.org/2009/10/30/the-most-important-question-to-ask-before-taking-seed-money/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. If your startup goes through a VC’s incubator, and the VC fund doesn’t invest at the end, it sends a negative signal to other VCs. So it's important to ask, "How many companies that the sponsor passed on went on to raise money from other sources?"
 
-[We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
+[We Got Accepted Into Techstars & Turned Them Down](http://talkroute.com/got-accepted-into-techstars-turned-it-down/). Paul Howey, 2014.  While I generally think Tech Stars and YCombinator are helpful, here's a counterpoint from a startup called TalkRoute. 
 
 [Startup Accelerators: The Legal Terms](http://siliconhillslawyer.com/2014/07/01/startup-accelerators-legal-terms/).  [*Jose Ancer*](https://twitter.com/ancerj), 2014. Depending on the accelerator, the legal terms can sometimes be aggressive and give the accelerator undue influence over your company’s trajectory. 
 
