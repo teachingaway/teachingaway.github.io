@@ -19,7 +19,30 @@ share: true
 <p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects guidance on employment issues at technology startups.</p> 
 
 
-
+<div class="toc">
+<ul>
+<li><a href="#compensation">Compensation</a><ul>
+<li><a href="#stock-options">Stock Options</a></li>
+<li><a href="#restricted-stock">Restricted Stock</a></li>
+</ul>
+</li>
+<li><a href="#vesting">Vesting</a><ul>
+<li><a href="#can-the-startup-repurchase-vested-stock">Can the Startup Repurchase Vested Stock?</a></li>
+<li><a href="#accelerating-the-vesting-schedule">Accelerating the Vesting Schedule</a></li>
+<li><a href="#tax-issues">Tax Issues</a></li>
+<li><a href="#83b-tax-election">83(b) Tax Election</a></li>
+</ul>
+</li>
+<li><a href="#hiring-engineers">Hiring Engineers</a></li>
+<li><a href="#employment-contracts">Employment Contracts</a><ul>
+<li><a href="#non-compete-agreements">Non-Compete Agreements</a></li>
+<li><a href="#invention-assignment-agreements">Invention Assignment Agreements</a></li>
+</ul>
+</li>
+<li><a href="#employee-retention">Employee Retention</a></li>
+<li><a href="#firing-employees">Firing Employees</a></li>
+</ul>
+</div>
 
 
 
@@ -29,7 +52,7 @@ share: true
 
 # Compensation 
 
-Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost like the reverse. The employee receives the stock today, but the startup has the right to buy the stock back from the employee under certain circumstances. 
+Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost the reverse. The employee receives the stock today, but the startup has the right to buy the stock back from the employee under certain circumstances. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
 
 In order to negotiate your compensation, you need to know the the startup's "Fully Diluted Capital." 
 

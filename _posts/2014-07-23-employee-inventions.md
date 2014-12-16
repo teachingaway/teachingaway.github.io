@@ -24,20 +24,21 @@ The post provides some quick takeaways for founders and employees, and then digs
 <ul>
 <li><a href="#takeaway-for-founders">Takeaway for Founders</a></li>
 <li><a href="#takeaway-for-employees-building-side-projects">Takeaway for Employees Building Side Projects:</a></li>
-</ul>
+<li><a href="#law-of-employee-inventions">Law of Employee Inventions</a><ul>
 <li><a href="#patent-law">Patent Law</a><ul>
 <li><a href="#california-and-washington-law-on-employee-inventions">California and Washington Law on Employee Inventions</a></li>
 </ul>
 </li>
 <li><a href="#copyright-law">Copyright Law</a></li>
 <li><a href="#non-compete-agreements">Non-Compete Agreements</a></li>
-<li><a href="#side-projects-encourage-innovation">Side Projects Encourage Innovation</a><ul>
-<li><a href="#links">Links</a></li>
 </ul>
 </li>
+<li><a href="#side-projects-encourage-innovation">Side Projects Encourage Innovation</a></li>
+<li><a href="#links">Links</a></li>
+</ul>
 </div>
 
-### Takeaway for Founders
+# Takeaway for Founders
 
 Have all employees sign an IP assignment agreement that spells out the details of who owns what technology. It doesn't need to be draconian. In fact, you may want to incentivize employees to develop side projects. 
 
@@ -46,7 +47,7 @@ Founders need to dig up and re-read all IP agreements they made with previous co
 > As we were in the middle of getting bought, we discovered that one of our people had, early on, been bound by an agreement that said all his ideas belonged to the giant company that was paying for him to go to grad school. In theory, that could have meant someone else owned big chunks of our software. So the acquisition came to a screeching halt while we tried to sort this out. The problem was, since we'd been about to be acquired, we'd allowed ourselves to run low on cash. Now we needed to raise more to keep going. But it's hard to raise money with an IP cloud over your head, because investors can't judge how serious it is.
 
 
-### Takeaway for Employees Building Side Projects: 
+# Takeaway for Employees Building Side Projects: 
 
 First, double-check your employment agreement and the company's employment policies. There can be IP assignment agreements in either. If there isn't an applicable IP assignment provision, (a) you probably own the _patents_ to your inventions, and (b) if the project is unrelated to your employer's business, you probably also own the _copyright_ to your side-project's code.
 
@@ -58,6 +59,8 @@ First, double-check your employment agreement and the company's employment polic
 
 - - - 
 
+# Law of Employee Inventions 
+
 Now lets dig into the law, starting with some terminology. When we talk about owning code and inventions, we're talking about copyrights and patents (Intellectual Property, or "IP"). An "_Assignment_" is a transfer of _all ownership rights_ in some IP. Contrast this with a "_license_" which is just a type of _permission_ to use some IP. 
 
 The default ownership rules for patents and copyrights are different. Without a specific IP assignment clause, employees own the _patents_ on their own inventions. But a company will own the _copyright_ to its employee's creative works (including software code), as long as the work was done "within the scope" of employment. 
@@ -65,22 +68,23 @@ The default ownership rules for patents and copyrights are different. Without a 
 
 ## Patent Law
 
-> _The law on patent ownership is unacceptably complex. -Prof. Donald Chisum_.
+<p class="big-text">"The law on patent ownership is unacceptably complex." -Prof. Donald Chisum.</p>
 
 The general rule is that inventors own their own inventions. "The presumptive owner of the property right in a patentable invention is the single human inventor" [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). This rule is different from the rest of employment law, where a company generally owns the results of its employee's work. "No one would claim that an autoworker who builds a car while working in a factory owns that car. But, as noted, patent law has always been different: We have rejected the idea that mere employment is sufficient to vest title to an employee's invention in the employer." [_Stanford v. Roche_, 131 S. Ct. 2188 (2011)](http://scholar.google.com/scholar_case?case=14519543602869990622). 
 
-*Exceptions*. There are some exceptions to the general rule that employees own their own inventions. A company will own employee inventions if: (a) there is a signed a contract transferring inventions to the company, or (b) the inventor was expressly "hired to invent" something, or (c) the inventor is an officer or director with "fiduciary duty" to the company. As the Federal Circuit put it: 
+**Exceptions**. There are some exceptions to the general rule that employees own their own inventions. A company will own employee inventions if: (a) there is a signed a contract transferring inventions to the company, or (b) the inventor was expressly "hired to invent" something, or (c) the inventor is an officer or director with "fiduciary duty" to the company. As the Federal Circuit put it: 
 
 > “The general rule is that an individual owns the patent rights to the subject matter of which he is an inventor, even though he conceived it or reduced it to practice in the course of his employment. There are two exceptions to this rule: first, an employer owns an employee’s invention if the employee is a party to an express contract to that effect; second, where an employee is hired to invent something or solve a particular problem, the property of the invention related to this effort may belong to the employer. Both exceptions are firmly grounded in the principles of contract law that allow parties to freely structure their transactions and obtain the benefit of any bargains reached.” [_Banks v. Unisys Corp_., 228 F.3d 1357, 1359 (Fed. Cir. 2000)](http://scholar.google.com/scholar_case?case=9217281422671286444). 
 
-*Hired to Invent.* Even without a contract, a company will own an employees patents if the employee was "hired to invent." The exact standard here is difficult to pin down. "Hired to invent" requires something more than merely being hired to "make improvements." Likewise, a fancy job title like "Chief Engineer" does not necessarily mean an employee was "hired to invent."  If you're a founder, never assume that any of your employee's were "hired to invent" anything. Instead, have them sign a written IP assignment agreement. 
+**Hired to Invent**. Even without a contract, a company will own an employees patents if the employee was "hired to invent." The exact standard here is difficult to pin down. "Hired to invent" requires something more than merely being hired to "make improvements." Likewise, a fancy job title like "Chief Engineer" does not necessarily mean an employee was "hired to invent."  If you're a founder, never assume that any of your employee's were "hired to invent" anything. Instead, have them sign a written IP assignment agreement. 
 
-*Shop Right.* Even if the company is not the owner of an employee invention, the company may have a "shop right." That is, the company may have an automatic no-cost license to use the employee invention. Startups should never rely on these vague "shop rights" when they can easily get written IP assignment agreements. 
+**Shop Right**. Even if the company is not the owner of an employee invention, the company may have a "shop right." That is, the company may have an automatic no-cost license to use the employee invention. Startups should never rely on these vague "shop rights" when they can easily get written IP assignment agreements. 
 
+- - - 
 
 ### California and Washington Law on Employee Inventions
 
-San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
+San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over to her company. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
 
 In CA and WA, regardless of what an employment contract says, employees will own their inventions if: 
 
@@ -97,6 +101,7 @@ Finally, companies need to tell their new employees about the law. A copy of [Ca
 - - - 
 
 ## Copyright Law
+
 Copyright ownership is controlled by federal law, so the rules are the same in every state. The default copyright rules are similar to the default patent rules. By default, authors own the copyright to all of their creative works, including any code they write. But as always, there are exceptions. 
 
 A company owns the copyright to "works made for hire." This includes (a) any work made by an employee "within the scope of her employment" and (b) the work of an independent contractor if the company gets an express written assignment. 
@@ -111,11 +116,11 @@ Non-compete agreements are [becoming more common](http://www.nytimes.com/2014/06
 
 New York allows non-competes, but only to the extent necessary to protect the company's "legitimate business interests." What does that mean? Its not always clear, but in practice, something unfair or improper has to happen. For example, an employee that takes confidential information from their former company and uses it to compete against the company will probably be violating a company's legitimate business interest. The leading NY case is [_BDO Seidman v. Hirshberg_, 712 NE 2d 1220 (N.Y. 1999)](http://scholar.google.com/scholar_case?case=9875117510352576316). 
 
-But a company can't stop former employees from using their general skills and knowledge, even if the employee's are competing with the company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [_American Broadcasting Companies v. Wolf_, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). There are also "powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." _Id_. 
+But a company can't stop former employees from using their general skills and knowledge, even if the employees are competing with the company. New York has a strong public policy favoring employee mobility and free enterprise. After "the term of an employment agreement has expired, the general public policy favoring robust and uninhibited competition should not give way merely because a particular employer wishes to insulate himself from competition." [_American Broadcasting Companies v. Wolf_, 52 N.Y.2d 394, 404 (N.Y. 1981)](http://scholar.google.com/scholar_case?case=10568205195362534065). There are also "powerful considerations of public policy which militate against sanctioning the loss of a man's livelihood." _Id_. 
 
 - - - 
 
-## Side Projects Encourage Innovation
+# Side Projects Encourage Innovation
 
 Startups should have a side-project policy. Whether allowed or prohibited, there should be written agreement that clearly identifies who owns what technology. 
 
@@ -131,7 +136,7 @@ Gmail famously came from Google's 20% time to tinker policy. And while Google qu
 
 - - - 
 
-### Links
+# Links
 
 Github's [best practices for leaving your company](https://help.github.com/articles/best-practices-for-leaving-your-company).
 
