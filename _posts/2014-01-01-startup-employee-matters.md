@@ -38,7 +38,6 @@ In order to negotiate your compensation, you need to know the the startup's "Ful
 
 [I have a job offer at a startup, am I getting a good deal?](http://venturehacks.com/articles/job-offer). [*Babak Nivi*](https://twitter.com/nivi), 2008. 
 
-[Joining an Early Stage Startup? Negotiate your Equity and Salary with STock Option Counsel Tips](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12). [*Mary Russell*](https://twitter.com/StockOptionCnsl), 2014. This post includes a good tax comparison of restricted stock, non-qualified stock options (early exercised), incentive stock options, restricted stock units, and non-qualified stock options (not early exercised). 
 
 
 
@@ -57,7 +56,7 @@ Stock options are a contract that gives you the right to buy shares in the futur
 Restricted stock is normal "common stock," but the company will have certain rights to buy the stock back from you in certain circumstances. 
 
 
-## Vesting
+# Vesting
 
 A "vesting schedule" incentivizes employees to stick with their employer, by gradually sweetening the equity incentives over time.  
 
@@ -80,26 +79,31 @@ YCombinator's Sam Altman called this arrangement ["horrible" for employees](http
 
 [Supersize Your Vesting with these Microhacks](http://venturehacks.com/articles/vesting-microhacks). [*Babak Nivi*](https://twitter.com/nivi), 2007. 
 
+## Accelerating the Vesting Schedule
+
+Founders and early employees may be able to negotiate for an "acceleration"  clause - a clause that shortens the vesting period under certain conditions.
+
+-  "Acceleration" generally refers to automatic vesting upon a merger or acquisition of the company. This is favorable to the employee, but the acquiring company will not be happy if all of the key employees vanish soon after the acquisition. 
+- "Double-Trigger Acceleration" refers to automatic vesting upon both (i) a merger and (ii) the new company firing the employee. This should be less objectionable to startups and acquiring companies because it still incentives employees to stay with the new company after a merger. 
+
 
 
 ## Tax Issues 
 
 [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/).  [*Joe Wallin*](https://twitter.com/joewallin), 2013. Incentive Stock Options ("ISO") offer some tax advantage, but substantially increase complexity. Under many conditions, the Alternative Minimum Tax will eat away at the ISO's benefits anyway. Nonqualified Stock Options ("NQO") are less complicated, and often preferable to ISOs. Joe has previously written about this issue [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/). 
 
+[Tips on Negotiating Equity Incentives when Joining an Early Stage Startup](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12). [*Mary Russell*](https://twitter.com/StockOptionCnsl), 2014. This post includes a good tax comparison of (a) restricted stock, (b) non-qualified stock options (early exercised), (c) incentive stock options, (d) restricted stock units, and  (e) non-qualified stock options (not early exercised). 
+
 
 ## 83(b) Tax Election 
 
-Consider filing an 83(b) Election when you *exercise* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
+Consider filing an 83(b) election when you receive stock subject to a "substantial risk of forfeiture" (a specially defined tax phrase). This may include, for example: (i) receiving stock subject to vesting, (ii) *exercising* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
 
 [83(b) Elections](http://www.startuplawblog.com/section-83b/). [*Joe Wallin*](https://twitter.com/joewallin), 2012. 
 
 [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) [*Yokum Taku*](https://twitter.com/Yokum), 2007. When you receive shares subject to vesting, an 83(b) election lets you pay tax on the shares immediately, when the tax burden is smallest. 
 
-## Early Employees
 
-Acceleration, Double-Trigger Acceleration. 
-- "Acceleration" refers to skipping or shortening the vesting period. Generally, "acceleration" refers to automatic vesting upon a merger or acquisition of the company. 
-- "Double-Trigger Acceleration" refers to automatic vesting upon both (i) a merger and (ii) the new company firing the employee. 
 
 # Hiring Engineers
 
