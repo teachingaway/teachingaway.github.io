@@ -16,7 +16,7 @@ share: true
 
 <p class="big-text">When can an employee spin up a side project without messy legal entanglements? When does a company own its employee's code?</p> 
 
-To answer these common questions, we first look for contracts. If there was an invention assignment agreement, it will probably have our answers.  If nothing was signed, we run into a mess of state and federal default rules.
+To answer these common questions, we first look for contracts. If there was an invention assignment agreement, it will probably have our answers.  If no contracts were signed, we run into a mess of state and federal default rules.
 
 The post provides some quick takeaways for founders and employees, and then digs into the relevant (1) <a href="#patent-law">Patent Law</a>, (2) <a href="#copyright-law">Copyright Law</a>, and (3)  <a href="#non-compete-agreements-law">Non-Compete Law</a>. I've also put up a <a href="/invention-assignment-agreement/">sample Invention Assignment Agreement</a>.  
 
@@ -25,10 +25,8 @@ The post provides some quick takeaways for founders and employees, and then digs
 <li><a href="#takeaway-for-founders">Takeaway for Founders</a></li>
 <li><a href="#takeaway-for-employees-building-side-projects">Takeaway for Employees Building Side Projects:</a></li>
 <li><a href="#law-of-employee-inventions">Law of Employee Inventions</a><ul>
-<li><a href="#patent-law">Patent Law</a><ul>
+<li><a href="#patent-law">Patent Law</a></li>
 <li><a href="#california-and-washington-law-on-employee-inventions">California and Washington Law on Employee Inventions</a></li>
-</ul>
-</li>
 <li><a href="#copyright-law">Copyright Law</a></li>
 <li><a href="#non-compete-agreements">Non-Compete Agreements</a></li>
 </ul>
@@ -82,7 +80,7 @@ The general rule is that inventors own their own inventions. "The presumptive ow
 
 - - - 
 
-### California and Washington Law on Employee Inventions
+## California and Washington Law on Employee Inventions
 
 San Francisco and Seattle startups take note: special state laws apply. [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over to her company. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
 
