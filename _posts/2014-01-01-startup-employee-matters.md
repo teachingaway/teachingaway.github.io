@@ -53,7 +53,11 @@ share: true
 
 # Compensation 
 
-Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost the reverse. The employee receives the stock today, but the startup has the right to buy the stock back from the employee under certain circumstances. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
+Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost the reverse. The employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
+
+## Number of Shares Outstanding (Fully Diluted)
+
+Employers love to offer thousands of shares of company equity. Thousands sounds like a lot, but what employees really want to know is what percentage of the company does the equity represent. After all, 
 
 To negotiate your compensation, you need to know the number of shares outstanding based on the startup's "fully diluted capital." This needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
 
