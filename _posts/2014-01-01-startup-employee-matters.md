@@ -55,16 +55,21 @@ share: true
 
 Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost the reverse. The employee receives the stock today, but the startup has the right to buy the stock back from the employee under certain circumstances. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
 
-In order to negotiate your compensation, you need to know the the startup's "Fully Diluted Capital." 
+To negotiate your compensation, you need to know the number of shares outstanding based on the startup's "fully diluted capital." This needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
 
 [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "The only thing that matters in terms of your equity when you join a startup is what percent of the company they are giving you.  If management tells you the number of shares and not the total shares outstanding so you can’t compute the percent you own – *don’t join the company!*"
 
 [I have a job offer at a startup, am I getting a good deal?](http://venturehacks.com/articles/job-offer). [*Babak Nivi*](https://twitter.com/nivi), 2008. 
 
 
+## Stock Options - Startup's Perspective 
+
+[The Right Way to Grant Equity to Your Employees](http://firstround.com/article/The-Right-Way-to-Grant-Equity-to-Your-Employees). 
+
+[Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
 
 
-## Stock Options
+## Stock Options - Employee's Perspective
 
 Stock options are a contract that gives you the right to buy shares in the future at a pre-determined price. Ideally, you get the right to buy shares at today's price (say, $1) at a future date when everyone else is paying a much higher price (say, $100). 
 
@@ -72,15 +77,13 @@ Stock options are a contract that gives you the right to buy shares in the futur
 
 [An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. 
 
-[Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
-
 [The 14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/). Andy Rachleff, Wealthfront, 2014. A nice overview of issues to consider before negotiating an equity incentive package. 
 
-[First employee of startup ? You are probably getting screwed ](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/)! Boris Dinkevich (2011). Boris lays down some simple math to help early employees compare their employee equity deal to the VC's investment equity deal. 
+[First Employee of a Startup? You're Probably Getting Screwed](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/)! Boris Dinkevich (2011). Boris lays down some simple math to help early employees compare their employee equity deal to the VC's investment equity deal. 
 
 ## Restricted Stock
 
-Restricted stock is normal "common stock," but the company will have certain rights to buy the stock back from you in certain circumstances. 
+In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. 
 
 
 # Vesting
@@ -175,6 +178,10 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 
 # Firing Employees
 
+Document a legitimate non-discriminatory reason for filing anyone, regardless of whether they are "at will." Talk to your lawyer. Consider making a separation payment to the employee in exchange for signing a release of any and all claims against the company. 
+
+
+
 [Firing](http://cdixon.org/2012/06/20/firing/). [*Chris Dixon*](https://twitter.com/cdixon), 2012. 
 
 [Startup Mantra: Hire Fast, Fire Fast](http://www.bothsidesofthetable.com/2011/05/26/startup-mantra-hire-fast-fire-fast/). [*Mark Suster*](https://twitter.com/msuster), 2011. 
@@ -185,8 +192,9 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 
 [When to fire your co-founders](http://venturehacks.com/articles/fire-co-founders). Venture Hacks, 2010. 
 
-[NY State WARN Act](http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm). 
+[NY State WARN Act](http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm).  NY companies with 50 or more employees need to provide 90 days notice of any mass layoffs. 
 
+**References**. It can be dangerous to provide a negative reference, even if it's an honest description of the former employee's work. Instead, just confirm the former employee's dates of employment and say "we have a policy of not providing references." 
  
 - - - 
 
