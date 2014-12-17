@@ -16,13 +16,13 @@ share: true
 
 **DRAFT POST**
 
-<p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> of posts discussing employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
+<p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
 
 As always, this is advice worth reading, but may not be the right advice for you. 
 
 <div class="toc">
 <ul>
-<li><a href="#compensation">Compensation</a><ul>
+<li><a href="#equity-compensation">Equity Compensation</a><ul>
 <li><a href="#number-of-shares-outstanding-fully-diluted">Number of Shares Outstanding (Fully Diluted)</a></li>
 <li><a href="#stock-options-startups-perspective">Stock Options - Startup's Perspective</a></li>
 <li><a href="#stock-options-employees-perspective">Stock Options - Employee's Perspective</a></li>
@@ -32,8 +32,10 @@ As always, this is advice worth reading, but may not be the right advice for you
 <li><a href="#vesting">Vesting</a><ul>
 <li><a href="#can-the-startup-repurchase-vested-stock">Can the Startup Repurchase Vested Stock?</a></li>
 <li><a href="#accelerating-the-vesting-schedule">Accelerating the Vesting Schedule</a></li>
-<li><a href="#tax-issues">Tax Issues</a></li>
-<li><a href="#83b-tax-election">83(b) Tax Election</a></li>
+</ul>
+</li>
+<li><a href="#tax-issues">Tax Issues</a><ul>
+<li><a href="#83b-tax-election">83b Tax Election</a></li>
 </ul>
 </li>
 </ul>
@@ -41,8 +43,7 @@ As always, this is advice worth reading, but may not be the right advice for you
 
 
 
-
-# Compensation 
+# Equity Compensation 
 
 Know the difference between "stock options" and "restricted stock" and, more importantly, the tax consequences of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
 
@@ -67,7 +68,9 @@ What employee-candidates really want to know is what percentage of the company d
 
 ## Stock Options - Employee's Perspective
 
-Stock options are a contract that gives you the right to buy shares in the future at a pre-determined price. Ideally, you get the right to buy shares at today's price (say, $1) at a future date when everyone else is paying a much higher price (say, $100). 
+Stock options are a contract giving an employee the right to buy shares, in the future, at a pre-determined price. Ideally, the employee gets the right to buy shares at today's price (say, $1), but at a future date when everyone else is paying a much higher price (say, $100). 
+
+Tax. Generally, the employee is not taxed on the grant date, but on the exercise date (the day the employee pays to buy the stock). The tax is based on the difference between the strike price (what the employee pays to buy the company) and the value of the options on the exercise date. This can result in an unfunded tax liability. That is, the newly purchased stock may be valuable on paper, but the employee may not be allowed to sell shares on the open market. 
 
 [An Engineer’s guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options). [*Alex Maccaw*](https://twitter.com/maccaw), 2013. 
 
@@ -112,14 +115,14 @@ Founders and early employees may be able to negotiate for an "acceleration"  cla
 
 
 
-## Tax Issues 
+# Tax Issues 
 
 [Incentive Stock Options vs. Nonqualified Stock Options](http://www.startuplawblog.com/2013/05/15/incentive-stock-options-vs-nonqualified-stock-options/).  [*Joe Wallin*](https://twitter.com/joewallin), 2013. Incentive Stock Options ("ISO") offer some tax advantage, but substantially increase complexity. Under many conditions, the Alternative Minimum Tax will eat away at the ISO's benefits anyway. Nonqualified Stock Options ("NQO") are less complicated, and often preferable to ISOs. Joe has previously written about this issue [here](http://www.startuplawblog.com/2010/08/11/top-reasons-nqos-over-isos/). 
 
 [Tips on Negotiating Equity Incentives when Joining an Early Stage Startup](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12). [*Mary Russell*](https://twitter.com/StockOptionCnsl), 2014. This post includes a good tax comparison of (a) restricted stock, (b) non-qualified stock options (early exercised), (c) incentive stock options, (d) restricted stock units, and  (e) non-qualified stock options (not early exercised). 
 
 
-## 83(b) Tax Election 
+## 83b Tax Election 
 
 Consider filing an 83(b) election when you receive stock subject to a "substantial risk of forfeiture" (a specially defined tax phrase). This may include, for example: (i) receiving stock subject to vesting, (ii) *exercising* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
 
