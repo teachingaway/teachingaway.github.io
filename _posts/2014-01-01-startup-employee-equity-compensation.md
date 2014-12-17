@@ -35,7 +35,7 @@ As always, this is advice worth reading, but may not be the right advice for you
 </ul>
 </li>
 <li><a href="#tax-issues">Tax Issues</a><ul>
-<li><a href="#83b-tax-election">83b Tax Election</a></li>
+<li><a href="#the-83b-tax-election">83b Tax Election</a></li>
 </ul>
 </li>
 </ul>
@@ -122,7 +122,7 @@ Founders and early employees may be able to negotiate for an "acceleration"  cla
 [Tips on Negotiating Equity Incentives when Joining an Early Stage Startup](http://stockoptioncounsel.com/blog/joining-an-early-stage-startup-negotiateyour-equity-wisely-with-stock-option-counsel-tips/2014/2/12). [*Mary Russell*](https://twitter.com/StockOptionCnsl), 2014. This post includes a good tax comparison of (a) restricted stock, (b) non-qualified stock options (early exercised), (c) incentive stock options, (d) restricted stock units, and  (e) non-qualified stock options (not early exercised). 
 
 
-## 83b Tax Election 
+## The 83(b) Tax Election 
 
 Consider filing an 83(b) election when you receive stock subject to a "substantial risk of forfeiture" (a specially defined tax phrase). This may include, for example: (i) receiving stock subject to vesting, (ii) *exercising* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
 
