@@ -16,7 +16,7 @@ share: true
 
 **DRAFT POST**
 
-<p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects guidance on employment issues at technology startups.</p> 
+<p class="big-text">This is our curated <a href="/tags/#link+list">Link List</a> on employment issues at technology startups. It includes hiring issues, employment contracts, non-competes, compliance and firing.</p> 
 
 <div class="toc">
 <ul>

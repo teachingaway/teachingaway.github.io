@@ -35,7 +35,7 @@ As always, this is advice worth reading, but may not be the right advice for you
 </ul>
 </li>
 <li><a href="#tax-issues">Tax Issues</a><ul>
-<li><a href="#the-83b-tax-election">83b Tax Election</a></li>
+<li><a href="#the-83b-tax-election">83(b) Tax Election</a></li>
 </ul>
 </li>
 </ul>
@@ -60,7 +60,7 @@ What employee-candidates really want to know is what percentage of the company d
 
 ## Stock Options - Startup's Perspective 
 
-[The Right Way to Grant Equity to Your Employees](http://firstround.com/article/The-Right-Way-to-Grant-Equity-to-Your-Employees). 
+[The Right Way to Grant Equity to Your Employees](http://firstround.com/article/The-Right-Way-to-Grant-Equity-to-Your-Employees). [*Andy Rachleff*](https://twitter.com/arachleff), 2014. A description of the equity incentive plan used at Wealthfront and other Benchmark Capital portfolio companies. It emphasizes increasing equity grants with each promotion, as well as evergreen grants that avoid any hard vesting "cliffs" that might encourage employee to think about leaving. 
 
 [Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
 
@@ -80,7 +80,7 @@ Tax. Generally, the employee is not taxed on the grant date, but on the exercise
 
 ## Restricted Stock
 
-In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. 
+In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. An employee can pay tax on restricted stock right away by filing an 83(b) tax election. If the company's valuation is very low (e.g., pre-series A), the tax will be low. If the company's valuation is higher, the employee will end up paying more substantial tax on stock that may one day be worthless. 
 
 
 # Vesting
