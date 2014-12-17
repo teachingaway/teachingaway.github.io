@@ -16,7 +16,9 @@ share: true
 
 **DRAFT POST**
 
-<p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects guidance on employment issues at technology startups.</p> 
+<p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> of posts discussing employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
+
+As always, this is advice worth reading, but may not be the right advice for you. 
 
 <div class="toc">
 <ul>
@@ -42,13 +44,13 @@ share: true
 
 # Compensation 
 
-Know the difference between "stock options" and "restricted stock." A stock option is the right to buy stock in the future at a pre-determined price. Restricted stock is almost the reverse. The employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
+Know the difference between "stock options" and "restricted stock" and, more importantly, the tax consequences of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
 
 ## Number of Shares Outstanding (Fully Diluted)
 
-Employers love to offer thousands of shares of company equity. Thousands sounds like a lot, but what employees really want to know is what percentage of the company does the equity represent. After all, 
+Employers love to offer thousands of shares of company equity. "Thousands" is a big number, but by itself, the number of shares is meaningless. Imagine I told you I had a million dollars of gold divided up into equal-size pieces. Then I offered to give you 10,000 "pieces" of gold in exchange for 4 years of work. Obviously, you'd want to know the weight of a "piece." A milligram? A microgram? It makes a difference. 
 
-To negotiate your compensation, you need to know the number of shares outstanding based on the startup's "fully diluted capital." This needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
+What employee-candidates really want to know is what percentage of the company does the equity represent. Specifically, they should ask for the number of shares outstanding on a "**fully diluted**" basis. The number of shares needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
 
 [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "The only thing that matters in terms of your equity when you join a startup is what percent of the company they are giving you.  If management tells you the number of shares and not the total shares outstanding so you can’t compute the percent you own – *don’t join the company!*"
 
@@ -61,14 +63,13 @@ To negotiate your compensation, you need to know the number of shares outstandin
 
 [Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
 
+[An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. A short description of Basecamp's simple contractual plan to pay bonuses to employees in the event of an IPO. 
 
 ## Stock Options - Employee's Perspective
 
 Stock options are a contract that gives you the right to buy shares in the future at a pre-determined price. Ideally, you get the right to buy shares at today's price (say, $1) at a future date when everyone else is paying a much higher price (say, $100). 
 
 [An Engineer’s guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options). [*Alex Maccaw*](https://twitter.com/maccaw), 2013. 
-
-[An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. 
 
 [The 14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/). Andy Rachleff, Wealthfront, 2014. A nice overview of issues to consider before negotiating an equity incentive package. 
 
