@@ -16,7 +16,9 @@ share: true
 
 **DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in employment law.   -Eric**
 
-<p class="big-text">This is our curated <a href="/tags/#link+list">Link List</a> on employment issues at technology startups. It includes hiring issues, employment contracts, non-competes, compliance and firing.</p> 
+<p class="big-text">This is our curated <a href="/tags/#link+list">Link List</a> on employment issues at technology startups, including hiring, employment contracts, non-competes, compliance and firing.</p> 
+
+Caveat: this may not be the right advice for you or your company. 
 
 <div class="toc">
 <ul>

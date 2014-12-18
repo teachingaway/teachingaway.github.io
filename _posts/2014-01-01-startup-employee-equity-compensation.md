@@ -14,11 +14,11 @@ comments: true
 share: true
 ---
 
-**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in equity compensation law.   -Eric**
+**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in equity compensation & tax law. --Eric**
 
 <p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
 
-As always, this is advice worth reading, but may not be the right advice for you. 
+Caveat: this may not be the right advice for you or your company. 
 
 <div class="toc">
 <ul>
@@ -35,12 +35,12 @@ As always, this is advice worth reading, but may not be the right advice for you
 </ul>
 </li>
 <li><a href="#tax-issues">Tax Issues</a><ul>
-<li><a href="#the-83b-tax-election">83(b) Tax Election</a></li>
+<li><a href="#the-83b-tax-election">The 83(b) Tax Election</a></li>
+<li><a href="#the-409a-valuation">The 409(a) Valuation</a></li>
 </ul>
 </li>
 </ul>
 </div>
-
 
 
 # Equity Compensation 
@@ -81,16 +81,6 @@ What employee-candidates really want to know is what percentage of the company d
 [Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
 
 
-
-[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
-
-[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
-
-[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
-
-[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
-
-[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
 
 
 ## Stock Options - Employee's Perspective
