@@ -48,6 +48,13 @@ Our technology law <a href="/tags/#link+list">Link List</a> series collects usef
 
 [A Quick Hack for Speeding up Term Sheet and other Negotiations](http://www.bothsidesofthetable.com/2012/03/17/a-quick-hack-for-speeding-up-term-sheet-and-other-negotiations/). [*Mark Suster*](https://twitter.com/msuster), 2012. Throw a “signing party” where everyone flies to a single location, and stays in a hotel together until the deal was completed. 
 
+[Because It’s Standard](http://avc.com/2013/04/because-its-standard/). [*Fred Wilson*](https://twitter.com/fredwilson), 2013.  From Morty, negotiating with Fred: 
+
+> I don't give a fuck that you always get this provision. Doesn't mean shit to me. This deal will be the first time you don't get it if you don't explain why you need it.
+
+Later, Fred basically agrees: "Nothing is standard. You either need it or you don't. Explain why you need it and most of the time you'll get it or something like it as long as both sides really want to make a deal."
+
+
 
 ## Exploding Offers
 

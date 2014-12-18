@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-**DRAFT POST**
+**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in employment law.   -Eric**
 
 <p class="big-text">This is our curated <a href="/tags/#link+list">Link List</a> on employment issues at technology startups. It includes hiring issues, employment contracts, non-competes, compliance and firing.</p> 
 
@@ -53,11 +53,16 @@ share: true
 
 [Hiring Employee #1](http://blog.asmartbear.com/startup-hiring-advice.html). [Jason Cohen](), 2011. 
 
+[MBA Mondays: Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
 - - - 
 
 # Employee Retention
 
 [21 Ways to Minimize Employee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/). Jon Haddad, 2014. 
+
+
+[MBA Mondays: Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
 
 - - - 
 
@@ -111,6 +116,10 @@ Document a legitimate non-discriminatory reason for filing anyone, regardless of
 [Firing](http://cdixon.org/2012/06/20/firing/). [*Chris Dixon*](https://twitter.com/cdixon), 2012. Fire early. It's terrible, but if you don’t fire the bad employees, you risk running out of money for your startup, and everyone loses their job.  
 
 [Startup Mantra: Hire Fast, Fire Fast](http://www.bothsidesofthetable.com/2011/05/26/startup-mantra-hire-fast-fire-fast/). [*Mark Suster*](https://twitter.com/msuster), 2011. "I have never regretted firing anybody. Not once. I have on many occasions regretted not firing somebody quickly enough." Mark reiterates this point in [How to Deal with Pure Recruiting Mistakes.](http://www.bothsidesofthetable.com/2013/11/27/how-to-deal-with-pure-recruiting-mistakes/), 2013.
+
+[MBA Mondays: Asking An Employee To Leave The Company](http://avc.com/2012/07/mba-mondays-asking-an-employee-to-leave-the-company/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+[Exit Interviews](http://avc.com/2013/09/exit-interviews/). [*Fred Wilson*](https://twitter.com/fredwilson), 2013. 
 
 [NY State WARN Act](http://labor.ny.gov/workforcenypartners/warn/warnportal.shtm).  NY companies with 50 or more employees need to provide 90 days notice of any mass layoffs. 
 

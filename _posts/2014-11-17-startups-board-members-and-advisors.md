@@ -33,6 +33,29 @@ Mark Suster of [Upfront Ventures](http://upfront.com/) has written several usefu
 
 [Expectations for Outside Board Members](http://www.feld.com/archives/2014/04/expectations-outside-board-members.html). [*Brad Feld*](https://twitter.com/bfeld), 2014. An independent director needs to be an independent thinker. It doesn’t matter whether the relationship originates from the VC or the founders. 
 
+[The Board Of Directors – The Board Chair](http://avc.com/2012/03/the-board-of-directors-the-board-chair/)
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+[The Board Of Directors: Board Chemistry](http://avc.com/2012/03/the-board-of-directors-board-chemistry/) 
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+[The Board Of Directors: Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings/)
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+[The Board Of Directors: Board Committees](http://avc.com/2012/04/the-board-of-directors-board-committees/)   
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+[The Board Of Directors – Selecting, Electing & Evolving](http://avc.com/2012/03/the-board-of-directors-selecting-electing-evolving/)  
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+
+[The Board Of Directors: Role and Responsibilities](http://avc.com/2012/03/the-board-of-directors-role-and-responsibilities/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+
+ 
+
+
+
 ## Board Meetings
 
 [Why You Shouldn’t Decide Anything Important at Your Board Meeting](http://www.bothsidesofthetable.com/2014/03/19/why-you-shouldnt-decide-anything-important-at-your-board-meeting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Pre-meet each board member with a 30 minute call, at least a week in advance of the official board meeting. 

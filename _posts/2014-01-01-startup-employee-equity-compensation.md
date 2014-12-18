@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-**DRAFT POST**
+**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in equity compensation law.   -Eric**
 
 <p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
 
@@ -62,9 +62,36 @@ What employee-candidates really want to know is what percentage of the company d
 
 [The Right Way to Grant Equity to Your Employees](http://firstround.com/article/The-Right-Way-to-Grant-Equity-to-Your-Employees). [*Andy Rachleff*](https://twitter.com/arachleff), 2014. A description of the equity incentive plan used at Wealthfront and other Benchmark Capital portfolio companies. It emphasizes increasing equity grants with each promotion, as well as evergreen grants that avoid any hard vesting "cliffs" that might encourage employee to think about leaving. 
 
+[Employee Equity: Options](http://avc.com/2010/10/employee-equity-options/). [*Fred Wilson*](https://twitter.com/fredwilson), 2011. 
+
+[Sizing Option Pools In Connection With Financings](http://avc.com/2011/05/sizing-option-pools-in-connection-with-financings/). [*Fred Wilson*](https://twitter.com/fredwilson), 2011. 
+
+
 [Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
 
 [An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. A short description of Basecamp's simple contractual plan to pay bonuses to employees in the event of an IPO. 
+
+
+[Employee Equity](http://avc.com/2010/09/employee-equity-2/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
+
+[Employee Equity: Dilution](http://avc.com/2010/10/employee-equity-dilution/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
+
+[Employee Equity: Appreciation](http://avc.com/2010/10/employee-equity-appreciation/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
+
+[Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
+
+
+
+[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
+
+[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
+
+[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
+
+[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
+
+[](). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
+
 
 ## Stock Options - Employee's Perspective
 
@@ -82,6 +109,10 @@ Tax. Generally, the employee is not taxed on the grant date, but on the exercise
 
 In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. An employee can pay tax on restricted stock right away by filing an 83(b) tax election. If the company's valuation is very low (e.g., pre-series A), the tax will be low. If the company's valuation is higher, the employee will end up paying more substantial tax on stock that may one day be worthless. 
 
+409(a) valuations are not necessary for restricted stock grants. 
+
+[Employee Equity: Restricted Stock and RSUs](http://avc.com/2010/11/employee-equity-restricted-stock-and-rsus/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
+
 - - - 
 
 # Vesting
@@ -95,6 +126,8 @@ The most common vesting scenario is "4 years with a 1-year cliff." This means th
 [Employee Equity](http://blog.samaltman.com/employee-equity).  [*Sam Altman*](https://twitter.com/sama), 2014. 
 
 [Employee Retention](http://blog.samaltman.com/employee-retention).  [*Sam Altman*](https://twitter.com/sama), 2013. 
+
+[MBA Mondays - Employee Equity: Vesting](http://avc.com/2010/11/employee-equity-vesting/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
 
 ## Can the Startup Repurchase Vested Stock? 
 
@@ -131,6 +164,12 @@ Consider filing an 83(b) election when you receive stock subject to a "substanti
 
 [What is an 83(b) election?](http://www.startupcompanylawyer.com/2008/02/15/what-is-an-83b-election/) [*Yokum Taku*](https://twitter.com/Yokum), 2007. When you receive shares subject to vesting, an 83(b) election lets you pay tax on the shares immediately, when the tax burden is smallest. 
 
+## The 409(a) Valuation 
+
+The exercise price of stock options must be set at, or above, the fair market value of the underlying shares at the time of the grant. If it's not, then the IRS (and California) will impose some extremely heavy tax penalties. This is a problem for the *company* as well as the employee, because the company must withhold these taxes and penalties. 
+
+To be safe, the fair market value should be determined by a "409(a)" valuation (a valuation method specifically approved by the IRS).  Startups can hire a 409(a) valuation firm to perform the calculations. 
 
 
+[Employee Equity: The Option Price](http://avc.com/2010/11/employee-equity-the-option-strike-price/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. "Companies are paying $5000 to $25,000 per year" to 409(a) valuation consultants. Fred also notes that employees who get hired after a big up-round of financing will tend to get less-valuable stock options (because the fair market value will be higher). 
 
