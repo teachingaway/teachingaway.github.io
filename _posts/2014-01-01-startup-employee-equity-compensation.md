@@ -82,6 +82,7 @@ Tax. Generally, the employee is not taxed on the grant date, but on the exercise
 
 In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. An employee can pay tax on restricted stock right away by filing an 83(b) tax election. If the company's valuation is very low (e.g., pre-series A), the tax will be low. If the company's valuation is higher, the employee will end up paying more substantial tax on stock that may one day be worthless. 
 
+- - - 
 
 # Vesting
 
@@ -113,7 +114,7 @@ Founders and early employees may be able to negotiate for an "acceleration"  cla
 -  "Acceleration" generally refers to automatic vesting upon a merger or acquisition of the company. This is favorable to the employee, but the acquiring company will not be happy if all of the key employees vanish soon after the acquisition. 
 - "Double-Trigger Acceleration" refers to automatic vesting upon both (i) a merger and (ii) the new company firing the employee. This should be less objectionable to startups and acquiring companies because it still incentives employees to stay with the new company after a merger. 
 
-
+- - - 
 
 # Tax Issues 
 
