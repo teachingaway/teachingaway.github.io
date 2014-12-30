@@ -72,9 +72,16 @@ An example from  VC [*Fred Wilson*](https://twitter.com/fredwilson):
 
 > Let's say you start a company, bootstrap it for a year and then raise $1mm for 10% of the company [a $10mm valuation]. Three months later, you're offered $8mm for the company [note: lower than the $10mm valuation when the VC bought in]. You decide to take the offer. If the VC bought common stock, she gets $800k back on an investment of $1mm. The VC loses $200k while you make $7.2mm. But if the VC buys *preferred stock*, she gets the option of taking their money back or the 10%. In that instance, they will take their money back and get $1mm and you will get $7mm.
 
+
+## Pro Rata Rights
+
+[What all Entrepreneurs Need to Know About Prorata Rights](http://www.bothsidesofthetable.com/2014/10/12/the-authoritative-guide-to-prorata-rights/). [*Mark Suster*](https://twitter.com/msuster), 2014. 
+
+[The Many Flavors of Seed Investor “Pro-Rata” Rights](http://siliconhillslawyer.com/2014/11/27/seed-investor-pro-rata-rights/). [Jose Ancer](https://twitter.com/ancerj), 2014. Pro rata rights give early investors influence over the next round of financing. The more follow-on investment rights founders grant to their seed investors, the less flexibility founders will have to bring in larger (potentially better) VCs in the Series A round.
+
 - - - 
 
-## Brad Feld’s Term Sheet Series (2005)
+# Brad Feld’s Term Sheet Series (2005)
 
 Brad Feld of the Foundry Group detailed all of common term sheet provisions in this 2005 series of blog posts. He published an updated version in his 2012 book, "[Venture Deals](http://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1118443616)." 
 

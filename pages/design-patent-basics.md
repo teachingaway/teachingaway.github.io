@@ -114,13 +114,13 @@ The design patent owner may also be awarded an "injunction" – a court order fo
 
 The drawings are the heart of a design patent. They define the design that is being protected. In design patent drawings, the difference between solid lines and dashed lines is critical. *Solid lines* identify the parts of the design that are actually protected by the patent. *Dashed lines* are used to show context or environment.
 
-To be infringing, a competitor's product must match all of the design patent elements shown in solid lines. This means that drawings with more solid lines are more difficult to infringe. More solid lines means narrower design patent protection. Again, this is because a competitor's product is only infringing if it incorporates *every* element shown in solid lines. Here's a simplified example: 
+To be infringing, a competitor's product must match *all* of the design patent elements shown in *solid lines*. This means that drawings with more solid lines are more difficult to infringe (i.e., easier for competitors to copy). More solid lines means narrower design patent protection. Again, this is because a competitor's product is only infringing if it incorporates *every* element shown in solid lines. This is counterintuitive, but a simplified example may help: 
 
 <img src="/images/design-patent/solid-v-dashed-line-in-design-patent-example.png" class="translucent">  
 
-Compare the "patent" drawing in the upper left to the "product" in the upper-right. The patent (upper-left) shows a square and a triangle in solid lines. Since the product (upper-right) doesn’t have a triangle, it's not infringing the patent. 
+Compare the "patent" drawing in the upper left to the "product" in the upper-right. The patent (upper-left) shows a square and a triangle in solid lines. Since the competitor's product (upper-right) doesn’t have a triangle, it doesn't copy every element shown in solid lines, and it's not infringing the patent.  
 
-Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in dashed lines. This time, we ignore the triangle when we make the infringement comparison. Since the product has the matching square element, it is infringing the design patent. More dashed lines create stronger design patents. 
+Now look at the patent in the lower-left. It has a square drawn in solid lines, and a triangle in *dashed* lines. This time, we ignore the triangle when we make the infringement comparison. Since the competitor's product has the matching square element, it *is* infringing the design patent. More dashed lines create stronger design patents. 
 
 - - - 
 
