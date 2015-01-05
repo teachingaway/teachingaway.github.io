@@ -37,8 +37,10 @@ share: true
 </li>
 <li><a href="#how-much-to-raise-and-at-what-valuation">How Much to Raise and at What Valuation?</a><ul>
 <li><a href="#signalling-risk">Signalling Risk</a></li>
+<li><a href="#due-diligence">Due Diligence</a></li>
 </ul>
 </li>
+<li><a href="#cap-tables">Cap Tables</a></li>
 <li><a href="#standardized-seed-financing-docs">Standardized Seed Financing Docs</a></li>
 <li><a href="#series-a-round">Series A Round</a></li>
 <li><a href="#down-rounds">Down Rounds</a></li>
@@ -82,6 +84,8 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 [Notes on Raising Seed Financing](http://cdixon.org/2011/06/09/notes-on-raising-seed-financing/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. A great overview. Ideally, (1)  raise money after you have a product / traction, (2) build momentum... (5) network like crazy, but  "avoid anyone who asks you to pay for intros (even indirectly like committing to a law firm in exchange for intros)."
 
 [Upside Risk](http://blog.samaltman.com/upside-risk). [*Sam Altman*](https://twitter.com/sama), 2013. Angels make their money from investing in rare companies that deliver 100x returns. The the real risk for angel investors is missing out on that outstanding investment, not failing to get their money back on their non-unicorn companies. "And yet angel investors continue to ask for onerous terms to mitigate their ‘downside risk.’  All this does is piss founders off, misalign incentives, and harm the investors’ chance of getting to invest in the best deals." 
+
+[Should Texas Founders Use SAFEs in Seed Rounds](http://siliconhillslawyer.com/2014/12/30/texas-founders-safe-startups/)? [*Jose Ancer*](https://twitter.com/ancerj), 2014.
 
 
 # Finding Investors
@@ -167,6 +171,15 @@ When an early investor decides not to invest in a later round, outside investors
 [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/). [Tomasz Tunguz](http://www.twitter.com/ttunguz), 2014.  
 
 [You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+- - - 
+
+# Cap Tables
+
+[MBA Mondays: Cap Tables](http://avc.com/2011/09/mba-mondays-cap-tables/). [*Fred Wilson*](https://twitter.com/fredwilson), 2011. Cap Tables (short for capitalization tables) are spreadsheets that show how much everyone owns of the company. 
+
+[Broken Cap Tables](https://medium.com/@henrysward/broken-cap-tables-bbf84574a76a/). [*Henry Ward*](https://twitter.com/henrysward), 2014. Most cap tables are wrong.
+Most investors don’t track their shares. Note holders are often forgotten. Employees suffer most. 
 
 - - -
 

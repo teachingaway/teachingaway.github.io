@@ -55,6 +55,9 @@ Our technology law <a href="/tags/#link+list">Link List</a> series collects usef
 Later, Fred basically agrees: "Nothing is standard. You either need it or you don't. Explain why you need it and most of the time you'll get it or something like it as long as both sides really want to make a deal."
 
 
+## SAFE
+
+[Should Texas Founders Use SAFEs in Seed Rounds](http://siliconhillslawyer.com/2014/12/30/texas-founders-safe-startups/)? [*Jose Ancer*](https://twitter.com/ancerj), 2014.
 
 ## Exploding Offers
 
