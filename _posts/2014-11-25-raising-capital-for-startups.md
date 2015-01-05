@@ -217,12 +217,15 @@ Most investors don’t track their shares. Note holders are often forgotten. Emp
 
 [How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). [*Tomasz Tunguz*](https://twitter.com/ttunguz), 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
 
-[Inside versus outside financings: the nightclub effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors.
+[Inside Versus Outside Financings: the Nightclub Effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors.
 
 - - - 
 
 # Down Rounds
 
-[The Damaging Psychology of Down Rounds](http://www.bothsidesofthetable.com/2013/05/05/the-damaging-psychology-of-down-rounds/). [*Mark Suster*](https://twitter.com/msuster), 2013. 
+A "down round" is when a startup raises a new round of financing at a valuation lower than its previous round. For example, a startup raises a Series A round at a $5,000,000 valuation, and then a year later raises a Series B at a $3,000,000 valuation. The year of work between the Series A and Series B should (if everything is going well) result in a more valuable company. Raising money at a lower valuation suggests something is wrong, and will likely result in a highly dilutive round of financing. That is, the founders will have to give up a big percentage of their company to raise money. 
 
-* [What Deal Terms Appear in Down Round and Highly Dilutive Financings?](http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings/) Yokum taku, 2008. 
+
+[The Damaging Psychology of Down Rounds](http://www.bothsidesofthetable.com/2013/05/05/the-damaging-psychology-of-down-rounds/). [*Mark Suster*](https://twitter.com/msuster), 2013. "A down round sends a signal that something is wrong with your company."  Something didn’t go according to plan.
+
+[What Deal Terms Appear in Down Round and Highly Dilutive Financings?](http://www.startupcompanylawyer.com/2008/10/23/what-deal-terms-appear-in-down-round-and-highly-dilutive-financings/). [*Yokum taku*](https://twitter.com/yokum), 2008. Watch out for high liquidation preferences, "full ratchet" anti-dilution, pay to play, tranched financing, and other founder-unfriendly terms. However, when the founder's options are down-round terms or shut down the company, then the founder may have to play ball. 
