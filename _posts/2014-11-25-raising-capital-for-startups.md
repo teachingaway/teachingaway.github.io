@@ -16,8 +16,7 @@ share: true
 
 
 
-<p class="big-text">This technology law <a href="/tags/#link+list">Link List</a> collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck.</p> 
-
+<p class="big-text">This post collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck. Other posts in our <a href="/tags/#link+list">Link List</a> series collect information on additional topics relevant to technology companies.</p> 
 
 <div class="toc">
 <ul>
@@ -217,7 +216,7 @@ Most investors don’t track their shares. Note holders are often forgotten. Emp
 
 [How to Align Founder and VC Incentives: Why Fund Size Matters](http://tomtunguz.com/how-to-align-founder-and-vc-incentives-why-fund-size-matters/). [*Tomasz Tunguz*](https://twitter.com/ttunguz), 2013. Fund sizes dictate VC strategy. To achieve their target returns. The larger the fund, the larger the exits must be for the venture investors to be successful. A $50M fund and a $500M fund must pursue very different investment and management styles.
 
-[Inside Versus Outside Financings: the Nightclub Effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors.
+[Inside Versus Outside Financings: the Nightclub Effect](http://cdixon.org/2010/06/08/inside-versus-outside-financings-the-nightclub-effect/). [*Chris Dixon*](https://twitter.com/cdixon), 2010. You may need to choose between an *inside round*, where the existing investors lead the new financing, or an *outside round*, where new investors lead. This will raise interesting game-theoretic dynamics among management, existing investors, and prospective new investors. 
 
 - - - 
 
