@@ -16,7 +16,7 @@ share: true
 
 
 
-<p class="big-text">This post collects useful guidance on raising early funding for a technology startup, including finding the right investors, valuations, and putting together a persuasive pitch deck. Other posts in our <a href="/tags/#link+list">Link List</a> series collect information on additional topics relevant to technology companies.</p> 
+<p class="big-text">Here's a collection of posts about raising early funding for a technology startup. It includes finding the right investors, company valuations, and putting together a persuasive pitch deck. Check out our <a href="/tags/#link+list">Link List</a> series for other startup topics.</p> 
 
 <div class="toc">
 <ul>

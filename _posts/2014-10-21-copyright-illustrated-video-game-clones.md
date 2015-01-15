@@ -93,11 +93,20 @@ A clone that's basically identical to the original game is always going to be co
 
 Elcon made a straight-up identical Donkey Kong clone. According to the judge, Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
 
-- "Puck Man", an identical clone of Pac-Man, was copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978)(appeals court decision). Artic even copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681)(trial court decision).
+- "Puck Man", an identical clone of Pac-Man, was copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978)(appeals court decision). Artic even copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681)(trial court decision). 
 - "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F.2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
 - "Scramble", an identical clone of "Scramble" was copyright infringement in [*Stern Electronics v. Kaufman*, 669 F.2d 852 (2nd Cir. 1982)](http://scholar.google.com/scholar_case?case=7204019639108685629). 
 
 **Takeaway**: Identical cloning is copyright infringement. 
+
+**Play:**
+[Donkey Kong](https://archive.org/details/a2_Donkey_Kong_1983_Atari) v. [Crazy Kong](https://archive.org/details/arcade_ckong). 
+
+[Pac-Man](https://archive.org/details/msdos_Pac-Man_1983) v. [Puck-Man](https://archive.org/details/a2_cple_Bezman_Gobbler_Puckman_Super_Puckman_alt) (I'm not sure which "Puckman" this is). 
+
+[Defender](https://archive.org/details/arcade_defender)
+
+
 
 - - - 
 
