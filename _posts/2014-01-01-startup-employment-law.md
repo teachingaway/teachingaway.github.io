@@ -74,13 +74,52 @@ Caveat: this may not be the right advice for you or your company.
 
 ## Non-Compete Agreements
 
-[Who Owns Employee Innovations](/employee-inventions/#non-compete-agreements)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
+[Who Owns Employee Innovations](/employee-inventions/#non-compete-agreements)? [*Eric Adler*](http://www.twitter/teachingaway), 2014.
+
+Non-compete agreements are governed by complicated state laws. The laws generally aim to encourage free movement of employees between companies, but prevent "unfair" competition resulting from an employee taking company secrets from a former employer to a competitor. 
+
+California generally prohibits non-compete agreements altogether. 
+
+*Sale of a Business*. Non-compete agreements signed in connection with the sale of a business are generally enforced fully. Company owners must be particularly careful in negotiating the scope and duration of non-compete clauses when they sell their business.     
 
 ## Invention Assignment Agreements
 
-[Who Owns Employee Innovations](/employee-inventions/)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. 
+[Who Owns Employee Innovations](/employee-inventions/)? [*Eric Adler*](http://www.twitter/teachingaway), 2014. Companies must have their employees sign "invention assignment agreements" or else risk expensive litigation over who *actually* owns new technology. 
+
+Copyright to creative works must also be assigned to the company, preferably in a written "work for hire" agreement (often just a clause within an "invention assignment" agreement).
+
+### CA and WA State Laws on Employee Inventions
+
+California and Washington State startups must follow special state laws on invention assignment agreements.  [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) limits the types of inventions that an employee can be forced to turn over to her company. [Washington State law](http://apps.leg.wa.gov/rcw/default.aspx?cite=49.44.140) is similar. 
+
+In CA and WA, regardless of what an employment contract says, employees will own their inventions if: 
+
+- the invention is made entirely on employee's own time, and, 
+- the invention is made without using any of the company's equipment or technology. 
+
+There are two exceptions. A contract assigning inventions to the company is enforceable (i.e., the company owns the technology) if: 
+
+- The invention relates to the company's business or anticipated R&D, or 
+- the invention results from work performed by the employee "as an employee" of the company.
+
+Finally, companies need to tell their new employees about the law. A copy of [California Labor Code § 2870](http://www.leginfo.ca.gov/cgi-bin/displaycode?section=lab&group=02001-03000&file=2870-2872) should be attached to all employment agreements. 
+
+- - - 
 
 ## Employees vs. Independent Contractors 
+
+Independent contractor misclassification is a serious problem. Since Independent contractors require far less paperwork, it's tempting to treat everyone as an independent contractor. This is a bad idea. 
+
+| Employee | Independent Contractor |
+| -- | -- | --| 
+controls own destiny | company controls the means and manner of performing work
+chooses own hours | works during company hours
+works at own office | works at company office
+
+Independent contractors get a 1099 tax form; employees get a W-2. 
+
+[State of CA Employment Determination Guide](http://www.edd.ca.gov/pdf_pub_ctr/de38.pdf). "The basic test for determining whether a worker is an independent contractor or an employee is whether the principal [the company] has the right to direct and control the manner and means by which the work is performed. When the principal has the 'right of control,' the worker will be an employee even if the principal never actually exercises the control. If the principal does not have the right of direction and control, the worker will generally be an independent contractor.”
+
 
 - - - 
 

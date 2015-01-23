@@ -11,7 +11,7 @@ share:
 
 
 
-<p>Everything interesting in Law and Technology. Served monthly from <a href="http://www.mailchimp.com">Mailchimp</a>, no spam. Check out the <a href="http://us6.campaign-archive2.com/home/?u=55e077edd77130eaee20fb147&id=f800967f5b">archive</a>.
+<p>Interesting links and commentary on Law and Technology. Served from <a href="http://www.mailchimp.com">Mailchimp</a>, no spam. Check out the <a href="http://us6.campaign-archive2.com/home/?u=55e077edd77130eaee20fb147&id=f800967f5b">archive</a>.
 </p>
 
 
