@@ -42,21 +42,24 @@ Caveat: this may not be the right advice for you or your company.
 
 # Hiring Engineers
 
+Hiring good engineers is difficult, particularly for early-stage startups without product/market fit. [Why You Can’t Hire](http://startupboy.com/2011/12/13/why-you-cant-hire/). [*Naval Ravikant*](https://twitter.com/naval), 2011. These pre-traction startups should consider offering larger equity incentives to engineers. 
 
-[The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html). Joel Spolsky, 2006. 
 
-[MBA Mondays: Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
 
-[How to Hire](http://blog.samaltman.com/how-to-hire).  [*Sam Altman*](https://twitter.com/sama), 2013. Hiring decisions are critical, so don't be afraid to spend time on them. Consider having prospects audition for a job instead of interview for it. That is, hire them for a two-day project as a contractor and see how it goes. 
 
-[Hiring a VP Engineering for your Internet Startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2008. 
+VC Fred Wilson offers advice for building a methodical hiring roadmap and operating budget.  [MBA Mondays: Best Hiring Practices](http://avc.com/2012/06/mba-mondays-best-hiring-practices/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. Consider using [JobVite](http://www.jobvite.com/) to track your applicants. But don't just wait for applicants. You need to proactively [search for strong talent](http://avc.com/2012/05/mba-mondays-where-to-find-strong-talent/). 
 
-[Recruiting Programmers to Your Startup](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. 
+Hiring decisions are critical, so don't be afraid to spend time on them. [How to Hire](http://blog.samaltman.com/how-to-hire).  [*Sam Altman*](https://twitter.com/sama), 2013. Consider having prospects audition for a job instead of interview for it. That is, hire them for a two-day project as a contractor and see how it goes. 
 
-[Why You Can’t Hire](http://startupboy.com/2011/12/13/why-you-cant-hire/). [*Naval Ravikant*](https://twitter.com/naval), 2011. Companies that have product-market fit can hire. For pre-traction companies, founders need to offer larger equity incentives. "Your first two engineers? They’re just late founders." 
+Consider both technical and personal skills when [Hiring a VP Engineering for your Internet Startup](http://cdixon.org/2008/04/17/what-to-look-for-in-hiring-a-vp-engineering-for-your-internet-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2008. On the *technical* side, they should be comfortable with web-speed development, not overly process-oriented, a good system architect, familiar with open source options, and prefer simple solutions. On the *personal* side, avoid folks with dogmatic opinions on trivial issues, avoid 'empire builders', and seek out fun extroverted and intense people. 
+
+To hire great programmers, know what motivates programmers. [Recruiting Programmers to Your Startup](http://cdixon.org/2011/12/29/recruiting-programmers-to-your-startup/). [*Chris Dixon*](https://twitter.com/cdixon), 2011. Programmers generally want to work on interesting technical problems, have smart co-workers, and build products that lots of people will actually use. 
+
 
 [Hiring Employee #1](http://blog.asmartbear.com/startup-hiring-advice.html). [Jason Cohen](), 2011. Hire startup-minded people. Write a crazy job description. Do not use a recruiter. Resumes are (mostly) useless. Writing skills are required. Screen candidates with mini-essay questions. Always be hiring. 
 
+ 
+[The Guerrilla Guide to Interviewing](http://www.joelonsoftware.com/articles/GuerrillaInterviewing3.html). Joel Spolsky, 2006. A classic read. 
 
 - - - 
 
