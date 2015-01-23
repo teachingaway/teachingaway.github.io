@@ -108,18 +108,23 @@ Finally, companies need to tell their new employees about the law. A copy of [Ca
 
 ## Employees vs. Independent Contractors 
 
-Independent contractor misclassification is a serious problem. Since Independent contractors require far less paperwork, it's tempting to treat everyone as an independent contractor. This is a bad idea. 
+Since Independent contractors require far less paperwork, it's tempting to treat everyone as an independent contractor. This is a bad idea. Independent contractor misclassification carries serious risks. Know the legal difference between employees and independent contractors. If it's a close call, err on the side of caution: call them an employee.  
 
 | Employee | Independent Contractor |
 | -- | -- | --| 
-controls own destiny | company controls the means and manner of performing work
-chooses own hours | works during company hours
-works at own office | works at company office
+company supervises and controls the manner of performing work | controls own destiny 
+works during company hours | chooses own hours
+works at company office | works at own office 
+uses company tools and software | uses her own tools and software
+works *only* for the company | works for many companies
 
 Independent contractors get a 1099 tax form; employees get a W-2. 
 
-[State of CA Employment Determination Guide](http://www.edd.ca.gov/pdf_pub_ctr/de38.pdf). "The basic test for determining whether a worker is an independent contractor or an employee is whether the principal [the company] has the right to direct and control the manner and means by which the work is performed. When the principal has the 'right of control,' the worker will be an employee even if the principal never actually exercises the control. If the principal does not have the right of direction and control, the worker will generally be an independent contractor.”
+[State of CA Employment Determination Guide](http://www.edd.ca.gov/pdf_pub_ctr/de38.pdf). (2014) "The basic test for determining whether a worker is an independent contractor or an employee is whether the principal [the company] has the right to direct and control the manner and means by which the work is performed. When the principal has the 'right of control,' the worker will be an employee even if the principal never actually exercises the control. If the principal does not have the right of direction and control, the worker will generally be an independent contractor.”
 
+[IRS: Independent Contractor or Employee](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Independent-Contractor-Self-Employed-or-Employee)? 
+
+[Wage and Hour Division - Employee Misclassification as Independent Contractors](http://www.dol.gov/whd/workers/misclassification/). US Department of Labor. Fact sheet 13 is particularly helpful - [Am I an Employee?: Employment Relationship Under the Fair Labor Standards Act (FLSA)](http://www.dol.gov/whd/regs/compliance/whdfs13.htm). 
 
 - - - 
 
