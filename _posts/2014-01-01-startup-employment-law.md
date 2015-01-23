@@ -108,11 +108,11 @@ Finally, companies need to tell their new employees about the law. A copy of [Ca
 
 ## Employees vs. Independent Contractors 
 
-Since Independent contractors require far less paperwork, it's tempting to treat everyone as an independent contractor. This is a bad idea. Independent contractor misclassification carries serious risks. Know the legal difference between employees and independent contractors. If it's a close call, err on the side of caution: call them an employee.  
+Since Independent contractors require far less paperwork, it's tempting to treat everyone as an independent contractor. This is a bad idea. Independent contractor misclassification carries serious risks. Know the legal difference between employees and independent contractors. When it's a close call, err on the side of caution: call them an employee.  If you incorrectly classify an employee as an independent contractor, the Department of Labor will eventually notice and impose some stiff fines and penalties. 
 
 | Employee | Independent Contractor |
 | -- | -- | --| 
-company supervises and controls the manner of performing work | controls own destiny 
+company supervision | controls own destiny 
 works during company hours | chooses own hours
 works at company office | works at own office 
 uses company tools and software | uses her own tools and software
@@ -124,7 +124,7 @@ Independent contractors get a 1099 tax form; employees get a W-2.
 
 [IRS: Independent Contractor or Employee](http://www.irs.gov/Businesses/Small-Businesses-&-Self-Employed/Independent-Contractor-Self-Employed-or-Employee)? 
 
-[Wage and Hour Division - Employee Misclassification as Independent Contractors](http://www.dol.gov/whd/workers/misclassification/). US Department of Labor. Fact sheet 13 is particularly helpful - [Am I an Employee?: Employment Relationship Under the Fair Labor Standards Act (FLSA)](http://www.dol.gov/whd/regs/compliance/whdfs13.htm). 
+[Wage and Hour Division - Employee Misclassification as Independent Contractors](http://www.dol.gov/whd/workers/misclassification/). US Department of Labor. [Fact sheet 13](http://www.dol.gov/whd/regs/compliance/whdfs13.htm) is particularly helpful. 
 
 - - - 
 
