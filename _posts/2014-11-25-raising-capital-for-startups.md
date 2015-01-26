@@ -56,6 +56,8 @@ share: true
 
 [Hackers Guide to Investors](http://paulgraham.com/guidetoinvestors.html). [*Paul Graham*](https://twitter.com/paulg),  2007. VCs are looking for big hits:  "the way VCs seem to operate is to invest in a bunch of companies, most of which fail, and one of which is Google." 
 
+[Startups Are a Risky Business](http://gimletmedia.com/episode/4-startups-are-a-risky-business/). [*Alex Blumberg*](https://twitter.com/abexlumberg), (2014). A podcast where Alex Blumberg documents his experience raising capital for a podcasting startup. Great show. 
+
 - - - 
 
 # Bootstrap: Build a Company without Raising Money
@@ -153,6 +155,8 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 [Seed Rounds: How to Pick a Valuation](http://josephwalla.com/seed-rounds-how-to-pick-a-valuation). [Joseph Walla](https://twitter.com/josephwalla), 2014. "Valuations have little basis in reality for early stage companies. You evaluate the team, product, market and other variables - then, make a general guess."
 
 [The Equity Equation](http://paulgraham.com/equity.html). [*Paul Graham*](https://twitter.com/paulg),  2007. When trading stock in your company for anything (money, an employee, etc.) the test for whether to do it is always the same. You should give up n% of your company if what you trade it for improves your average outcome enough that the (100 - n)% you have left is worth more than the whole company was before.
+
+[How to Value Your Startup](http://gimletmedia.com/episode/6-how-to-value-your-startup/). [*Alex Blumberg*](https://twitter.com/abexlumberg), (2014). It's all about the story. A podcast where Alex Blumberg documents his experience raising capital for a podcasting startup.  
 
 
 ## Signalling Risk 

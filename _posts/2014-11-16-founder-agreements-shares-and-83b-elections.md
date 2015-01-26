@@ -33,6 +33,8 @@ Unless both cofounders contribute  exactly 50% of the seed capital and 50% of th
 
 * [The Perils of Founder Fighting](http://www.bothsidesofthetable.com/2014/01/04/the-perils-of-founder-fighting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Deal with cofounder disputes early, and consider mediation. If you sweep them under the rug, they will fester and pop out down the road when the stakes are higher.
 
+[How to Divide an Imaginary Pie](http://gimletmedia.com/episode/3-how-to-divide-an-imaginary-pie/). [*Alex Blumberg*](https://twitter.com/abexlumberg), (2014). A podcast about starting a podcast-startup asks "How much of your company should you give up when you bring on a partner?" 
+
 ### Issuing Shares & 83(b) Election
 
 A newly incorporated company needs to issue shares, and the cofounders then need to buy the shares of their brand new company. Founders can pay for their shares in cash, or by contributing intellectual property. This IP-for-shares deal need to be documented properly and needs to comply with section 351 of the tax code.
