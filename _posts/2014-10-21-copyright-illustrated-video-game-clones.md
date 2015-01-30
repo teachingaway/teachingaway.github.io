@@ -195,6 +195,9 @@ The court then looked at Pac-Man's protectable **creative expression**. A maze-c
 
 **Takeaway**: The *idea* of a maze-chase game is not copyrightable, and the *game mechanics* that necessarily flow from the idea are not copyrightable. However, the *creative expression* of a gobbler and ghosts, the sound effects and the "role reversal" mechanism are protectable video game elements. 
 
+**Play:**
+[K.C. Munchkin](https://archive.org/details/K.C._Munchkin_1982_Philips_US).
+
 
 - - - 
 
@@ -550,6 +553,8 @@ The trademark registration should describe your game play in some detail in its 
 Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. For an extra fee, the timeframe can be expedited to about 1 year. 
 
 For small mobile games, patents may be too expensive. However, studios building truly innovative games can benefit from an investment in a small patent portfolio. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
+
+"During the years 1935 to 1952, Parker Brothers relied primarily on its patents to protect its monopoly of 'Monopoly.'" [*Anti-Monopoly, Inc. v. General Mills Fun Group*, 611 F. 2d 296 (9th Cir. 1979)](https://scholar.google.com/scholar_case?case=4422552636781130392). 
 
 <figure class="half">
 

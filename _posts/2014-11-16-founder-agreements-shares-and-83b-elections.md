@@ -18,6 +18,11 @@ share: true
 
 *This is advice worth reading, but it may not be advice that’s right for your startup.*
 
+### Finding Cofounders
+
+[Where do I Find a Technical Cofounder](http://www.hailpixel.com/articles/technical-cofounders)? Devin Hunt, 2015. "Cofounders are not found; they are grown."
+
+[How to Divide an Imaginary Pie](http://gimletmedia.com/episode/3-how-to-divide-an-imaginary-pie/). Startup Podcast, 2014. Alex Blumberg tell the story of finding a business-minded cofounder for his Podcasting startup.  
 
 ### Cofounder Agreements and Initial Equity Splits
 
