@@ -223,7 +223,8 @@ Finally, the judge looked at the **game play** of both Galaxians, and found them
 
 **Takeaway**: Defending a spaceship against swarming alien bad guys is an unprotectable idea. The particular insectile shape of the aliens and their attack patterns and animations are protectable "creative expression." 
 
-
+**Play:**
+[Galaxian for DOS (1983)](https://archive.org/details/msdos_Galaxian_1983). 
 
 - - - 
 
@@ -296,6 +297,8 @@ As a result, there was no copyright infringement.  Epyx copied only the "idea" o
 **Takeaway**: There is no copyright protection for common video game karate moves like "upper-lunge punch", "back-foot sweep" and "squatting reverse punch wherein the heel is not on the ground." 
 
 
+**Play:** [Karate Champ (1985)(Data East)](https://archive.org/details/a2_Karate_Champ_1985_Data_East_cr_Digital_Gang) v. [World Karate Championship (1986)(Epyx)](https://archive.org/details/a8b_World_Karate_Championship_1986_Epyx_US_cr_N.A.P.O.)
+
 Now let's look at a case involving Street Fighter II - a fighting game with a much looser basis in "reality."  
 
 - - - 
@@ -329,6 +332,7 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
 
+[Street Fighter II (Capcom, 1991)](https://archive.org/stream/arcade_sf2/sf2.zip?module=sf2&scale=2&keyboard=arcade)
 - - - 
 
 
@@ -353,7 +357,7 @@ Useful articles, like the trackball control, are not copyrightable. A useful art
 
 **Takeaway**: Video game controls (like a trackball) and instructions are entitled to very little, if any, copyright protection. 
 
-
+**Play**: [Golden Tee Golf](https://archive.org/details/arcade_gtg)
 
 <hr class="tall">
 
