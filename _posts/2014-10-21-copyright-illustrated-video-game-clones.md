@@ -22,7 +22,7 @@ share: true
 
 Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how much copying is allowed before a clone becomes a copyright infringement? 
 
-Looking at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was just sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed just 4 months later. 
+Looking at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was merely sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed just 4 months later. 
 
 Let's start with some easy answers. A clone infringes an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
 
@@ -332,7 +332,8 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
 
-[Street Fighter II (Capcom, 1991)](https://archive.org/stream/arcade_sf2/sf2.zip?module=sf2&scale=2&keyboard=arcade)
+**Play**: [Street Fighter II (Capcom, 1991)](https://archive.org/stream/arcade_sf2/sf2.zip?module=sf2&scale=2&keyboard=arcade).
+
 - - - 
 
 
