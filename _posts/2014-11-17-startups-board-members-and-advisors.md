@@ -33,30 +33,30 @@ Mark Suster of [Upfront Ventures](http://upfront.com/) has written several usefu
 
 [Expectations for Outside Board Members](http://www.feld.com/archives/2014/04/expectations-outside-board-members.html). [*Brad Feld*](https://twitter.com/bfeld), 2014. An independent director needs to be an independent thinker. It doesn’t matter whether the relationship originates from the VC or the founders. 
 
+
+[The Board of Directors: Role and Responsibilities](http://avc.com/2012/03/the-board-of-directors-role-and-responsibilities/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. Discussing directors generally, and suggesting a three person Board for early-stage startups. "I generally recommend that a founder put himself/herself on the board along with two other people they trust and respect."
+
 [The Board Of Directors – The Board Chair](http://avc.com/2012/03/the-board-of-directors-the-board-chair/)
-[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. In addition to the normal responsibilities of a board member, the Board Chair is responsible for making sure the Board is doing its job.
 
 [The Board Of Directors: Board Chemistry](http://avc.com/2012/03/the-board-of-directors-board-chemistry/) 
-[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
-
-[The Board Of Directors: Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings/)
-[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. Discussing how to build board chemistry, and how to replace a board member who doesn't fit in. 
 
 [The Board Of Directors: Board Committees](http://avc.com/2012/04/the-board-of-directors-board-committees/)   
-[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. "A three person Board should not have committees. The Board will be the default committee for all of this stuff. A five person Board could have committees and should have them if there is a lot of work required for audit and compensation. A seven person Board and larger should most certainly have committees."
 
 [The Board Of Directors – Selecting, Electing & Evolving](http://avc.com/2012/03/the-board-of-directors-selecting-electing-evolving/)  
 [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
 
 
-[The Board Of Directors: Role and Responsibilities](http://avc.com/2012/03/the-board-of-directors-role-and-responsibilities/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
-
-
- 
+[Board Members](http://blog.samaltman.com/board-members). [*Sam Altman*](https://twitter.com/sama), 2014. Many founders prefer to avoid outside board members. "But great board members, with a lot of experience seeing companies get built, are the sort of people founders should want thinking about their companies every day."  
 
 
 
 ## Board Meetings
+
+[The Board Of Directors: Board Meetings](http://avc.com/2012/04/the-board-of-directors-board-meetings/)
+[*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
 
 [Why You Shouldn’t Decide Anything Important at Your Board Meeting](http://www.bothsidesofthetable.com/2014/03/19/why-you-shouldnt-decide-anything-important-at-your-board-meeting/). [*Mark Suster*](https://twitter.com/msuster), 2014. Pre-meet each board member with a 30 minute call, at least a week in advance of the official board meeting. 
 

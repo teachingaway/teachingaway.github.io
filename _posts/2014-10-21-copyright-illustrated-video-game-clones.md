@@ -559,7 +559,7 @@ Patents are the most expensive option, but provide the most valuable protection.
 
 For small mobile games, patents may be too expensive. However, studios building truly innovative games can benefit from an investment in a small patent portfolio. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
 
-"During the years 1935 to 1952, Parker Brothers relied primarily on its patents to protect its monopoly of 'Monopoly.'" [*Anti-Monopoly, Inc. v. General Mills Fun Group*, 611 F. 2d 296 (9th Cir. 1979)](https://scholar.google.com/scholar_case?case=4422552636781130392). 
+ 
 
 <figure class="half">
 
@@ -568,6 +568,10 @@ For small mobile games, patents may be too expensive. However, studios building 
 <a href="/images/patent-drawings/pong-patent-1972.png"><img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent"></a>
 
 </figure>
+
+"During the years 1935 to 1952, Parker Brothers relied primarily on its patents to protect its monopoly of 'Monopoly.'" [*Anti-Monopoly, Inc. v. General Mills Fun Group*, 611 F. 2d 296 (9th Cir. 1979)](https://scholar.google.com/scholar_case?case=4422552636781130392).
+
+- - - 
 
 ## Enforcement and Public Relations
 
