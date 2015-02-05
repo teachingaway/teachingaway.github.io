@@ -330,6 +330,10 @@ Since Fighter's History only copied (a) non-protectable functional game elements
 
 **Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
 
+<img src="/images/copyright/street-fighter-ii-v-fighters-history-arcade-museum-com.jpg" class="" >
+
+
+
 **Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
 
 **Play**: [Street Fighter II (Capcom, 1991)](https://archive.org/stream/arcade_sf2/sf2.zip?module=sf2&scale=2&keyboard=arcade).
