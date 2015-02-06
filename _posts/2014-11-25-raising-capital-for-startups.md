@@ -169,11 +169,24 @@ When an early investor decides not to invest in a later round, outside investors
 
 [*Sam Altman*](https://twitter.com/sama) disagrees: "Many little things simply don't matter very much--for example, the '*signal*' sent when an early investor chooses not to participate in a later round. If the company is doing well stuff like this is easily overlooked, and if the company's not doing it will struggle to raise money anyway." [Fundraising Mistakes Founders Make](http://blog.samaltman.com/fundraising-mistakes-founder-make), 2014.
 
+- - - 
+
 ## Due Diligence
 
 [Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/). [Tomasz Tunguz](http://www.twitter.com/ttunguz), 2014.  
 
 [You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+
+- - - 
+
+## Closing 
+
+
+
+[Form D](http://www.sec.gov/about/forms/formd.pdf). Have your lawyer file a Form D with the SEC. 
+
+[Beware, Forms D Are Public](http://www.startuplawblog.com/2013/12/20/beware-forms-d-are-public/). [*Joe Wallin*](https://twitter.com/joewallin), 2013. When you raise money from angels or VCs you are generally required to file a Form D with the SEC and state securities regulators. You have 15 days to file it, and it will become public information. 
+
 
 - - - 
 
@@ -185,6 +198,9 @@ When an early investor decides not to invest in a later round, outside investors
 Most investors don’t track their shares. Note holders are often forgotten. Employees suffer most. 
 
 - - -
+
+
+- - - 
 
 # Standardized Seed Financing Docs
 

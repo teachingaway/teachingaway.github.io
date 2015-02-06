@@ -2,7 +2,7 @@
 layout: post
 includeinbloglist: "no"
 longform: "no"
-title: "Startup Employee Equity Compensation - Link List"
+title: "Startup Employee Equity Compensation"
 summary: "Curated links on employee equity, including stock options and related tax issues."
 tags: [startup law, link list]
 author: adler
@@ -14,11 +14,10 @@ comments: true
 share: true
 ---
 
-**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in equity compensation & tax law. --Eric**
+**DRAFT POST**. And unlike my posts on IP law, I don't have any particular expertise in equity compensation & tax law. --Eric
 
 <p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
 
-Caveat: this may not be the right advice for you or your company. 
 
 <div class="toc">
 <ul>
@@ -42,6 +41,7 @@ Caveat: this may not be the right advice for you or your company.
 </ul>
 </div>
 
+Caveat: this may not be the right advice for you or your company. 
 
 # Equity Compensation 
 
@@ -148,7 +148,9 @@ Founders and early employees may be able to negotiate for an "acceleration"  cla
 
 ## The 83(b) Tax Election 
 
-Consider filing an 83(b) election when you receive stock subject to a "substantial risk of forfeiture" (a specially defined tax phrase). This may include, for example: (i) receiving stock subject to vesting, (ii) *exercising* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
+Consider filing an 83(b) election when you receive stock with a very low valuation (especially if you are a founder or a very early employee). Talk to your lawyer. When done correctly, the tax savings can be enormous. 
+
+The 83(b) election is only available if the stock is subject to a **"substantial risk of forfeiture"** (a specially defined tax phrase). This may include, for example: (i) receiving stock subject to vesting, and (ii) *exercising* stock options and receive *unvested* stock (that is, the stock you receive is still subject to a "substantial risk of forfeiture"). 
 
 [83(b) Elections](http://www.startuplawblog.com/section-83b/). [*Joe Wallin*](https://twitter.com/joewallin), 2012. 
 
