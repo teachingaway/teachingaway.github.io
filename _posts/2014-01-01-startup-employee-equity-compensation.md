@@ -41,7 +41,12 @@ share: true
 </ul>
 </div>
 
+- - - 
+
 Caveat: this may not be the right advice for you or your company. 
+
+- - - 
+
 
 # Equity Compensation 
 
@@ -85,19 +90,23 @@ What employee-candidates really want to know is what percentage of the company d
 
 ## Stock Options - Employee's Perspective
 
-Stock options are a contract giving an employee the right to buy shares, in the future, at a pre-determined price. Ideally, the employee gets the right to buy shares at today's price (say, $1), but at a future date when everyone else is paying a much higher price (say, $100). 
+**Basics**. Stock options are a contract giving an employee the right to buy shares, in the future, at a pre-determined price. Ideally, the employee gets the right to buy shares at today's price (say, $1), but at a future date when everyone else is paying a much higher price (say, $100). 
 
-Tax. Generally, the employee is not taxed on the grant date, but on the exercise date (the day the employee pays to buy the stock). The tax is based on the difference between the strike price (what the employee pays to buy the company) and the value of the options on the exercise date. This can result in an unfunded tax liability. That is, the newly purchased stock may be valuable on paper, but the employee may not be allowed to sell shares on the open market. 
+**Tax**. Generally, the employee is not taxed on the grant date, but on the exercise date (the day the employee pays to buy the stock). The tax is based on the difference between the strike price (what the employee pays to buy the company) and the value of the options on the exercise date. This can result in an unfunded tax liability. That is, the newly purchased stock may be valuable on paper, but the employee may not be allowed to sell shares on the open market. 
 
-[An Engineer’s guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options). [*Alex Maccaw*](https://twitter.com/maccaw), 2013. 
+[An Engineer’s guide to Stock Options](http://blog.alexmaccaw.com/an-engineers-guide-to-stock-options). [*Alex Maccaw*](https://twitter.com/maccaw), 2013. A thoughtful and detailed explanation. It's a great place to start your research. 
 
 [The 14 Crucial Questions About Stock Options](https://blog.wealthfront.com/stock-options-14-crucial-questions/). Andy Rachleff, Wealthfront, 2014. A nice overview of issues to consider before negotiating an equity incentive package. 
 
 [First Employee of a Startup? You're Probably Getting Screwed](http://blog.itlater.com/first-employee-of-startup-you-are-probably-getting-screwed/)! Boris Dinkevich (2011). Boris lays down some simple math to help early employees compare their employee equity deal to the VC's investment equity deal. 
 
+- - - 
+
 ## Restricted Stock
 
-In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. An employee can pay tax on restricted stock right away by filing an 83(b) tax election. If the company's valuation is very low (e.g., pre-series A), the tax will be low. If the company's valuation is higher, the employee will end up paying more substantial tax on stock that may one day be worthless. 
+In a restricted stock grant, the employee owns normal "common stock," but the company has the right to buy the stock back in certain circumstances. Restricted stock can offer major tax advantages for founders and early employees. An employee can pay tax on restricted stock *right away* by filing an 83(b) tax election. If the company's valuation is very low (e.g., pre-series A), the tax will be low. 
+
+For later employees, the company's valuation will be higher, and employees will end up paying more substantial tax on upon receipt of their restricted stock. This may be a bad deal for the later employees because they are paying tax on stock that may one day be worthless. Because of this risk, stock **options** are likely to be a better deal for later employees. 
 
 409(a) valuations are not necessary for restricted stock grants. 
 
