@@ -144,6 +144,8 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 
 [Important Terms for Nondisclosure Agreements](http://www.startupcompanylawyer.com/2008/04/27/what-is-important-in-a-confidentiality-agreement-or-non-disclosure-agreement-nda/)? [*Yokum Taku*](https://twitter.com/Yokum), 2008. For those times when you *actually* need an NDA, specifically define what information must be confidential, and who must keep it confidential (i.e., mutual or one-way obligation).  Is the obligation not to *disclose* information, or not to *use* the information, or both? 
 
+[NDAs with investors and potential partners](http://www.oncontracts.com/startup-investor-nda/). D. C. Toedt, 2015. 
+
 - - - 
 
 # How Much to Raise and at What Valuation?
