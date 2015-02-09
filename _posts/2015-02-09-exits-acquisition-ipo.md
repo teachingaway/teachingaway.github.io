@@ -20,6 +20,7 @@ share: true
 <ul>
 <li><a href="#acquisitions">Acquisitions</a></li>
 <li><a href="#acqui-hire">Acqui-Hire</a></li>
+<li><a href="#letter-of-intent">Letter of Intent</a></li>
 <li><a href="#due-diligence">Due Diligence</a></li>
 <li><a href="#initial-public-offerings">Initial Public Offerings</a></li>
 </ul>
@@ -62,8 +63,8 @@ Acqui-hire is the purchase of a company mainly for the value of its employees, n
   - [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html). 
   - [Escrow](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html). 
   - [Assumption of Stock Options](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html). 
-  - [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-  - [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
+  - [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html). 
+  - [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html). 
   - [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html). 
 
 
