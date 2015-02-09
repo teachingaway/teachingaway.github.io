@@ -55,31 +55,17 @@ Acqui-hire is the purchase of a company mainly for the value of its employees, n
 
 ## Letter of Intent
 
-- [*Brad Feld*](http://www.twitter.com/bfeld)'s "Letter of Intent" series provides several useful lessons on the M&A process. These were written by Feld in 2005-2006.
-
+- [*Brad Feld*](http://www.twitter.com/bfeld)'s "Letter of Intent" series provides several useful lessons on the M&A process. These posts were written by Feld in 2005-2006.
   - [Structure of a Deal](http://www.feld.com/archives/2005/10/letter-of-intent-structure-of-a-deal.html). 
- 
   - [Form of Consideration](http://www.feld.com/archives/2005/11/letter-of-intent-form-of-consideration.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2005.
+  - [Representations, Warranties, and Indemnification](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html). 
+  - [Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html). 
+  - [Escrow](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html). 
+  - [Assumption of Stock Options](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html). 
+  - [Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
+  - [Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
+  - [Employee Matters](http://www.feld.com/archives/2006/04/letter-of-intent-employee-matters.html). 
 
-  - [Representations, Warranties, and Indemnification](http://www.feld.com/archives/2006/01/letter-of-intent-representations-warranties-and-indemnification.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006. 
-
-  - [Letter of Intent: Confidentiality / Non-Disclosure Agreement](http://www.feld.com/archives/2006/02/letter-of-intent-confidentiality-non-disclosure-agreement.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-  - [Letter of Intent: Escrow](http://www.feld.com/archives/2006/01/letter-of-intent-escrow.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-  - [Letter of Intent: Assumption of Stock Options](http://www.feld.com/archives/2006/01/letter-of-intent-assumption-of-stock-options.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-  - [Letter of Intent: Conditions to Close](http://www.feld.com/archives/2006/04/letter-of-intent-conditions-to-close.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-  - [Letter of Intent: Structure – Asset vs. Stock](http://www.feld.com/archives/2005/11/letter-of-intent-structure-asset-vs-stock.html). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-[](). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-[](). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-[](). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
-
-[](). By [*Brad Feld*](http://www.twitter.com/bfeld), 2006.
 
 - - - 
  
