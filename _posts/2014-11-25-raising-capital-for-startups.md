@@ -184,7 +184,6 @@ When an early investor decides not to invest in a later round, outside investors
 ## Closing 
 
 
-
 [Form D](http://www.sec.gov/about/forms/formd.pdf). Have your lawyer file a Form D with the SEC. 
 
 [Beware, Forms D Are Public](http://www.startuplawblog.com/2013/12/20/beware-forms-d-are-public/). [*Joe Wallin*](https://twitter.com/joewallin), 2013. When you raise money from angels or VCs you are generally required to file a Form D with the SEC and state securities regulators. You have 15 days to file it, and it will become public information. 
