@@ -55,7 +55,19 @@ Our technology law <a href="/tags/#link+list">Link List</a> series collects usef
 Later, Fred basically agrees: "Nothing is standard. You either need it or you don't. Explain why you need it and most of the time you'll get it or something like it as long as both sides really want to make a deal."
 
 
+
 - - - 
+
+## Investor Rights
+
+- [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). "Other than economics, there are really only three things a VC needs in a deal." 
+  - Up: Pro-rata rights. When things are going well (up) a VC wants the ability to continue to invest money to maintain their ownership.
+  - Down: Liquidation preference. When things don’t go well (down), a VC wants to get their money out first.
+  - Know What The Fuck Is Going On: Board seat. 
+
+
+- - - 
+
 ## SAFE
 
 [Should Texas Founders Use SAFEs in Seed Rounds](http://siliconhillslawyer.com/2014/12/30/texas-founders-safe-startups/)? [*Jose Ancer*](https://twitter.com/ancerj), 2014.
