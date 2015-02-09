@@ -1,10 +1,10 @@
 ---
 layout: post
-includeinbloglist: "no"
+includeinbloglist: "yes"
 longform: "no"
 title: "Exits, Acquisitions and IPOs"
-summary: "description of draft post."
-tags: []
+summary: "Curated links about exits and acquisitions for technology startups."
+tags: [startup law, link list]
 author: adler
 image:
   feature: /wide/default-image.png
@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-<p class="big-text"></p>
+<p class="big-text">This is our curated collection of posts about exits and IPOs  for technology startups. Check out our <a href="/tags/#link+list">Link List</a> series for other startup topics.</p>
 
 <div class="toc">
 <ul>
