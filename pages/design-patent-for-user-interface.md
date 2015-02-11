@@ -356,7 +356,7 @@ Suzanne Martin, [Effective Visual Communication for Graphical User Interfaces](h
 
 # Additional Draft Notes:
 
-"As far as the customer is concerned, [the interface ](http://en.wikipedia.org/wiki/Jef_Raskin)*[i*s](http://en.wikipedia.org/wiki/Jef_Raskin)[ the product](http://en.wikipedia.org/wiki/Jef_Raskin)." 
+"As far as the customer is concerned, [the interface ](http://en.wikipedia.org/wiki/Jef_Raskin) [*is*](http://en.wikipedia.org/wiki/Jef_Raskin)[ the product](http://en.wikipedia.org/wiki/Jef_Raskin)." 
 
 But since the best UI designs tend to be [invisible](http://www.theverge.com/2012/7/24/3177332/ia-oliver-reichenstein-writer-interview-good-design-is-invisible), UI design patents are a tricky animal. 
 
@@ -384,39 +384,14 @@ Incumbents like Apple will not hesitate to "[steal](http://techcrunch.com/2013/0
 
 **Trolls**. 
 
-The vast majority of design patents are used as a tool to prevent serious design fraud, not to harass legitimate competitors. Patent abuse makes the news, but imagine the headline "*Designer Declines Opportunity to File Patent Law; Decides to Compete on Product’s Merit.*" Most patent owners are responsible. But responsible patent use is too mundane for headlines. This is not to defend patent trolls, just to put them in their place: an obnoxious parasite on a host of responsible patent owners. 
+The vast majority of design patents are used as a tool to prevent serious design fraud, not to harass legitimate competitors. Patent abuse makes the news, but responsible patent use does not. This results in a major sampling bias. You'd never see the headline "*Designer Declines Opportunity to File Patent Lawsuit; Decides to Compete on Product’s Merit.*" Most patent owners are responsible. But responsible patent use is too mundane for headlines. 
+
+This is not to defend patent trolls, just to put them in their place: an obnoxious parasite on a host of responsible patent owners. 
 
 Design patents can solidify an innovative design element into long-term asset. Used responsibly, design patents can generate modest revenue  without obstructing innovation or design dialogue. 
 
 I hope this article can help designers join the majority of responsible patent owners who only go to court reluctantly, and only to prevent the most egregious knockoffs and abusive plagiarism. 
 
 
-<hr class="tall">
-
-**Notes: **
-
-"user interaction design" 
-
-Drawings for dynamic user interactions show a series of static images like a "flip book" or storyboard.
-
-Apple’s strategy of using design patents to protect user interface elements worked with astonishing success in Apple’s [billion dollar ](http://www.patentlyo.com/patent/2012/08/apple-wins-105-billion-verdict.html)[win](http://arstechnica.com/tech-policy/2012/08/jury-returns-verdict-in-apple-v-samsung/) over Samsung. (note: this was later reduced to $600 million, then bumped back up to $900 million, with several issues still on appeal) But Apple isn’t the only company using this strategy. Google, Facebook, Microsoft, Adobe have hundreds of design patents on user interface (UI) elements as well as other components of their overall user experience (UX). 
-
-
-
 - - - 
 
-<!--Eric's Mailchimp Signup Form -->
-        
-       
-<div class="">
-<div>
- <form action="//adlervermillion.us6.list-manage.com/subscribe/post?u=55e077edd77130eaee20fb147&amp;id=f800967f5b" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
- <p><strong>Join our newsletter for everything interesting in Technology Law.</strong> Served monthly, no spam. </p>
-  <input type="email" value="" name="EMAIL" class="email email-box" placeholder="email address" required>
-  <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-  <div style="position: absolute; left: -5000px;">
-    <input type="text" name="b_55e077edd77130eaee20fb147_f800967f5b" tabindex="-1" value="">
-  </div>
-  <input type="submit" value="Subscribe" name="subscribe" class="big-btn button">
-</form>
-</div> <!-- End Eric's Mailchimp Signup Form -->
