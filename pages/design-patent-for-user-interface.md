@@ -104,17 +104,17 @@ Design patents can protect user interface icons, layouts, fonts, UI controls, tr
 
 **Classification**. The Patent Office classifies patents by technology-type in a wonky, multi-tier taxonomy. UI design patents tend to fall within USPTO class [D14/486](http://www.uspto.gov/web/patents/classification/uspcd14/defsd14.htm#CD14S485000). Under the US patent classification system, D14/486 is defined to include: 
 
-* **D14**: Recording, Communication or Information Retrieval Equipment
+* *D14*: Recording, Communication or Information Retrieval Equipment
 
-    * **D14/485 Generated Image**: Design for electronically produced symbol for computer that may be viewed on a computer screen.
+    * *D14/485 Generated Image*: Design for electronically produced symbol for computer that may be viewed on a computer screen.
 
-        * **D14/486 Drop down menu or full screen menu type**: Design for image that fills the entire display area of a computer screen or within a strictly defined area therein. 
+        * *D14/486 Drop down menu or full screen menu type*: Design for image that fills the entire display area of a computer screen or within a strictly defined area therein. 
 
 ## UI Layouts
 
 <img src="/images/design-patent/xerox-button-bar-ui-design-patent-1988.png" class="translucent">  
 
-Design patents for UI layouts are among the more interesting and important type of UI design patents. A clunky UI makes selecting files, navigating menus and launching applications a frustrating chore. But innovative techniques, especially for tablet devices, can make these tasks easier. 
+Design patents for UI layouts are among the more interesting and important type of UI design patents. A clunky UI will make selecting files, navigating menus and launching applications into a frustrating chore. But innovative techniques, especially for tablet devices, can make these tasks easier. 
 
 Adobe patented the layout of its iOS file selection system in [D’628](http://www.google.com/patents/USD691628). Note the use of dashed lines to depict the tablet: 
 
@@ -195,7 +195,7 @@ Autodesk’s [tour building wheel](http://docs.autodesk.com/ACD/2010/ENU/AutoCAD
 
 **Fonts** can be patented. Adobe regularly secures design patents for its fonts. 
 
-<img src="/images/design-patent/adobe-font-design-patent.png" class="translucent">  
+<img src="/images/design-patent/typeface-design-patent-slimbach-adobe-2012.png" class="translucent">  
 
 - - - 
 
