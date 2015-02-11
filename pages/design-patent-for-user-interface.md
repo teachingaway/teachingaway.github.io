@@ -24,7 +24,7 @@ share:
 <li><a href="#ui-design-patent-examples">UI Design Patent Examples</a><ul>
 <li><a href="#ui-layouts">UI Layouts</a></li>
 <li><a href="#animated-ui-elements">Animated UI Elements</a></li>
-<li><a href="#controls-icons-typography">Controls, Icons, Typography.</a></li>
+<li><a href="#controls">Controls, Icons, Typography.</a></li>
 </ul>
 </li>
 <li><a href="#design-patents-in-action-apple-v-samsung">Design Patents in Action: Apple v. Samsung</a></li>
