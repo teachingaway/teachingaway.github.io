@@ -11,13 +11,16 @@ image:
 share: 
 ---
 
-<p class="big-text">DRAFT POST</p>
 
-<p class="big-text">Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. </p>
+<p class="big-text">User interface designs can be protected by design patents. These design patents are a compelling addition to a company's intellectual property portfolio.</p>
 
+This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
+
+
+**This is a DRAFT article. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway).**
 
 <div class="toc">
-<p>Contents</p>
+
 <ul>
 <li><a href="#responsible-patent-ownership-and-use">Responsible Patent Ownership and Use</a></li>
 <li><a href="#law-of-design-patents">Law of Design Patents</a><ul>
@@ -46,24 +49,26 @@ share:
 
 Solving complicated UI problems creates real value. Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Let's start with public domain. 
 
-## Public Domain 
+### Public Domain 
 
 Not every UI design is eligible for a patent, and not every *eligible* design *should* to be patented. Donating a new design to the public domain promotes standardization across products. Many UI elements work best when they become *standardized*.  "Success in interaction design is largely a matter of following established patterns, so people can apply what they already know to new contexts."  [*Designing for Easy Interaction*](http://alistapart.com/article/designing-for-easy-interaction). 
 
 Most standard UI elements and patterns are already in the public domain, and many new UI designs can be donated to the community. Donating to the public domain is easy, but it's *not automatic*. To ensure a design is dedicated to the public, a designer should announce her intention with a Creative Commons "[CC0](http://creativecommons.org/about/cc0)" notice, or label it “no rights reserved” or “public domain.” That should do the trick. 
 
 
-## Creative Commons
+### Creative Commons
 
-If full-blown public domain is a little too free, Creative Commons offers some handy [standardized licenses.  ](http://creativecommons.org/choose/)CC licenses are generally free-as-in-beer, but generally *not* free-as-in-speech. The various CC options help designers retain rights to their work, while also encouraging other folks to use and sometimes build on the original design. For example, you can let people use it at no cost for non-commercial purposes, but charge them a fee if they want to use your design in business. Or you can let people use your design at no cost, but only if they give you credit and a link. 
+If full-blown public domain is a little too free, Creative Commons offers some handy [standardized licenses](http://creativecommons.org/choose/). CC licenses donate some rights to the public, but also keep some rights for the original author. The various CC options help designers retain rights to their work, while also encouraging other folks to use and sometimes build upon the original design.  
+
+
+- - - 
 
 # Responsible Patent Ownership and Use
 
 Patent trolls can be a serious problem, particularly in the software world. These patent problems tend to arise when designers and inventors lose control of their patents, and the patents eventually fall into the clutches of trolls. Some simple legal tools, like Twitter’s Innovator’s Patent Agreement, can prevent trolls from abusing  patents. Twitter’s [IPA](https://blog.twitter.com/2012/introducing-innovators-patent-agreement) prohibits weaponizing patents without the inventors consent, and the [Defensive Patent License](http://defensivepatentlicense.drupalgardens.com/) prohibits offensive patent litigation against anyone who decides to join the DPL pool.
 
-Twitter’s IPA is like the security systems installed in early [nuclear weapons](http://www.newyorker.com/online/blogs/newsdesk/2014/01/strangelove-for-real.html). "If the United States went to war, two people would be necessary to unlock a nuclear weapon, each of them provided with half the code." With the IPA, two people are required to launch a patent lawsuit: the owner and the inventor. This is a critical safety mechanism because inventors are rarely interested in filing frivolous lawsuits. In fact, most frivolous lawsuits seem to come from small patent-assertion companies that buy up patents several years after they’re issued. 
+Twitter’s IPA is like the [two-man rule](http://en.wikipedia.org/wiki/Two-man_rule) security systems installed in early [nuclear weapons](http://www.newyorker.com/online/blogs/newsdesk/2014/01/strangelove-for-real.html). "If the United States went to war, two people would be necessary to unlock a nuclear weapon, each of them provided with half the code." With the IPA, two people are required to launch a patent lawsuit: the owner and the inventor. This reduces the risk of frivolous patent litigation because inventors are often reluctant to permit a lawsuit.  
 
-This post has 3 parts. First, we discuss the basics of **design patent law** and how design patents differ from utility patents, copyright and trademarks. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
 
 # Law of Design Patents
 
