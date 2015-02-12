@@ -13,6 +13,9 @@ share:
 
 <p class="big-text">DRAFT POST</p>
 
+<p class="big-text">Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. </p>
+
+
 <div class="toc">
 <p>Contents</p>
 <ul>
@@ -41,15 +44,18 @@ share:
 </div>
 
 
-Design patents for digital user interface designs are often a compelling addition to an intellectual property portfolio. Solving complicated UI problems creates real value. 
+Solving complicated UI problems creates real value. Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Let's start with public domain. 
 
-Designers can either (a) donate this solution to the public domain, (b) lock it up in patents and copyrights, or (c) protect it at some intermediate level–*some rights reserved*. Lets start with public domain and the Creative Commons (some rights reserved), then scroll on over to design patents. 
+## Public Domain 
 
-**Public Domain**. Not every UI design is eligible for a patent, and not every *eligible* design *needs* to be patented. Most UI elements and patterns are already in the public domain, and new UI designs can be donated to the community. 
+Not every UI design is eligible for a patent, and not every *eligible* design *should* to be patented. Donating a new design to the public domain promotes standardization across products. Many UI elements work best when they become *standardized*.  "Success in interaction design is largely a matter of following established patterns, so people can apply what they already know to new contexts."  [*Designing for Easy Interaction*](http://alistapart.com/article/designing-for-easy-interaction). 
 
-Public domain is easy, but its not automatic. To ensure a design is dedicated to the public, a designer should announce her intention with a Creative Commons "[CC0](http://creativecommons.org/about/cc0)" notice, or label it “no rights reserved” or “public domain.” That should do the trick. 
+Most standard UI elements and patterns are already in the public domain, and many new UI designs can be donated to the community. Donating to the public domain is easy, but it's *not automatic*. To ensure a design is dedicated to the public, a designer should announce her intention with a Creative Commons "[CC0](http://creativecommons.org/about/cc0)" notice, or label it “no rights reserved” or “public domain.” That should do the trick. 
 
-**Creative Commons**. If full-blown public domain is a little too free, Creative Commons offers some handy [standardized licenses.  ](http://creativecommons.org/choose/)CC licenses are generally free-as-in-beer, but generally *not* free-as-in-speech. The various CC options help designers retain rights to their work, while also encouraging other folks to use and sometimes build on the original design. For example, you can let people use it at no cost for non-commercial purposes, but charge them a fee if they want to use your design in business. Or you can let people use your design at no cost, but only if they give you credit and a link. 
+
+## Creative Commons
+
+If full-blown public domain is a little too free, Creative Commons offers some handy [standardized licenses.  ](http://creativecommons.org/choose/)CC licenses are generally free-as-in-beer, but generally *not* free-as-in-speech. The various CC options help designers retain rights to their work, while also encouraging other folks to use and sometimes build on the original design. For example, you can let people use it at no cost for non-commercial purposes, but charge them a fee if they want to use your design in business. Or you can let people use your design at no cost, but only if they give you credit and a link. 
 
 # Responsible Patent Ownership and Use
 
@@ -319,13 +325,13 @@ Designing for Humans - [Patent Skills for User Experience Design](http://www.des
 
 Kenneth Carter, "[Form Following Function Keys, Design Patentability of Computer-Generated Icons, the Virtual Article of Manufacture](http://kennethrcarter.com/vita/pubs/NOTEAELJ17.htm)." (1988?). 
 
-*[Ex parte Strijland*,](http://ipmall.info/hosted_resources/commissioner_decisions/cd_86.pdf)[ 26 USPQ2d 1259 (BPAI 1992)](http://ipmall.info/hosted_resources/commissioner_decisions/cd_86.pdf). 
+[*Ex parte Strijland*, 26 USPQ2d 1259 (BPAI 1992)](http://ipmall.info/hosted_resources/commissioner_decisions/cd_86.pdf). 
 
 Tracy-Gene Durkin, "[What is Next in Design Patents for On-Screen Icons?](http://www.patentlyo.com/patent/2013/03/page/2/)" Patently-O Blog, March 6, 2013. 
 
 Pamela Samuelson, [Survey on the Patent/Copyright Interface for Computer Programs](http://scholarship.law.berkeley.edu/cgi/viewcontent.cgi?article=1251&context=facpubs) 17 AIPLA Q. J. 256 (1989). 
 
-**_User Interface Design_**
+**User Interface Design**
 
 Josh Miller’s [Principles of User Interface Design](http://bokardo.com/principles-of-user-interface-design/)
 
@@ -368,15 +374,7 @@ Designers should also learn the fundamentals of design patent law  because they 
 
 <hr class="tall">
 
-# Standardization
 
-Some UI elements work best when they become standardized across products. Other elements can drive sales by maintaining a unique experience. Who should decide? 
-
-When a technology becomes essential to a field of technology, special licensing rules apply (it must be licensed out at a "fair and reasonable" rate, whatever that means). 
-
-"Success in interaction design is largely a matter of following established patterns, so people can apply what they already know to new contexts."  *[Designing for Easy Interactio*n](http://alistapart.com/article/designing-for-easy-interaction). 
-
-Generally, you need to secure your intellectual property rights early, either just before or just after you ship. If you secure them early, you can choose not to use them. But if you dither at the start, and someone steals your thunder, you may find its too late to secure any rights at all. 
 
 
 Incumbents like Apple will not hesitate to "[steal](http://techcrunch.com/2013/06/10/ios-7-steals-mailboxs-gestures-sunrises-layout-bb10s-back-button-weboss-multitasking/)" or “[remix](http://www.theverge.com/2013/6/11/4418188/apple-ios-7-design-influences)” interesting UI designs from energetic startups.   [[Scamper Ghost game](http://junkyardsam.com/kingcopied/)] On one hand, design patents can discourage big companies from taking a free-ride on your design work. But design patents are a tool that can be misused. 
