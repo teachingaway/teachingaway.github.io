@@ -14,7 +14,7 @@ share:
 
 <p class="big-text">User interface designs can be protected by design patents. These design patents are a compelling addition to a company's intellectual property portfolio.</p>
 
-This post has 3 parts. First, we discuss the basics of **design patent law** and how design patent protection differs from utility patent, copyright, and trademark protection. Second, we give some **examples** of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property **portfolios**. 
+This post has 3 parts. First, we discuss the basics of *design patent law* and how design patent protection differs from utility patent, copyright, and trademark protection. Second, we give some *examples* of how technology companies use design patents to protect user interface elements like layouts, transitions, controls, and typography.  Finally, we discuss how technology startups can use design patents to build robust intellectual property *portfolios*. 
 
 
 **This is a DRAFT article.** Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway).
