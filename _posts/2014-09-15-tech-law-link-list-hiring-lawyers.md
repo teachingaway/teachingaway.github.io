@@ -28,6 +28,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 </ul>
 </div>
 
+- - - 
 
 ### Hire a *Startup* Lawyer, But Not Necessarily Your *Investor’s* Startup Lawyer
 
@@ -35,15 +36,19 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 [Don’t Use Your Lead Investor’s Lawyers](http://siliconhillslawyer.com/2014/01/05/lead-investor-startup-lawyer-dont/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. "If your lawyer makes more money off of your investors than he does from you, he’s not really your lawyer."
 
+- - - 
+
 ### Finding the Right Lawyer
 
 [Why Experienced Entrepreneurs Hire Better Lawyers](http://siliconhillslawyer.com/2012/11/22/why-experienced-entrepreneurs-hire-better-lawyers/). *[Jose Ancer](https://twitter.com/ancerj), 2013*. "Experienced entrepreneurs hire efficient lawyers. Inexperienced entrepreneurs hire cheap ones."
 
 [The Startup Lawyer Tech Audit](http://siliconhillslawyer.com/2012/05/16/the-startup-lawyer-tech-audit/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. Hire a lawyer that understands technology and uses it to make her practice more efficient. 
 
-* [It’s the Hours, Not the Rate](http://www.jasonmendelson.com/wp/archives/2013/01/its-the-hours-not-the-rate-why-most-people-focus-on-the-wrong-thing-when-choosing-a-lawyer.php). *[Jason Mendelson](https://twitter.com/jasonmendelson), 2013*. "In all my years of auditing lawyer bills, it’s the hours that always stand out.  The hours, in any complex matter are what spiral out of control.  In these big issue situations (litigation, patent stuff, M&A, IPOs, etc.), the amount of hours that an efficient and creative lawyer will save you far, far outweigh whatever hourly rate they may charge. 
+[It’s the Hours, Not the Rate](http://www.jasonmendelson.com/wp/archives/2013/01/its-the-hours-not-the-rate-why-most-people-focus-on-the-wrong-thing-when-choosing-a-lawyer.php). *[Jason Mendelson](https://twitter.com/jasonmendelson), 2013*. "In all my years of auditing lawyer bills, it’s the hours that always stand out.  The hours, in any complex matter are what spiral out of control.  In these big issue situations (litigation, patent stuff, M&A, IPOs, etc.), the amount of hours that an efficient and creative lawyer will save you far, far outweigh whatever hourly rate they may charge. 
 
-* [Picking a Startup Lawyer in NYC](http://mattmireles.com/picking-a-startup-lawyer-in-nyc/). Matt Mireles, 2010. Make sure your lawyer is focused on wealth maximization, not risk mitigation. Includes some recommendations for individual NYC lawyers.  
+[Picking a Startup Lawyer in NYC](http://mattmireles.com/picking-a-startup-lawyer-in-nyc/). Matt Mireles, 2010. Make sure your lawyer is focused on wealth maximization, not risk mitigation. Includes some recommendations for individual NYC lawyers.  
+
+- - - 
 
 ### Working with Lawyers
 
@@ -52,6 +57,8 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 [Lawyers are referees, not coaches](http://venturehacks.com/articles/referees). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2008*. Lawyers teach you the rules of the game, but not how to win it. Your lawyer will tell you whether something is legal and whether it would breach a contract. A good lawyer can tell you about problems that tend to arise in similar deals. However, lawyers generally can’t tell you whether something will create value. 
 
 [Contracts are for the Divorce; Not the Honeymoon](http://siliconhillslawyer.com/2014/07/16/startup-contracts-divorce-marriage/). *[Jose Ancer](https://twitter.com/ancerj), 2014*. Some lawyers make mountains out of molehills. Others provide real value by helping founders avoid legal traps. Know when to listen to your lawyer and when to listen to your VC. 
+
+- - - 
 
 ### Lawyer Fees
 
@@ -76,6 +83,8 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 [A Challenge To Startup Lawyers](http://avc.com/2011/03/a-challenge-to-startup-lawyers/). *[Fred Wilson](https://twitter.com/fredwilson), 2011.* "When you have a seed stage company that needs to incorporate and close a seed round where all parties are willing to close on a set of standard docs without negotiation and where the investors agree to go without counsel, I think the legal fees for such a transaction should be $5,000 or less." 
 
+- - - 
+
 ### How much Law Should Founders Learn? 
 
 [Entrepreneurs Need to Learn Some Law](http://cdixon.org/2009/09/13/entrepreneurs-need-to-learn-some-law/). *[Chris Dixon](https://twitter.com/cdixon), 2009*. "you can’t outsource the understanding of key financing and other legal documents to lawyers."
@@ -83,6 +92,8 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 [Reading your Legal Docs](http://venturehacks.com/articles/legal-docs). *[Babak Nivi](https://twitter.com/nivi), Venture Hacks, 2011*. "Read and understand everything in the term sheet. But when it comes to the closing docs, ask your lawyer to explain...."
 
 [You Should Read Every Word of Every Legal Doc](http://blog.eladgil.com/2011/06/you-should-read-every-word-of-every.html). *Elad Gil, 2011*. That’s a lot of reading. 
+
+- - - 
 
 ### Anti-Lawyer Rants
 
