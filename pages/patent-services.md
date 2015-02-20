@@ -218,16 +218,13 @@ CBM is fast, often reaching a findal decision within 12-18 months. This is about
 
 There is less "estoppel" risk in a CBM than in other PTAB proceedings. A party that loses a CBM cannot go to federal court to reargue the invalidity grounds that it *actually asserted* at the CBM. In other PTAB proceedings, the losing party will be estopped from later asserting invalidity arguments that "reasonably could have been" asserted at the PTAB.  
 
-
-
 ## Post Grant Review: Invalidating Recently Issued Patents 
 
 Patents that have been issued within the last 9 months are subject to the "Post Grant Review" procedure. In a PGR, a patent can be invalidated based on *any grounds*. In an inter-partes review, a patent can only be invalidated based on prior art. 
 
-There is some "estoppel" risk involved in a PGR. A party that files a PGR and loses will not be able to argue invalidity again in federal court on any grounds that it "reasonably could have asserted" at the PGR. Since the PGR allows for more types of invalidity arguments than an IPR, there is the possibility of broader estoppel. 
+There is some "estoppel" risk involved in a PGR. A party that files a PGR and loses will not be able to argue invalidity again in federal court on any grounds that it "reasonably could have asserted" at the PGR. Since the PGR allows for invalidity arguments based on any grounds, there is a risk of creating broad estoppel.  
 
-  
-## Ex Parte Reexamination: Ask the Patent Office to Double-Check 
+## Ex Parte Reexam: Ask the Patent Office to Double-Check 
 
 Anyone can ask the Patent Office to reexamine a patent at any time. The Patent Office will review the patent for invalidity based on prior art in patents or printed publications. The review will only take place if the petition presents a "substantial new question of patentability." If the Patent Office grants the petition, the review is ex parte - the petition does not have an opportunity to present arguments. More details are described in [MPEP 2209](/mpep/s2209.html). 
 

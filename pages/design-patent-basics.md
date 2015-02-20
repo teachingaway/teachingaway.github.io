@@ -341,7 +341,7 @@ Facebook has a design patent on its two-silhouette "friend" icon. Notice that ev
 
 Fonts can be patented. Adobe regularly secures design patents for its fonts. This is particularly important because copyright law does not protect fonts themselves (although copyright will protect the *software* that draws fonts). Here are two examples of typeface design patents. The first is from Robert Slimbach, and I think it's for an italic Garamond(?). The second is from Charles Bigelow and Kris Holmes, for a Lucida Sans(?). 
 
-<img src="/images/design-patent/typeface-design-patent-slimbach-adobe-2012" class="translucent">  
+<img src="/images/design-patent/typeface-design-patent-slimbach-adobe-2012.png" class="translucent">  
 
 - - - 
 
