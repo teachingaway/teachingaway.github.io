@@ -406,6 +406,20 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 - - - 
 
+**See also, King Kong v. Donkey Kong**
+
+In a somewhat similar case, Universal sued Nintendo in 1982, and alleging that Donkey Kong was merely a copy of King Kong. One notable difference is that this was a **trademark** case, not a copyright case. Universal basically argued that Donkey Kong was so similar to King Kong that consumers would mistakenly believe there was some association between the two companies. in this case is that accused Nintendo of stealing King  for allegedly copying  
+
+The court starts off with a wonderful description of the game: 
+
+> Donkey Kong requires the player to maneuver a computerized man named Mario up a set of girders, ladders and elevators to save a blond pigtailed woman from the clutches of a malevolent, yet humorous gorilla, while simultaneously avoiding a series of objects such as barrels and fireballs hurled at him by the impish ape.
+[*Universal City Studios, Inc. v. Nintendo Co.*, 746 F.2d 112 (2d Cir. 1984)](https://scholar.google.com/scholar_case?case=18336133881200662092). 
+
+On the issue of consumer confusion between the stories, the court found that "The two properties have nothing in common but a gorilla, a captive woman, a male rescuer and a building scenario." The two names were not confusing either: "Nintendo's use of the prefix 'Donkey' has no similarity in meaning or sound with the word 'King.' When taken as a whole, we find as a matter of law that 'Donkey Kong' does not evoke or suggest the name of King Kong." [*Universal v. Nintendo*, 746 F.2d 112 (2d Cir. 1984)](https://scholar.google.com/scholar_case?case=18336133881200662092).   
+ 
+
+
+- - - 
 
 
 ## Tetris Infringed by Mino (2012)
