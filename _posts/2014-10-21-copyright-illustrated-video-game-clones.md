@@ -28,7 +28,7 @@ Let's start with some easy answers. A clone infringes an original game if an "or
 
 - Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
 - Creative and original expression is protected against "substantially similar" copies. 
-- If the expression is not so original, copyright affords only a "thin" protection. This  "thin" copyright prevents *identical* copying, but allows clones that make just a few minor changes. 
+- If the expression is not so original, then copyright affords only a "thin" protection. This  "thin" copyright prevents *identical* copying, but allows clones that make just a few minor changes. 
 
 Before looking for "substantial similarity", judges try to "filter out" the unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. 
 
@@ -408,7 +408,7 @@ Before comparing the game to the original movie, the court filtered out the unpr
 
 **See also, King Kong v. Donkey Kong**
 
-In a somewhat similar case, Universal sued Nintendo in 1982, and alleging that Donkey Kong was merely a copy of King Kong. One notable difference is that this was a **trademark** case, not a copyright case. Universal basically argued that Donkey Kong was so similar to King Kong that consumers would mistakenly believe there was some association between the two companies. in this case is that accused Nintendo of stealing King  for allegedly copying  
+In a somewhat similar case, Universal sued Nintendo alleging that Donkey Kong was merely a copy of King Kong. Note that this was a **trademark** case, not a copyright case. Universal argued that Donkey Kong was so similar to King Kong that consumers would mistakenly believe there was some association between the two companies. Universal lost.   
 
 The court starts off with a wonderful description of the game: 
 
