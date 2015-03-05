@@ -16,7 +16,7 @@ share: true
 
 
 
-<p class="big-text">I'm an IP lawyer without any particular expertise in equity compensation & tax law. I've been learning about options, vesting, and equity incentives because I'm jealous of lawyers who get to say things like "double-trigger acceleration with a two-year cliff."  Here's a collection of some of my notes and some of the most informative blog posts I've found. </p>
+<p class="big-text">I'm an IP lawyer without any particular expertise in equity compensation & tax law. I've been learning about options, vesting, and equity incentives because I'm jealous of lawyers who get to say things like "double-trigger acceleration with a two-year cliff."  Here's a collection of my notes and some of the most informative blog posts I've found. </p>
 
 
 <div class="toc">
