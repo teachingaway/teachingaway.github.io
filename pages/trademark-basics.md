@@ -259,7 +259,19 @@ When a trademark becomes "famous", it is awarded an even higher level of protect
 
 # Use in Commerce
 
-To qualify for a trademark, a mark must be "used in commerce" and this commerce  must be "interstate commerce." The Trademark Act defines "use in commerce", but does not offer guidance on how "interstate" the commerce needs to be. Fortunately, just about anything that affects interstate commerce, even interstate advertising, will satisfy the "interstate" requirement. 
+To qualify for a trademark, a mark must be "used in commerce" and this commerce  must be "interstate commerce." The Trademark Act defines "use in commerce", but does not define when commerce becomes "interstate."  Fortunately, just about anything that affects interstate commerce, even interstate advertising, will satisfy the "interstate" requirement. 
+
+[15 USC 1127](https://www.law.cornell.edu/uscode/text/15/1127): 
+> The term “use in commerce” means the bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark. For purposes of this chapter, a mark shall be deemed to be in use in commerce—
+
+> - (1) on **goods** when—
+
+> - - (A) it is placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and
+
+> - - (B) the goods are sold or transported in commerce, and
+
+> - (2) on **services** when it is used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services.
+
 
 ## Bona Fide Use in Commerce Requirement
 
@@ -267,6 +279,8 @@ The Trademark Act defines “use in commerce” as the "bona fide use of a mark 
 15 U.S.C. §1127.  For goods, a mark is "used in commerce" when it is "placed in any manner on the goods or their containers or the displays associated therewith or on the tags or labels affixed thereto, or if the nature of the goods makes such placement impracticable, then on documents associated with the goods or their sale, and the goods are sold or transported in commerce." 
 
 For services, a mark is "used in commerce" when it is "used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services." 15 U.S.C. §1127.
+
+[*David Couture v. Playdom* (Fed. Cir. 2015)](http://www.cafc.uscourts.gov/images/stories/opinions-orders/14-1480.Opinion.2-26-2015.1.PDF).
 
 ## Interstate Commerce Requirement
 
