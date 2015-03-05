@@ -16,7 +16,7 @@ share: true
 
 
 
-<p class="big-text">I'm an IP lawyer without any particular expertise in equity compensation & tax law. I've been learning about options, vesting, and equity incentives because I'm jealous of lawyers who get to say things like "double-trigger acceleration with a two-year cliff."  Here's a collection of my notes and some of the most informative blog posts I've found. </p>
+<p class="big-text">I'm mainly an IP lawyer, but recently, I've been learning about options, vesting, and equity incentives for startups. Here's a collection of my notes and some of the most informative blog posts I've found. </p>
 
 
 <div class="toc">
@@ -43,47 +43,45 @@ share: true
 
 - - - 
 
-Two Caveats: First, I'm not an expert in equity compensation or tax law. Second, I think all of these posts are worth reading, but I they may not be the right advice for you or your company. 
+Caveat: I'm not an expert in equity compensation or tax law. This information may not be the right advice for you or your company. 
 
 - - - 
 
 
 # Equity Compensation 
 
-Know the difference between "stock options" and "restricted stock" and, more importantly, the tax consequences of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for a pre-series A company.  
+Any dealing with equity compensation should know the difference between "stock options" and "restricted stock" and the tax consequences of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for early stage companies with low valuations (pre-seed or pre-Series A).  
 
 ## Number of Shares Outstanding (Fully Diluted)
 
-Employers love to offer thousands of shares of company equity. "Thousands" is a big number, but by itself, the number of shares is meaningless. Imagine I told you I had a million dollars of gold divided up into equal-size pieces. Then I offered to give you 10,000 "pieces" of gold in exchange for 4 years of work. Obviously, you'd want to know the weight of a "piece." A milligram? A microgram? It makes a difference. 
+Employers love to offer *thousands* of shares of company equity. "Thousands" is a big number, but by itself, the number of shares is meaningless. Imagine I told you I had a million dollars of gold divided up into equal-size pieces. Then I offered to give you 10,000 "pieces" of gold in exchange for 4 years of work. Obviously, you'd want to know the weight of a "piece." A milligram? A microgram? It makes a difference. 
 
-What employee-candidates really want to know is what percentage of the company does the equity represent. Specifically, they should ask for the number of shares outstanding on a "**fully diluted**" basis. The number of shares needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
+Likewise, employee-candidates need to know the percentage of the company that the offered equity represents. Specifically, they should ask for the number of shares outstanding on a "**fully diluted**" basis. The number of shares needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
 
 [The one number you should know about your equity grant](http://cdixon.org/2009/08/28/the-one-number-you-should-know-about-your-equity-grant/). [*Chris Dixon*](https://twitter.com/cdixon), 2009. "The only thing that matters in terms of your equity when you join a startup is what percent of the company they are giving you.  If management tells you the number of shares and not the total shares outstanding so you can’t compute the percent you own – *don’t join the company!*"
 
-[I have a job offer at a startup, am I getting a good deal?](http://venturehacks.com/articles/job-offer). [*Babak Nivi*](https://twitter.com/nivi), 2008. 
+[I have a job offer at a startup, am I getting a good deal?](http://venturehacks.com/articles/job-offer). [*Babak Nivi*](https://twitter.com/nivi), 2008. The AngelList founder lists 10 important questions to ask a potential employer, including "What are my options worth?" and "What percentage of the company do my options represent on a fully diluted basis?" 
 
 
 ## Stock Options - Startup's Perspective 
 
 [The Right Way to Grant Equity to Your Employees](http://firstround.com/article/The-Right-Way-to-Grant-Equity-to-Your-Employees). [*Andy Rachleff*](https://twitter.com/arachleff), 2014. A description of the equity incentive plan used at Wealthfront and other Benchmark Capital portfolio companies. It emphasizes increasing equity grants with each promotion, as well as evergreen grants that avoid any hard vesting "cliffs" that might encourage employee to think about leaving. 
 
-[Employee Equity: Options](http://avc.com/2010/10/employee-equity-options/). [*Fred Wilson*](https://twitter.com/fredwilson), 2011. 
+Renowned VC [*Fred Wilson*](https://twitter.com/fredwilson) has written a series of posts that attempt to explain employee equity, mainly from the startup's perspective:  
 
-[Sizing Option Pools In Connection With Financings](http://avc.com/2011/05/sizing-option-pools-in-connection-with-financings/). [*Fred Wilson*](https://twitter.com/fredwilson), 2011. 
+- [Employee Equity](http://avc.com/2010/09/employee-equity-2/), 2010. 
+- [Employee Equity: Options](http://avc.com/2010/10/employee-equity-options/), 2010.
+- [Employee Equity: Dilution](http://avc.com/2010/10/employee-equity-dilution/), 2010.
+- [Employee Equity: Appreciation](http://avc.com/2010/10/employee-equity-appreciation/), 2010. 
+- [Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/), 2010.
+- [Sizing Option Pools in Connection with Financings](http://avc.com/2011/05/sizing-option-pools-in-connection-with-financings/), 2011. 
+- [Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)?  2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, some more structured formulas can be applied. 
 
 
-[Employee Equity: How Much](http://avc.com/2010/11/employee-equity-how-much/)? [*Fred Wilson*](https://twitter.com/fredwilson), 2011. For the first 3-5 hires, equity grants are more art than science. After that, when the business is starting to scale up, Fred offers some formulas to help set the size of employee equity grants. 
 
 [An alternative to employee options/equity grants](https://signalvnoise.com/posts/2987-an-alternative-to-employee-optionsequity-grants). [*Jason Fried*](https://twitter.com/jasonfried), 2011. A short description of Basecamp's simple contractual plan to pay bonuses to employees in the event of an IPO. 
 
 
-[Employee Equity](http://avc.com/2010/09/employee-equity-2/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
-
-[Employee Equity: Dilution](http://avc.com/2010/10/employee-equity-dilution/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
-
-[Employee Equity: Appreciation](http://avc.com/2010/10/employee-equity-appreciation/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. 
-
-[Employee Equity: The Liquidation Overhang](http://avc.com/2010/10/employee-equity-the-liquidation-overhang/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010.
 
 
 
