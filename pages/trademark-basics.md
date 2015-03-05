@@ -259,9 +259,7 @@ When a trademark becomes "famous", it is awarded an even higher level of protect
 
 # Use in Commerce
 
-To qualify for a trademark, a mark must be "used in commerce" and this commerce  must be "interstate commerce." The Trademark Act defines "use in commerce", but does not define when commerce becomes "interstate."  Fortunately, just about anything that affects interstate commerce, even interstate advertising, will satisfy the "interstate" requirement. 
-
-[15 USC 1127](https://www.law.cornell.edu/uscode/text/15/1127): 
+To qualify for a federal trademark registration, a mark must be "used in *commerce*" and this commerce  must be "*interstate* commerce." The Trademark Act defines "use in commerce", but its definition of when commerce becomes "interstate" is somewhat less helpful  Fortunately, the *interstate* element of the commerce requirement is fairly easy to satisfy. From the statute, [15 USC 1127](https://www.law.cornell.edu/uscode/text/15/1127): 
 
 > The term “use in commerce” means the bona fide use of a mark in the ordinary course of trade, and not made merely to reserve a right in a mark. For purposes of this chapter, a mark shall be deemed to be in use in commerce—
 
