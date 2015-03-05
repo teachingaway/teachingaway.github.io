@@ -14,9 +14,9 @@ comments: true
 share: true
 ---
 
-**Warning**. I'm an IP lawyer without any particular expertise in equity compensation & tax law. --Eric
 
-<p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
+
+<p class="big-text">I'm an IP lawyer without any particular expertise in equity compensation & tax law. I've been learning about options, vesting, and equity incentives because I'm jealous of lawyers who get to say things like "double-trigger acceleration with a two-year cliff."  Here's a collection of some of my notes and some of the most informative blog posts I've found. </p>
 
 
 <div class="toc">
@@ -43,7 +43,7 @@ share: true
 
 - - - 
 
-Caveat: this may not be the right advice for you or your company. 
+Two Caveats: First, I'm not an expert in equity compensation or tax law. Second, I think all of these posts are worth reading, but I they may not be the right advice for you or your company. 
 
 - - - 
 

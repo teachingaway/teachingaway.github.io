@@ -287,7 +287,13 @@ Even if a mark is only used within a single state, it may still be considered "i
 - A single-location billiard parlor was considered interstate commerce because its services were advertised in both Kansas and New York. *U.S. Shoe Corp. v. J. Riggs West, Inc.*, 221 USPQ 1020 (TTAB 1984). 
 
 
+# "Intent to Use" Trademark Applications
 
+US trademark law allows companies to reserve trademarks they intent to start using in the near future. [15 USC §1051](https://www.law.cornell.edu/uscode/text/15/1051). This is often called a "§ 1(b)" application.  
+
+**Time Limit.** Trademark rights may be reserved in this manner for only a limited in time. If the intent-to-use application is approved, the applicant must demonstrate actual use in commerce within six months of the application's notice of allowance. This time limit may be extended for five additional six-month periods, for a total time limit of 36 months from the date of the notice of allowance. 
+
+**Strategy**. Companies should file intent-to-use applications as soon as they have settled on a name for a new product or service. This begins the trademark application process early. It generally takes *at least* four months from application to allowance. By getting a head-start on their trademark work, companies may be able to obtain a registered trademark soon after their product hits the market. 
 
 - - - 
 
