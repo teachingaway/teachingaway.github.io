@@ -146,6 +146,13 @@ Founders and early employees may be able to negotiate for an "acceleration"  cla
 -  "Acceleration" generally refers to automatic vesting upon a merger or acquisition of the company. This is favorable to the employee, but the acquiring company will not be happy if all of the key employees vanish soon after the acquisition. 
 - "Double-Trigger Acceleration" refers to automatic vesting upon both (i) a merger and (ii) the new company firing the employee. This should be less objectionable to startups and acquiring companies because it still incentives employees to stay with the new company after a merger. 
 
+
+## Acquisitions: Assumption of Option Plan
+
+Employees should know what will happen to their option plan if the company is acquired. Will the options vest immediately? Will the new company "assume" the option plan and give you the same deal? Some option plans do not require an acquiring company to assume the plan, which can hurt employees. 
+
+[If you have startup stock options, check your option plan](http://blog.conspire.com/post/112700131803/if-you-have-startup-stock-options-check-your). [Alex Devkar](https://twitter.com/alexdevkar), 2015. "The acquirer—your new boss—comes to you and says that the remaining half of your options are gone. If you want to keep your job, you have to sign a new equity agreement which won’t make you nearly as much money and comes with a new 4 year vesting schedule that starts today. Can they do that?"
+
 - - - 
 
 # Tax Issues 
