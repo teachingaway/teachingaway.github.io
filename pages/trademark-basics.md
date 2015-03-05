@@ -281,7 +281,8 @@ The Trademark Act defines “use in commerce” as the "bona fide use of a mark 
 
 For services, a mark is "used in commerce" when it is "used or displayed in the sale or advertising of services and the services are rendered in commerce, or the services are rendered in more than one State or in the United States and a foreign country and the person rendering the services is engaged in commerce in connection with the services." 15 U.S.C. §1127.
 
-[*David Couture v. Playdom* (Fed. Cir. 2015)](http://www.cafc.uscourts.gov/images/stories/opinions-orders/14-1480.Opinion.2-26-2015.1.PDF).
+Merely advertising the available of services is not sufficient. The advertising must be made in connection with an actual offering of the services in question. 
+“To qualify for registration, the Lanham Act requires that the mark be both used in the sale or advertising of services and that the services themselves have been rendered in interstate or foreign commerce.” [*David Couture v. Playdom* (Fed. Cir. 2015)](http://www.cafc.uscourts.gov/images/stories/opinions-orders/14-1480.Opinion.2-26-2015.1.PDF) (citing *McCarthy on Trademarks and Unfair Competition* §19:103 (4th ed. Supp. 2013)). 
 
 ## Interstate Commerce Requirement
 
