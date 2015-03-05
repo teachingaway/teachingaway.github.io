@@ -1,6 +1,6 @@
 ---
 layout: post
-includeinbloglist: "no"
+includeinbloglist: "yes"
 longform: "no"
 title: "Startup Employee Equity Compensation"
 summary: "Curated links on employee equity, including stock options and related tax issues."
@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-**DRAFT POST**. And unlike my posts on IP law, I don't have any particular expertise in equity compensation & tax law. --Eric
+**Warning**. I'm an IP lawyer without any particular expertise in equity compensation & tax law. --Eric
 
 <p class="big-text">Here's our curated <a href="/tags/#link+list">link list</a> on employee equity incentives, including stock grants, stock options, and related tax issues.</p> 
 
