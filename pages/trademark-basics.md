@@ -105,11 +105,9 @@ For example, Bass Ale's red triangle is a famous design mark. It's been in conti
 
 ### Should I file a Design Mark and Word Mark Together? 
 
-A "word mark" (also called a "standard character" mark) protects a word in any font or style. "A registrant is entitled to all depictions of a standard character mark regardless of the font style, size, or color...." [MPEP 1207.01(c)(iii)](http://adlervermillion.com/tmep/tmep-1207-likelihood-of-confusion.html#TMEP-1200d1e6043). 
+Company branding commonly involves a word in a particular font and/or a word and a symbol together. This type of branding can either be combined into a single trademark application, or separated out into a "word mark" application and a "design mark" application. 
 
-A "design mark" (also called a "special form" mark) affords a more limited protection. If the design includes letters in a particular font or color, the owner may have trouble enforcing the trademark against companies that use a similar word in a different font or different color. 
-
-Likewise, a design mark that includes letters and a logo or drawing affords a more limited protection than a pure word mark.  It may be difficult to enforce such a design mark against a company that uses a similar word with a different logo. 
+A "word mark" (also called a "standard character" mark) protects a word in any font or style. "A registrant is entitled to all depictions of a standard character mark regardless of the font style, size, or color...." [MPEP 1207.01(c)(iii)](http://adlervermillion.com/tmep/tmep-1207-likelihood-of-confusion.html#TMEP-1200d1e6043).  A "design mark" (also called a "special form" mark) affords a more limited protection. If the design includes letters in a particular font or color, the owner may have trouble enforcing the trademark against companies that use a similar word in a different font or different color. Likewise, a design mark that includes letters and a logo or drawing affords a more limited protection than a pure word mark.  It may be difficult to enforce such a design mark against a company that uses a similar word with a different logo. 
 
 As a result, trademark owners should generally register their word marks and design marks separately. The filing fees will be more expensive, but the resulting trademark protection will be broad. It's generally worth paying the extra fees in order to get this protection. 
 
