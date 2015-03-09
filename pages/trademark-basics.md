@@ -103,6 +103,16 @@ For example, Bass Ale's red triangle is a famous design mark. It's been in conti
 
 <img src="/images/trademark/bass-first-uk-trademark-1876.jpg" class="translucent pad-vertical">
 
+### Should I file a Design Mark and Word Mark Together? 
+
+A "word mark" (also called a "standard character" mark) protects a word in any font or style. "A registrant is entitled to all depictions of a standard character mark regardless of the font style, size, or color...." [MPEP 1207.01(c)(iii)](http://adlervermillion.com/tmep/tmep-1207-likelihood-of-confusion.html#TMEP-1200d1e6043). 
+
+A "design mark" (also called a "special form" mark) affords a more limited protection. If the design includes letters in a particular font or color, the owner may have trouble enforcing the trademark against companies that use a similar word in a different font or different color. 
+
+Likewise, a design mark that includes letters and a logo or drawing affords a more limited protection than a pure word mark.  It may be difficult to enforce such a design mark against a company that uses a similar word with a different logo. 
+
+As a result, trademark owners should generally register their word marks and design marks separately. The filing fees will be more expensive, but the resulting trademark protection will be broad. It's generally worth paying the extra fees in order to get this protection. 
+
 ## Trade Dress
 
 Trade dress is unique product packaging or a product configuration that distinguishes one brand from another. Trade Dress can be any element of the “total image and overall appearance” of a product, or the totality of the elements, and “may include features such as size, shape, color or color combinations, texture, graphics.” [TMEP 1202.02](/tmep/tmep-1200.html#TMEP-1200d1e835). Even a restaurant theme or atmosphere or decoration can be registered as trade dress. Trade dress must be (1) distinctive and (2) non-functional. 
