@@ -55,7 +55,7 @@ Anyone dealing with equity compensation should know the difference between "stoc
 
 ## Number of Shares Outstanding (Fully Diluted)
 
-Employers love to offer *thousands* of shares of company equity. "Thousands" is a big number, but by itself, the number of shares is meaningless. Imagine I told you I had a million dollars of gold divided up into equal-size pieces. Then I offered to give you 10,000 "pieces" of gold in exchange for 4 years of work. Obviously, you'd want to know the weight of a "piece." A milligram? A microgram? It makes a difference. 
+Employers love to offer *thousands* of shares of company equity. "Thousands" is a big number, but by itself, the number of shares is meaningless. Imagine I told you I had a million dollars of gold divided up into equal-size pieces. Then I offered to give you 10,000 "pieces" of gold in exchange for 4 years of work. Obviously, you'd want to know the weight of a "piece." A milligram? A microgram? A zeptogram? It makes a difference. 
 
 Likewise, employee-candidates need to know the percentage of the company that the offered equity represents. Specifically, they should ask for the number of shares outstanding on a "**fully diluted**" basis. The number of shares needs to include the common stock, preferred stock, options outstanding, unissued shares remaining in the options pool, warrants and convertible notes. 
 
