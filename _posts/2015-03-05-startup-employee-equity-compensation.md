@@ -50,7 +50,7 @@ Caveat: I'm not an expert in equity compensation or tax law. This information ma
 
 # Equity Compensation 
 
-Any dealing with equity compensation should know the difference between "stock options" and "restricted stock" and the tax consequences of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for early stage companies with low valuations (pre-seed or pre-Series A).  
+Anyone dealing with equity compensation should know the difference between "stock options" and "restricted stock" and the **tax consequences** of each.  A **stock option** is the right to buy stock in the future at a pre-determined price. **Restricted stock** is almost the reverse: the employee receives the stock today, but the startup can buy it back from the employee in the future. Restricted stock tends to be the better tax arrangement for the employee, especially for early stage companies with low valuations (pre-seed or pre-Series A).  
 
 ## Number of Shares Outstanding (Fully Diluted)
 
