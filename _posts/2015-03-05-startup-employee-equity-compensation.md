@@ -16,10 +16,11 @@ share: true
 
 
 
-<p class="big-text">I'm mainly an IP lawyer, but recently, I've been learning about options, vesting, and equity incentives for startups. Here's a collection of my notes and some of the most informative blog posts I've found. </p>
+<p class="big-text">I'm an IP lawyer, but I've recently been learning about options, vesting, and equity incentives for startups. Here's a collection of my notes and links to some informative blog posts. </p>
 
 
 <div class="toc">
+Contents
 <ul>
 <li><a href="#equity-compensation">Equity Compensation</a><ul>
 <li><a href="#number-of-shares-outstanding-fully-diluted">Number of Shares Outstanding (Fully Diluted)</a></li>
