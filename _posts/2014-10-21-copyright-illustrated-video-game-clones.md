@@ -20,15 +20,11 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how much copying is allowed before a clone becomes a copyright infringement? Looking at individual copyright infringement cases, the answers can seem arbitrary. 
+Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how do we tell the difference? How much copying is allowed before a clone becomes a copyright infringement? Looking at individual copyright infringement cases, the answers can seem arbitrary. 
 
-In a 1994 case, copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was merely sincere flattery. In one case, copying the size of the Tetris game board (10x20) was infringement, but in another case, copying the size of the Triple Town game board (6x6) was allowed.
+In a 1994 case, copying Chun Li's 'head stomp' was improper imitation, but in that same case, copying Sagat’s 'tiger knee' was just sincere flattery. In one case, copying the size of the Tetris game board (10x20) was infringement, but in another case, copying the size of the Triple Town game board (6x6) was allowed.
 
-Sometimes, we can identify valid copyright rationales behind these apparent discrepancies. But that's not what this post is really about. This is a post about comparing the visuals from video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning behind the decisions, but video game designers might prefer to get a quick glance at some games there were infringing, and some others that were not. 
-
-
-
-
+Sometimes, we can identify valid copyright-law rationales behind these apparent discrepancies. But that's not what this post is about. This post is about comparing the visuals from video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning, but video game designers might prefer to get a quick glance at some games that were infringing, and some others that were not. This post will not help you figure out close copyright cases, but it might help you draw the line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
 
 
 <div class="toc bold-first-level">
@@ -39,7 +35,7 @@ Sometimes, we can identify valid copyright rationales behind these apparent disc
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
 <ul>
 <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
-<li><a href="#the-taint-of-originality-hi-lo-double-up-joker-poker-1986">The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)</a></li>
+<li><a href="#double-up-joker-poker-the-taint-of-originality-1986">Double Up Joker Poker: The Taint of Originality (1986)</a></li>
 </ul>
 </li>
 <li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games "Substantially Similar"?</a><ul>
@@ -82,65 +78,68 @@ Sometimes, we can identify valid copyright rationales behind these apparent disc
 
 ## Some Copyright Law
 
-Let's start with some easy answers. A clone infringes an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
+I said this post wasn't about copyright law, but I lied. Here's some copyright law. 
+
+Copyright law tries to encourage artists to create art. Copyright law does this by giving artists the right to stop other people from copying their art. Not only can copyright law stop identical copying, it can also stop copying that results in "substantially similar" art. How does this apply to video games? 
+
+A clone infringes an original game if an "ordinary reasonable person" would think that the clone was at least "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." 
+
+Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
 
 - Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
-- Creative and original expression is protected against "substantially similar" copies. 
-- If the expression is not so original, then copyright affords only a "thin" protection. This  "thin" copyright prevents *identical* copying, but allows clones that make just a few minor changes. 
+- If the expression is creative and original, then it's protected against "substantially similar" copies. 
+- If the expression is not so creative and original, then copyright affords only a "thin" protection. This "thin" copyright prevents *identical* copying, but allows clones that make even a few minor changes. 
 
-Before looking for "substantial similarity", judges try to "filter out" the unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. 
+Copyright protects "expression", not "ideas." So before a judge looks for "substantial similarity", she will try to "filter out" the unprotectable "ideas" and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, she will compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. And since it's not an exact science, I feel OK about glossing over many of the legal details and focusing on the art and gameplay of the games involved in the following lawsuits.  
 
 <hr class="tall">
 
 
 # Identical Twins: Always Infringement
 
-A clone that's basically identical to the original game is always going to be copyright infringement. In these cases, we don't need to worry about whether game elements get thin protection or robust protection. 
+A clone that's basically identical to the original game is always going to be copyright infringement. In these cases, we don't need to worry about whether game elements get "thin" protection or robust protection. 
 
 
 ## Crazy Kong: Crazy Infringement (1982)
 
 <img src="/images/copyright/donkey-kong-v-crazy-kong-clone-copyright-infringement.png" class="medium-image">
 
-Elcon made a straight-up identical Donkey Kong clone. According to the judge, Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong copied every detail. Predictably, this is copyright infringement. It always is: 
+Elcon made a straight-up identical Donkey Kong clone. According to the judge, Crazy Kong "embodies audio-video material, including the characters on the screen and the sound, that is virtually identical" to Donkey Kong. [*Nintendo v. Elcon*, 564 F. Supp. 937 (ED Mich 1982)](http://scholar.google.com/scholar_case?case=14413211357527714092). Crazy Kong copied every detail. Predictably, this is copyright infringement. 
 
-- "Puck Man", an identical clone of Pac-Man, was copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978)(appeals court decision). Artic even copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681)(trial court decision). 
-- "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F.2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). 
+**Play:** [Donkey Kong](https://archive.org/details/a2_Donkey_Kong_1983_Atari) v. [Crazy Kong](https://archive.org/details/arcade_ckong). 
+
+Making an identical clone is always copyright infringement. The following three cases reached the same predictable result: 
+
+- "Puck Man", an identical clone of Pac-Man, was copyright infringement in [*Midway v. Artic*, 704 F.2d 1009 (7th Cir. 1983)](http://scholar.google.com/scholar_case?case=3345463532258240978)(appeals court decision). The defendant, Artic, even copied the name “Puck Man” from the original Japanese version of the game. [*Midway v. Artic*, 547 F.Supp. 999 (ND Ill 1982)](http://scholar.google.com/scholar_case?case=3162513435280413681)(trial court decision).  **Play:** [Pac-Man](https://archive.org/details/msdos_Pac-Man_1983) v. [Puck-Man](https://archive.org/details/a2_cple_Bezman_Gobbler_Puckman_Super_Puckman_alt) (I'm not sure which "Puckman" this is). 
+- "Space Defense", an identical clone of "Defender" was copyright infringement in [*Williams Electronics v. Artic International,* 685 F.2d 870 (3rd Cir. 1983)](http://scholar.google.com/scholar_case?case=8334646367831709790). **Play:** [Defender](https://archive.org/details/arcade_defender)
 - "Scramble", an identical clone of "Scramble" was copyright infringement in [*Stern Electronics v. Kaufman*, 669 F.2d 852 (2nd Cir. 1982)](http://scholar.google.com/scholar_case?case=7204019639108685629). 
 
 **Takeaway**: Identical cloning is copyright infringement. 
-
-**Play:**
-[Donkey Kong](https://archive.org/details/a2_Donkey_Kong_1983_Atari) v. [Crazy Kong](https://archive.org/details/arcade_ckong). 
-
-[Pac-Man](https://archive.org/details/msdos_Pac-Man_1983) v. [Puck-Man](https://archive.org/details/a2_cple_Bezman_Gobbler_Puckman_Super_Puckman_alt) (I'm not sure which "Puckman" this is). 
-
-[Defender](https://archive.org/details/arcade_defender)
 
 
 
 - - - 
 
 
-## The Taint of Originality: Hi-Lo Double Up Joker Poker (1986)
+## Double Up Joker Poker: The Taint of Originality (1986)
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
-Kramer made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
+Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
 
-The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these additions gave the game a "taint of originality" worthy of some minimal copyright protection. This minimal copyright protection (called "thin" copyright) works only against nearly identical clones. 
+The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
 
-Fortunately for Kramer's "Old Reliable," the judge decided that *Joker Poker 54* was a nearly-identical clone. The close replicated the original game so closely that it triggered infringement even for the limited "thin" copyright given to the original. The defendant had made some superficial changes like inserting "the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes."  These superficial changes were not enough to save *Joker Poker 54* from infringement, especially because it copied every other detail of the original game, right down to the easter egg: 
+Thin copyright protection only works against nearly identical clones. Fortunately for Kramer, the judge decided that *Joker Poker 54* was just such a nearly-identical clone. 
+
+Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. The defendant had made some superficial changes like inserting "the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." Weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied every other detail of the original game, right down to the easter egg: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
 
 The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
 
-**Pro tip**: If you're pirating someone else's game, don't use a cartoon pirate in your promo material. 
+**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else.  
 
-**Takeaway**: Video Games based on existing real-life games or sports will receive only **thin** copyright protection. Thin copyright stops identical clones, but not much else.  
-
-**Taint Note**: "Taint of originality" is a funny phrase. The more common copyright term of art is "modicum of creativity." 
+**Note**: "Taint of originality" is a funny phrase. The more common copyright term of art is "modicum of creativity." 
 
 
 <hr class="tall"> 
