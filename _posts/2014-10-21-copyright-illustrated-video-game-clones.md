@@ -35,7 +35,7 @@ Sometimes, we can identify valid copyright-law rationales behind these apparent 
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
 <ul>
 <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
-<li><a href="#double-up-joker-poker-the-taint-of-originality-1986">Double Up Joker Poker: The Taint of Originality (1986)</a></li>
+<li><a href="#double-up-joker-poker-infringing-the-taint-of-originality-1986">Double Up Joker Poker: The Taint of Originality (1986)</a></li>
 </ul>
 </li>
 <li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games "Substantially Similar"?</a><ul>
@@ -121,7 +121,7 @@ Making an identical clone is always copyright infringement. The following three 
 - - - 
 
 
-## Double Up Joker Poker: The Taint of Originality (1986)
+## Double Up Joker Poker: Infringing the Taint of Originality (1986)
 
 <img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
 
@@ -129,15 +129,13 @@ Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew
 
 The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
 
-Thin copyright protection only works against nearly identical clones. Fortunately for Kramer, the judge decided that *Joker Poker 54* was just such a nearly-identical clone. 
-
-Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. The defendant had made some superficial changes like inserting "the name 'Lynch Enterprises' in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." Weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied every other detail of the original game, right down to the easter egg: 
+Thin copyright protection only works against nearly identical clones. But Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. Drew had made some *superficial* changes. It inserted "the name 'Lynch Enterprises' [a DBA] in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." However, weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied *every other detail* of the original game, right down to the easter egg: 
 
 > Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
 
 The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
 
-**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else.  
+**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else. If you copy everything down to the easter-egg, but change the name on the title screen, your clone will still be considered "identical" and infringe even a thin copyright.  
 
 **Note**: "Taint of originality" is a funny phrase. The more common copyright term of art is "modicum of creativity." 
 
@@ -147,11 +145,13 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 # Fraternal Twins: Are the Games "Substantially Similar"?
 
-For creative and original games, copyright law asks whether the clone is "substantially similar" to the original. This is a murky question. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
+Copyright affords a more robust protection to creative and original games. For these games, a clone will be infringing if it is "substantially similar" to the original. Would an ordinary video gamer think the clone is "substantially similar"? This is a murky question. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
 
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. This policy of free ideas is so powerful that if the idea and its expression are inseparable, then the idea drags it's expression into the public domain. This is the **merger rule**. In a similar vein, copyright does not protect **useful articles** like a trackball controller. Finally, cliches or common tropes are not protected (or sometimes receive only "thin" protection). This is the **scènes à faire** doctrine (French for "that which must be done").  
+Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. Copyright cannot snatch an "idea" out of the public domain.  This policy of free ideas is powerful. If the idea and its expression are inseparable, then the idea drags its expression into the public domain. This is the **merger rule**. 
 
-The "substantial similarity" test involves (1) filtering away all ideas and cliches, and then (2) comparing the remaining creative expression in the two games. If you think the creative expression in the second game is "substantially similar" to the original (and if you were sitting on a federal jury), then the clone would infringe the original's copyright. Examples might help, so lets see how judges and juries have decided substantial similarity in the past. 
+In a similar vein, copyright does not protect **useful articles** (like a trackball controller). Finally, clichés or common tropes are not protected (or sometimes receive only "thin" protection). This is the **scènes à faire** doctrine (French for "that which must be done").  
+
+The "substantial similarity" test involves (1) filtering away all ideas, useful articles and clichés, and then (2) comparing the remaining creative expression in the two games. If the remaining creative expression in the two games is "substantially similar", then the clone infringes the original's copyright. Examples might help, so lets see how courts have decided substantial similarity cases in the past. 
 
 - - - 
 
@@ -161,13 +161,13 @@ The "substantial similarity" test involves (1) filtering away all ideas and clic
 
 <p class="big-text"><em>"The probability of successfully navigating an asteroid field is approximately 3,720 to 1."</em> -- C3PO</p>
 
-Atari made the original Asteroids game, and Amusement World made a knockoff called Meteors. Atari was not amused and sued for copyright infringement. 
+In this case, Atari made the original Asteroids game and Amusement World made a knockoff called Meteors. Atari was not amused and it sued for copyright infringement. 
 
-Copyright never protects "ideas", it can only protect the "creative expression" of an idea. In comparing Asteroids to Meteors, the judge found 22 similarities. He decided that the "defendants based their game on plaintiff's copyrighted game; to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this."
+The judge compared Asteroids to Meteors and found 22 similarities. He decided that the "defendants based their game on plaintiff's copyrighted game; **to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this.**" 
 
 The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." 
 
-The court also noted 9 differences, which seem to mainly involve the more advanced graphics in Meteors. Here are some examples of the differences:  
+The court also noted 9 **differences**. Here are some examples:  
 
 - Meteors is in color, while Asteroids is in black and white. The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
 
@@ -179,7 +179,7 @@ The court also noted 9 differences, which seem to mainly involve the more advanc
 
 These changes were enough to avoid infringement, at least in 1981. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [note: this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-**Takeaway**: Copying a game's "ideas" is not infringement. But don't take too much away from Asteroids v. Meteors. I think the judge lumped too much creative expression in with "ideas" and gave too much weight to the minor changes Meteor's made to its graphics. 
+**Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of a asteroid field is not copyrightable. The expression of that idea is copyrightable, but the expression in Meteors was different from the expression in Asteroids. No infringement. 
 
 - - - 
 
