@@ -20,23 +20,22 @@ share: true
 
 <p class="big-text"><em>“Your clones are impressive. You must be very proud.”</em> – Obi Wan Kenobi.</p>
 
-Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how much copying is allowed before a clone becomes a copyright infringement? 
+Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark. For decades, popular games have inspired fast-followers and spawned cheap knockoffs. But how much copying is allowed before a clone becomes a copyright infringement? Looking at individual copyright infringement cases, the answers can seem arbitrary. 
 
-Looking at individual copyright infringement cases, the answers seem arbitrary. Copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was merely sincere flattery. Copying the size of the Tetris game board (10x20) was infringement in one case, but  copying the size of the Triple Town game board (6x6) was allowed just 4 months later. 
+In a 1994 case, copying Chun Li's 'head stomp' was improper imitation, but copying Sagat’s 'tiger knee' was merely sincere flattery. In one case, copying the size of the Tetris game board (10x20) was infringement, but in another case, copying the size of the Triple Town game board (6x6) was allowed.
 
-Let's start with some easy answers. A clone infringes an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
+Sometimes, we can identify valid copyright rationales behind these apparent discrepancies. But that's not what this post is really about. This is a post about comparing the visuals from video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning behind the decisions, but video game designers might prefer to get a quick glance at some games there were infringing, and some others that were not. 
 
-- Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
-- Creative and original expression is protected against "substantially similar" copies. 
-- If the expression is not so original, then copyright affords only a "thin" protection. This  "thin" copyright prevents *identical* copying, but allows clones that make just a few minor changes. 
 
-Before looking for "substantial similarity", judges try to "filter out" the unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. 
+
 
 
 
 <div class="toc bold-first-level">
 <p>Contents</p>
 <ul>
+<li><a href="#some-copyright-law">Some Copyright Law</a>
+</li>
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
 <ul>
 <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
@@ -78,6 +77,18 @@ Before looking for "substantial similarity", judges try to "filter out" the unpr
 </ul>
 </div>
 
+
+<hr class="tall">
+
+## Some Copyright Law
+
+Let's start with some easy answers. A clone infringes an original game if an "ordinary reasonable person" would think that the clone was "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
+
+- Copyright law never protects the "idea" behind a video game, it only protects the "expression" of that idea. 
+- Creative and original expression is protected against "substantially similar" copies. 
+- If the expression is not so original, then copyright affords only a "thin" protection. This  "thin" copyright prevents *identical* copying, but allows clones that make just a few minor changes. 
+
+Before looking for "substantial similarity", judges try to "filter out" the unprotectable "ideas", and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, they compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. 
 
 <hr class="tall">
 
