@@ -42,11 +42,15 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 [Why Experienced Entrepreneurs Hire Better Lawyers](http://siliconhillslawyer.com/2012/11/22/why-experienced-entrepreneurs-hire-better-lawyers/). *[Jose Ancer](https://twitter.com/ancerj), 2013*. "Experienced entrepreneurs hire efficient lawyers. Inexperienced entrepreneurs hire cheap ones."
 
+[Startups Need Specialist Lawyers, But Not Big Firm “Lock In”](http://siliconhillslawyer.com/2015/04/12/specialist-lawyers-startups/). *[Jose Ancer](https://twitter.com/ancerj), 2015*.  A big firm partner will try to cross-sell you on all of the big firm's other lawyers. Not because the other lawyers are the best fit for your startup, but because the lawyer wants the "origination fees" associated with this cross selling. 
+
 [The Startup Lawyer Tech Audit](http://siliconhillslawyer.com/2012/05/16/the-startup-lawyer-tech-audit/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. Hire a lawyer that understands technology and uses it to make her practice more efficient. 
 
 [It’s the Hours, Not the Rate](http://www.jasonmendelson.com/wp/archives/2013/01/its-the-hours-not-the-rate-why-most-people-focus-on-the-wrong-thing-when-choosing-a-lawyer.php). *[Jason Mendelson](https://twitter.com/jasonmendelson), 2013*. "In all my years of auditing lawyer bills, it’s the hours that always stand out.  The hours, in any complex matter are what spiral out of control.  In these big issue situations (litigation, patent stuff, M&A, IPOs, etc.), the amount of hours that an efficient and creative lawyer will save you far, far outweigh whatever hourly rate they may charge. 
 
 [Picking a Startup Lawyer in NYC](http://mattmireles.com/picking-a-startup-lawyer-in-nyc/). Matt Mireles, 2010. Make sure your lawyer is focused on wealth maximization, not risk mitigation. Includes some recommendations for individual NYC lawyers.  
+
+
 
 - - - 
 
