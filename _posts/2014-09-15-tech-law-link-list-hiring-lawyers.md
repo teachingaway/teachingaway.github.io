@@ -42,7 +42,7 @@ The internet is full of advice, mostly bad, but occasionally useful. Our "Tech L
 
 [Why Experienced Entrepreneurs Hire Better Lawyers](http://siliconhillslawyer.com/2012/11/22/why-experienced-entrepreneurs-hire-better-lawyers/). *[Jose Ancer](https://twitter.com/ancerj), 2013*. "Experienced entrepreneurs hire efficient lawyers. Inexperienced entrepreneurs hire cheap ones."
 
-[Startups Need Specialist Lawyers, But Not Big Firm “Lock In”](http://siliconhillslawyer.com/2015/04/12/specialist-lawyers-startups/). *[Jose Ancer](https://twitter.com/ancerj), 2015*.  A big firm partner will try to cross-sell you on all of the big firm's other lawyers. Not because the other lawyers are the best fit for your startup, but because the lawyer wants the "origination fees" associated with this cross selling. 
+[Startups Need Specialist Lawyers, But Not Big Firm “Lock In”](http://siliconhillslawyer.com/2015/04/12/specialist-lawyers-startups/). *[Jose Ancer](https://twitter.com/ancerj), 2015*.  A big-firm partner will try to cross-sell you on all of her firm's other lawyers. Not because the other lawyers are the best fit for your startup, but because the lawyer wants the "origination fees" associated with this cross selling. 
 
 [The Startup Lawyer Tech Audit](http://siliconhillslawyer.com/2012/05/16/the-startup-lawyer-tech-audit/). *[Jose Ancer](https://twitter.com/ancerj), 2012*. Hire a lawyer that understands technology and uses it to make her practice more efficient. 
 
