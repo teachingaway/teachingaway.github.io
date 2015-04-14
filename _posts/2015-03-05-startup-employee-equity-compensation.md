@@ -180,3 +180,6 @@ To be safe, the fair market value should be determined by a "409(a)" valuation (
 
 [Employee Equity: The Option Price](http://avc.com/2010/11/employee-equity-the-option-strike-price/). [*Fred Wilson*](https://twitter.com/fredwilson), 2010. "Companies are paying $5000 to $25,000 per year" to 409(a) valuation consultants. Fred also notes that employees who get hired after a big up-round of financing will tend to get less-valuable stock options (because the fair market value will be higher). 
 
+## Other New and Crazy Ideas
+
+[Introducing Progressive Equity](http://blog.detour.com/introducing-progressive-equity/). Detour 2015. Employee equity at a successful startup is distributed unevenly: "the founders make more money than they could spend in infinite lifetimes, a handful of early folks achieve financial independence, and everyone else gets a nice bonus, but nothing life changing." A new idea called "Progressive Equity" attempts to fix that distribution by spreading some of the wealth down to later employees. 
