@@ -24,7 +24,7 @@ Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark
 
 In a 1994 case, copying Chun Li's 'head stomp' was improper imitation, but in that same case, copying Sagat’s 'tiger knee' was just sincere flattery. In one case, copying the size of the Tetris game board (10x20) was infringement, but in another case, copying the size of the Triple Town game board (6x6) was allowed.
 
-Sometimes, we can identify valid copyright-law rationales behind these apparent discrepancies. But that's not what this post is about. This post is about comparing the visuals from video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning, but video game designers might prefer to get a quick glance at some games that were infringing, and some others that were not. This post will not help you figure out close copyright cases, but it might help you draw the line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
+This post is about visual comparisons between video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning, but video game designers might prefer to get a quick glance at some games that were infringing, and some others that were not. This post will not help you figure out close copyright cases, but it might help you draw the line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
 
 
 <div class="toc bold-first-level">
@@ -35,7 +35,7 @@ Sometimes, we can identify valid copyright-law rationales behind these apparent 
 <li><a href="#identical-twins-always-infringement">Identical Twins: Always Infringement</a>
 <ul>
 <li><a href="#crazy-kong-crazy-infringement-1982">Crazy Kong: Crazy Infringement (1982)</a></li>
-<li><a href="#double-up-joker-poker-infringing-the-taint-of-originality-1986">Double Up Joker Poker: The Taint of Originality (1986)</a></li>
+
 </ul>
 </li>
 <li><a href="#fraternal-twins-are-the-games-substantially-similar">Fraternal Twins: Are the Games "Substantially Similar"?</a><ul>
@@ -49,6 +49,7 @@ Sometimes, we can identify valid copyright-law rationales behind these apparent 
 </li>
 <li><a href="#sports-games">Sports Games</a><ul>
 <li><a href="#no-infringement-of-karate-champ-1988">No Infringement of Karate Champ (1988)</a></li>
+<li><a href="#identical-clones-infringe-even-thin-copyright-double-up-joker-poker-1986">Identical Clones Infringe Even Thin Copyright: Double Up Joker Poker (1986)</a></li>
 <li><a href="#no-infringement-of-street-fighter-ii-1994">No Infringement of Street Fighter II (1994)</a></li>
 <li><a href="#trackball-control-not-copyrightable-golden-tee-golf-2005">Trackball Control Not Copyrightable: Golden Tee Golf (2005)</a></li>
 </ul>
@@ -118,27 +119,6 @@ Making an identical clone is always copyright infringement. The following three 
 
 
 
-- - - 
-
-
-## Double Up Joker Poker: Infringing the Taint of Originality (1986)
-
-<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
-
-Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
-
-The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
-
-Thin copyright protection only works against nearly identical clones. But Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. Drew had made some *superficial* changes. It inserted "the name 'Lynch Enterprises' [a DBA] in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." However, weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied *every other detail* of the original game, right down to the easter egg: 
-
-> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
-
-The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
-
-**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else. If you copy everything down to the easter-egg, but change the name on the title screen, your clone will still be considered "identical" and infringe even a thin copyright.  
-
-**Note**: "Taint of originality" is a funny phrase. The more common copyright term of art is "modicum of creativity." 
-
 
 <hr class="tall"> 
 
@@ -182,8 +162,6 @@ These changes were enough to avoid infringement, at least in 1981. "Defendants u
 **Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of a asteroid field is not copyrightable. The expression of that idea is copyrightable, but the expression in Meteors was different from the expression in Asteroids. No infringement. 
 
 - - - 
-
-
 
 ## Copying Creative Expression is Infringement: Pac-Man v. K.C. Munchkin (1982)
 
@@ -262,9 +240,6 @@ The differences between the specific details and between the overall impressions
 
 - - - 
 
-
-
-
 ## No Infringement: Tricky Trapper v. Mouser (1987)
 
 <img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
@@ -314,6 +289,24 @@ Now let's look at a case involving Street Fighter II - a fighting game with a mu
 - - - 
 
 
+## Identical Clones Infringe Even Thin Copyright: Double Up Joker Poker (1986)
+
+<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
+
+Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
+
+The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
+
+Thin copyright protection only works against nearly identical clones. But Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. Drew had made some *superficial* changes. It inserted "the name 'Lynch Enterprises' [a DBA] in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." However, weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied *every other detail* of the original game, right down to the easter egg: 
+
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
+
+The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
+
+**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else. If you copy everything down to the easter-egg, but change the name on the title screen, your clone will still be considered "identical" and infringe even a thin copyright.  
+
+
+- - - 
 
 
 ## No Infringement of Street Fighter II (1994)
