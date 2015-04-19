@@ -3,7 +3,7 @@ layout: post
 bloglist: "yes"
 longform: "yes"
 title: "A Game of Clones: Video Game Litigation Illustrated"
-summary: "Copyright and the idea-expression dichotomy explained by Pac-Man, Donkey Kong, and Ruth Bader-Ginsburg."
+summary: "Copyright and the idea-expression dichotomy as explained by Pac-Man and Donkey Kong."
 tags: [copyright, software]
 author: adler
 image:
@@ -24,9 +24,11 @@ Frogger, Frogrun, Leapfrog, Road Toad... Flappy Birds, Splashy Fish, Jumpy Shark
 
 In a 1994 case, copying Chun Li's 'head stomp' was improper imitation, but in that same case, copying Sagat’s 'tiger knee' was just sincere flattery. In one case, copying the size of the Tetris game board (10x20) was infringement, but in another case, copying the size of the Triple Town game board (6x6) was allowed.
 
-This post is about visual comparisons between video games and their clones, and where possible, comparing the actual gameplay. Lawyers need to understand the legal reasoning, but video game designers might prefer to get a quick glance at some games that were infringing, and some others that were not. This post will not help you figure out close copyright cases, but it might help you draw the line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
+The law of copyright infringement is complicated. But by playing some clones that were found infringing and some others that were not, we can develop a gut-level feeling for copyright infringement in video games. Thanks to the Internet Archive's [arcade](https://archive.org/details/internetarcade), we can play some of the historical games from these cases.  
 
+This post will not help you analyze the gritty details of close copyright cases. But it might help you draw a line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
 
+# Contents 
 <div class="toc bold-first-level">
 <p>Contents</p>
 <ul>
@@ -79,11 +81,9 @@ This post is about visual comparisons between video games and their clones, and 
 
 ## Some Copyright Law
 
-I said this post wasn't about copyright law, but I lied. Here's some copyright law. 
+Copyright law tries to encourage artists to create art. It gives artists the right to stop other people from copying their art. Not only can copyright law stop identical copying, it can also stop copying that results in "substantially similar" art. 
 
-Copyright law tries to encourage artists to create art. Copyright law does this by giving artists the right to stop other people from copying their art. Not only can copyright law stop identical copying, it can also stop copying that results in "substantially similar" art. How does this apply to video games? 
-
-A clone infringes an original game if an "ordinary reasonable person" would think that the clone was at least "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the "copyrightable expression." 
+How does this apply to video games? A clone infringes an original game if an "ordinary reasonable person" would think that the clone was at least "substantially similar" to the original. [*Atari v. Philips* (7th Cir. 1982)](http://scholar.google.com/scholar_case?case=16433139020722034724).  This legal standard is complicated by the fact that we are not looking for "substantial similarity" in every aspect of the game, but only in the game's "copyrightable expression." 
 
 Which aspects of a game are copyrightable and which are not? There are no easy answers here, but some overarching themes run through all of the video game cloning cases: 
 
@@ -91,15 +91,13 @@ Which aspects of a game are copyrightable and which are not? There are no easy a
 - If the expression is creative and original, then it's protected against "substantially similar" copies. 
 - If the expression is not so creative and original, then copyright affords only a "thin" protection. This "thin" copyright prevents *identical* copying, but allows clones that make even a few minor changes. 
 
-Copyright protects "expression", not "ideas." So before a judge looks for "substantial similarity", she will try to "filter out" the unprotectable "ideas" and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, she will compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider them "substantially similar." As you might expect, this analysis is more art than science. And since it's not an exact science, I feel OK about glossing over many of the legal details and focusing on the art and gameplay of the games involved in the following lawsuits.  
+Copyright protects "expression", not "ideas." So before a judge looks for "substantial similarity", she will try to "filter out" the unprotectable "ideas" and then sort the game's expressive elements into "original" and "thin" copyright categories. Finally, she will compare the original expressive elements in the games, and guess whether an ordinary video gamer would consider these elements substantially similar in both games. As you might expect, this analysis is more art than science. And since it's not an exact science, I feel OK about glossing over many of the legal details and focusing on the art and gameplay of the games in the following lawsuits.  
 
 <hr class="tall">
-
 
 # Identical Twins: Always Infringement
 
 A clone that's basically identical to the original game is always going to be copyright infringement. In these cases, we don't need to worry about whether game elements get "thin" protection or robust protection. 
-
 
 ## Crazy Kong: Crazy Infringement (1982)
 
@@ -118,20 +116,11 @@ Making an identical clone is always copyright infringement. The following three 
 **Takeaway**: Identical cloning is copyright infringement. 
 
 
-
-
 <hr class="tall"> 
-
 
 # Fraternal Twins: Are the Games "Substantially Similar"?
 
-Copyright affords a more robust protection to creative and original games. For these games, a clone will be infringing if it is "substantially similar" to the original. Would an ordinary video gamer think the clone is "substantially similar"? This is a murky question. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. 
-
-Copyright protects *creative expression*, but never *ideas*. Lawyers call this the **idea/expression dichotomy**. Copyright cannot snatch an "idea" out of the public domain.  This policy of free ideas is powerful. If the idea and its expression are inseparable, then the idea drags its expression into the public domain. This is the **merger rule**. 
-
-In a similar vein, copyright does not protect **useful articles** (like a trackball controller). Finally, clichés or common tropes are not protected (or sometimes receive only "thin" protection). This is the **scènes à faire** doctrine (French for "that which must be done").  
-
-The "substantial similarity" test involves (1) filtering away all ideas, useful articles and clichés, and then (2) comparing the remaining creative expression in the two games. If the remaining creative expression in the two games is "substantially similar", then the clone infringes the original's copyright. Examples might help, so lets see how courts have decided substantial similarity cases in the past. 
+Games that are similar, but not identical, to an original may still be infringing. For these similar games, we ask whether an ordinary video gamer would think the clone is "substantially similar" to the original? This is a murky question. Copyright infringement isn't just about *how much* of the original game was copied, it's about *what types* of games elements were copied. We need to filter away the unprotectable elements like ideas, useful articles and clichés, and then compare what's left. If the remaining game elements are  "substantially similar", then we have an infringing clone. Let's look at some examples. 
 
 - - - 
 
