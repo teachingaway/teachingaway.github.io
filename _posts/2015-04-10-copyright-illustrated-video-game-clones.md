@@ -136,7 +136,7 @@ The judge compared Asteroids to Meteors and found 22 similarities. He decided th
 
 The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." 
 
-The court also noted 9 **differences**. Here are some examples:  
+The court also noted 9 **differences**, including:  
 
 - Meteors is in color, while Asteroids is in black and white. The symbols for rocks and spaceships in Meteors are shaded to appear three-dimensional, unlike the flat, schematic figures in Asteroids.
 
@@ -148,7 +148,7 @@ The court also noted 9 **differences**. Here are some examples:
 
 These changes were enough to avoid infringement, at least in 1981. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [note: this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-**Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of a asteroid field is not copyrightable. The expression of that idea is copyrightable, but the expression in Meteors was different from the expression in Asteroids. No infringement. 
+**Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of a asteroid field is not copyrightable. The *expression* of that idea is copyrightable, but in this particular caes, the expression in Meteors was different from the expression in Asteroids. No infringement. 
 
 - - - 
 
@@ -225,7 +225,7 @@ The judge also compared the overall impression of the two games:
 
 The differences between the specific details and between the overall impressions were enough to differentiate Rapid Fire from Hyperball. There was no "substantial similarity" and therefore no copyright infringement. [*Williams Electronics, Inc. v. Bally Manufacturing*, 568 F.Supp. 1274 (ND Ill 1983)](http://scholar.google.com/scholar_case?case=16687668448643130747).
 
-**Takeaway**: A "pinball machine with video game elements" is an unprotectable idea. Rapid Fire copied that idea, as it's allowed to do. The way Hyperball expresses that idea is copyrightable, but Rapid Fire didn't copy the expression. 
+**Takeaway**: A "pinball machine with video game elements" is an unprotectable idea. Rapid Fire copied that idea, as it's allowed to do. 
 
 - - - 
 
@@ -233,14 +233,13 @@ The differences between the specific details and between the overall impressions
 
 <img src="/images/copyright/tricky-trapper-v-mouser.jpg" class="medium-image">
 
-The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. IBM's Mouser game was suspiciously similar to Frybarger's Tricky Trapper, so Frybarger sued for copyright infringement. The court noticed several similarities between the two games, but decided that IBM had only copied from the game's *idea*, not its *expression*. The judge specifically identified some of the basic game mechanics as not protectable:
+The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v. Meteors case. IBM's Mouser game was suspiciously similar to Frybarger's Tricky Trapper, so Frybarger sued for copyright infringement. The court noticed several similarities between the two games, but decided that IBM had only copied from the game's *idea*, not its *expression*. The judge specifically identified some of the basic game mechanics as **not protectable**:
 
 - **Board:** The screen of each game is filled with straight rows of pivot points on a solid colored background. Some of the pivot points are connected by solid lines.
 
 - **Hero:** Both games have a single protagonist that moves vertically and horizontally, and rearranges the solid lines to capture bad guys and earn points. 
 
 - **Bad Guys:** In both games, there are several bad guys to capture. The bad guys move toward the hero, and if they catch him, he dies. 
-
 
 [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402). 
 
@@ -251,7 +250,7 @@ The copyright analysis in Tricky Trapper v. Mouser is similar to the Asteroids v
 
 # Sports Games
 
-Video Games that simulate existing sports (baseball, soccer karate) get a very thin type of copyright protection. Its a copyright that can stop an identical clones, but not much else.  
+Video Games that simulate sports (baseball, soccer, karate) or public-domain card games (like poker) get a very "thin" type of copyright protection. It can stop identical clones, but not much else.  
 
 
 - - - 
@@ -260,43 +259,20 @@ Video Games that simulate existing sports (baseball, soccer karate) get a very t
 
 <img src="/images/copyright/karate-champ-no-copyright-infringement.png" class="medium-image">
 
-"World Karate Championship" (right) is a clone, more or less, of "Karate Champ" (left).  The two games have similar graphics and game play. But unlike Crazy Kong, World Karate Championship was not an identical clone, and unlike KC Munchkin, it copied elements that were patterned on the real-life sport of Karate. 
-
-The court first filtered out the elements that were unprotectable under the "merger" rule. Data East could not copyright the idea of a karate game, nor any game mechanics that necessarily flow from that idea. The unprotectable elements 
+"World Karate Championship" (right) is a clone, more or less, of "Karate Champ" (left).  The two games have similar graphics and game play. The court first filtered out the unprotectable game elements. Data East could not copyright the *idea* of a karate game, nor any game mechanics that necessarily flow from that idea (the "merger" rule). The unprotectable elements 
  
  > consist of the game procedure, common karate moves, the idea of background scenes, a time element, a referee, computer graphics, and bonus points, result from either constraints inherent in the sport of karate or computer restraints. After careful consideration and viewing of these features, we find that they necessarily follow from the idea of a martial arts karate combat game, or are inseparable from, indispensable to, or even standard treatment of the idea of the karate sport. As such, they are not protectable. [*Data East v. Epyx*, 862 F.2d 204 (9th Cir. 1988)](http://scholar.google.com/scholar_case?case=5941890015361159855).
 
-As a result, there was no copyright infringement.  Epyx copied only the "idea" of a Karate video game, and the non-copyrightable graphics and game mechanics that necessarily flowed from that idea. 
+As a result, there was no copyright infringement.  Epyx copied the "idea" of a Karate video game, but not the non-copyrightable graphics and game mechanics that necessarily flowed from that idea. 
 
-**Takeaway**: There is no copyright protection for common video game karate moves like "upper-lunge punch", "back-foot sweep" and "squatting reverse punch wherein the heel is not on the ground." 
+**Takeaway**: There is no copyright protection for the *idea* of a game based on a sport, or for any game elements that necessarily flow from that idea. 
 
 
 **Play:** [Karate Champ (1985)(Data East)](https://archive.org/details/a2_Karate_Champ_1985_Data_East_cr_Digital_Gang) v. [World Karate Championship (1986)(Epyx)](https://archive.org/details/a8b_World_Karate_Championship_1986_Epyx_US_cr_N.A.P.O.)
 
-Now let's look at a case involving Street Fighter II - a fighting game with a much looser basis in "reality."  
+Now let's look at a case involving Street Fighter II - a fighting game with a much looser basis in reality. 
 
 - - - 
-
-
-## Identical Clones Infringe Even Thin Copyright: Double Up Joker Poker (1986)
-
-<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
-
-Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
-
-The original "joker poker" video game was basically just poker on a computer. Kramer can't copyright poker, and can't copyright a video game that replicates *pure* poker. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
-
-Thin copyright protection only works against nearly identical clones. But Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. Drew had made some *superficial* changes. It inserted "the name 'Lynch Enterprises' [a DBA] in the attract mode, inserted the insignia 'LE' on the back of the playing cards, and changed some of the wording in the attract and play modes." However, weighing against these superficial changes was the fact that Drew's *Joker Poker 54* copied *every other detail* of the original game, right down to the easter egg: 
-
-> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
-
-The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
-
-**Takeaway**: Video Games based on old card games or sports will receive only **thin** copyright protection. Thin copyright might catch identical clones, but not much else. If you copy everything down to the easter-egg, but change the name on the title screen, your clone will still be considered "identical" and infringe even a thin copyright.  
-
-
-- - - 
-
 
 ## No Infringement of Street Fighter II (1994)
 
@@ -316,23 +292,38 @@ The court also excluded game control sequences from its analysis under the **mer
 
  > the control sequences presently at issue cannot be expressed in limitless ways. Rather, the expression of an idea and the underlying idea frequently merge.... The universe of possible joystick combinations is further restricted by the need to have the control sequence emulate the natural movements of the body. To make the game realistic and easy to learn, a developer must have its control sequences follow the natural flow of the fighter’s body. The player must be allowed to manipulate the control panel in an intuitive manner if he or she is going to become proficient at the game. For example, to mirror the physical aspects of throwing an object, the developer would want to choose a joystick/button control sequence that consists of pulling the joystick backwards to follow the arms as they draw back and then moving the joystick forward and hitting a punch button as the character winds up and releases the object. The idea of throwing an object and its expression as reflected in a distinct control sequence will, therefore, coincide. 
 
-Some special moves were unprotectable "scènes à faire", while other special moves were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." 
+Some special moves were unprotectable "scènes à faire", while others were copyrightable creative expression. According to the court, these 7 moves were not protectable:  "(1) Sagat’s 'tiger knee' which is a common kickboxing move; (2) E. Honda’s 'knee bash' which is a common wrestling move; (3) Vega’s mid-air throw which is a basic fight maneuver; (4) Vega’s floor slide which again is a basic fight maneuver; (5) Balrog’s 'dashing punch' which is a simple punch; (6) Zangief’s 'backwards throw'; and (7) Zangief’s 'body leap' both of which are common wrestling moves." Two special moves were protectable: "Chun Li’s head stomp and E. Honda’s 100 hand slap." 
 
 Since Fighter's History only copied (a) non-protectable functional game elements, and (b) non-protectable scènes à faire, it was not infringing the Street Fighter II copyright. [*CapCom v. Data East* (ND CA 1994)](/capcom-v-data-east/). Check out [the appendix](/capcom-v-data-east/#appendix) of the case for a detailed copyright analysis of the fighters, [special moves](/capcom-v-data-east/#various-special-moves) and combos. 
 
-**Takeaway**: Intuitive game controls are "functional" game elements and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable creative expression. Original video game characters are copyrightable, but stereotypes are not.
+**Takeaway**: There are three points to take away from this case. Intuitive game controls are "functional" and therefore not copyrightable. Common wrestling moves are not copyrightable, but magical moves (with no basis in reality) are protectable as creative expression. Original video game characters are copyrightable, but stereotypes are not.
 
 <img src="/images/copyright/street-fighter-ii-v-fighters-history-arcade-museum-com.jpg" class="" >
 
-
-
-**Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. I'd call it copyright infringement. 
+**Comment**: I've never played Fighter's History, but it looks like a Street Fighter II ripoff. If I were the judge, I'd call it copyright infringement. 
 
 **Play**: [Street Fighter II (Capcom, 1991)](https://archive.org/stream/arcade_sf2/sf2.zip?module=sf2&scale=2&keyboard=arcade).
 
 - - - 
 
+## Identical Clones Infringe Even Thin Copyright: Double Up Joker Poker (1986)
 
+<img src="/images/copyright/kramer-v-andrews-joker-poker.jpg" class="medium-image" >
+
+Kramer Manufacturing made *Hi-Lo Double Up Joker Poker* (left). Soon after, Drew Distributing and Lynch Enterprises made *Joker Poker 54* (right). Kramer sued for copyright infringement. 
+
+Poker, like karate, is public domain and no one owns a copyright to it. However, *Hi-Lo Double Up Joker Poker* was poker with a few additional twists and some original artwork. The judge decided that these little additions gave the game just a "taint of originality," and that this sliver of originality warranted "thin" copyright protection. 
+
+Thin copyright protection only works against nearly identical clones. But Drew's clone replicated Kramer's original game so closely that it triggered infringement, despite the thin protection. Drew's game replaced the original "Kramer" logo with its own logo, but otherwise *Joker Poker 54* copied *every detail* of the original game, right down to the easter egg: 
+
+> Kramer Manufacturing embedded in its program a hidden legend that would appear only when the game's buttons were pressed in an abnormal sequence. The defendants' program shows that the legend is included in its copy.
+
+The judge called the two games "virtually identical" and noted that the dissimilarities "appear quite obviously to be the result of a studied effort to make minor distinctions between the two" games. The defendant was trying "to appropriate the plaintiff's design either outright or by frivolous variation." [*Kramer Manufacturing v. Andrews*, 783 F. 2d 421 (4th Cir. 1986)](http://scholar.google.com/scholar_case?case=5294172034546412150)
+
+**Takeaway**: Video Games based on old card games or sports will receive only *thin* copyright protection. Thin copyright might catch identical clones, but not much else. In this case, the clone was close enough to the original to infringe even a thin copyright. 
+
+
+- - - 
 
 ## Trackball Control Not Copyrightable: Golden Tee Golf (2005)
 
