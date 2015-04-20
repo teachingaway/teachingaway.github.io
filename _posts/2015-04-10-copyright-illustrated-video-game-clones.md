@@ -497,49 +497,6 @@ Copyright infringement analysis is more an art than a science, and the line betw
 
 - - - 
 
-# How to Prepare for the Clones
-
-## Copyright Registration. 
-
-Register the US copyright to every new game. It's well worth the $35 filing fee. I've collected the Copyright Office's [recent guidance on video game copyright registration here](/video-game-copyright-registration/). In fact, register *several* copyrights covering different aspects of your game, including the code itself and any particularly interesting characters, art or animations. Think about the creative expression in your game, and try register copyrights that focus on those creative aspects. 
-
-You can even register copyrights before you publish your game. This may help avoid a  [Ridiculous Fishing](http://www.polygon.com/2012/10/5/3461458/cloning-case-files-vlambeer) scenario, where the clone launches *before* the original. 
-
-## Trademark Registration. 
-
-Second, register the US Trademark in the name of your game. This is more expensive than copyright registration, but it provides broader type of right. It prevents other people from making a similar game under a *similar title*. If you own the registered trademark, you can at least force cloners to think up a different name. 
-
-The trademark registration should describe your game play in some detail in its "description of goods and services." If a clone uses a similar name on a similar game, you will likely have a strong trademark infringement case. We discuss [trademark law in detail](/trademark-basics/), and offer a [DIY walkthrough of the trademark registration process](/how-to-trademark-part-2-registration-guide/). Our [trademark services are summarized here](/trademark-services/). 
-
-
-## Patents
-
-Patents are the most expensive option, but provide the most valuable protection. Budget about $8,000 for a patent application. Patents are slow. They take about 3 years to issue on average. For an extra fee, the timeframe can be expedited to about 1 year. 
-
-For small mobile games, patents may be too expensive. However, studios building truly innovative games can benefit from an investment in a small patent portfolio. We discuss [patent law here](/patent-basics), and our [patent services here](/patent-services).
-
- 
-
-<figure class="half">
-
-<a href="/images/patent-drawings/pong-patent-1972.png"><img src="/images/patent-drawings/pong-patent-1972.png" class="translucent"></a>
-
-<a href="/images/patent-drawings/pong-patent-1972.png"><img src="/images/patent-drawings/monopoly-patent-darrow-1935.png" class="translucent"></a>
-
-</figure>
-
-"During the years 1935 to 1952, Parker Brothers relied primarily on its patents to protect its monopoly of 'Monopoly.'" [*Anti-Monopoly, Inc. v. General Mills Fun Group*, 611 F. 2d 296 (9th Cir. 1979)](https://scholar.google.com/scholar_case?case=4422552636781130392).
-
-- - - 
-
-## Enforcement and Public Relations
-
-While clones are infuriating, an aggressive legal reply can backfire. Consider a public relations campaign before, or in tandem with, any legal action. A carefully worded copyright infringement letter from a lawyer is particularly powerful when it makes you look like the reasonable party trying to stop an unreasonable theft. The letter should accurately describe the law, the similarities between the two games, and politely (but firmly) demand that the clone be removed from the app store. 
-
-The first legal action for apps may involve sending a DMCA takedown notice to the appropriate app store. For iOS, You can submit a claim through Apple's [iTunes Content Dispute](https://www.apple.com/legal/internet-services/itunes/appstorenotices/) form. For Android, submit through Google's [Legal Removal Requests](https://support.google.com/legal) page.
-
-- - - 
-
 Images via [Arcade Flyer Archive](http://flyers.arcade-museum.com/),  [International Arcade Museum](http://www.arcade-museum.com/), and [World of Spectrum](http://www.worldofspectrum.org/). 
 
 - - - 
