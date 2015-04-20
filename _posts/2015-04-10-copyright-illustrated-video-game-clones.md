@@ -28,7 +28,7 @@ The law of copyright infringement is complicated. But by playing some clones tha
 
 This post will not help you analyze the gritty details of close copyright cases. But it might help you draw a line, in broad strokes, between inspired fast-followers and copyright-infringing knockoffs. 
 
-# Contents 
+ 
 <div class="toc bold-first-level">
 <p>Contents</p>
 <ul>
@@ -64,15 +64,8 @@ This post will not help you analyze the gritty details of close copyright cases.
 </ul>
 </li>
 <li><a href="#conclusion">Conclusion</a></li>
-<hr>
-<li><a href="#how-to-prepare-for-the-clones">How to Prepare for the Clones</a>
-<ul>
-<li><a href="#copyright-registration">Copyright Registration</a></li>
-<li><a href="#trademark-registration">Trademark Registration</a></li>
-<li><a href="#patents">Patents</a></li>
-<li><a href="#enforcement-and-public-relations">Enforcement and Public Relations</a></li>
-</ul>
-</li>
+
+
 </ul>
 </div>
 
