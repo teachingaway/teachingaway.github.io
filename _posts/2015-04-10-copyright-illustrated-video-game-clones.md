@@ -329,7 +329,7 @@ The judge called the two games "virtually identical" and noted that the dissimil
 
 <img src="/images/copyright/goldentee-v-pga-tour-no-copyright-infringement.jpg" class="medium-image" >
 
-Incredible Technologies made the popular Golden Tee arcade game (left). Virtual Technologies made PGA Tour (right) with the explicit purpose of cloning Golden Tee. The games and controls were very similar: 
+Incredible Technologies made the popular *Golden Tee* arcade game (left). Virtual Technologies made *PGA Tour* (right) with the explicit purpose of cloning Golden Tee. The games and controls were similar: 
 
  > The size and shape of PGA Tour Golf's control panel, and the placement of its trackball and buttons, are nearly identical to those of Golden Tee. The "shot shaping" choices are depicted in a similar way and in the same sequence. Although the software on the two games is dissimilar, both allow a player to simulate a straight shot, a fade, a slice, a draw, a hook, etc. by the direction in which the trackball is rolled back and pushed forward. [*Incredible Technologies v. Virtual Technologies*, 400 F. 3d 1007 (7th Cir. 2005)](http://scholar.google.com/scholar_case?case=10633608556007842361). 
 
@@ -337,44 +337,19 @@ Before comparing the two golf games, the court filtered out the standard golf th
 
  > In presenting a realistic video golf game, one would, by definition, need golf courses, clubs, a selection menu, a golfer, a wind meter, etc. Sand traps and water hazards are a fact of life for golfers, real and virtual. The menu screens are standard to the video arcade game format, as are prompts showing the distance remaining to the hole. As such, the video display is afforded protection only from virtually identical copying. [*Incredible Tech. v. Virtual Tech.*](http://scholar.google.com/scholar_case?case=10633608556007842361). 
 
-Condescending golf announcers are apparently *scènes à faire*. Any golf game can use condescending announcers, but they can't copy the identical condescending phrases. Fortunately for PGA Tour, it didn't copy the phrases: 
+Condescending golf announcers are apparently *scènes à faire*. Under copyright law, this means that any golf game can use condescending announcers, but games can't copy condescending phrases *identically*. Fortunately for PGA Tour, it didn't copy the identical phrases: 
 
 > "the fairway would be over there" and "I don't think that's going to help a whole lot" in PGA Tour versus "That can only hurt," "You've got to be kidding," and "You can lead a ball to water but ..." from the Golden Tee announcers. [*Incredible Tech. v. Virtual Tech.*](http://scholar.google.com/scholar_case?case=10633608556007842361).
 
 Useful articles, like the trackball control, are not copyrightable. A useful article is defined in the copyright act as "an article having an intrinsic utilitarian function that is not merely to portray the appearance of the article or to convey information." The trackball system of operating the game was considered a useful article, and therefore not subject to copyright protection.
 
-**Takeaway**: Video game controls (like a trackball) and instructions are entitled to very little, if any, copyright protection. 
+**Takeaway**: Video game controls (like a trackball) are entitled to very little, if any, copyright protection. 
 
 **Play**: [Golden Tee Golf](https://archive.org/details/arcade_gtg)
 
 <hr class="tall">
 
 # Recent Video Game Copying Cases
-
-The technical limitations of early video games systems didn't give game designers many pixels to work with, and because of these limitations, courts gave video game designers more leeway to copy. In the early days of video games, perhaps the "idea" of spaceships could only be "expressed" as blocky little triangles. In copyright terms, an original game's idea and expression were more likely to "merge" and lose copyright protection under the "merger doctrine": 
-
- > ... most of these similarities are inevitable, given the requirements of the idea of a game involving a spaceship combatting space rocks and given the technical demands of the medium of a video game. [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
-
-Likewise, the judge in the *Tricky Trapper v. Mouser* case relied on the technological limitations of the day to allow more copying: 
-
- > Furthermore, the mere indispensable expression of these ideas, based on the technical requirements of the videogame medium, may be protected only against virtually identical copying. [*Frybarger v. IBM*, 812 F.2d 525 (9th Cir. 1987)](http://scholar.google.com/scholar_case?case=10064022025067012402)(*Tricky Trapper v. Mouser*). 
-
-The judge  gave the defendant extra leeway to copy because some degree of similarity was the inevitable result of limited video game technology in the 1980s. At the time, changing just a few pixels would be enough to avoid copyright infringement. 
-
-In a similar fashion, the 1988 case of *Karate Champ v. World Karate Championship* considered the limited options the technology of the day afforded  game designers: 
-
-> Furthermore, the use of the Commodore computer for a karate game intended for home consumption is subject to various constraints inherent in the use of that computer. Among the constraints are the use of sprites, and a somewhat limited access to color, together with limitations upon the use of multiple colors in one visual image." [*Data East v. Epyx*, 862 F.2d 204 (9th Cir. 1988)](http://scholar.google.com/scholar_case?case=5941890015361159855).
-
-Video game technology has obviously advanced since Asteroids and the Commodore, and so we need to be careful about relying on old video game cases. Applying the old standards to today's game may allow for too much copying.  With so many more design options available, any similarities between games should be viewed with greater suspicion. Courts are starting to acknowledge this. 
-
-The 2012 *Tetris v. Mino* case mentioned the effect of more advanced videogame technology, at least in passing. "Tellingly, the [*Karate Champ v. World Karate Championship*] court noted that its holding was in part mandated by the limited abilities of computers in 1988." [*Tetris v. Xio* (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346). While the judge didn't discuss the issue any further, he gave little weight to the early video game cases that were lenient towards cloners. 
-
-
-- - - 
-
-
-
-
 
 
 ## Games Can Infringe Movies, But Dead Rising Didn't (2008)
@@ -385,25 +360,9 @@ Capcom's *Dead Rising* game took inspiration from George Romero's 1979 zombie cl
 
 Before comparing the game to the original movie, the court filtered out the unprotectable *scènes à faire* (i.e., stock zombie elements). Unfortunately for Romero's Dawn of the Dead, all of the similarities were "driven by the wholly unprotectable concept of humans battling zombies in a mall during a zombie outbreak." Since Capcom's video game only copied unprotectable ideas, there was no copyright infringement. [*Capcom v. MKR Group*, 2008 WL 4661479 (N.D. Cal. 2008)](/capcom-v-mkr-2008/).
 
-**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*. It's cliche, not copyrightable expression. 
+**Takeaway**: Using chainsaws to kill zombies is *scènes à faire*. It's cliché, not copyrightable expression. 
 
 - - - 
-
-**See also, King Kong v. Donkey Kong**
-
-In a somewhat similar case, Universal sued Nintendo alleging that Donkey Kong was merely a copy of King Kong. Note that this was a **trademark** case, not a copyright case. Universal argued that Donkey Kong was so similar to King Kong that consumers would mistakenly believe there was some association between the two companies. Universal lost.   
-
-The court starts off with a wonderful description of the game: 
-
-> Donkey Kong requires the player to maneuver a computerized man named Mario up a set of girders, ladders and elevators to save a blond pigtailed woman from the clutches of a malevolent, yet humorous gorilla, while simultaneously avoiding a series of objects such as barrels and fireballs hurled at him by the impish ape.
-[*Universal City Studios, Inc. v. Nintendo Co.*, 746 F.2d 112 (2d Cir. 1984)](https://scholar.google.com/scholar_case?case=18336133881200662092). 
-
-On the issue of consumer confusion between the stories, the court found that "The two properties have nothing in common but a gorilla, a captive woman, a male rescuer and a building scenario." The two names were not confusing either: "Nintendo's use of the prefix 'Donkey' has no similarity in meaning or sound with the word 'King.' When taken as a whole, we find as a matter of law that 'Donkey Kong' does not evoke or suggest the name of King Kong." [*Universal v. Nintendo*, 746 F.2d 112 (2d Cir. 1984)](https://scholar.google.com/scholar_case?case=18336133881200662092).   
- 
-
-
-- - - 
-
 
 ## Tetris Infringed by Mino (2012)
 
@@ -411,9 +370,9 @@ On the issue of consumer confusion between the stories, the court found that "Th
 
 Desiree Golden, just out of college, started a video game company called Xio Interactive. Before releasing Mino, a Tetris clone for iOS (right), she did her  copyright homework: 
 
- > Before releasing its product, Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
+ >  Xio researched copyright law, both through its own independent studying and based on advice of counsel... Based on this research, Xio believed it could freely copy any part of Tetris that was based on a "rule of the game" or that Xio viewed as being functional to the game. 
 
-She understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to separate the unprotectable *idea* of Tetris and its protectable creative expression, she gave herself too much leeway to copy. 
+She correctly understood the basic rules of copyright law, and that the *idea* of a falling-block puzzle game is not part of the Tetris copyright. However, when she tried to draw the line between the unprotectable *idea* of Tetris and its protectable creative expression, she drew it in the wrong place, and gave herself too much leeway to copy. 
 
 Here's how the judge identified the unprotectable *idea* of Tetris: 
 
@@ -473,8 +432,7 @@ In any event, this case was settled before a final decision was reached. The set
 
 <img src="/images/copyright/bang-v-lotk-copyright.jpg" class="translucent">
 
-
-A recent case involving non-video games further solidifies the idea that game mechanics can be copyrightable.  DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game *mechanics* were identical, but the game *art* was entirely different: 
+A recent case involving non-video games further solidifies the idea that game mechanics *can* be copyrightable.  In this case, DaVinci made the original "Bang!" game (left), and  accused Ziko of copyright infringement for its "Legend of the Three Kingdoms" game (right). The parties agreed that the game *mechanics* were identical, but the game *art* was entirely different: 
 
 > The parties agree that Bang! and LOTK have nearly identical rules for playing the game. The setting, artwork, and written instructions are substantially different. LOTK is 're-set in ancient China instead of the wild-west.' The 'ancient Chinese' themed roles in LOTK (the Monarch, Minister, Rebel, and Turncoat) fulfill the same roles as the Sheriff, Deputy, Outlaw, and Renegade in Bang!. 
 
