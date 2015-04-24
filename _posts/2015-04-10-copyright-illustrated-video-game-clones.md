@@ -127,7 +127,7 @@ In this case, Atari made the original Asteroids game and Amusement World made a 
 
 The judge compared Asteroids to Meteors and found 22 similarities. He decided that the "defendants based their game on plaintiff's copyrighted game; **to put it bluntly, defendants took plaintiff's idea. However, the copyright laws do not prohibit this.**" 
 
-The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "a video game in which a player fights his way through space rocks and enemy spaceships." 
+The 22 similarities involved the graphics, game mechanics and sound. According to the judge, they were all part of the unprotectable "idea" of a "video game in which a player fights his way through space rocks and enemy spaceships." 
 
 The court also noted 9 **differences**, including:  
 
@@ -141,7 +141,7 @@ The court also noted 9 **differences**, including:
 
 These changes were enough to avoid infringement, at least in 1981. "Defendants used plaintiff's idea and those portions of plaintiff's expression that were inextricably linked to that idea [note: this is the "merger rule"]. The remainder of defendants' expression is different from plaintiff's expression. Therefore, the Court finds that defendants' Meteors game is not substantially similar to and is not an infringing copy of plaintiff's Asteroids game." [*Atari v. Amusement World*, 547 F.Supp. 222 (D. Md. 1981)](http://scholar.google.com/scholar_case?case=6441518363892064579).
 
-**Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of a asteroid field is not copyrightable. The *expression* of that idea is copyrightable, but in this particular caes, the expression in Meteors was different from the expression in Asteroids. No infringement. 
+**Takeaway**: Copying a game's "ideas" is not infringement. The *idea* of a spaceship blasting out of an asteroid field is not copyrightable. The *expression* of that idea is copyrightable, but in this particular case, the expression in Meteors was different from the expression in Asteroids. No infringement. 
 
 - - - 
 
@@ -381,7 +381,7 @@ The judge specifically called out the 7 basic Tetris shapes as protectable expre
 
  > Similarly, Mino also displays "garbage" lines, "ghost" pieces, and a preview of the next piece to fall in order to enhance game play as does Tetris....  I am not persuaded that these features constitute either the ideas or rules of Tetris or are necessitated by game play. Moreover, even if these were rules, it is Xio's copying the same look and feel of these features that lead me to find it has infringed Tetris Holding's copyright. Xio was free to design other ways to alter game play, making it more or less difficult, using its own original expression to express these features, which it has chosen not to do.
 
-Mino infringed the Tetris copyright because copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like garbage lines, ghost pieces and preview pieces. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
+Mino infringed the Tetris copyright because it copied the exact same 7 Tetris shapes, used the same board dimensions (10 x 20), the same shape movement down the board, and the same visual cues like garbage lines, ghost pieces and preview pieces. [*Tetris v. Xio Interactive*, 863 F.Supp.2d 394 (D. NJ 2012)](http://scholar.google.com/scholar_case?case=18064882260025243346).
 
 **Takeaway**: Copyright infringement law is not easy. Even careful developers can get it wrong, and reasonable people can disagree about where to draw the line between idea and expression. 
 
