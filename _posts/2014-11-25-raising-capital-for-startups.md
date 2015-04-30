@@ -68,6 +68,9 @@ How far you can bootstap the company before raising outside money?  The more rev
 
 [Spanx](http://en.wikipedia.org/wiki/Spanx#Founding).  Sara Blakely bootstrapped Spanx from a $5,000 investment into a billion dollar business. She owns 100% of the private company with no debt. 
 
+Kickstarter, Indigogo, etc. - Raising money from these types of non-equity crowdfunding sites is fantastic for most founders. Companies get the money/capital they need, and don't need to give up any equity to VCs. 
+
+
 - - - 
 
 # Incubators and Accelerators
@@ -120,8 +123,6 @@ Our collection of [VC funds actively investing in NYC startups](/nyc-venture-cap
 [How Many Investors are Too Many](http://www.bothsidesofthetable.com/2011/02/22/how-many-investors-are-too-many/)? [*Mark Suster*](https://twitter.com/msuster), 2011. “VC’s are like martinis: the first is good, the second one great, and the third is a headache.”
 
 [Party Rounds](http://blog.samaltman.com/party-rounds). [*Sam Altman*](https://twitter.com/sama), 2013. The rising popularity of party rounds is bad for companies. In a typical party round, no single investor cares enough about the company.
-
-
 
 - - - 
 
@@ -190,6 +191,20 @@ When an early investor decides not to invest in a later round, outside investors
 
 [Announce Your Financing In Conjunction With Your Form D Filing](http://www.feld.com/archives/2011/12/announce-your-financing-in-conjunction-with-your-form-d-filing.html). Only announce a financing if you have a purpose for the publicity - i.e., you're using the new money to hire new talent. “We’ve just raised $X and are hiring 20 engineers – see our jobs page and apply now.”
 
+- - - 
+
+# Fundraising Stories
+
+[Moz's $18 Million Venture Financing: Our Story, Metrics and Future](http://moz.com/blog/mozs-18-million-venture-financing-our-story-metrics-and-future). Rand Fishkin, 2012. 
+
+[We’re Raising $3.5m in Funding: Here is the Valuation, Term Sheet and Why We’re Doing It](https://open.bufferapp.com/raising-3-5m-funding-valuation-term-sheet/). Joel & Leo, 2014. 
+
+[Misadventures in VC Funding: The $24 Million Moz Almost Raised](http://moz.com/rand/misadventures-venture-capital-funding/). Rand Fishkin, 2011. 
+
+[Mattermark Has Raised $2M in Our Second Seed Round
+After taking $3.4M in total funding over the past 2 years, it’s time to take a break from fundraising](https://medium.com/mattermark-daily/mattermark-has-raised-2m-in-our-second-seed-round-e93b20dc59b0). Danielle Morrill, June 2014. 
+
+[Welcoming Brad Feld to the Mattermark Team, Announcing our $6.5M Series A](https://medium.com/@DanielleMorrill/welcome-brad-feld-to-the-mattermark-team-announcing-our-6-5m-series-a-dd9532fc1b39). Danielle Morrill, 2014. 
 
 - - - 
 
