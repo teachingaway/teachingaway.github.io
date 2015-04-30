@@ -195,14 +195,14 @@ When an early investor decides not to invest in a later round, outside investors
 
 # Fundraising Stories
 
-[Moz's $18 Million Venture Financing: Our Story, Metrics and Future](http://moz.com/blog/mozs-18-million-venture-financing-our-story-metrics-and-future). Rand Fishkin, 2012. 
+[Moz's $18 Million Venture Financing: Our Story, Metrics and Future](http://moz.com/blog/mozs-18-million-venture-financing-our-story-metrics-and-future). Rand Fishkin, 2012. A detailed fundraising story with pitch deck (slightly redacted).  
 
-[We’re Raising $3.5m in Funding: Here is the Valuation, Term Sheet and Why We’re Doing It](https://open.bufferapp.com/raising-3-5m-funding-valuation-term-sheet/). Joel & Leo, 2014. 
+[We’re Raising $3.5m in Funding: Here is the Valuation, Term Sheet and Why We’re Doing It](https://open.bufferapp.com/raising-3-5m-funding-valuation-term-sheet/). Joel & Leo, 2014.  A thorough account of fundraising decisions and finding the right VCs. Includes the term sheet from the raise. 
 
 [Misadventures in VC Funding: The $24 Million Moz Almost Raised](http://moz.com/rand/misadventures-venture-capital-funding/). Rand Fishkin, 2011. 
 
 [Mattermark Has Raised $2M in Our Second Seed Round
-After taking $3.4M in total funding over the past 2 years, it’s time to take a break from fundraising](https://medium.com/mattermark-daily/mattermark-has-raised-2m-in-our-second-seed-round-e93b20dc59b0). Danielle Morrill, June 2014. 
+After taking $3.4M in total funding over the past 2 years](https://medium.com/mattermark-daily/mattermark-has-raised-2m-in-our-second-seed-round-e93b20dc59b0). Danielle Morrill, June 2014. 
 
 [Welcoming Brad Feld to the Mattermark Team, Announcing our $6.5M Series A](https://medium.com/@DanielleMorrill/welcome-brad-feld-to-the-mattermark-team-announcing-our-6-5m-series-a-dd9532fc1b39). Danielle Morrill, 2014. 
 
