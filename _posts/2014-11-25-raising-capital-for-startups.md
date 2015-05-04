@@ -96,6 +96,8 @@ Incubators like [Y Combinator](https://www.ycombinator.com/) and [Tech Stars](ht
 
 Our collection of [VC funds actively investing in NYC startups](/nyc-venture-capital/) may be a useful starting point for finding investors. 
 
+[WARNING: avoid the “Apply to Present” & “Angel Pitch Contest” event scams](http://calacanis.com/2015/04/24/warning-avoid-the-apply-to-present-angel-pitch-contest-event-scams/). Calacanis, 2015. Founders should not need to pay anyone to pitch their startups to VCs. 
+
 ## Investor Introductions
 
 [Don’t Ask Your Startup Lawyer for Investor Intros](http://siliconhillslawyer.com/2014/02/01/dont-ask-startup-lawyer-investor-intro/). [*Jose Ancer*](https://twitter.com/ancerj), 2014. "Nothing says 'I can’t hustle' like a paid introduction." 

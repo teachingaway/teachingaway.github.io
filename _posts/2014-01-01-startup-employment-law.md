@@ -14,11 +14,11 @@ comments: true
 share: true
 ---
 
-**DRAFT POST: And unlike my posts on IP law, I don't have any particular expertise in employment law.   -Eric**
+**DRAFT POST.**
 
 <p class="big-text">This is our curated <a href="/tags/#link+list">Link List</a> on employment issues at technology startups, including hiring, employment contracts, non-competes, compliance and firing.</p> 
 
-Caveat: this may not be the right advice for you or your company. 
+Caveat: this may not be the right advice for you or your company. I don't have any particular expertise in employment law. 
 
 <div class="toc">
 <ul>
@@ -65,11 +65,17 @@ To hire great programmers, know what motivates programmers. [Recruiting Programm
 
 # Employee Retention
 
-[21 Ways to Minimize Employee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/). Jon Haddad, 2014. 
+[21 Ways to Minimize Employee Retention](http://rustyrazorblade.com/2014/09/21-ways-to-minimize-employee-retention/). Jon Haddad, 2014. "It's important to be able to maximize turnover and confusion while minimizing employee retention." ;-) 
 
 
-[MBA Mondays: Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+[MBA Mondays: Retaining Your Employees](http://avc.com/2012/06/mba-mondays-retaining-your-employees/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. "I believe these six things (communicate, hire well, culture matters, career paths, assessment, and compensation) are the key to retention." 
 
+
+[How to Start a Startup: 10 Hiring & Culture](http://startupclass.samaltman.com/courses/lec10/). Alred Lin and Brian Chesky, 2014. 
+
+[Don’t Fuck Up the Culture](https://medium.com/@bchesky/dont-fuck-up-the-culture-597cde9ee9d4). Brian Chesky, 2014. "After we closed our Series C with Peter Thiel in 2012, we...  asked him what was the single most important piece of advice he had for us. He replied, '*Don’t fuck up the culture*.'"
+
+[he Mechanics of Mafia](http://blakemasters.com/post/21437840885/peter-thiels-cs183-startup-class-5-notes-essay). Blake Masters' notes on Peter Thiel's CS183 lecture (2012). 
 - - - 
 
 # Employment Contracts
