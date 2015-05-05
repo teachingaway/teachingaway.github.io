@@ -136,6 +136,21 @@ Our collection of [VC funds actively investing in NYC startups](/nyc-venture-cap
 
 [How to Pitch Your Startup On Stage](http://justinkan.com/how-to-pitch-your-startup-on-stage). Justin Kan, 2014. How you pitch is important, because investors aren't obligated to expend the mental energy to figure out what you are talking about. Follow this basic flow: market and problem, your solution, evidence that your solution will work (traction, sales, your team’s expertise, etc). 
 
+## Example Pitch Decks
+
+[Linkedin’s Series B Pitch to Greylock](http://reidhoffman.org/linkedin-pitch-to-greylock/). Reid Hoffman, 2004. 
+
+
+[BufferApp Seed Pitch Deck](http://www.slideshare.net/Bufferapp/buffer-seedrounddeck). Dharmesh Shah, 2013. With [commentary here](http://onstartups.com/tabid/3339/bid/98034/The-Pitch-Deck-We-Used-To-Raise-500-000-For-Our-Startup.aspx). 
+
+[Mattermark Pitch Deck](http://www.pitchenvy.com/gallery/mattermarks-pitch-deck/). 
+
+[Square Pitch Deck](http://www.pitchenvy.com/gallery/square-pitch-deck/). 
+
+[Dwolla Pitch Deck](http://www.businessinsider.com/18-slide-pitch-deck-lands-payment-startup-dwolla-165-million-2013-4?op=1). Raised $16.5 million from Andreesen Horowitz, Union Square Ventures and others. 
+
+[FourSquare Pitch Deck](http://www.businessinsider.com/this-is-the-first-pitch-deck-foursquare-ever-showed-investors-2011-12?op=1)
+
 
 ## NDAs and Ideas vs. Execution 
 
