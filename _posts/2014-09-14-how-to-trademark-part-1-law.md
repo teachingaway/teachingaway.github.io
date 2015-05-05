@@ -14,11 +14,13 @@ share: true
 ---
 
 
-<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Put differently, trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>. A trademark can be any name, image or slogan used to identify a company. </p>
+<p class="big-text">Your brand is the symbol of your business. A trademark protects your brand integrity by preventing other companies from using a similar symbol to free-ride on your reputation. Trademarks reduce the risk of <a href="http://en.wikipedia.org/wiki/Naming_collision">namespace collision</a>. A trademark can be any name, image or slogan used to identify a company. </p>
+
+<a href="/images/trademark/generic-beer-vs-bass.jpg"><img src="/images/trademark/generic-beer-vs-bass.jpg" class="translucent"></a> 
 
 This two-part post teaches the basics of trademark law and how to register a trademark at the US TM Office. Part one discusses the benefits of  _trademark registration_, some basic _trademark law_, and how to _search the trademark database_. [Part two](/how-to-trademark-part-2-registration-guide/) is a walkthrough of the trademark application process at the US Patent and Trademark Office (I'll call it the "TM Office"). 
 
-The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website complicates this simple process with a tangle of baffling instructions. Their web design philosophy is "_more but worse_." 
+The trademark application process, at its core, is simple data collection. The TM Office collects basic info on the trademark and the trademark owner. Sadly, the TM Office website complicates this simple process with a tangle of baffling instructions.  
 
 
 <ul class="toc">
