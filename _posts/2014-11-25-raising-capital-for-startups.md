@@ -179,6 +179,10 @@ Don’t ask a serious VC to sign an NDA before you pitch. Instead, pitch your id
 [How to Value Your Startup](http://gimletmedia.com/episode/6-how-to-value-your-startup/). [*Alex Blumberg*](https://twitter.com/abexlumberg), (2014). It's all about the story. A podcast where Alex Blumberg documents his experience raising capital for a podcasting startup.  
 
 
+## Valuation vs. Deal Terms
+
+[How to Build a Unicorn From Scratch – and Walk Away with Nothing.](http://heidiroizen.tumblr.com/post/118473647305/how-to-build-a-unicorn-from-scratch-and-walk). Heidi Roizen, 2015. "In all but the most glorious outcomes, terms will matter way more than valuations." Founders need to understand what deal terms mean. "Downside protection" for investors  
+
 ## Signalling Risk 
 
 When an early investor decides not to invest in a later round, outside investors may take this as a "signal" that there is something wrong with the startup.  
@@ -193,9 +197,11 @@ When an early investor decides not to invest in a later round, outside investors
 
 ## Due Diligence
 
-[Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/). [Tomasz Tunguz](http://www.twitter.com/ttunguz), 2014.  
+After an initial meeting, VCs will dig deeper into your company: open the hood, kick the tires, shuffle the paperwork.  
 
-[You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. 
+[Breaking Down a Typical VC/Startup Diligence Process](http://tomtunguz.com/breaking-down-a-typical-vcstartup-diligence-process/). [Tomasz Tunguz](http://www.twitter.com/ttunguz), 2014.  A Redpoint Capital VC discusses his typical diligence process. 
+
+[You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. A story of due diligence gone wrong. "Trust your gut." 
 
 - - - 
 
@@ -211,6 +217,8 @@ When an early investor decides not to invest in a later round, outside investors
 - - - 
 
 # Fundraising Stories
+
+Some founders have written detailed accounts of their fundraising process. You can learn a lot from them. 
 
 [Moz's $18 Million Venture Financing: Our Story, Metrics and Future](http://moz.com/blog/mozs-18-million-venture-financing-our-story-metrics-and-future). Rand Fishkin, 2012. A detailed fundraising story with pitch deck (slightly redacted).  
 
@@ -279,7 +287,7 @@ Most investors don’t track their shares. Note holders are often forgotten. Emp
 
 # Down Rounds
 
-A "down round" is when a startup raises a new round of financing at a valuation lower than its previous round. For example, a startup raises a Series A round at a $5,000,000 valuation, and then a year later raises a Series B at a $3,000,000 valuation. The year of work between the Series A and Series B should (if everything is going well) result in a more valuable company. Raising money at a lower valuation suggests something is wrong, and will likely result in a highly dilutive round of financing. That is, the founders will have to give up a big percentage of their company to raise money. 
+Down rounds are bad. A "down round" is when a startup's valuation goes down. It's when a startup raises a new round of financing at a valuation lower than its previous round.  For example, a startup raises a Series A at a $5M valuation, and then a year later raises a Series B at a $3M valuation. The year of work between the Series A and Series B should have increased the value of the company... but for some reason, it didn't. Raising money at a lower valuation suggests something is wrong, and will likely result in a *highly dilutive* round of financing. That is, the founders will have to give up a big percentage of their company to raise money. 
 
 
 [The Damaging Psychology of Down Rounds](http://www.bothsidesofthetable.com/2013/05/05/the-damaging-psychology-of-down-rounds/). [*Mark Suster*](https://twitter.com/msuster), 2013. "A down round sends a signal that something is wrong with your company."  Something didn’t go according to plan.

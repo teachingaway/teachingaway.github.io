@@ -33,7 +33,7 @@ Our technology law <a href="/tags/#link+list">Link List</a> series collects usef
 [The Ideal First Round Term Sheet](http://avc.com/2009/08/the-ideal-first-round-term-sheet/). [*Fred Wilson*](https://twitter.com/fredwilson), 2009. Agreeing with Chris Dixon's post above.  Fred's comments continue at [the Ideal First Round Term Sheet Continued](http://avc.com/2009/08/the-ideal-first-round-term-sheet-continued/). 
 
 
-[VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). [*Brad Feld*](https://twitter.com/bfeld), 2012. "VCs only need three rights: Up, Down, and Know What The Fuck Is Going On." Up = Pro-rata rights. VCs want to invest in next round to maintain their ownership in growing companies. Down = Liquidation preference. VCs want to get their money out first when the company isn’t growing. Know What The Fuck Is Going On = Board seat. 
+[VC Rights: Up, Down, and Know What the Fuck is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). [*Brad Feld*](https://twitter.com/bfeld), 2012. "VCs only need three rights: Up, Down, and Know What The Fuck Is Going On." Up = Pro-rata rights. VCs want to invest in next round to maintain their ownership in growing companies. Down = Liquidation preference. VCs want to get their money out first when the company isn’t growing. Know What The Fuck Is Going On = Board seat. 
 
 [Reinventing the Series A](http://venturebeat.com/2007/09/17/reinventing-the-series-a/). [*Ted Wang*](https://twitter.com/twang), 2007. Guidance on streamlining term sheets for deals smaller than $1.5 million.  
 
@@ -54,16 +54,6 @@ Our technology law <a href="/tags/#link+list">Link List</a> series collects usef
 
 Later, Fred basically agrees: "Nothing is standard. You either need it or you don't. Explain why you need it and most of the time you'll get it or something like it as long as both sides really want to make a deal."
 
-
-
-- - - 
-
-## Investor Rights
-
-- [VC Rights: Up, Down, And Know What The Fuck Is Going On](http://www.feld.com/archives/2012/05/vc-rights-up-down-and-know-what-the-fuck-is-going-on.html). "Other than economics, there are really only three things a VC needs in a deal." 
-  - Up: Pro-rata rights. When things are going well (up) a VC wants the ability to continue to invest money to maintain their ownership.
-  - Down: Liquidation preference. When things don’t go well (down), a VC wants to get their money out first.
-  - Know What The Fuck Is Going On: Board seat. 
 
 
 - - - 

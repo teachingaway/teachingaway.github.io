@@ -14,7 +14,7 @@ comments: true
 share: true
 ---
 
-The internet is full of advice, mostly bad, but occasionally useful. Our "Tech Law Link Lists" series tries to collect useful guidance for startups. This is advice worth reading, but it may not be advice that's right for *your* startup. This first installment is about finding the right lawyer for your startup. 
+The internet is full of advice, mostly bad, but occasionally useful. Our *Tech Law Link Lists* series tries to collect the useful bits. This is advice worth reading, but it may not be advice that's right for *your* startup. This first installment is about finding the right lawyer. 
 
 <div class="toc">
 <p>contents</p>
