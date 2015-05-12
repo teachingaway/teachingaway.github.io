@@ -203,6 +203,9 @@ After an initial meeting, VCs will dig deeper into your company: open the hood, 
 
 [You Can Do Too Much Due Diligence](http://avc.com/2013/05/you-can-do-too-much-due-diligence/). [*Fred Wilson*](https://twitter.com/fredwilson), 2012. A story of due diligence gone wrong. "Trust your gut." 
 
+
+[6 things to pre-empt 90% of Due Diligence](http://christophjanz.blogspot.com/2015/05/6-things-to-pre-empt-90-of-due-diligence.html) and Part II, [A Closer Look](http://christophjanz.blogspot.com/2015/05/a-closer-look-at-6-things-to-pre-empt.html). [*Christoph Janz*](https://twitter.com/chrija), 2015. SaaS companies should be ready to show investors (1) key metrics, (2) a chart of MRR movements, (3) a cohort analysis, (4) a three-year financial plan, (5) customer acquisition channels, and (6) a current sales pipeline (at least for enterprise SaaS companies). 
+ 
 - - - 
 
 ## Closing 
