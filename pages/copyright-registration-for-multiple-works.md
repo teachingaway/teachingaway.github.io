@@ -15,96 +15,96 @@ COPYRIGHT COMPENDIUM: Chapter 1100 Registration for Multiple Works
 
 <div class="toc">
 <ul>
-<li><a href="#1101-what-this-chapter-covers">1101 What This Chapter Covers</a></li>
-<li><a href="#1102-registration-as-a-single-work-the-unpublished-collection-option">1102 Registration as a Single Work: The Unpublished Collection Option</a></li>
-<li><a href="#1103-registration-as-a-single-work-the-unit-of-publication-option">1103 Registration as a Single Work: The Unit of Publication Option</a></li>
-<li><a href="#1104-group-registration">1104 Group Registration</a><ul>
-<li><a href="#11042-group-registration-options">1104.2 Group Registration Options</a></li>
-<li><a href="#11043-registration-requirements">1104.3 Registration Requirements</a></li>
-<li><a href="#11044-the-scope-of-a-group-registration">1104.4 The Scope of a Group Registration</a></li>
-<li><a href="#11045-group-registrations-distinguished-from-registrations-for-unpublished-collections">1104.5 Group Registrations Distinguished from Registrations for Unpublished Collections</a></li>
+<li><a href="#what-this-chapter-covers">1101 What This Chapter Covers</a></li>
+<li><a href="#registration-as-a-single-work-the-unpublished-collection-option">1102 Registration as a Single Work: The Unpublished Collection Option</a></li>
+<li><a href="#registration-as-a-single-work-the-unit-of-publication-option">1103 Registration as a Single Work: The Unit of Publication Option</a></li>
+<li><a href="#group-registration">1104 Group Registration</a><ul>
+<li><a href="#group-registration-options">1104.2 Group Registration Options</a></li>
+<li><a href="#registration-requirements">1104.3 Registration Requirements</a></li>
+<li><a href="#the-scope-of-a-group-registration">1104.4 The Scope of a Group Registration</a></li>
+<li><a href="#group-registrations-distinguished-from-registrations-for-unpublished-collections">1104.5 Group Registrations Distinguished from Registrations for Unpublished Collections</a></li>
 </ul>
 </li>
-<li><a href="#1105-cancellation">1105 Cancellation</a></li>
-<li><a href="#1106-unpublished-collections">1106 Unpublished Collections</a><ul>
-<li><a href="#11061-eligibility-requirements">1106.1 Eligibility Requirements</a></li>
-<li><a href="#11062-registration-requirements">1106.2 Registration Requirements</a></li>
-<li><a href="#11063-completing-the-application">1106.3 Completing the Application</a></li>
+<li><a href="#cancellation">1105 Cancellation</a></li>
+<li><a href="#unpublished-collections">1106 Unpublished Collections</a><ul>
+<li><a href="#eligibility-requirements">1106.1 Eligibility Requirements</a></li>
+<li><a href="#registration-requirements">1106.2 Registration Requirements</a></li>
+<li><a href="#completing-the-application">1106.3 Completing the Application</a></li>
 </ul>
 </li>
-<li><a href="#1107-the-unit-of-publication-option">1107 The Unit of Publication Option</a><ul>
-<li><a href="#11071-what-is-a-unit-of-publication">1107.1 What Is a Unit of Publication?</a></li>
-<li><a href="#11072-eligibility-requirements">1107.2 Eligibility Requirements</a></li>
-<li><a href="#11073-registration-requirements">1107.3 Registration Requirements</a></li>
-<li><a href="#11074-completing-the-application">1107.4 Completing the Application</a></li>
+<li><a href="#the-unit-of-publication-option">1107 The Unit of Publication Option</a><ul>
+<li><a href="#what-is-a-unit-of-publication">1107.1 What Is a Unit of Publication?</a></li>
+<li><a href="#eligibility-requirements">1107.2 Eligibility Requirements</a></li>
+<li><a href="#registration-requirements">1107.3 Registration Requirements</a></li>
+<li><a href="#completing-the-application">1107.4 Completing the Application</a></li>
 </ul>
 </li>
-<li><a href="#1108-warnings">1108 Warnings</a></li>
-<li><a href="#1109-group-registration-of-serials">1109 Group Registration of Serials</a><ul>
-<li><a href="#11091-what-is-a-serial">1109.1 What Is a Serial?</a></li>
-<li><a href="#11092-eligibility-requirements">1109.2 Eligibility Requirements</a></li>
-<li><a href="#11093-application-requirements">1109.3 Application Requirements</a></li>
-<li><a href="#11095-deposit-requirements">1109.5 Deposit Requirements</a></li>
-<li><a href="#11097-completing-the-application-group-registration-of-serials">1109.7 Completing the Application: Group Registration of Serials</a></li>
-<li><a href="#11098-submitting-the-deposit">1109.8 Submitting the Deposit</a></li>
+<li><a href="#warnings">1108 Warnings</a></li>
+<li><a href="#group-registration-of-serials">1109 Group Registration of Serials</a><ul>
+<li><a href="#what-is-a-serial">1109.1 What Is a Serial?</a></li>
+<li><a href="#eligibility-requirements">1109.2 Eligibility Requirements</a></li>
+<li><a href="#application-requirements">1109.3 Application Requirements</a></li>
+<li><a href="#deposit-requirements">1109.5 Deposit Requirements</a></li>
+<li><a href="#completing-the-application-group-registration-of-serials">1109.7 Completing the Application: Group Registration of Serials</a></li>
+<li><a href="#submitting-the-deposit">1109.8 Submitting the Deposit</a></li>
 </ul>
 </li>
-<li><a href="#1110-group-registration-of-daily-newspapers">1110 Group Registration of Daily Newspapers</a><ul>
-<li><a href="#11101-what-is-a-daily-newspaper">1110.1 What Is a Daily Newspaper?</a></li>
-<li><a href="#11103-application-requirements">1110.3 Application Requirements</a></li>
-<li><a href="#11104-filing-fee-requirements">1110.4 Filing Fee Requirements</a></li>
-<li><a href="#11105-deposit-requirements">1110.5 Deposit Requirements</a></li>
-<li><a href="#11106-the-timeliness-requirement">1110.6 The Timeliness Requirement</a></li>
+<li><a href="#group-registration-of-daily-newspapers">1110 Group Registration of Daily Newspapers</a><ul>
+<li><a href="#what-is-a-daily-newspaper">1110.1 What Is a Daily Newspaper?</a></li>
+<li><a href="#application-requirements">1110.3 Application Requirements</a></li>
+<li><a href="#filing-fee-requirements">1110.4 Filing Fee Requirements</a></li>
+<li><a href="#deposit-requirements">1110.5 Deposit Requirements</a></li>
+<li><a href="#the-timeliness-requirement">1110.6 The Timeliness Requirement</a></li>
 </ul>
 </li>
-<li><a href="#1111-group-registration-of-daily-newsletters">1111 Group Registration of Daily Newsletters</a><ul>
-<li><a href="#11111-what-is-a-daily-newsletter">1111.1 What Is a Daily Newsletter?</a></li>
-<li><a href="#11112-eligibility-requirements">1111.2 Eligibility Requirements</a></li>
-<li><a href="#11113-application-requirements">1111.3 Application Requirements</a></li>
-<li><a href="#11114-filing-fee-requirements">1111.4 Filing Fee Requirements</a></li>
-<li><a href="#11115-deposit-requirements">1111.5 Deposit Requirements</a></li>
-<li><a href="#11116-the-timeliness-requirement">1111.6 The Timeliness Requirement</a></li>
+<li><a href="#group-registration-of-daily-newsletters">1111 Group Registration of Daily Newsletters</a><ul>
+<li><a href="#what-is-a-daily-newsletter">1111.1 What Is a Daily Newsletter?</a></li>
+<li><a href="#eligibility-requirements">1111.2 Eligibility Requirements</a></li>
+<li><a href="#application-requirements">1111.3 Application Requirements</a></li>
+<li><a href="#filing-fee-requirements">1111.4 Filing Fee Requirements</a></li>
+<li><a href="#deposit-requirements">1111.5 Deposit Requirements</a></li>
+<li><a href="#the-timeliness-requirement">1111.6 The Timeliness Requirement</a></li>
 </ul>
 </li>
-<li><a href="#1112-completing-the-application-group-registration-of-daily-newspapers">1112 Completing the Application: Group Registration of Daily Newspapers</a><ul>
-<li><a href="#11121-space-1-title-of-this-newspaper-newsletter">1112.1 Space 1: Title of this Newspaper / Newsletter</a></li>
+<li><a href="#completing-the-application-group-registration-of-daily-newspapers">1112 Completing the Application: Group Registration of Daily Newspapers</a><ul>
+<li><a href="#space-1-title-of-this-newspaper-newsletter">1112.1 Space 1: Title of this Newspaper / Newsletter</a></li>
 </ul>
 </li>
-<li><a href="#1114-newspapers-newsletters-or-other-serials-that-do-not-satisfy-the-group-registration-requirements">1114 Newspapers, Newsletters, or Other Serials That Do Not Satisfy the Group Registration Requirements</a></li>
-<li><a href="#1115-group-registration-for-contributions-to-periodicals">1115 Group Registration for Contributions to Periodicals</a><ul>
-<li><a href="#11151-what-is-a-contribution-to-a-periodical">1115.1 What Is a Contribution to a Periodical?</a></li>
-<li><a href="#11152-eligibility-requirements">1115.2 Eligibility Requirements</a></li>
-<li><a href="#11153-application-requirements">1115.3 Application Requirements</a></li>
-<li><a href="#11154-filing-fee-requirements">1115.4 Filing Fee Requirements</a></li>
-<li><a href="#11155-deposit-requirements">1115.5 Deposit Requirements</a></li>
-<li><a href="#11157-completing-the-application-group-registration-of-contributions">1115.7 Completing the Application: Group Registration of Contributions</a></li>
-<li><a href="#11158-form-grcp">1115.8 Form GR/CP</a></li>
-<li><a href="#11159-contributions-that-do-not-satisfy-the-group-registration-requirements">1115.9 Contributions That Do Not Satisfy the Group Registration Requirements</a></li>
+<li><a href="#newspapers-newsletters-or-other-serials-that-do-not-satisfy-the-group-registration-requirements">1114 Newspapers, Newsletters, or Other Serials That Do Not Satisfy the Group Registration Requirements</a></li>
+<li><a href="#group-registration-for-contributions-to-periodicals">1115 Group Registration for Contributions to Periodicals</a><ul>
+<li><a href="#what-is-a-contribution-to-a-periodical">1115.1 What Is a Contribution to a Periodical?</a></li>
+<li><a href="#eligibility-requirements">1115.2 Eligibility Requirements</a></li>
+<li><a href="#application-requirements">1115.3 Application Requirements</a></li>
+<li><a href="#filing-fee-requirements">1115.4 Filing Fee Requirements</a></li>
+<li><a href="#deposit-requirements">1115.5 Deposit Requirements</a></li>
+<li><a href="#completing-the-application-group-registration-of-contributions">1115.7 Completing the Application: Group Registration of Contributions</a></li>
+<li><a href="#form-grcp">1115.8 Form GR/CP</a></li>
+<li><a href="#contributions-that-do-not-satisfy-the-group-registration-requirements">1115.9 Contributions That Do Not Satisfy the Group Registration Requirements</a></li>
 </ul>
 </li>
-<li><a href="#1116-group-registration-of-published-photographs">1116 Group Registration of Published Photographs</a><ul>
-<li><a href="#11161-eligibility-requirements">1116.1 Eligibility Requirements</a></li>
-<li><a href="#11162-application-requirements">1116.2 Application Requirements</a></li>
-<li><a href="#11163-filing-fee-requirements">1116.3 Filing Fee Requirements</a></li>
-<li><a href="#11164-deposit-requirements">1116.4 Deposit Requirements</a></li>
-<li><a href="#11165-when-may-an-application-for-a-group-registration-be-filed">1116.5 When May an Application for a Group Registration Be Filed?</a></li>
-<li><a href="#11166-completing-the-application-group-registration-of-published-photographs">1116.6 Completing the Application: Group Registration of Published Photographs</a></li>
-<li><a href="#11167-photographs-that-do-not-satisfy-the-group-registration-requirements">1116.7 Photographs That Do Not Satisfy the Group Registration Requirements</a></li>
+<li><a href="#group-registration-of-published-photographs">1116 Group Registration of Published Photographs</a><ul>
+<li><a href="#eligibility-requirements">1116.1 Eligibility Requirements</a></li>
+<li><a href="#application-requirements">1116.2 Application Requirements</a></li>
+<li><a href="#filing-fee-requirements">1116.3 Filing Fee Requirements</a></li>
+<li><a href="#deposit-requirements">1116.4 Deposit Requirements</a></li>
+<li><a href="#when-may-an-application-for-a-group-registration-be-filed">1116.5 When May an Application for a Group Registration Be Filed?</a></li>
+<li><a href="#completing-the-application-group-registration-of-published-photographs">1116.6 Completing the Application: Group Registration of Published Photographs</a></li>
+<li><a href="#photographs-that-do-not-satisfy-the-group-registration-requirements">1116.7 Photographs That Do Not Satisfy the Group Registration Requirements</a></li>
 </ul>
 </li>
-<li><a href="#1117-databases">1117 Databases</a><ul>
-<li><a href="#11171-what-is-a-database">1117.1 What Is a Database?</a></li>
-<li><a href="#11172-the-scope-of-a-group-registration-for-a-database">1117.2 The Scope of a Group Registration for a Database</a></li>
-<li><a href="#11173-eligibility-requirements">1117.3 Eligibility Requirements</a></li>
-<li><a href="#11174-application-requirements">1117.4 Application Requirements</a></li>
-<li><a href="#11175-filing-fee-requirements">1117.5 Filing Fee Requirements</a></li>
-<li><a href="#11176-deposit-requirements">1117.6 Deposit Requirements</a></li>
-<li><a href="#11177-completing-the-application-group-registration-of-databases">1117.7 Completing the Application: Group Registration of Databases</a></li>
-<li><a href="#11178-effective-date-of-registration-for-a-group-of-revisions-or-updates">1117.8 Effective Date of Registration for a Group of Revisions or Updates</a></li>
-<li><a href="#11179-databases-that-do-not-satisfy-the-group-registration-requirements">1117.9 Databases That Do Not Satisfy the Group Registration Requirements</a></li>
+<li><a href="#databases">1117 Databases</a><ul>
+<li><a href="#what-is-a-database">1117.1 What Is a Database?</a></li>
+<li><a href="#the-scope-of-a-group-registration-for-a-database">1117.2 The Scope of a Group Registration for a Database</a></li>
+<li><a href="#eligibility-requirements">1117.3 Eligibility Requirements</a></li>
+<li><a href="#application-requirements">1117.4 Application Requirements</a></li>
+<li><a href="#filing-fee-requirements">1117.5 Filing Fee Requirements</a></li>
+<li><a href="#deposit-requirements">1117.6 Deposit Requirements</a></li>
+<li><a href="#completing-the-application-group-registration-of-databases">1117.7 Completing the Application: Group Registration of Databases</a></li>
+<li><a href="#effective-date-of-registration-for-a-group-of-revisions-or-updates">1117.8 Effective Date of Registration for a Group of Revisions or Updates</a></li>
+<li><a href="#databases-that-do-not-satisfy-the-group-registration-requirements">1117.9 Databases That Do Not Satisfy the Group Registration Requirements</a></li>
 </ul>
 </li>
-<li><a href="#1119-photographs-at-a-glance">1119 Photographs at a Glance</a></li>
+<li><a href="#photographs-at-a-glance">1119 Photographs at a Glance</a></li>
 </ul>
 </div>
 
@@ -137,7 +137,7 @@ As a general rule, a registration covers an individual work, and an applicant sh
 
 The U.S. Copyright Office has established an administrative procedure that allows an applicant to register a number of unpublished works with one application, one filing fee, and one set of deposit copies. This is known as the “unpublished collection” option. 
 
-A registration issued under this option covers each work that is submitted forregistration. It may also cover the compilation authorship (if any) involved in selectingthe works and assembling them into a collective whole, provided that the applicantexpressly claims that authorship in the application. See 37 C.F.R. § 202.3(b)(4)(i)(B). When no selection, coordination, or arrangement is claimed, the Office considers eachwork to be individually registered for purposes of statutory damages. 
+A registration issued under this option covers each work that is submitted for registration. It may also cover the compilation authorship (if any) involved in selecting the works and assembling them into a collective whole, provided that the applicant expressly claims that authorship in the application. See 37 C.F.R. § 202.3(b)(4)(i)(B). When no selection, coordination, or arrangement is claimed, the Office considers each work to be individually registered for purposes of statutory damages. 
 
 For additional information concerning this option, see Section 1106. 
 
@@ -213,21 +213,21 @@ Ordinarily, the U.S. Copyright Office will not accept an application that attemp
 
 In determining whether to register multiple works with one application the applicant should consider the potential impact on the copyright owner’s ability to seek damages in the event that a third party infringes those works. 
 
-When an applicant registers a number of works using the unpublished collection option, the claimant may assert a claim in the copyrightable selection, coordination, and/orarrangement of the collection as a whole. This may have significant consequences in acopyright infringement action. When a compilation claim has been asserted, thecopyright owner may be entitled to claim only one award of statutory damages in an infringement action, even if the defendant infringed all of the works covered by the registration. See 17 U.S.C. § 504(c)(1) (stating that a copyright owner may be entitled torecover “an award of statutory damages for all infringements involved in the action,with respect to any one work” and “[f]or the purposes of this subsection, all the parts ofa compilation or derivative work constitute one work”). That is not necessarily the caseif the claimant does not explicitly assert a compilation claim. In such cases, theregistration will extend to each individual work in the unpublished collection that is copyrightable, and the copyright owner may be entitled to a separate award of statutorydamages for each work. Thus, if the applicant intents to register a number of individualworks (but does not intend to register the collection as a whole), the applicant may wantto include a statement in the application that the claimant claims no authorship in theselection, coordination, and/or arrangement of works included within the collection.When completing an online application this statement may be provided in the Note toCopyright Office field. When completing a paper application it may be provided in acover letter. However, unless selection, coordination, and/or arrangement isspecifically claimed in the application the Office will presume that the claim is solely inthe individual works in the unpublished collection. 
+When an applicant registers a number of works using the unpublished collection option, the claimant may assert a claim in the copyrightable selection, coordination, and/orarrangement of the collection as a whole. This may have significant consequences in acopyright infringement action. When a compilation claim has been asserted, thecopyright owner may be entitled to claim only one award of statutory damages in an infringement action, even if the defendant infringed all of the works covered by the registration. See 17 U.S.C. § 504(c)(1) (stating that a copyright owner may be entitled torecover “an award of statutory damages for all infringements involved in the action,with respect to any one work” and “[f]or the purposes of this subsection, all the parts ofa compilation or derivative work constitute one work”). That is not necessarily the caseif the claimant does not explicitly assert a compilation claim. In such cases, theregistration will extend to each individual work in the unpublished collection that is copyrightable, and the copyright owner may be entitled to a separate award of statutorydamages for each work. Thus, if the applicant intents to register a number of individualworks (but does not intend to register the collection as a whole), the applicant may wantto include a statement in the application that the claimant claims no authorship in theselection, coordination, and/or arrangement of works included within the collection.When completing an online application this statement may be provided in the Note toCopyright Office field. When completing a paper application it may be provided in acover letter. However, unless selection, coordination, and/or arrangement isspecifically claimed in the application the Office will presume that the claim is solely in the individual works in the unpublished collection. 
 
 Copyright owners who use a group registration option may be entitled to claim aseparate award of statutory damages for each work that is covered by the registration,because a group registration covers each work that is submitted for registration (ratherthan the group as a whole). However, there is an exception to this rule. As discussed inSection 1117, a group registration for a database covers the updates or revisions thatwere added to the database during the period specified in the registration. Copyrightowners that use this option are entitled to claim only one award of statutory damages ina copyright infringement action, because the updates or revisions to a database are derivative compilations, and as noted above, the statute expressly states that “all theparts of a compilation or derivative work constitute one work” when calculatingstatutory damages. See id. 
 
 
 # 1105 Cancellation 
 
-The U.S. Copyright Office may cancel a group registration or a registration for an unpublished collection or a unit of publication if the Office subsequently determines that the applicant failed to comply with the relevant requirements for these options. Thepractices and procedures for cancelling a registration are discussed in Chapter 1800,Section 1806. 
+The U.S. Copyright Office may cancel a group registration or a registration for an unpublished collection or a unit of publication if the Office subsequently determines that the applicant failed to comply with the relevant requirements for these options. The practices and procedures for cancelling a registration are discussed in Chapter 1800,Section 1806. 
 
 
 # 1106 Unpublished Collections 
 
-This Section discusses the U.S. Copyright Office’s current practices and procedures for registering a number of works using the unpublished collection option. This option is aregistration accommodation for creators that incentivizes timely registration. 
+This Section discusses the U.S. Copyright Office’s current practices and procedures for registering a number of works using the unpublished collection option. This option is a registration accommodation for creators that incentivizes timely registration. 
 
-NOTE: When an unpublished work is registered with the Office it does not have to beregistered again after the work is published (although as discussed in Chapter 500,Section 510.1, the Office will register the first published edition of a work even if theunpublished version and the published version are substantially the same). Registrationas an unpublished work prior to infringement will preserve the availability of statutorydamages and/or recovery of attorney’s fees. 
+NOTE: When an unpublished work is registered with the Office it does not have to be registered again after the work is published (although as discussed in Chapter 500,Section 510.1, the Office will register the first published edition of a work even if the unpublished version and the published version are substantially the same). Registration as an unpublished work prior to infringement will preserve the availability of statutory damages and/or recovery of attorney’s fees. 
 
 
 ## 1106.1 Eligibility Requirements 
@@ -338,7 +338,7 @@ When completing an online application, the title for the collection as a whole s
 
 When completing a paper application, the title for the collection as a whole should beprovided in space 1 under the heading marked Title of This Work. The title of the worksthat will be submitted for registration should be provided using Form CON. If the applicant provides this information in the application, the title of each work may beincluded in the certificate of registration and the online public record unless theapplicant provides a substantial number of titles on Form CON. 
 
-In all cases, the titles of the works should be listed in the same order that they appear inthe deposit copy. 
+In all cases, the titles of the works should be listed in the same order that they appear in the deposit copy. 
 
 If the applicant fails to provide a title for the collection, the registration specialist mayuse the title for the first work as the title for the collection as a whole. This title will appear in the certificate of registration and the online public record as the primary titlefor the collection. 
 
@@ -349,7 +349,7 @@ For additional guidance in completing the title field/space of the application, 
 
 1106.3(D) Publication / Completion 
 
-As discussed in Section 1106.1, all of the elements in the works must be unpublished. When completing an online application, the applicant should provide this informationon the Publication/Completion screen. Specifically, the applicant should select “no” inthe drop down menu marked “Has this work been published?” When completing a paperapplication, the portion of the application marked “Date and Nation of First Publicationof This Particular Work” should be left blank. 
+As discussed in Section 1106.1, all of the elements in the works must be unpublished. When completing an online application, the applicant should provide this informationon the Publication/Completion screen. Specifically, the applicant should select “no” in the drop down menu marked “Has this work been published?” When completing a paperapplication, the portion of the application marked “Date and Nation of First Publicationof This Particular Work” should be left blank. 
 
 When completing an online application, the applicant should identify the year that theworks were completed on the Publication/Completion screen in the field marked Year of Completion (Year of Creation). When completing a paper application, the applicant should identify the year that the author completed the works on space 3(a) under theheading “Year in which creation of this work was completed.” 
 
@@ -381,13 +381,13 @@ If the works were created by a single author, the applicant should identify the 
 
 If the works were created or co-created by two or more authors, the applicant shouldidentify the elements that the authors created, and for each author, the applicant shouldidentify the copyrightable authorship that he or she contributed to those elements. 
 
-If any of the authors created or co-created some—but less than all—of the elements inthe works, the applicant should identify the copyrightable authorship that each authorcontributed to those elements. 
+If any of the authors created or co-created some—but less than all—of the elements in the works, the applicant should identify the copyrightable authorship that each authorcontributed to those elements. 
 
 If any selection, coordination, and/or arrangement is claimed, the applicant must assertthat claim in the application. It should be noted that asserting such a claim will renderthe collection a “collective work,” which will affect the amount of damages that may be recovered in an infringement action. 
 
 When completing an online application, the applicant should provide this informationon the Authors screen in the field marked Author Created. Specifically, the applicantshould check one or more of the boxes on the Author Created screen that accuratelydescribe the author’s contribution to each work. For guidance on completing this field, see Chapter 600, Section 618.4(A). For guidance on asserting a claim in the selection,coordination, and/or arrangement of the works, see Chapter 600, Section 618.6. 
 
-When completing a paper application, the applicant should provide this information inthe space marked Nature of Authorship. For guidance in completing this portion of the application, see Chapter 600, Section 618.4(B). 
+When completing a paper application, the applicant should provide this information in the space marked Nature of Authorship. For guidance in completing this portion of the application, see Chapter 600, Section 618.4(B). 
 
 
 1106.3(G) Claimants / Transfer Statement 
@@ -398,7 +398,7 @@ As discussed in Section 1106.1, the claimant for all of the elements and the cla
 
 In the alternative, a person or organization that owns all of the rights that initiallybelonged to the author may be named as the copyright claimant, but only if that party owns the copyright in all of the elements and the copyright in the collection as a whole.If the claimant does not own the copyright in one or more of the elements, thoseelements should be removed from the application, or they should be excluded from theclaim using the procedure set forth in Chapter 600, Section 621.8. 
 
-In some cases, multiple parties may be named as the copyright claimant. For example, ifthe applicant intends to register a number of joint works, the co-authors of those workscould be named as co-claimants, provided that they jointly created all of the elements inthe works. Likewise, two or more parties may be named as co-claimants, provided thatthey co-own the copyright in all of the works. 
+In some cases, multiple parties may be named as the copyright claimant. For example, ifthe applicant intends to register a number of joint works, the co-authors of those workscould be named as co-claimants, provided that they jointly created all of the elements in the works. Likewise, two or more parties may be named as co-claimants, provided thatthey co-own the copyright in all of the works. 
 
 When completing an online application, the applicant should provide the claimant’s full name and address on the Claimants screen. When completing a paper application, theapplicant should provide this information in space 4 of the application. For guidance oncompleting this portion of the application, see Chapter 600, Section 619.12. 
 
@@ -609,7 +609,7 @@ When completing a paper application, the applicant should identify the author or
 
 For guidance in providing the name(s) of the author(s) of the component works, see Chapter 600, Section 613.8. For guidance in identifying works created by largenumbers of authors, see Chapter 600, Section 613.10(F). For guidance in providing the author’s citizenship and domicile, see Chapter 600, Section 617. 
 
-If the works contained within the unit of publication qualify as anonymous or pseudonymous works, the applicant may check the appropriate boxes that appear inthe anonymous/pseudonymous fields/spaces. For a definition and discussion ofanonymous and pseudonymous works, see Chapter 600, Sections 615.1 and 615.2. 
+If the works contained within the unit of publication qualify as anonymous or pseudonymous works, the applicant may check the appropriate boxes that appear in the anonymous/pseudonymous fields/spaces. For a definition and discussion ofanonymous and pseudonymous works, see Chapter 600, Sections 615.1 and 615.2. 
 
 For guidance concerning the Year of Birth and Year of Death fields/spaces, see Chapter 600, Section 616. 
 
@@ -849,42 +849,42 @@ The U.S. Copyright Office will register a group of serials published within a th
 
 ## 1109.7 Completing the Application: Group Registration of Serials 
 
-This Section provides guidance for registering a group of serials with an onlineapplication or a paper application submitted on Form SE/Group. 
+This Section provides guidance for registering a group of serials with an online application or a paper application submitted on Form SE/Group. 
 
 
 
 1109.7(A) Type of Group 
 
-To register a group of serials with an online application, the applicant should begin byclicking the phrase “Register a Group Claim,” which appears on the home page of theelectronic registration system. 
+To register a group of serials with an online application, the applicant should begin by clicking the phrase “Register a Group Claim,” which appears on the home page of the electronic registration system. 
 
-The applicant should identify the type of group that he or she intends to register. For agroup of serials, the applicant should select “Serial Issues” from the drop down menuthat appears on the Type of Group screen. 
+The applicant should identify the type of group that he or she intends to register. For a group of serials, the applicant should select “Serial Issues” from the drop down menu that appears on the Type of Group screen. 
 
 
 1109.7(B) Title 
 
-The applicant should provide the title of the serial exactly as it appears on the deposit copies, including any subtitle(s). When completing an online application, the applicantshould provide this information on the Title screen in the field marked Serial Title.When completing a paper application, the applicant should provide this information onspace 1 of Form SE/Group. 
+The applicant should provide the title of the serial exactly as it appears on the deposit copies, including any subtitle(s). When completing an online application, the applicant should provide this information on the Title screen in the field marked Serial Title.When completing a paper application, the applicant should provide this information on space 1 of Form SE/Group. 
 
-The applicant should complete the field marked Previous/Alternative Title in the onlineapplication (i) if the serial was previously published under a different title, (ii) if theserial is known by a different title or by a title that is written in a different language, or
+The applicant should complete the field marked Previous/Alternative Title in the online application (i) if the serial was previously published under a different title, (ii) if the serial is known by a different title or by a title that is written in a different language, or
 
 (iii) if a person would likely search for the serial in the U.S. Copyright Office’s records under a different title. As a general rule, a subtitle is not considered a Previous orAlternative Title. 
 
-Applicants cannot provide titles for the various articles, photographs, illustrations, orother contributions that appear within each issue when submitting an application for agroup registration (regardless of whether the application is submitted through theelectronic registration system or with a paper application submitted on Form SE/Group). If the applicant would like to include this information in theregistration record, the applicant must submit a separate application for each issueusing the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of aserial publication, see Chapter 700, Section 712. 
+Applicants cannot provide titles for the various articles, photographs, illustrations, or other contributions that appear within each issue when submitting an application for a group registration (regardless of whether the application is submitted through the electronic registration system or with a paper application submitted on Form SE/Group). If the applicant would like to include this information in the registration record, the applicant must submit a separate application for each issue using the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of a serial publication, see Chapter 700, Section 712. 
 
 
 1109.7(C) ISSN Numbers 
 
-If an International Standard Serial Number (“ISSN”) has been assigned to the serial,the applicant should provide this information on the Title screen of the onlineapplication. Specifically, the applicant should select ISSN from the drop down menumarked ISN Type and the applicant should provide the relevant number in the fieldmarked International Standard Number. 
+If an International Standard Serial Number (“ISSN”) has been assigned to the serial,the applicant should provide this information on the Title screen of the online application. Specifically, the applicant should select ISSN from the drop down menu marked ISN Type and the applicant should provide the relevant number in the field marked International Standard Number. 
 
-When completing a paper application, the applicant should provide this information inspace 1 under the heading marked ISSN. 
+When completing a paper application, the applicant should provide this information in space 1 under the heading marked ISSN. 
 
 For a general discussion of ISSN numbers, see Chapter 600, Section 612.6(C). 
 
 
 1109.7(D) Nation of First Publication / Author’s Citizenship or Domicile 
 
-When completing an online application, the applicant should identify the country where the issues were first published by selecting one of the countries listed in the drop downmenu marked Nation of First Publication. The U.S. Copyright Office will use thisinformation to determine whether the issues are eligible for copyright protection in theUnited States. If the applicant fails to provide a nation of first publication, the application will not be accepted by the electronic registration system. If the nation offirst publication is unknown, the applicant may select “unknown” from the drop down menu. 
+When completing an online application, the applicant should identify the country where the issues were first published by selecting one of the countries listed in the drop down menu marked Nation of First Publication. The U.S. Copyright Office will use this information to determine whether the issues are eligible for copyright protection in theUnited States. If the applicant fails to provide a nation of first publication, the application will not be accepted by the electronic registration system. If the nation of first publication is unknown, the applicant may select “unknown” from the drop down menu. 
 
-When completing a paper application, the applicant should provide the nation of firstpublication or the author’s country of citizenship or domicile in space 2 of Form SE/Group if the work was created by a foreign author or if the work was first publishedoutside the United States. 
+When completing a paper application, the applicant should provide the nation of first publication or the author’s country of citizenship or domicile in space 2 of Form SE/Group if the work was created by a foreign author or if the work was first published outside the United States. 
 
 For a definition and discussion of the nation of first publication, see Chapter 600, Section 
 
@@ -893,9 +893,9 @@ For a definition and discussion of the nation of first publication, see Chapter 
 
 1109.7(E) Volume, Number, Issue Date, and Date of Publication 
 
-When completing an online application, the applicant should provide the volume, number, and issue date (if any) that appears on the deposit copy for each issue in the group. This information should be provided on the Title screen. In addition, theapplicant should provide the date of publication (month, day, and year) for each issue. Ifthe applicant fails to provide a date of publication, the application will not be acceptedby the electronic registration system. 
+When completing an online application, the applicant should provide the volume, number, and issue date (if any) that appears on the deposit copy for each issue in the group. This information should be provided on the Title screen. In addition, the applicant should provide the date of publication (month, day, and year) for each issue. If the applicant fails to provide a date of publication, the application will not be accepted by the electronic registration system. 
 
-When completing a paper application, the applicant should provide this information onspace 1 of Form SE/Group. The issues that are included in the group should be listed inthe application in chronological order. 
+When completing a paper application, the applicant should provide this information onspace 1 of Form SE/Group. The issues that are included in the group should be listed in the application in chronological order. 
 
 When completing an online application, the applicant should state “No previousregistration under identical title” in the Note to Copyright Office field if this is the firsttime that the serial has been submitted for registration using the group registrationoption. If the applicant received a written communication from CAD indicating that the Library has or has not included the serial in its collections, the applicant shouldtranscribe that statement in the Note to Copyright Office field. See Section 1109.5(A). 
 
@@ -908,25 +908,25 @@ For a general discussion of publication issues, see Chapter 600, Section 612.
 
 As discussed in Section 1109.2, all of the issues in the group must be created by the same author(s), the copyright in each issue must be owned by the same copyright claimant(s), and the author(s) and the claimant(s) must be the same person or organization. 
 
-When completing an online application, the applicant should provide the author/claimant’s full name and the author/claimant’s address on the Author/Claimantscreen. When completing a paper application, the applicant should provide this information on space 2 of Form SE/Group. 
+When completing an online application, the applicant should provide the author/claimant’s full name and the author/claimant’s address on the Author/Claimant screen. When completing a paper application, the applicant should provide this information on space 2 of Form SE/Group. 
 
-The applicant does not need to describe the material that the author created, because bydefinition, a registration for a group of serials only covers (i) the contributions createdby the author named in the application and (ii) the compilation authorship involved in creating the collective work as a whole. See Section 1109.2; see also Registration ofClaims to Copyright, Group Registration Options, 73 Fed. Reg. 23,390, 23,391-92 (Apr.30, 2008) (“[A] description of new matter within a work … is no longer explicitlyrequired on the group registration form because many of the group options require thatthe works included in the grouping be ‘essentially new’ with respect to their authorship.”). 
+The applicant does not need to describe the material that the author created, because by definition, a registration for a group of serials only covers (i) the contributions created by the author named in the application and (ii) the compilation authorship involved in creating the collective work as a whole. See Section 1109.2; see also Registration ofClaims to Copyright, Group Registration Options, 73 Fed. Reg. 23,390, 23,391-92 (Apr.30, 2008) (“[A] description of new matter within a work … is no longer explicitly required on the group registration form because many of the group options require that the works included in the grouping be ‘essentially new’ with respect to their authorship.”). 
 
-If the serial contains articles, photographs, or other contributions that were created byan author who transferred the copyright in his or her work to the claimant, the applicantcannot register those contributions using the group registration option for serials.Instead, the applicant should prepare a separate application for each issue using the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of a serial publication, see Chapter 700, Section 712. 
+If the serial contains articles, photographs, or other contributions that were created by an author who transferred the copyright in his or her work to the claimant, the applicant cannot register those contributions using the group registration option for serials. Instead, the applicant should prepare a separate application for each issue using the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of a serial publication, see Chapter 700, Section 712. 
 
 
 1109.7(G) Rights and Permissions Information 
 
-When completing an online application, the applicant may provide the name, address,and other contact information for the person and/or organization who should be contacted for permission to use the issues that are included in the group. Providing thisinformation is optional, and an application will be accepted even if this portion of theapplication is left blank. 
+When completing an online application, the applicant may provide the name, address,and other contact information for the person and/or organization who should be contacted for permission to use the issues that are included in the group. Providing this information is optional, and an application will be accepted even if this portion of the application is left blank. 
 
 For guidance in completing this portion of the online application, see Chapter 600,Section 622.1. Currently there is no space for this information on Form SE/Group. 
 
 
 1109.7(H) Correspondent / Mailing Address for the Certificate of Registration 
 
-The applicant should provide the name, address, telephone number, fax number, andemail address (if any) for the person or persons who should be contacted if the U.S.Copyright Office has questions or concerns regarding the application. When completingan online application, the applicant should provide this information on the Correspondent screen. When completing a paper application, the applicant shouldprovide this information under the heading marked “Person to contact forcorrespondence about this claim.” As a general rule, the Office will send allcommunications to this person at the address provided in the registration record. 
+The applicant should provide the name, address, telephone number, fax number, and email address (if any) for the person or persons who should be contacted if the U.S.Copyright Office has questions or concerns regarding the application. When completing an online application, the applicant should provide this information on the Correspondent screen. When completing a paper application, the applicant should provide this information under the heading marked “Person to contact for correspondence about this claim.” As a general rule, the Office will send all communications to this person at the address provided in the registration record. 
 
-In addition, the applicant should provide the name and address where the certificate of registration should be sent. When completing an online application, this informationshould be provided on the Mail Address screen. When completing a paper application,this information should be provided under the heading marked “Certificate will bemailed in window envelope to this address.” 
+In addition, the applicant should provide the name and address where the certificate of registration should be sent. When completing an online application, this information should be provided on the Mail Address screen. When completing a paper application,this information should be provided under the heading marked “Certificate will be mailed in window envelope to this address.” 
 
 For guidance in completing the Correspondent field/space, see Chapter 600, Section 
 
@@ -937,33 +937,33 @@ For guidance in completing the Correspondent field/space, see Chapter 600, Secti
 
 Special handling is a procedure for expediting the examination of an application. The
 
-U.S. Copyright Office offers this service in certain circumstances where a copyrightowner or other interested parties have a compelling reason for the expedited issuance of a certificate of registration. The Office charges an additional fee for this service. 
+U.S. Copyright Office offers this service in certain circumstances where a copyright owner or other interested parties have a compelling reason for the expedited issuance of a certificate of registration. The Office charges an additional fee for this service. 
 
 For a detailed discussion of this procedure, see Chapter 600, Section 623. 
 
 
 1109.7(J) Certification 
 
-The application must be certified by the author/claimant named in the application or aduly authorized agent of the author/claimant. No other person or entity is entitled to certify an application. 
+The application must be certified by the author/claimant named in the application or a duly authorized agent of the author/claimant. No other person or entity is entitled to certify an application. 
 
-The person who certifies the application certifies that the information provided in theapplication is correct to the best of his or her knowledge. Knowingly making a falserepresentation of a material fact in an application, or in any written statement filed inconnection with the application, is a crime that is punishable under 17 U.S.C. § 506(e). 
+The person who certifies the application certifies that the information provided in the application is correct to the best of his or her knowledge. Knowingly making a false representation of a material fact in an application, or in any written statement filed in connection with the application, is a crime that is punishable under 17 U.S.C. § 506(e). 
 
-When completing an online application, the applicant will be asked to certify the application on the Certification screen. Specifically, the applicant should provide thefirst and last name of the individual who is certifying the application in the spacemarked Name of Certifying Individual and should check the box that reads, “I certify thatI am the author, copyright claimant, or owner of exclusive rights, or the authorizedagent of the author, copyright claimant, or owner of exclusive rights of this work and that the information given in this application is correct to the best of myknowledge.” See 37 C.F.R. § 202.3(c)(2)(ii). There is no need to date the certification in an online application; the date will be added automatically when the application isreceived by the U.S. Copyright Office. See Online Registration of Claims to Copyright, 72 Fed. Reg. 36,883, 36,887 (July 6, 2007). 
+When completing an online application, the applicant will be asked to certify the application on the Certification screen. Specifically, the applicant should provide the first and last name of the individual who is certifying the application in the space marked Name of Certifying Individual and should check the box that reads, “I certify thatI am the author, copyright claimant, or owner of exclusive rights, or the authorized agent of the author, copyright claimant, or owner of exclusive rights of this work and that the information given in this application is correct to the best of my knowledge.” See 37 C.F.R. § 202.3(c)(2)(ii). There is no need to date the certification in an online application; the date will be added automatically when the application is received by the U.S. Copyright Office. See Online Registration of Claims to Copyright, 72 Fed. Reg. 36,883, 36,887 (July 6, 2007). 
 
-When completing Form SE/Group, the applicant should sign and date the application inthe space marked “Handwritten signature.” The first and last name of the person whosigned the application should be typed or printed on the space marked “Typed orprinted name.” 
+When completing Form SE/Group, the applicant should sign and date the application in the space marked “Handwritten signature.” The first and last name of the person who signed the application should be typed or printed on the space marked “Typed or printed name.” 
 
 
 ## 1109.8 Submitting the Deposit 
 
-As discussed in Section 1109.5, the applicant must submit one complete copy of eachissue that is included in the group, regardless of whether the applicant submits anonline application or a paper application and regardless of whether the serial is subjectto the complimentary subscription requirement. 
+As discussed in Section 1109.5, the applicant must submit one complete copy of each issue that is included in the group, regardless of whether the applicant submits an online application or a paper application and regardless of whether the serial is subject to the complimentary subscription requirement. 
 
-When completing an online application, the applicant may upload an electronic copy ofeach issue through the electronic registration system. The file for each issue should notexceed 170 megabytes, and each file should be uploaded sequentially in chronologicalorder. When all of the issues in the group have been uploaded, the applicant should clickthe “upload complete” button. Additional information concerning the Library’s current preferences for file-level format and specifications are posted on the Office’s website (www.copyright.gov/eco/help-file-types.html). 
+When completing an online application, the applicant may upload an electronic copy of each issue through the electronic registration system. The file for each issue should not exceed 170 megabytes, and each file should be uploaded sequentially in chronological order. When all of the issues in the group have been uploaded, the applicant should click the “upload complete” button. Additional information concerning the Library’s current preferences for file-level format and specifications are posted on the Office’s website (www.copyright.gov/eco/help-file-types.html). 
 
-In the alternative, the applicant may submit a physical copy of each issue in the group, or the applicant may submit a disc containing an electronic copy of each issue.The deposit copies may be delivered by mail, by courier, or by hand delivery to the Public Information Office. In all cases, the deposit copies must be submitted togetherwith the shipping slip that is generated by the electronic registration system. Failure toinclude a shipping slip may prevent the Office from connecting the deposit copies withthe online application and may require the applicant to resubmit the deposit, which in turn, may change the effective date of registration for the group registration. See Chapter 600, Section 625.2(D). Deposit copies submitted without shipping slips will not be returned. 
+In the alternative, the applicant may submit a physical copy of each issue in the group, or the applicant may submit a disc containing an electronic copy of each issue.The deposit copies may be delivered by mail, by courier, or by hand delivery to the Public Information Office. In all cases, the deposit copies must be submitted together with the shipping slip that is generated by the electronic registration system. Failure to include a shipping slip may prevent the Office from connecting the deposit copies with the online application and may require the applicant to resubmit the deposit, which in turn, may change the effective date of registration for the group registration. See Chapter 600, Section 625.2(D). Deposit copies submitted without shipping slips will not be returned. 
 
-Packages that are delivered to the U.S. Copyright Office by mail or by courier will beirradiated to destroy possible contaminants, such as anthrax. This process may damageCD-ROMs or other compact discs. To avoid this result, applicants are stronglyencouraged to send these types of materials in boxes rather than envelopes. Additionalinformation concerning the recommended procedure for delivering deposits to theOffice by mail or by courier is posted on the Office’s website (www.copyright.gov/mail.html). 
+Packages that are delivered to the U.S. Copyright Office by mail or by courier will be irradiated to destroy possible contaminants, such as anthrax. This process may damageCD-ROMs or other compact discs. To avoid this result, applicants are strongly encouraged to send these types of materials in boxes rather than envelopes. Additional information concerning the recommended procedure for delivering deposits to theOffice by mail or by courier is posted on the Office’s website (www.copyright.gov/mail.html). 
 
-When completing a paper application the applicant should submit a package containinga complete copy of each issue together with the completed application and the correct filing fee. For information concerning the methods for paying the filing fee, see Chapter 1400, Sections 1403.4 and 1403.5. The package may be delivered by mail, bycourier, or by hand delivery to the Public Information Office. 
+When completing a paper application the applicant should submit a package containing a complete copy of each issue together with the completed application and the correct filing fee. For information concerning the methods for paying the filing fee, see Chapter 1400, Sections 1403.4 and 1403.5. The package may be delivered by mail, by courier, or by hand delivery to the Public Information Office. 
 
 
 # 1110 Group Registration of Daily Newspapers 
@@ -972,21 +972,21 @@ This Section discusses the U.S. Copyright Office’s current practices and proce
 
 The regulation governing the group registration of daily newspapers became effective on September 1, 1992. Newspapers published before that date are not eligible for this group registration option. 
 
-For guidance on registering a single issue of a newspaper as a single serial publication, see Chapter 700, Section 712. For information concerning the group registration options for serials and daily newsletters, see Sections 1109 and 1111. For a general overview of the similarities and differences between the group registration options for serials, dailynewspapers, and daily newsletters, see Section 1118. For information concerning thegroup registration option for contributions to periodicals, see Section 1115. 
+For guidance on registering a single issue of a newspaper as a single serial publication, see Chapter 700, Section 712. For information concerning the group registration options for serials and daily newsletters, see Sections 1109 and 1111. For a general overview of the similarities and differences between the group registration options for serials, daily newspapers, and daily newsletters, see Section 1118. For information concerning the group registration option for contributions to periodicals, see Section 1115. 
 
-See generally Registration of Claims to Copyright: Group Registration of DailyNewspapers, 57 Fed. Reg. 39,615 (Sept. 1, 1992); see also H.R. REP. NO. 94-1476, at 154 (1976), reprinted in 1976 U.S.C.C.A.N. 5659, 5770 (citing “the various editions or issuesof a daily newspaper” as an example of a group of related works that might qualify forgroup registration). 
+See generally Registration of Claims to Copyright: Group Registration of DailyNewspapers, 57 Fed. Reg. 39,615 (Sept. 1, 1992); see also H.R. REP. NO. 94-1476, at 154 (1976), reprinted in 1976 U.S.C.C.A.N. 5659, 5770 (citing “the various editions or issues of a daily newspaper” as an example of a group of related works that might qualify for group registration). 
 
 
 ## 1110.1 What Is a Daily Newspaper? 
 
-For purposes of this group registration option, a daily newspaper is defined as a serialthat has been selected by the Newspaper Section of the Serials and GovernmentPublications Division for the collections of the Library of Congress. The papers that havebeen selected by the Library are listed in a policy document titled “NewspapersReceived Currently in the Library of Congress.” Generally speaking, the newspapers onthis list (i) are mainly designed to be a primary source of written information on currentevents, either local, national, or international in scope, (ii) contain a broad range of newson all subjects and activities and are not limited to any particular subject matter, and
+For purposes of this group registration option, a daily newspaper is defined as a serial that has been selected by the Newspaper Section of the Serials and GovernmentPublications Division for the collections of the Library of Congress. The papers that have been selected by the Library are listed in a policy document titled “NewspapersReceived Currently in the Library of Congress.” Generally speaking, the newspapers on this list (i) are mainly designed to be a primary source of written information on current events, either local, national, or international in scope, (ii) contain a broad range of news on all subjects and activities and are not limited to any particular subject matter, and
 
 (iii) are intended for either the general public or a particular ethnic, cultural, or national group. See 37 C.F.R. § 202.3(b)(7)(ii). For a definition of the term serial, see Section 1109.1. 
 
 
 1110.2 Eligibility Requirements 
 
-A group of daily newspapers may be registered with the U.S. Copyright Office, providedthat the following conditions have been met: 
+A group of daily newspapers may be registered with the U.S. Copyright Office, provided that the following conditions have been met: 
 
 - Each issue in the group must be a daily newspaper as defined in Section 1110.1.
 
@@ -1000,9 +1000,9 @@ A group of daily newspapers may be registered with the U.S. Copyright Office, pr
 See 37 C.F.R. § 202.3(b)(7)(i). 
 
 
-Newspapers that do not satisfy these requirements cannot be registered using thisgroup registration option. 
+Newspapers that do not satisfy these requirements cannot be registered using this group registration option. 
 
-If the applicant is unable to register a particular issue using the group registrationoption for daily newspapers, the applicant may submit a separate application for thatissue using the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of a serialpublication, see Chapter 700, Section 712. 
+If the applicant is unable to register a particular issue using the group registration option for daily newspapers, the applicant may submit a separate application for that issue using the online application or a paper application submitted on Form SE. For information concerning the procedures for registering a single issue of a serial publication, see Chapter 700, Section 712. 
 
 
 ## 1110.3 Application Requirements 
@@ -1029,11 +1029,11 @@ This Section discusses the deposit requirements for registering a group of daily
 
 1110.5(A) Newspapers Subject to the Microfilm Deposit Requirement 
 
-The deposit requirement for this group registration option varies depending on whetherthe Library of Congress has selected the newspaper for its collections. 
+The deposit requirement for this group registration option varies depending on whether the Library of Congress has selected the newspaper for its collections. 
 
-If the newspaper has been selected by the Library, the applicant must submit one complete copy of the final edition of each issue that was published in the month specified in the application on 35mm silver halide microfilm containing a positive printof each issue (i.e., black text printed on a white background). See 37 C.F.R. § 202.3(b)(7)(i)(D); see also 37 C.F.R. pt. 202, app. B, ¶ X.A.1. 
+If the newspaper has been selected by the Library, the applicant must submit one complete copy of the final edition of each issue that was published in the month specified in the application on 35mm silver halide microfilm containing a positive print of each issue (i.e., black text printed on a white background). See 37 C.F.R. § 202.3(b)(7)(i)(D); see also 37 C.F.R. pt. 202, app. B, ¶ X.A.1. 
 
-If two or more daily editions were published on a particular day, the applicant maysubmit the final edition together with the earlier editions, provided that the earliereditions and the final edition were published within the same metropolitan area. 37 C.F.R. § 202.3(b)(7)(i)(D). Applicants may not combine national or regionaleditions that were published outside a given metropolitan area. Instead, each national orregional edition should be registered as a separate group. See id. 
+If two or more daily editions were published on a particular day, the applicant may submit the final edition together with the earlier editions, provided that the earlier editions and the final edition were published within the same metropolitan area. 37 C.F.R. § 202.3(b)(7)(i)(D). Applicants may not combine national or regional editions that were published outside a given metropolitan area. Instead, each national or regional edition should be registered as a separate group. See id. 
 
 Examples: 
 
@@ -1045,23 +1045,23 @@ Examples:
 
 
 
-Submitting a microfilm deposit is a requirement for this group registration option if thetitle has been selected by the Library, and it will relieve the publisher of any mandatorydeposit requirements set forth in Section 407 of the Copyright Act for the issues submitted on microfilm. 
+Submitting a microfilm deposit is a requirement for this group registration option if the title has been selected by the Library, and it will relieve the publisher of any mandatory deposit requirements set forth in Section 407 of the Copyright Act for the issues submitted on microfilm. 
 
-Microfilm may be delivered to U.S. Copyright Office by mail, by courier, or by handdelivery to the Public Information Office. Packages that are delivered to the Office bymail or by courier will be irradiated to destroy possible contaminants, such as anthrax.This process may damage microfilm. To avoid this result, applicants are stronglyencouraged to send microfilm in boxes rather than envelopes. Additional informationconcerning the recommended procedure for delivering deposits to the Office by mail orby courier is posted on the Office’s website (www.copyright.gov/mail.html). 
+Microfilm may be delivered to U.S. Copyright Office by mail, by courier, or by hand delivery to the Public Information Office. Packages that are delivered to the Office by mail or by courier will be irradiated to destroy possible contaminants, such as anthrax.This process may damage microfilm. To avoid this result, applicants are strongly encouraged to send microfilm in boxes rather than envelopes. Additional information concerning the recommended procedure for delivering deposits to the Office by mail orby courier is posted on the Office’s website (www.copyright.gov/mail.html). 
 
 
 1110.5(B) Newspapers That Are Not Subject to the Microfilm Deposit Requirement 
 
 Providing microfilm is a requirement for registering a group of daily newspapers if theLibrary of Congress has selected the paper for its collections. 
 
-A few years after the U.S. Copyright Office created this group registration option, anumber of applicants began to submit newspapers that had not been selected by theLibrary. These applicants went through the time and expense of submitting archival-quality microfilm deposits, even though their works did not appear on the list of“Newspapers Received Currently in the Library of Congress.” 
+A few years after the U.S. Copyright Office created this group registration option, a number of applicants began to submit newspapers that had not been selected by theLibrary. These applicants went through the time and expense of submitting archival-quality microfilm deposits, even though their works did not appear on the list of“Newspapers Received Currently in the Library of Congress.” 
 
-The Office has adopted an interim practice that allows groups of newspapers that havenot been selected by the Library to be registered without a 35mm silver halidemicrofilm deposit. Specifically, the interim practice allows an applicant to submit (i)complete print copies of the first and last issues of the month specified in theapplication, or (ii) print copies of the first section of the first and last issues of themonth, or (iii) print copies of the first page of the first and last issues of the month. 
+The Office has adopted an interim practice that allows groups of newspapers that have not been selected by the Library to be registered without a 35mm silver halide microfilm deposit. Specifically, the interim practice allows an applicant to submit (i)complete print copies of the first and last issues of the month specified in the application, or (ii) print copies of the first section of the first and last issues of the month, or (iii) print copies of the first page of the first and last issues of the month. 
 
 
 ## 1110.6 The Timeliness Requirement 
 
-As discussed in Section 1110.2, the U.S. Copyright Office must receive a completedapplication, the correct filing fee, and the correct deposit copies within three months after the date of publication for the last issue that is included in the group. See 37 C.F.R. § 202.3(b)(7)(i)(F). For example, if the last issue was published on November 30, 2013, and if the Library of Congress has selected the newspaper for its collections, the Officemust receive the following items by February 28, 2014: 
+As discussed in Section 1110.2, the U.S. Copyright Office must receive a completed application, the correct filing fee, and the correct deposit copies within three months after the date of publication for the last issue that is included in the group. See 37 C.F.R. § 202.3(b)(7)(i)(F). For example, if the last issue was published on November 30, 2013, and if the Library of Congress has selected the newspaper for its collections, the Officemust receive the following items by February 28, 2014: 
 
 - A completed application on Form G/DN.
 
@@ -1201,7 +1201,7 @@ As discussed in Sections 1110.2 and 1111.2, all the issues in the group must be 
 
 In space 2 of the application, the applicant should provide the full legal name andaddress for the author/claimant. In addition, the applicant should check one or more of the boxes in space 2 that accurately describe the material that the author created. Theoptions include text, editing, and compilation. For a definition and discussion of these terms, see Chapter 600, Section 618.4(C). 
 
-As a general rule, the U.S. Copyright Office may accept a claim in text or editing if theauthor contributed a sufficient amount of written expression to each issue. The Office may accept a claim in compilation if there is a sufficient amount of creative expression inthe selection, coordination, and/or arrangement of material that appears in each issue.If these terms do not fully describe the copyrightable authorship that the applicantintends to register, the applicant should provide a more specific description in the spacemarked Other. 
+As a general rule, the U.S. Copyright Office may accept a claim in text or editing if theauthor contributed a sufficient amount of written expression to each issue. The Office may accept a claim in compilation if there is a sufficient amount of creative expression in the selection, coordination, and/or arrangement of material that appears in each issue.If these terms do not fully describe the copyrightable authorship that the applicantintends to register, the applicant should provide a more specific description in the spacemarked Other. 
 
 The applicant may register the articles, photographs, illustrations, or othercontributions that appear in the newspaper or newsletter, provided that they werecreated by the author/claimant for the issue as a whole. As a general rule, applicantsshould use the terms text, photographs, or artwork to describe this type of authorship. 
 
@@ -1753,7 +1753,7 @@ The legislative history for the Copyright Act states that “computer data bases
 
 Each form of authorship may be registered using the group registration option fordatabases, provided that the work contains a sufficient amount of original expressionand provided that the claimant owns the copyright in that material. 
 
-A group of updates or revisions should be submitted for group registration only if theupdates or revisions meet the statutory standard for an original work of authorship. Ifthey do not “satisfy the original work of authorship standard for copyright protection,then no new registration is necessary or warranted.” Registration of Claims toCopyright, Registration and Deposit of Databases, 54 Fed. Reg. 13,177, 13,179 (Mar. 31,1989). “Where the Office determines that only a few minor revisions have been made inthe representative deposit, registration will be subject to question, and absent morejustification, will be denied.” Id. 
+A group of updates or revisions should be submitted for group registration only if theupdates or revisions meet the statutory standard for an original work of authorship. Ifthey do not “satisfy the original work of authorship standard for copyright protection,then no new registration is necessary or warranted.” Registration of Claims toCopyright, Registration and Deposit of Databases, 54 Fed. Reg. 13,177, 13,179 (Mar. 31,1989). “Where the Office determines that only a few minor revisions have been made in the representative deposit, registration will be subject to question, and absent morejustification, will be denied.” Id. 
 
 
 ## 1117.3 Eligibility Requirements 
@@ -2095,9 +2095,8 @@ For information concerning the specific requirements for these group registratio
 | Work made for hire | Each issue must be a work made for hire | Each issue must be a work made for hire | Each issue must be a work made for hire 
 | Claim to copyright | The claim to copyright must be limited to the authorship involved in creating the serial as a whole | The claim to copyright may include the authorship involved in creating the newspaper as a whole and/or the authorship involved in creating the contributions to the newspaper | The claim to copyright may include the authorship involved in creating the newsletter as a whole and/or the authorship involved in creating the contributions to the newsletter 
 | Application requirements | The applicant may use the online application or a paper application submitted on Form SE/Group | The applicant must  submit a paper  application using FormG/DN | The applicant must submit a paper application using Form G/DN 
-| Examination copies  | The applicant must submit one complete copy of each issue in the group | The applicant may submit one complete copy of each issue in the group, or copies of the first and last issues, or copies of the first section from the first and last issues, or copies of the first page from the first and last issues | The applicant must submit one complete copy of each issue in the group 
-
-Complimentary subscriptions | The applicant may be  required to provide complimentary subscriptions to the Library of Congress |  n/a  | The applicant may be  required to provide complimentary subscriptions to the Library of Congress |
+| Examination copies  | The applicant must submit one complete copy of each issue in the group | The applicant may submit one complete copy of each issue in the group, or copies of the first and last issues, or copies of the first section from the first and last issues, or copies of the first page from the first and last issues | The applicant must submit one complete copy of each issue in the group |
+| Complimentary subscriptions | The applicant may be required to provide complimentary subscriptions to the Library of Congress |  n/a  | The applicant may be  required to provide complimentary subscriptions to the Library of Congress |
 | Microfilm | n/a | The applicant may be required to provide microfilm to the Library of Congress | The applicant may be required to provide microfilm to the Library of Congress |
 | Filing deadline | n/a | The application must be submitted within three months after the date of publication for the last issue in the group | The application must be submitted within three months after the date of publication for the last issue in the group 
 
@@ -2109,38 +2108,14 @@ This Section provides an overview of the similarities and differences between th
 For information concerning the specific requirements for the group registration options for published photographs and contributions to periodicals, see Sections 1115 and1116. For information concerning the specific requirements for the option for unpublished works, see Section 1106. 
 
 | Registration Requirements | Group Registration of Published Photographs | Group Registration of Contributions to Periodicals | Unpublished Collections | 
-Type of work Each work must be a photograph The application may include any type of work The application may include any type of work 
-
-Application The applicant may use The applicant must The applicant may use 
-
-requirements the online application ora paper application submitted on Form VA submit a paper application using FormTX, VA, or PA together with Form GR/CP the online application ora paper application 
-
-Number of If the applicant submits No limit on the number No limit on the number 
-
-photographs in Form GR/PPh/CON, the of works that may be of works that may be 
-
-the application applicant may include up to 750 photographs in the group. If the applicant does not use this form,there is no limit on the number of photographs that may be included. included in the application included in the application 
-
-Author All the photographs must be taken by the same photographer All the works must be created by the sameauthor All the elements in the collection must be created by the same author, or if the elements were created by multiple authors, one author must contribute copyrightable authorship to each element 
-
-Claimant The claimant for all the photographs must be the same person or organization The claimant for all the works must be the same person or organization The claimant for all the elements in the collection must be the same person or organization 
-
-Work made for hire The photographs may be created as a work made for hire The works cannot be created as a work made for hire The works may be created as a work made for hire 
-
-Publication All the photographs must be published All the works must be published All the works must be unpublished 
-
-
-
-Publication within All the photographs must 
-
-All the works must be n/a 
-
-a twelve-month be published within the published within a period same calendar year (e.g., January throughDecember 2011; February through June2012; September through October 2013,etc.) twelve-month period(e.g., January 1, 2010through December 31,2010; February 1, 2011through January 31, 2012;September 15, 2013through September 14,2014, etc.) 
-
- 
-
-Medium of The photographs may be All the works must be n/a 
-
-publication first published in any medium first published as a contribution to a periodical 
-
-Copyright notice If the photographs were published before March1, 1989, each photograph must bear an appropriate copyright notice If the works were published before March1, 1989, each work must bear an appropriate copyright notice n/a 
+Type of work Each work must be a photograph The application may include any type of work The application may include any type of work |
+| - | - | - | - |
+Application requirements | The applicant may use the online application or a paper application submitted on Form VA | The applicant must submit a paper application using Form TX, VA, or PA together with Form GR/CP | The applicant may use the online application or a paper application |
+| Number of photographs the application | If the applicant submits  in Form GR/PPh/CON, the applicant may include up to 750 photographs in the group. If the applicant does not use this form, there is no limit on the number of photographs that may be included. | No limit on the number of works that may be included in the application | No limit on the number of works that may be included in the application |
+| Author | All the photographs must be taken by the same photographer | All the works must be created by the same author | All the elements in the collection must be created by the same author, or if the elements were created by multiple authors, one author must contribute copyrightable authorship to each element |
+| Claimant | The claimant for all the photographs must be the same person or organization | The claimant for all the works must be the same person or organization | The claimant for all the elements in the collection must be the same person or organization  |
+| Work made for hire | The photographs may be created as a work made for hire | The works cannot be created as a work made for hire | The works may be created as a work made for hire |
+| Publication | All the photographs must be published | All the works must be published | All the works must be unpublished |
+| Publication within a twelve-month period | All the photographs must be published within the same calendar year (e.g., January throughDecember 2011; February through June2012; September through October 2013,etc.) | All the works must be published within a  twelve-month period (e.g., January 1, 2010through December 31,2010; February 1, 2011through January 31, 2012;September 15, 2013through September 14,2014, etc.) | n/a |
+| Medium of publication | The photographs may be  first published in any medium | All the works must be  first published as a contribution to a periodical | n/a 
+| Copyright notice  | If the photographs were published before March1, 1989, each photograph must bear an appropriate copyright notice | If the works were published before March 1, 1989, each work must bear an appropriate copyright notice | n/a  |
