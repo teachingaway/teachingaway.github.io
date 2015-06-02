@@ -63,23 +63,23 @@ bing_verify:
 
 # Links to include in top navigation
 # For external links add external: true
-links:
-  - title: Blog
-    url: /articles/
-  - title: Attorneys
-    url: /attorneys/
+#links:
+#  - title: Blog
+#    url: /articles/
+#  - title: Attorneys
+#    url: /attorneys/
 
 
 # Links to include in footer navigation
-footerlinks:
-  - title: Business law
-    url: /business-law/
-  - title: Patents
-    url: /patent-services/
-  - title: Trademarks
-    url: /trademark-services/
-  - title: Litigation
-    url: /litigation/
+#footerlinks:
+#  - title: Business law
+#    url: /business-law/
+#  - title: Patents
+#    url: /patent-services/
+#  - title: Trademarks
+#    url: /trademark-services/
+#  - title: Litigation
+#    url: /litigation/
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone:    America/New_York
