@@ -71,7 +71,9 @@ bing_verify:
 
 
 # Links to include in footer navigation
-#footerlinks:
+footerlinks:
+   - title: Goodbye!
+     url: # 
 #  - title: Business law
 #    url: /business-law/
 #  - title: Patents
