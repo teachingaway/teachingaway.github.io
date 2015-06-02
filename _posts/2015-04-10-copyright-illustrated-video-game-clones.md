@@ -121,6 +121,9 @@ Games that are similar, but not identical, to an original may still be infringin
 
 <img src="/images/copyright/asteroids-v-meteors.jpg" class="medium-image">
 
+Note - this image^ is probably for the wrong "meteors" game. I'm looking for a more correct replacement. See this [video](https://www.youtube.com/watch?v=jotEgcEY6-w) and this [article](http://allincolorforaquarter.blogspot.com/2012/12/meteors.html) for more info. 
+Hat tip to [Herman Hermitage](https://twitter.com/HermanHermitage) for pointing this out. 
+
 <p class="big-text"><em>"The probability of successfully navigating an asteroid field is approximately 3,720 to 1."</em> -- C3PO</p>
 
 In this case, Atari made the original Asteroids game and Amusement World made a knockoff called Meteors. Atari was not amused and it sued for copyright infringement. 
