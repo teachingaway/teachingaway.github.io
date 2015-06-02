@@ -12,11 +12,11 @@ image:
 ---
 
 
-<p class='big-text'>To our client's and community: it's been a pleasure working with you over the years. Our partners are now moving on to new challenges. </p>
+<p class='big-text'>To our clients and community: it's been a pleasure working with you over the years. Our partners are now moving on to new challenges. </p>
 
-Zeke Vermillion is continuing our corporate practice in NY through [Vermillion P.C. ](http://vermillionpc.com). 
+Zeke Vermillion is continuing our corporate practice in NY through [Vermillion P.C.](http://vermillionpc.com)
 
-Eric is moving his startup and IP practice in Seattle at [Miller Egan](http://www.milleregan.com/)
+Eric is moving his startup and IP practice in Seattle at [Miller Egan](http://www.milleregan.com/).
 
 - - - 
 
