@@ -20,6 +20,7 @@ Adler Vermillion is a New York City law firm steeped in digital technology. We p
 
 <a href="/clients"><strong>Trusted by clients across industries:</strong></a>
 
+<!-- 
 <figure class="third">
 	<a href='http://www.simple.com'><img src="/images/clients/simple-logo.png"></a>
 	<a href='http://redantler.com'><img src="/images/clients/red-antler-logo.png"></a>
@@ -30,6 +31,8 @@ Adler Vermillion is a New York City law firm steeped in digital technology. We p
 	<a href='http://www.finalfrontierdesign.com/'><img src="/images/clients/final-frontier-logo.png"></a>
 	
 </figure>
+ -->
+<!-- 
 
 - - - 
 
@@ -62,3 +65,4 @@ Adler Vermillion is a New York City law firm steeped in digital technology. We p
 <p><a href="/articles">more</a></p>
 
 - - - 
+ -->
