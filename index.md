@@ -15,7 +15,7 @@ image:
 
 Zeke Vermillion is continuing our corporate practice in NY through [Vermillion P.C.](http://vermillionpc.com)
 
-Eric is moving his startup and IP practice to Seattle, and working at [Miller Egan Molter & Nelson LLP](http://www.milleregan.com/).
+Eric Adler is moving his startup and IP practice to Seattle, and working at [Miller Egan Molter & Nelson LLP](http://www.milleregan.com/).
 
 - - - 
 
