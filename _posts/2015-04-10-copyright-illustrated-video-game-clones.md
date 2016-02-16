@@ -13,7 +13,8 @@ image:
 comments: true
 share: true
 redirect_to:
-  - http://pnwstartuplawyer.com/copyright/software/copyright-illustrated-video-game-clones/
+  - http://pnwstartuplawyer.com/copyright/software/copyright-illustrated-video-game-clones.html
+
 ---
 
 **This is a DRAFT article. Any comments would be great -  [@teachingaway](http://www.twitter.com/teachingaway).**
