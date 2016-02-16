@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/startup-cofounder-agreements-and-incorporation-link-list/
 ---
 
 <p class="big-text">This post collects useful reading on pre-incorporation cofounder agreements and selecting a corporate entity. This can be a simple process. Don't overlawyer it.</p>

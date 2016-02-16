@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/exits-acquisition-ipo/
 ---
 
 <p class="big-text">This is our curated collection of posts about exits and IPOs  for technology startups. Check out our <a href="/tags/#link+list">Link List</a> series for other startup topics.</p>

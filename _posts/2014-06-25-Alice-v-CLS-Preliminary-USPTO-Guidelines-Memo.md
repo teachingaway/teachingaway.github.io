@@ -10,6 +10,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/Alice-v-CLS-Preliminary-USPTO-Guidelines-Memo/
 ---
 
 The US Patent and Trademark Office issued [preliminary guidance for patent examiners](http://www.uspto.gov/patents/announce/alice_pec_25jun2014.pdf) in light of the Supreme Court's recent decision in _Alice v. CLS Bank_. The June 25, 2014 memo is copies in full below. 

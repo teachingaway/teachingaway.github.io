@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/fair-use-illustrated-appropriation-art/
 ---
 
 

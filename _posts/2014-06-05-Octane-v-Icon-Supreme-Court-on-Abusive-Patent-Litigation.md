@@ -11,6 +11,8 @@ image:
   creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/Octane-v-Icon-Supreme-Court-on-Abusive-Patent-Litigation/
 ---
 
 

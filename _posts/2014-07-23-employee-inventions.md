@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/employee-inventions/
 ---
 
 <p class="big-text">When can an employee spin up a side project without messy legal entanglements? When does a company own its employee's code?</p> 

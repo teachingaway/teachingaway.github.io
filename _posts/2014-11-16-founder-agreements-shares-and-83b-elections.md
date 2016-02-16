@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/founder-agreements-shares-and-83b-elections/
 ---
 
 <p class="big-text">Our technology law <a href="/tags/#link+list">Link List</a> series collects useful startup guidance from around the internet. This post discusses cofounder agreements, initial equity splits, issuing shares, and making an 83(b) tax election. </p>

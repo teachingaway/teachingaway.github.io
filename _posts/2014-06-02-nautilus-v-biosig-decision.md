@@ -11,6 +11,8 @@ image:
   creditlink: http://en.wikipedia.org/wiki/User:UpstateNYer
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/articles/nautilus-v-biosig-decision/
 ---
 
 <p class="big-text">In <em>Nautilus v. Biosig</em>, the Supreme Court raised the minimum level of clarity and precision required in patent language.</p>

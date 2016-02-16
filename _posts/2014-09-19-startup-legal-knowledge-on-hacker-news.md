@@ -12,6 +12,8 @@ image:
   creditlink:
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/startup-legal-knowledge-on-hacker-news/
 ---
 
 In response to my post on [hiring a startup lawyer](http://adlervermillion.com/tech-law-link-list-hiring-lawyers/), Hacker News commenter Jacquesm [plugged](https://news.ycombinator.com/item?id=8327893) startup lawyer [George Grellas](http://grellas.com/):  

@@ -10,6 +10,8 @@ image:
   creditlink: http://www.flickr.com/photos/fischerfotos/7432008582
 comments: 
 share: 
+redirect_to:
+  - http://pnwstartuplawyer.com/patent-office-guidance-on-patentable-subject-matter/
 ---
 
 

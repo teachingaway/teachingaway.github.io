@@ -10,6 +10,8 @@ image:
   creditlink: https://octodex.github.com/
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/jekyll-blog-like-a-hacker/
 ---
 
 

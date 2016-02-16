@@ -10,6 +10,8 @@ image:
   creditlink: 
 comments: true
 share: true
+redirect_to:
+  - http://pnwstartuplawyer.com/startup-shuts-down-a-patent-troll/
 ---
 
 **Update**: Judge Orders Patent Troll to [Pay $300,000 Compensation to Find The Best](#epilogue-patent-troll-ordered-to-pay-300000-compensation-to-find-the-best-10232014) (10/23/2014). 
